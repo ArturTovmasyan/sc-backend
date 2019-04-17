@@ -1,0 +1,72 @@
+<VirtualHost *:80>
+    ServerName  {{ domain }}
+    ServerAdmin webmaster@{{ domain }}
+
+    DocumentRoot {{ dir_name.root }}/dist
+    <Directory "{{ dir_name.root }}/dist">
+        Require all granted
+
+        RewriteEngine On
+        # If an existing asset or directory is requested go to it as it is
+        RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
+        RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
+        RewriteRule ^ - [L]
+        # If the requested resource doesn't exist, use index.html
+        RewriteRule ^ /index.html
+    </Directory>
+
+    Alias "/backend" "{{ dir_name.root }}/public"
+    <Directory "{{ dir_name.root }}/public">
+        Require all granted
+
+        #Options FollowSymLinks MultiViews
+        AllowOverride All
+
+        {% for key,value in env %}
+        SetEnv {{ key }} "{{ value }}"
+        {% endfor %}
+    </Directory>
+
+    <IfModule mod_ssl.c>
+        RewriteEngine on
+        RewriteCond %{SERVER_NAME} ={{ domain }}
+        RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
+    </IfModule>
+</VirtualHost>
+
+<IfModule mod_ssl.c>
+    <VirtualHost *:443>
+        ServerName  {{ domain }}
+        ServerAdmin webmaster@localhost
+
+        DocumentRoot {{ dir_name.root }}/dist
+        <Directory "{{ dir_name.root }}/dist">
+            Require all granted
+
+            RewriteEngine On
+            # If an existing asset or directory is requested go to it as it is
+            RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
+            RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
+            RewriteRule ^ - [L]
+            # If the requested resource doesn't exist, use index.html
+            RewriteRule ^ /index.html
+        </Directory>
+
+        Alias "/backend" "{{ dir_name.root }}/public"
+        <Directory "{{ dir_name.root }}/public">
+            Require all granted
+
+            #Options FollowSymLinks MultiViews
+            AllowOverride All
+
+            {% for key,value in env %}
+            SetEnv {{ key }} "{{ value }}"
+            {% endfor %}
+        </Directory>
+
+        SSLEngine on
+        SSLCertificateFile      /etc/apache2/ssl/a6d6cf83425d7759.crt
+        SSLCertificateKeyFile   /etc/apache2/ssl/private/seniorcaresw-com.key
+        SSLCertificateChainFile /etc/apache2/ssl/sf_bundle-g2-g1.crt
+    </VirtualHost>
+</IfModule>
