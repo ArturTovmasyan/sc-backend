@@ -141,6 +141,10 @@ class Customer
 
     /**
      * @var string
+     * @Assert\NotBlank(groups={
+     *     "api_customer_add",
+     *     "api_customer_edit"
+     * })
      * @Assert\Regex(
      *     pattern="/^\([0-9]{3}\)\s?[0-9]{3}-[0-9]{4}$/",
      *     message="Invalid phone number format. Valid format is (XXX) XXX-XXXX.",
@@ -148,7 +152,7 @@ class Customer
      *          "api_customer_add",
      *          "api_customer_edit"
      * })
-     * @ORM\Column(name="phone", type="string", length=20, nullable=true)
+     * @ORM\Column(name="phone", type="string", length=20)
      * @Groups({
      *     "api_customer_list",
      *     "api_customer_get"

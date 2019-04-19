@@ -19,6 +19,8 @@ class ResponseCode
     const USER_NOT_FOUND_EXCEPTION               = 609;
     const VALIDATION_ERROR_EXCEPTION             = 610;
     const GRID_OPTIONS_NOT_FOUND_EXCEPTION       = 611;
+    const CUSTOMER_NOT_FOUND_EXCEPTION           = 612;
+    const JOB_NOT_FOUND_EXCEPTION                = 613;
 
     /**
      * @var array
@@ -33,5 +35,7 @@ class ResponseCode
         self::USER_NOT_FOUND_EXCEPTION                    => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'User not found.'],
         self::VALIDATION_ERROR_EXCEPTION                  => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Validation error.'],
         self::GRID_OPTIONS_NOT_FOUND_EXCEPTION            => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Grid options not found.'],
+        self::CUSTOMER_NOT_FOUND_EXCEPTION                => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Customer not found.'],
+        self::JOB_NOT_FOUND_EXCEPTION                     => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Job not found.'],
     ];
 }
