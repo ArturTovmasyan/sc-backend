@@ -3,6 +3,7 @@
 namespace App\Entity;
 
 use App\Model\Persistence\Entity\TimeAwareTrait;
+use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 use Symfony\Bridge\Doctrine\Validator\Constraints\UniqueEntity;
@@ -70,6 +71,8 @@ class Customer
      * @Groups({
      *      "api_customer_list",
      *      "api_customer_get",
+     *      "api_job_list",
+     *      "api_job_get",
      * })
      */
     private $id;
@@ -94,7 +97,6 @@ class Customer
      * })
      */
     private $domain;
-
 
     /**
      * @var string
@@ -189,6 +191,8 @@ class Customer
      * @Groups({
      *     "api_customer_list",
      *     "api_customer_get"
+     *     "api_job_list",
+     *     "api_job_get",
      * })
      */
     private $email;
@@ -213,6 +217,12 @@ class Customer
      * })
      */
     private $organization;
+
+    /**
+     * @var ArrayCollection
+     * @ORM\OneToMany(targetEntity="App\Entity\Job", mappedBy="customer", cascade={"remove", "persist"})
+     */
+    private $jobs;
 
     /**
      * @return int
@@ -340,5 +350,21 @@ class Customer
     public function setOrganization($organization)
     {
         $this->organization = $organization;
+    }
+
+    /**
+     * @return ArrayCollection
+     */
+    public function getJobs()
+    {
+        return $this->jobs;
+    }
+
+    /**
+     * @param ArrayCollection $jobs
+     */
+    public function setJobs($jobs)
+    {
+        $this->jobs = $jobs;
     }
 }
