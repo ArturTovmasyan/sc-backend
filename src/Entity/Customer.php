@@ -125,6 +125,7 @@ class Customer
      * @Assert\NotBlank(groups={
      *     "api_customer_add",
      *     "api_customer_edit"
+     * })
      * @Assert\Length(
      *      max = 40,
      *      maxMessage = "LastName cannot be longer than {{ limit }} characters",
@@ -194,9 +195,9 @@ class Customer
      * })
      * @Groups({
      *     "api_customer_list",
-     *     "api_customer_get"
+     *     "api_customer_get",
      *     "api_job_list",
-     *     "api_job_get",
+     *     "api_job_get"
      * })
      */
     private $email;
