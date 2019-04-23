@@ -44,8 +44,9 @@ use App\Annotation\Grid;
  *          {
  *              "id"         = "customer",
  *              "type"       = "string",
- *              "field"      = "c.email"
- *          }
+ *              "field"      = "CONCAT(COALESCE(c.firstName, ''), ' ', COALESCE(c.lastName, ''))",
+ *              "link"       = ":edit"
+ *          },
  *     }
  * )
  */

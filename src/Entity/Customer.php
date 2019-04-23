@@ -115,6 +115,8 @@ class Customer
      * @Groups({
      *      "api_customer_list",
      *      "api_customer_get",
+     *      "api_job_list",
+     *      "api_job_get",
      * })
      */
     private $firstName;
@@ -136,6 +138,8 @@ class Customer
      * @Groups({
      *      "api_customer_list",
      *      "api_customer_get",
+     *      "api_job_list",
+     *      "api_job_get",
      * })
      */
     private $lastName;
