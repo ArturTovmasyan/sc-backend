@@ -26,7 +26,7 @@ class JobStatus
         'Not Started' => '1',
         'Started' => '2',
         'Success' => '3',
-        'Error' => '3',
+        'Error' => '4',
     ];
 
     /**

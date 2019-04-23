@@ -87,8 +87,8 @@ class Job
      * @Assert\Choice(
      *     callback={"App\Model\JobType","getTypeValues"},
      *     groups={
-     *          "api_admin_job_add",
-     *          "api_admin_job_edit"
+     *          "api_job_add",
+     *          "api_job_edit"
      *     }
      * )
      * @Groups({
@@ -104,8 +104,8 @@ class Job
      * @Assert\Choice(
      *     callback={"App\Model\JobStatus","getTypeValues"},
      *     groups={
-     *          "api_admin_job_add",
-     *          "api_admin_job_edit"
+     *          "api_job_add",
+     *          "api_job_edit"
      *     }
      * )
      * @Groups({
