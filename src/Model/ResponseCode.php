@@ -21,6 +21,7 @@ class ResponseCode
     const GRID_OPTIONS_NOT_FOUND_EXCEPTION       = 611;
     const CUSTOMER_NOT_FOUND_EXCEPTION           = 612;
     const JOB_NOT_FOUND_EXCEPTION                = 613;
+    const VHOST_NOT_FOUND_EXCEPTION              = 614;
 
     /**
      * @var array
@@ -37,5 +38,6 @@ class ResponseCode
         self::GRID_OPTIONS_NOT_FOUND_EXCEPTION            => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Grid options not found.'],
         self::CUSTOMER_NOT_FOUND_EXCEPTION                => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Customer not found.'],
         self::JOB_NOT_FOUND_EXCEPTION                     => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Job not found.'],
+        self::VHOST_NOT_FOUND_EXCEPTION                   => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Vhost not found.'],
     ];
 }
