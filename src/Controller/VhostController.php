@@ -99,11 +99,16 @@ class VhostController extends BaseController
     {
         $id = $vhostService->add(
             [
+                'name' => $request->get('name'),
+                'www_root' => $request->get('www_root'),
+                'db_host' => $request->get('db_host'),
                 'db_name' => $request->get('db_name'),
                 'db_user' => $request->get('db_user'),
                 'db_password' => $request->get('db_password'),
-                'email' => $request->get('email'),
-                'path' => $request->get('path'),
+                'mailer_host' => $request->get('mailer_host'),
+                'mailer_proto' => $request->get('mailer_proto'),
+                'mailer_user' => $request->get('mailer_user'),
+                'mailer_password' => $request->get('mailer_password'),
             ]
         );
 
@@ -129,11 +134,16 @@ class VhostController extends BaseController
         $vhostService->edit(
             $id,
             [
+                'name' => $request->get('name'),
+                'www_root' => $request->get('www_root'),
+                'db_host' => $request->get('db_host'),
                 'db_name' => $request->get('db_name'),
                 'db_user' => $request->get('db_user'),
                 'db_password' => $request->get('db_password'),
-                'email' => $request->get('email'),
-                'path' => $request->get('path'),
+                'mailer_host' => $request->get('mailer_host'),
+                'mailer_proto' => $request->get('mailer_proto'),
+                'mailer_user' => $request->get('mailer_user'),
+                'mailer_password' => $request->get('mailer_password'),
             ]
         );
 

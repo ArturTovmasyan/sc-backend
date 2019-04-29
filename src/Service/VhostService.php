@@ -62,11 +62,16 @@ class VhostService extends BaseService implements IGridService
             $this->em->getConnection()->beginTransaction();
 
             $entity = new Vhost();
-            $entity->setName($params['db_name']);
-            $entity->setUser($params['db_user']);
-            $entity->setPassword($params['db_password']);
-            $entity->setEmail($params['email']);
-            $entity->setPath($params['path']);
+            $entity->setName($params['name']);
+            $entity->setWwwRoot($params['www_root']);
+            $entity->setDbHost($params['db_host']);
+            $entity->setDbName($params['db_name']);
+            $entity->setDbUser($params['db_user']);
+            $entity->setDbPassword($params['db_password']);
+            $entity->setMailerHost($params['mailer_host']);
+            $entity->setMailerProto($params['mailer_proto']);
+            $entity->setMailerUser($params['mailer_user']);
+            $entity->setMailerPassword($params['mailer_password']);
 
             $this->validate($entity, null, ['api_vhost_add']);
 
@@ -105,11 +110,16 @@ class VhostService extends BaseService implements IGridService
                 throw new VhostNotFoundException();
             }
 
-            $entity->setName($params['db_name']);
-            $entity->setUser($params['db_user']);
-            $entity->setPassword($params['db_password']);
-            $entity->setEmail($params['email']);
-            $entity->setPath($params['path']);
+            $entity->setName($params['name']);
+            $entity->setWwwRoot($params['www_root']);
+            $entity->setDbHost($params['db_host']);
+            $entity->setDbName($params['db_name']);
+            $entity->setDbUser($params['db_user']);
+            $entity->setDbPassword($params['db_password']);
+            $entity->setMailerHost($params['mailer_host']);
+            $entity->setMailerProto($params['mailer_proto']);
+            $entity->setMailerUser($params['mailer_user']);
+            $entity->setMailerPassword($params['mailer_password']);
 
             $this->validate($entity, null, ['api_vhost_edit']);
 

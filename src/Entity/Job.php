@@ -47,6 +47,11 @@ use App\Annotation\Grid;
  *              "field"      = "CONCAT(COALESCE(c.firstName, ''), ' ', COALESCE(c.lastName, ''))",
  *              "link"       = ":edit"
  *          },
+ *          {
+ *              "id"         = "log",
+ *              "type"       = "string",
+ *              "field"      = "j.log"
+ *          }
  *     }
  * )
  */

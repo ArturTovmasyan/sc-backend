@@ -5,17 +5,12 @@ namespace App\Entity;
 use App\Model\Persistence\Entity\TimeAwareTrait;
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
-use Symfony\Bridge\Doctrine\Validator\Constraints\UniqueEntity;
 use JMS\Serializer\Annotation\Groups;
 use App\Annotation\Grid;
 
 /**
  * @ORM\Table(name="tbl_vhost")
  * @ORM\Entity(repositoryClass="App\Repository\VhostRepository")
- * @UniqueEntity(fields="email", message="This email address was already in use.", groups={
- *     "api_vhost_add",
- *     "api_vhost_edit"
- * })
  * @Grid(
  *     api_vhost_grid={
  *          {
@@ -25,29 +20,54 @@ use App\Annotation\Grid;
  *              "field"      = "v.id"
  *          },
  *          {
- *              "id"         = "db_name",
+ *              "id"         = "name",
  *              "type"       = "string",
  *              "field"      = "v.name"
  *          },
  *          {
+ *              "id"         = "www_root",
+ *              "type"       = "string",
+ *              "field"      = "v.wwwRoot"
+ *          },
+ *          {
+ *              "id"         = "db_host",
+ *              "type"       = "string",
+ *              "field"      = "v.dbHost"
+ *          },
+ *          {
+ *              "id"         = "db_name",
+ *              "type"       = "string",
+ *              "field"      = "v.dbName"
+ *          },
+ *          {
  *              "id"         = "db_user",
  *              "type"       = "string",
- *              "field"      = "v.user"
+ *              "field"      = "v.dbUser"
  *          },
  *          {
  *              "id"         = "db_password",
  *              "type"       = "string",
- *              "field"      = "v.password"
+ *              "field"      = "v.dbPassword"
  *          },
  *          {
- *              "id"         = "email",
+ *              "id"         = "mailer_host",
  *              "type"       = "string",
- *              "field"      = "v.email"
+ *              "field"      = "v.mailerHost"
  *          },
  *          {
- *              "id"         = "path",
+ *              "id"         = "mailer_proto",
  *              "type"       = "string",
- *              "field"      = "v.path"
+ *              "field"      = "v.mailerProto"
+ *          },
+ *          {
+ *              "id"         = "mailer_user",
+ *              "type"       = "string",
+ *              "field"      = "v.mailerUser"
+ *          },
+ *          {
+ *              "id"         = "mailer_password",
+ *              "type"       = "string",
+ *              "field"      = "v.mailerPassword"
  *          }
  *     }
  * )
@@ -70,6 +90,69 @@ class Vhost
 
     /**
      * @var string
+     * @ORM\Column(name="name", type="string", length=255)
+     * @Assert\NotBlank(groups={
+     *     "api_vhost_add",
+     *     "api_vhost_edit"
+     * })
+     * @Assert\Length(
+     *      max = 255,
+     *      maxMessage = "Name cannot be longer than {{ limit }} characters",
+     *      groups={
+     *          "api_vhost_add",
+     *          "api_vhost_edit"
+     * })
+     * @Groups({
+     *      "api_vhost_list",
+     *      "api_vhost_get",
+     * })
+     */
+    private $name;
+
+    /**
+     * @var string
+     * @ORM\Column(name="www_root", type="string", length=255)
+     * @Assert\NotBlank(groups={
+     *     "api_vhost_add",
+     *     "api_vhost_edit"
+     * })
+     * @Assert\Length(
+     *      max = 255,
+     *      maxMessage = "WWW root cannot be longer than {{ limit }} characters",
+     *      groups={
+     *          "api_vhost_add",
+     *          "api_vhost_edit"
+     * })
+     * @Groups({
+     *      "api_vhost_list",
+     *      "api_vhost_get",
+     * })
+     */
+    private $wwwRoot;
+
+    /**
+     * @var string
+     * @ORM\Column(name="db_host", type="string", length=255)
+     * @Assert\NotBlank(groups={
+     *     "api_vhost_add",
+     *     "api_vhost_edit"
+     * })
+     * @Assert\Length(
+     *      max = 255,
+     *      maxMessage = "Database host cannot be longer than {{ limit }} characters",
+     *      groups={
+     *          "api_vhost_add",
+     *          "api_vhost_edit"
+     * })
+     * @Groups({
+     *      "api_vhost_list",
+     *      "api_vhost_get",
+     * })
+     */
+    private $dbHost;
+
+    /**
+     * @var string
      * @ORM\Column(name="db_name", type="string", length=255)
      * @Assert\NotBlank(groups={
      *     "api_vhost_add",
@@ -87,7 +170,7 @@ class Vhost
      *      "api_vhost_get",
      * })
      */
-    private $name;
+    private $dbName;
 
     /**
      * @var string
@@ -108,7 +191,7 @@ class Vhost
      *      "api_vhost_get",
      * })
      */
-    private $user;
+    private $dbUser;
 
     /**
      * @var string
@@ -129,37 +212,18 @@ class Vhost
      *      "api_vhost_get",
      * })
      */
-    private $password;
-
-
-    /**
-     * @var string
-     * @ORM\Column(name="email", type="string", length=255, unique=true)
-     * @Assert\NotBlank(groups={
-     *     "api_vhost_add",
-     *     "api_vhost_edit"
-     * })
-     * @Assert\Email(groups={
-     *     "api_vhost_add",
-     *     "api_vhost_edit"
-     * })
-     * @Groups({
-     *     "api_vhost_list",
-     *     "api_vhost_get"
-     * })
-     */
-    private $email;
+    private $dbPassword;
 
     /**
      * @var string
-     * @ORM\Column(name="path", type="string", length=255)
+     * @ORM\Column(name="mailer_host", type="string", length=255)
      * @Assert\NotBlank(groups={
      *     "api_vhost_add",
      *     "api_vhost_edit"
      * })
      * @Assert\Length(
      *      max = 255,
-     *      maxMessage = "Path cannot be longer than {{ limit }} characters",
+     *      maxMessage = "Mailer host cannot be longer than {{ limit }} characters",
      *      groups={
      *          "api_vhost_add",
      *          "api_vhost_edit"
@@ -169,7 +233,70 @@ class Vhost
      *      "api_vhost_get",
      * })
      */
-    private $path;
+    private $mailerHost;
+
+    /**
+     * @var string
+     * @ORM\Column(name="mailer_proto", type="string", length=255)
+     * @Assert\NotBlank(groups={
+     *     "api_vhost_add",
+     *     "api_vhost_edit"
+     * })
+     * @Assert\Length(
+     *      max = 255,
+     *      maxMessage = "Mailer proto cannot be longer than {{ limit }} characters",
+     *      groups={
+     *          "api_vhost_add",
+     *          "api_vhost_edit"
+     * })
+     * @Groups({
+     *      "api_vhost_list",
+     *      "api_vhost_get",
+     * })
+     */
+    private $mailerProto;
+
+    /**
+     * @var string
+     * @ORM\Column(name="mailer_user", type="string", length=255)
+     * @Assert\NotBlank(groups={
+     *     "api_vhost_add",
+     *     "api_vhost_edit"
+     * })
+     * @Assert\Length(
+     *      max = 255,
+     *      maxMessage = "Mailer user cannot be longer than {{ limit }} characters",
+     *      groups={
+     *          "api_vhost_add",
+     *          "api_vhost_edit"
+     * })
+     * @Groups({
+     *      "api_vhost_list",
+     *      "api_vhost_get",
+     * })
+     */
+    private $mailerPassword;
+
+    /**
+     * @var string
+     * @ORM\Column(name="mailer_password", type="string", length=255)
+     * @Assert\NotBlank(groups={
+     *     "api_vhost_add",
+     *     "api_vhost_edit"
+     * })
+     * @Assert\Length(
+     *      max = 255,
+     *      maxMessage = "Mailer password cannot be longer than {{ limit }} characters",
+     *      groups={
+     *          "api_vhost_add",
+     *          "api_vhost_edit"
+     * })
+     * @Groups({
+     *      "api_vhost_list",
+     *      "api_vhost_get",
+     * })
+     */
+    private $mailerUser;
 
     /**
      * @return int
@@ -206,64 +333,144 @@ class Vhost
     /**
      * @return string
      */
-    public function getUser()
+    public function getWwwRoot()
     {
-        return $this->user;
+        return $this->wwwRoot;
     }
 
     /**
-     * @param string $user
+     * @param string $wwwRoot
      */
-    public function setUser($user)
+    public function setWwwRoot($wwwRoot)
     {
-        $this->user = $user;
-    }
-
-    /**
-     * @return string
-     */
-    public function getPassword()
-    {
-        return $this->password;
-    }
-
-    /**
-     * @param string $password
-     */
-    public function setPassword($password)
-    {
-        $this->password = $password;
+        $this->wwwRoot = $wwwRoot;
     }
 
     /**
      * @return string
      */
-    public function getEmail()
+    public function getDbHost()
     {
-        return $this->email;
+        return $this->dbHost;
     }
 
     /**
-     * @param string $email
+     * @param string $dbHost
      */
-    public function setEmail($email)
+    public function setDbHost($dbHost)
     {
-        $this->email = $email;
+        $this->dbHost = $dbHost;
     }
 
     /**
      * @return string
      */
-    public function getPath()
+    public function getDbName()
     {
-        return $this->path;
+        return $this->dbName;
     }
 
     /**
-     * @param string $path
+     * @param string $dbName
      */
-    public function setPath($path)
+    public function setDbName($dbName)
     {
-        $this->path = $path;
+        $this->dbName = $dbName;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDbUser()
+    {
+        return $this->dbUser;
+    }
+
+    /**
+     * @param string $dbUser
+     */
+    public function setDbUser($dbUser)
+    {
+        $this->dbUser = $dbUser;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDbPassword()
+    {
+        return $this->dbPassword;
+    }
+
+    /**
+     * @param string $dbPassword
+     */
+    public function setDbPassword($dbPassword)
+    {
+        $this->dbPassword = $dbPassword;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMailerHost()
+    {
+        return $this->mailerHost;
+    }
+
+    /**
+     * @param string $mailerHost
+     */
+    public function setMailerHost($mailerHost)
+    {
+        $this->mailerHost = $mailerHost;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMailerProto()
+    {
+        return $this->mailerProto;
+    }
+
+    /**
+     * @param string $mailerProto
+     */
+    public function setMailerProto($mailerProto)
+    {
+        $this->mailerProto = $mailerProto;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMailerPassword()
+    {
+        return $this->mailerPassword;
+    }
+
+    /**
+     * @param string $mailerPassword
+     */
+    public function setMailerPassword($mailerPassword)
+    {
+        $this->mailerPassword = $mailerPassword;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMailerUser()
+    {
+        return $this->mailerUser;
+    }
+
+    /**
+     * @param string $mailerUser
+     */
+    public function setMailerUser($mailerUser)
+    {
+        $this->mailerUser = $mailerUser;
     }
 }
