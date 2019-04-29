@@ -101,9 +101,6 @@ class JobController extends BaseController
             [
                 'customer_id' => $request->get('customer_id'),
                 'type' => $request->get('type'),
-                'status' => $request->get('status'),
-                'start_date' => $request->get('start_date'),
-                'end_date' => $request->get('end_date'),
                 'log' => $request->get('log')
             ]
         );
@@ -132,9 +129,6 @@ class JobController extends BaseController
             [
                 'customer_id' => $request->get('customer_id'),
                 'type' => $request->get('type'),
-                'status' => $request->get('status'),
-                'start_date' => $request->get('start_date'),
-                'end_date' => $request->get('end_date'),
                 'log' => $request->get('log')
             ]
         );

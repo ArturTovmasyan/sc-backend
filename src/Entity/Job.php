@@ -123,15 +123,11 @@ class Job
 
     /**
      * @var \DateTime
-     * @Assert\NotBlank(groups={
-     *     "api_job_add",
-     *     "api_job_edit"
-     * })
      * @Assert\DateTime(groups={
      *     "api_job_add",
      *     "api_job_edit"
      * })
-     * @ORM\Column(name="start_date", type="datetime")
+     * @ORM\Column(name="start_date", type="datetime", nullable=true)
      * @Groups({
      *     "api_job_list",
      *     "api_job_get"
@@ -141,15 +137,11 @@ class Job
 
     /**
      * @var \DateTime
-     * @Assert\NotBlank(groups={
-     *     "api_job_add",
-     *     "api_job_edit"
-     * })
      * @Assert\DateTime(groups={
      *     "api_job_add",
      *     "api_job_edit"
      * })
-     * @ORM\Column(name="end_date", type="datetime")
+     * @ORM\Column(name="end_date", type="datetime", nullable=true)
      * @Groups({
      *     "api_job_list",
      *     "api_job_get"

@@ -5,6 +5,7 @@ namespace App\Service;
 use App\Entity\Customer;
 use App\Entity\Job;
 use App\Exception\CustomerNotFoundException;
+use App\Model\JobStatus;
 use App\Repository\CustomerRepository;
 use App\Repository\JobRepository;
 use App\Exception\JobNotFoundException;
@@ -77,30 +78,13 @@ class JobService extends BaseService implements IGridService
             }
 
             $type = $params['type'] ? (int)$params['type'] : 0;
-            $status = $params['status'] ? (int)$params['status'] : 0;
             $log = $params['log'] ?: '';
 
             $entity = new Job();
             $entity->setCustomer($customer);
             $entity->setType($type);
-            $entity->setStatus($status);
+            $entity->setStatus(JobStatus::TYPE_NOT_STARTED);
             $entity->setLog($log);
-
-            $startDate = $params['start_date'];
-
-            if (!empty($startDate)) {
-                $startDate = new \DateTime($params['start_date']);
-            }
-
-            $entity->setStartDate($startDate);
-
-            $endDate = $params['end_date'];
-
-            if (!empty($endDate)) {
-                $endDate = new \DateTime($params['end_date']);
-            }
-
-            $entity->setEndDate($endDate);
 
             $this->validate($entity, null, ['api_job_add']);
 
@@ -152,29 +136,11 @@ class JobService extends BaseService implements IGridService
             }
 
             $type = $params['type'] ? (int)$params['type'] : 0;
-            $status = $params['status'] ? (int)$params['status'] : 0;
             $log = $params['log'] ?: '';
 
             $entity->setCustomer($customer);
             $entity->setType($type);
-            $entity->setStatus($status);
             $entity->setLog($log);
-
-            $startDate = $params['start_date'];
-
-            if (!empty($startDate)) {
-                $startDate = new \DateTime($params['start_date']);
-            }
-
-            $entity->setStartDate($startDate);
-
-            $endDate = $params['end_date'];
-
-            if (!empty($endDate)) {
-                $endDate = new \DateTime($params['end_date']);
-            }
-
-            $entity->setEndDate($endDate);
 
             $this->validate($entity, null, ['api_job_edit']);
 
