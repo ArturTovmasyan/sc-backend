@@ -106,22 +106,6 @@ class CustomerCreateCommand extends Command
         $db['user'] = sprintf('sc_%s_user', $domain_sc);
         $db['pass'] = sprintf('sc_%s_db', $domain_sc);
 
-        $vhost = new Vhost();
-        $vhost->setCustomer($customer);
-
-        $vhost->setDbHost($db['host']);
-        $vhost->setDbName($db['name']);
-        $vhost->setDbUser($db['user']);
-        $vhost->setDbPassword($db['pass']);
-
-        $vhost->setMailerHost($mailer['host']);
-        $vhost->setMailerProto($mailer['proto']);
-        $vhost->setMailerUser($mailer['user']);
-        $vhost->setMailerPassword($mailer['pass']);
-
-        $this->em->persist($vhost);
-        $this->em->flush();
-
         $gold_dir_name = [];
         $gold_dir_name['root'] = sprintf("/srv/_vcs/");
         $gold_dir_name['dist'] = sprintf("%sfrontend/dist", $gold_dir_name['root']);
@@ -139,6 +123,25 @@ class CustomerCreateCommand extends Command
         $dir_name['var'] = sprintf("%s/var", $dir_name['root']);
         $dir_name['env'] = sprintf("%s/.env", $dir_name['root']);
 
+        $vhost = new Vhost();
+        $vhost->setCustomer($customer);
+
+        $vhost->setName($vhost_file_name);
+        $vhost->setWwwRoot($dir_name['root']);
+
+        $vhost->setDbHost($db['host']);
+        $vhost->setDbName($db['name']);
+        $vhost->setDbUser($db['user']);
+        $vhost->setDbPassword($db['pass']);
+
+        $vhost->setMailerHost($mailer['host']);
+        $vhost->setMailerProto($mailer['proto']);
+        $vhost->setMailerUser($mailer['user']);
+        $vhost->setMailerPassword($mailer['pass']);
+
+        $this->em->persist($vhost);
+        $this->em->flush();
+
         $output->writeln(sprintf("Creating WWW directory structure for '%s'...", $domain));
         $this->filesystem->mkdir($dir_name['root']);
         $this->filesystem->mkdir($dir_name['cdn']);
@@ -148,13 +151,13 @@ class CustomerCreateCommand extends Command
 
         $output->writeln(sprintf("Setting filesystem permissions for '%s'...", $domain));
 
-        $this->filesystem->chmod($dir_name['root'], 755);
+        $this->filesystem->chmod($dir_name['root'], 0755);
 
-        $this->filesystem->chmod($dir_name['var'], 755, true);
+        $this->filesystem->chmod($dir_name['var'], 0755, 0000, true);
         $this->filesystem->chown($dir_name['var'], 'www-data', true);
         $this->filesystem->chgrp($dir_name['var'], 'www-data', true);
 
-        $this->filesystem->chmod($dir_name['cdn'], 755, true);
+        $this->filesystem->chmod($dir_name['cdn'], 0755, 0000, true);
         $this->filesystem->chown($dir_name['cdn'], 'www-data', true);
         $this->filesystem->chgrp($dir_name['cdn'], 'www-data', true);
 
@@ -303,12 +306,20 @@ class CustomerCreateCommand extends Command
                 $path['php'],
                 $path['symfony_console'],
                 'app:create-customer',
-                sprintf('--domain=%s', $customer->getDomain()),
-                sprintf('--organization=%s', $customer->getOrganization()),
-                sprintf('--first_name=%s', $customer->getFirstName()),
-                sprintf('--last_name=%s', $customer->getLastName()),
-                sprintf('--email=%s', $customer->getEmail()),
-                sprintf('--phone=%s', $customer->getPhone()),
+                $customer->getDomain(),
+                $customer->getOrganization(),
+                $customer->getFirstName(),
+                $customer->getLastName(),
+                $customer->getEmail(),
+                $customer->getPhone(),
+                /*
+                                sprintf('--domain=%s', $customer->getDomain()),
+                                sprintf('--organization=%s', $customer->getOrganization()),
+                                sprintf('--first_name=%s', $customer->getFirstName()),
+                                sprintf('--last_name=%s', $customer->getLastName()),
+                                sprintf('--email=%s', $customer->getEmail()),
+                                sprintf('--phone=%s', $customer->getPhone()),
+                */
             ],
             null, $this->env
         );

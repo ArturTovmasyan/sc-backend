@@ -22,7 +22,7 @@ use App\Annotation\Grid;
  *          {
  *              "id"         = "customer",
  *              "type"       = "string",
- *              "field"      = "CONCAT(COALESCE(c.firstName, ''), ' ', COALESCE(c.lastName, ''))",
+ *              "field"      = "c.organization",
  *              "link"       = ":edit"
  *          },
  *          {

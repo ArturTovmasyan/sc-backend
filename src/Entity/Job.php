@@ -22,7 +22,7 @@ use App\Annotation\Grid;
  *          {
  *              "id"         = "customer",
  *              "type"       = "string",
- *              "field"      = "CONCAT(COALESCE(c.firstName, ''), ' ', COALESCE(c.lastName, ''))",
+ *              "field"      = "c.organization",
  *              "link"       = ":edit"
  *          },
  *          {
@@ -159,7 +159,7 @@ class Job
      *          "api_job_add",
      *          "api_job_edit"
      * })
-     * @ORM\Column(name="log", type="string", length=2048, nullable=true)
+     * @ORM\Column(name="log", type="text", nullable=true)
      * @Groups({
      *     "api_job_list",
      *     "api_job_get"
