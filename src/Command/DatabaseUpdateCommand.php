@@ -2,6 +2,7 @@
 
 namespace App\Command;
 
+use App\Entity\Vhost;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -41,29 +42,30 @@ class DatabaseUpdateCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $configs = $this->em->getRepository(CustomerConfig::class)->findBy(['enabled' => true]);
+        $vhosts = $this->em->getRepository(Vhost::class)->findBy(['enabled' => true]);
 
         try {
-            /** @var CustomerConfig $configs */
-            foreach ($configs as $configs) {
-                $domain = '';
+            /** @var Vhost $vhost */
+            foreach ($vhosts as $vhost) {
+                $domain = $vhost->getCustomer()->getDomain();
 
                 $db = [
-                    'name' => '',
-                    'user' => '',
-                    'pass' => '',
+                    'host' => $vhost->getDbHost(),
+                    'name' => $vhost->getDbName(),
+                    'user' => $vhost->getDbUser(),
+                    'pass' => $vhost->getDbPassword(),
                 ];
                 $mailer = [
-                    'proto' => '',
-                    'host' => '',
-                    'user' => '',
-                    'pass' => '',
+                    'host' => $vhost->getMailerHost(),
+                    'proto' => $vhost->getMailerProto(),
+                    'user' =>  $vhost->getMailerUser(),
+                    'pass' =>  $vhost->getMailerPassword(),
                 ];
 
                 $dir_name = [
-                    'root' => '',
-                    'var' => '',
-                    'cdn' => '',
+                    'root' => $vhost->getWwwRoot(),
+                    'var' => sprintf("%s/var", $vhost->getWwwRoot()),
+                    'cdn' => sprintf("%s/cdn", $vhost->getWwwRoot()),
                 ];
 
                 $output->writeln(sprintf("Updating database structure for '%s'...", $domain));
@@ -88,7 +90,7 @@ class DatabaseUpdateCommand extends Command
     private function updateDatabase($root_dir)
     {
         $path = [];
-        $path['php'] = 'php';// '/usr/bin/php'
+        $path['php'] = '/usr/bin/php';
         $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
 
         $process = new Process(

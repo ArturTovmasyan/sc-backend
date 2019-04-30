@@ -31,6 +31,11 @@ use App\Annotation\Grid;
  *              "field"      = "c.domain"
  *          },
  *          {
+ *              "id"         = "organization",
+ *              "type"       = "string",
+ *              "field"      = "c.organization"
+ *          },
+ *          {
  *              "id"         = "full_name",
  *              "type"       = "string",
  *              "field"      = "CONCAT(COALESCE(c.firstName, ''), ' ', COALESCE(c.lastName, ''))",
@@ -42,19 +47,14 @@ use App\Annotation\Grid;
  *              "field"      = "c.phone"
  *          },
  *          {
- *              "id"         = "address",
- *              "type"       = "string",
- *              "field"      = "c.address"
- *          },
- *          {
  *              "id"         = "email",
  *              "type"       = "string",
  *              "field"      = "c.email"
  *          },
  *          {
- *              "id"         = "organization",
+ *              "id"         = "address",
  *              "type"       = "string",
- *              "field"      = "c.organization"
+ *              "field"      = "c.address"
  *          }
  *     }
  * )

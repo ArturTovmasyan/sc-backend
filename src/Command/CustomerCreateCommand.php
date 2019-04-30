@@ -2,6 +2,10 @@
 
 namespace App\Command;
 
+use App\Entity\Customer;
+use App\Entity\Job;
+use App\Model\JobStatus;
+use App\Model\JobType;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -45,7 +49,44 @@ class CustomerCreateCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $domain = 'aaa.seniorcaresw.com';
+        $jobs = $this->em->getRepository(Job::class)->findBy([
+            'type' => JobType::TYPE_CREATE, 'status' => JobStatus::TYPE_NOT_STARTED
+        ]);
+
+        /** @var Job $job */
+        foreach ($jobs as $job) {
+            $job->setStartDate(new \DateTime());
+            $job->setStatus(JobStatus::TYPE_STARTED);
+            $this->em->persist($job);
+            $this->em->flush();
+
+            try {
+                $this->createCustomer($job->getCustomer(), $output);
+
+                $job->setEndDate(new \DateTime());
+                $job->setStatus(JobStatus::TYPE_SUCCESS);
+            } catch (\Throwable $ex) {
+                $job->setEndDate(new \DateTime());
+                $job->setStatus(JobStatus::TYPE_ERROR);
+                $job->setLog($ex->getTraceAsString());
+
+                $output->writeln($ex->getMessage());
+                $output->writeln($ex->getTraceAsString());
+            }
+
+            $this->em->persist($job);
+            $this->em->flush();
+        }
+    }
+
+    /**
+     * @param Customer $customer
+     * @param OutputInterface $output
+     * @throws \Throwable
+     */
+    private function createCustomer($customer, OutputInterface $output)
+    {
+        $domain = $customer->getDomain();
         $domain_sc = preg_replace("/[^A-Za-z0-9]+/", "_", $domain);
 
         $vhost_file_name = sprintf("001-%s.conf", $domain);
@@ -64,7 +105,7 @@ class CustomerCreateCommand extends Command
         $db['pass'] = sprintf('sc_%s_db', $domain_sc);
 
         $gold_dir_name = [];
-        $gold_dir_name['root'] = sprintf("D:/SVN/senior-care.");
+        $gold_dir_name['root'] = sprintf("/srv/_vcs/");
         $gold_dir_name['dist'] = sprintf("%sfrontend/dist", $gold_dir_name['root']);
         $gold_dir_name['bin'] = sprintf("%sbackend/bin", $gold_dir_name['root']);
         $gold_dir_name['config'] = sprintf("%sbackend/config", $gold_dir_name['root']);
@@ -80,74 +121,72 @@ class CustomerCreateCommand extends Command
         $dir_name['var'] = sprintf("%s/var", $dir_name['root']);
         $dir_name['env'] = sprintf("%s/.env", $dir_name['root']);
 
+        $output->writeln(sprintf("Creating WWW directory structure for '%s'...", $domain));
+        $this->filesystem->mkdir($dir_name['root']);
+        $this->filesystem->mkdir($dir_name['cdn']);
+        $this->filesystem->mkdir(sprintf('%s/resident-photo', $dir_name['cdn']));
+        $this->filesystem->mkdir(sprintf('%s/user-avatar', $dir_name['cdn']));
+        $this->filesystem->mkdir($dir_name['var']);
 
-        try {
-            $output->writeln(sprintf("Creating WWW directory structure for '%s'...", $domain));
-            $this->filesystem->mkdir($dir_name['root']);
-            $this->filesystem->mkdir($dir_name['cdn']);
-            $this->filesystem->mkdir(sprintf('%s/resident-photo', $dir_name['cdn']));
-            $this->filesystem->mkdir(sprintf('%s/user-avatar', $dir_name['cdn']));
-            $this->filesystem->mkdir($dir_name['var']);
+        $output->writeln(sprintf("Setting filesystem permissions for '%s'...", $domain));
 
-            $output->writeln(sprintf("Setting filesystem permissions for '%s'...", $domain));
-//            $this->filesystem->chmod($dir_name['root'], 755);
-//
-//            $this->filesystem->chmod($dir_name['var'], 755, true);
-//            $this->filesystem->chown($dir_name['var'], 'www-data', true);
-//            $this->filesystem->chgrp($dir_name['var'], 'www-data', true);
-//
-//            $this->filesystem->chmod($dir_name['cdn'], 755, true);
-//            $this->filesystem->chown($dir_name['cdn'], 'www-data', true);
-//            $this->filesystem->chgrp($dir_name['cdn'], 'www-data', true);
+        $this->filesystem->chmod($dir_name['root'], 755);
 
-            $output->writeln(sprintf("Creating symlinks '%s'...", $domain));
-            foreach ($gold_dir_name as $name => $gold_path) {
-                if ($name === "root") {
-                    continue;
-                }
+        $this->filesystem->chmod($dir_name['var'], 755, true);
+        $this->filesystem->chown($dir_name['var'], 'www-data', true);
+        $this->filesystem->chgrp($dir_name['var'], 'www-data', true);
 
-                $this->filesystem->symlink($gold_path, sprintf("%s/%s", $dir_name['root'], $name));
+        $this->filesystem->chmod($dir_name['cdn'], 755, true);
+        $this->filesystem->chown($dir_name['cdn'], 'www-data', true);
+        $this->filesystem->chgrp($dir_name['cdn'], 'www-data', true);
+
+        $output->writeln(sprintf("Creating symlinks '%s'...", $domain));
+        foreach ($gold_dir_name as $name => $gold_path) {
+            if ($name === "root") {
+                continue;
             }
 
-            $this->createEnv($db, $mailer, $dir_name, $domain);
-
-            $output->writeln(sprintf("Creating Apache virtual host file..."));
-
-            $this->filesystem->dumpFile(
-                $vhost_file_path,
-                $this->twig->render(
-                    'vhost.conf.twig',
-                    [
-                        'domain' => $domain,
-                        'dir_name' => $dir_name,
-                        'env' => $this->env
-                    ])
-            );
-            $this->filesystem->symlink($vhost_file_path, $vhost_file_link);
-
-            $output->writeln(sprintf("Creating database user and structure..."));
-            $this->filesystem->dumpFile(
-                $dir_name['env'],
-                $this->twig->render(
-                    'dotenv.twig',
-                    [
-                        'env' => $this->env
-                    ])
-            );
-
-            $this->createDatabaseUser($db);
-            $this->createDatabase($dir_name['root']);
-
-            // Add db import
-            // Create user/user invite
-
-            $this->apacheReload();
-
-            $output->writeln(sprintf("Customer '%s' successfully created.", $domain));
-        } catch (\Throwable $e) {
-            dump($e->getMessage());
-            dump($e->getTraceAsString());
+            $this->filesystem->symlink($gold_path, sprintf("%s/%s", $dir_name['root'], $name));
         }
+
+        $this->createEnv($db, $mailer, $dir_name, $domain);
+
+        $output->writeln(sprintf("Creating Apache virtual host file..."));
+
+        $this->filesystem->dumpFile(
+            $vhost_file_path,
+            $this->twig->render(
+                'vhost.conf.twig',
+                [
+                    'domain' => $domain,
+                    'dir_name' => $dir_name,
+                    'env' => $this->env
+                ])
+        );
+        $this->filesystem->symlink($vhost_file_path, $vhost_file_link);
+
+        $output->writeln(sprintf("Creating database user and structure..."));
+
+//        $this->filesystem->dumpFile(
+//            $dir_name['env'],
+//            $this->twig->render(
+//                'dotenv.twig',
+//                [
+//                    'env' => $this->env
+//                ])
+//        );
+
+        $this->createDatabaseUser($db);
+        $this->createDatabase($dir_name['root']);
+
+        // Add db import
+
+
+        $this->createAdminUser($dir_name['root'], $customer);
+
+        $this->apacheReload();
+
+        $output->writeln(sprintf("Customer '%s' successfully created.", $domain));
     }
 
     private function apacheReload()
@@ -162,6 +201,10 @@ class CustomerCreateCommand extends Command
         }
     }
 
+    /**
+     * @param $db
+     * @throws \Throwable
+     */
     private function createDatabaseUser($db)
     {
         try {
@@ -185,8 +228,10 @@ class CustomerCreateCommand extends Command
     private function createDatabase($root_dir)
     {
         $path = [];
-        $path['php'] = 'php';// '/usr/bin/php'
+        $path['php'] = '/usr/bin/php';
         $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
+
+        $this->env['APP_ENV'] = 'dev';
 
         $process = new Process(
             [$path['php'], $path['symfony_console'], 'doctrine:database:create', '--no-ansi'],
@@ -202,10 +247,46 @@ class CustomerCreateCommand extends Command
         }
     }
 
+    /**
+     * @param string $root_dir
+     * @param Customer $customer
+     */
+    private function createAdminUser($root_dir, $customer)
+    {
+        $path = [];
+        $path['php'] = '/usr/bin/php';
+        $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
+
+        $this->env['APP_ENV'] = 'dev';
+
+        $process = new Process(
+            [
+                $path['php'],
+                $path['symfony_console'],
+                'app:create-customer',
+                sprintf('--domain=%s', $customer->getDomain()),
+                sprintf('--organization=%s', $customer->getOrganization()),
+                sprintf('--first_name=%s', $customer->getFirstName()),
+                sprintf('--last_name=%s', $customer->getLastName()),
+                sprintf('--email=%s', $customer->getEmail()),
+                sprintf('--phone=%s', $customer->getPhone()),
+            ],
+            null, $this->env
+        );
+
+        $process->run();
+
+        dump($process->getOutput());
+
+        if (!$process->isSuccessful()) {
+            throw new ProcessFailedException($process);
+        }
+    }
+
     private function createEnv($db, $mailer, $dir_name, $domain)
     {
         $this->env = [
-            'APP_ENV' => 'dev',
+            'APP_ENV' => 'prod',
             'APP_SECRET' => '441e2c01edab863446135746a45396bd',
             'DATABASE_URL' => sprintf('mysql://%s:%s@127.0.0.1:3306/%s', $db['user'], $db['pass'], $db['name']),
             'MAILER_URL' => sprintf('%s://%s:%s@%s', $mailer['proto'], $mailer['user'], $mailer['pass'], $mailer['host']),

@@ -20,6 +20,12 @@ use App\Annotation\Grid;
  *              "field"      = "j.id"
  *          },
  *          {
+ *              "id"         = "customer",
+ *              "type"       = "string",
+ *              "field"      = "CONCAT(COALESCE(c.firstName, ''), ' ', COALESCE(c.lastName, ''))",
+ *              "link"       = ":edit"
+ *          },
+ *          {
  *              "id"         = "type",
  *              "type"       = "enum",
  *              "field"      = "j.type",
@@ -40,12 +46,6 @@ use App\Annotation\Grid;
  *              "id"         = "end_date",
  *              "type"       = "datetime",
  *              "field"      = "j.endDate"
- *          },
- *          {
- *              "id"         = "customer",
- *              "type"       = "string",
- *              "field"      = "CONCAT(COALESCE(c.firstName, ''), ' ', COALESCE(c.lastName, ''))",
- *              "link"       = ":edit"
  *          },
  *          {
  *              "id"         = "log",
@@ -72,6 +72,7 @@ class Job
     private $id;
 
     /**
+     * @var Customer
      * @ORM\ManyToOne(targetEntity="Customer", inversedBy="jobs", cascade={"persist"})
      * @ORM\JoinColumns({
      *   @ORM\JoinColumn(name="id_customer", referencedColumnName="id", onDelete="CASCADE")
@@ -183,17 +184,17 @@ class Job
     }
 
     /**
-     * @return mixed
+     * @return Customer
      */
-    public function getCustomer()
+    public function getCustomer(): Customer
     {
         return $this->customer;
     }
 
     /**
-     * @param mixed $customer
+     * @param Customer $customer
      */
-    public function setCustomer($customer)
+    public function setCustomer(Customer $customer): void
     {
         $this->customer = $customer;
     }

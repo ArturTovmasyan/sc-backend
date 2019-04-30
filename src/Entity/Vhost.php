@@ -89,6 +89,23 @@ class Vhost
     private $id;
 
     /**
+     * @var Customer
+     * @ORM\ManyToOne(targetEntity="Customer", inversedBy="vhosts", cascade={"persist"})
+     * @ORM\JoinColumns({
+     *   @ORM\JoinColumn(name="id_customer", referencedColumnName="id", onDelete="CASCADE")
+     * })
+     * @Assert\NotBlank(groups={
+     *      "api_vhost_add",
+     *      "api_vhost_edit"
+     * })
+     * @Groups({
+     *      "api_vhost_list",
+     *      "api_vhost_get",
+     * })
+     */
+    private $customer;
+
+    /**
      * @var string
      * @ORM\Column(name="name", type="string", length=255)
      * @Assert\NotBlank(groups={
@@ -473,4 +490,21 @@ class Vhost
     {
         $this->mailerUser = $mailerUser;
     }
+
+    /**
+     * @return Customer
+     */
+    public function getCustomer()
+    {
+        return $this->customer;
+    }
+
+    /**
+     * @param Customer $customer
+     */
+    public function setCustomer($customer)
+    {
+        $this->customer = $customer;
+    }
+
 }
