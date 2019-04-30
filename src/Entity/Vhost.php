@@ -20,6 +20,12 @@ use App\Annotation\Grid;
  *              "field"      = "v.id"
  *          },
  *          {
+ *              "id"         = "customer",
+ *              "type"       = "string",
+ *              "field"      = "CONCAT(COALESCE(c.firstName, ''), ' ', COALESCE(c.lastName, ''))",
+ *              "link"       = ":edit"
+ *          },
+ *          {
  *              "id"         = "name",
  *              "type"       = "string",
  *              "field"      = "v.name"

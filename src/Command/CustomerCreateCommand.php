@@ -4,6 +4,7 @@ namespace App\Command;
 
 use App\Entity\Customer;
 use App\Entity\Job;
+use App\Entity\Vhost;
 use App\Model\JobStatus;
 use App\Model\JobType;
 use Doctrine\ORM\EntityManagerInterface;
@@ -94,15 +95,32 @@ class CustomerCreateCommand extends Command
         $vhost_file_link = sprintf("/etc/apache2/sites-enabled/%s", $vhost_file_name);
 
         $mailer = [];
-        $mailer['proto'] = sprintf('gmail');
         $mailer['host'] = sprintf('localhost');
+        $mailer['proto'] = sprintf('gmail');
         $mailer['user'] = sprintf('imt.tester1@gmail.com');
         $mailer['pass'] = sprintf('ImtArmenia');
 
         $db = [];
+        $db['host'] = '127.0.0.1';
         $db['name'] = sprintf('sc_%s_db', $domain_sc);
         $db['user'] = sprintf('sc_%s_user', $domain_sc);
         $db['pass'] = sprintf('sc_%s_db', $domain_sc);
+
+        $vhost = new Vhost();
+        $vhost->setCustomer($customer);
+
+        $vhost->setDbHost($db['host']);
+        $vhost->setDbName($db['name']);
+        $vhost->setDbUser($db['user']);
+        $vhost->setDbPassword($db['pass']);
+
+        $vhost->setMailerHost($db['host']);
+        $vhost->setMailerProto($db['proto']);
+        $vhost->setMailerUser($db['user']);
+        $vhost->setMailerPassword($db['pass']);
+
+        $this->em->persist($vhost);
+        $this->em->flush();
 
         $gold_dir_name = [];
         $gold_dir_name['root'] = sprintf("/srv/_vcs/");
@@ -178,9 +196,9 @@ class CustomerCreateCommand extends Command
 
         $this->createDatabaseUser($db);
         $this->createDatabase($dir_name['root']);
+        $this->createSchema($dir_name['root']);
 
         // Add db import
-
 
         $this->createAdminUser($dir_name['root'], $customer);
 
@@ -224,7 +242,6 @@ class CustomerCreateCommand extends Command
         }
     }
 
-
     private function createDatabase($root_dir)
     {
         $path = [];
@@ -235,6 +252,28 @@ class CustomerCreateCommand extends Command
 
         $process = new Process(
             [$path['php'], $path['symfony_console'], 'doctrine:database:create', '--no-ansi'],
+            null, $this->env
+        );
+
+        $process->run();
+
+        dump($process->getOutput());
+
+        if (!$process->isSuccessful()) {
+            throw new ProcessFailedException($process);
+        }
+    }
+
+    private function createSchema($root_dir)
+    {
+        $path = [];
+        $path['php'] = '/usr/bin/php';
+        $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
+
+        $this->env['APP_ENV'] = 'dev';
+
+        $process = new Process(
+            [$path['php'], $path['symfony_console'], 'doctrine:schema:update', '--dump-sql', '--force'],
             null, $this->env
         );
 
