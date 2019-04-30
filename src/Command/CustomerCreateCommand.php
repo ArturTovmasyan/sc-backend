@@ -114,10 +114,10 @@ class CustomerCreateCommand extends Command
         $vhost->setDbUser($db['user']);
         $vhost->setDbPassword($db['pass']);
 
-        $vhost->setMailerHost($db['host']);
-        $vhost->setMailerProto($db['proto']);
-        $vhost->setMailerUser($db['user']);
-        $vhost->setMailerPassword($db['pass']);
+        $vhost->setMailerHost($mailer['host']);
+        $vhost->setMailerProto($mailer['proto']);
+        $vhost->setMailerUser($mailer['user']);
+        $vhost->setMailerPassword($mailer['pass']);
 
         $this->em->persist($vhost);
         $this->em->flush();

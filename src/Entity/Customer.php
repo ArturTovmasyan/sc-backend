@@ -13,9 +13,19 @@ use App\Annotation\Grid;
 /**
  * @ORM\Table(name="tbl_customer")
  * @ORM\Entity(repositoryClass="App\Repository\CustomerRepository")
- * @UniqueEntity(fields="email", message="This email address was already in use.", groups={
- *     "api_customer_add",
- *     "api_customer_edit"
+ * @UniqueEntity(
+ *     fields="email",
+ *     message="This email address was already in use.",
+ *     groups={
+ *       "api_customer_add",
+ *       "api_customer_edit"
+ * })
+ * @UniqueEntity(
+ *     fields="domain",
+ *     message="This domain was already in use.",
+ *     groups={
+ *       "api_customer_add",
+ *       "api_customer_edit"
  * })
  * @Grid(
  *     api_customer_grid={
