@@ -22,8 +22,7 @@ use App\Annotation\Grid;
  *          {
  *              "id"         = "customer",
  *              "type"       = "string",
- *              "field"      = "c.organization",
- *              "link"       = ":edit"
+ *              "field"      = "c.organization"
  *          },
  *          {
  *              "id"         = "name",
