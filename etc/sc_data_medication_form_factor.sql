@@ -1,0 +1,13 @@
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Pill');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Tablet');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Capsule');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Powder');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Paste');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Ointment');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Cream');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Inhaler');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Drops');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Patch');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Suppository');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Lozenge');
+INSERT INTO `tbl_medication_form_factor` (`id_space`, `title`) VALUES (1, 'Syrup');
