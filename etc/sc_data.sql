@@ -1,3 +1,5 @@
+insert into `oauth2_client` (`id`, `random_id`, `redirect_uris`, `secret`, `allowed_grant_types`) values('1','3hmo4b44gomcss0sk8okk0gc88wo0kwocco0s0w4w0w48ww0c8','a:0:{}','4tonqf6g79yc4ccsscokcogk08wscs40wookco8048wwk0k0kw','a:5:{i:0;s:18:\"authorization_code\";i:1;s:8:\"password\";i:2;s:13:\"refresh_token\";i:3;s:5:\"token\";i:4;s:18:\"client_credentials\";}');
+
 INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, '8-Hour Bayer');
 INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, '8-Mop');
 INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'A-Hydrocort');
