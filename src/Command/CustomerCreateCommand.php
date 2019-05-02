@@ -201,9 +201,11 @@ class CustomerCreateCommand extends Command
         $this->createDatabase($dir_name['root']);
         $this->createSchema($dir_name['root']);
 
-        // Add db import
+        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_roles.sql');
 
         $this->createAdminUser($dir_name['root'], $customer);
+
+        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data.sql');
 
         $this->apacheReload();
 
@@ -277,6 +279,28 @@ class CustomerCreateCommand extends Command
 
         $process = new Process(
             [$path['php'], $path['symfony_console'], 'doctrine:schema:update', '--dump-sql', '--force'],
+            null, $this->env
+        );
+
+        $process->run();
+
+        dump($process->getOutput());
+
+        if (!$process->isSuccessful()) {
+            throw new ProcessFailedException($process);
+        }
+    }
+
+    private function importSQL($root_dir, $sql_file)
+    {
+        $path = [];
+        $path['php'] = '/usr/bin/php';
+        $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
+
+        $this->env['APP_ENV'] = 'dev';
+
+        $process = new Process(
+            [$path['php'], $path['symfony_console'], 'doctrine:database:import', $sql_file],
             null, $this->env
         );
 
