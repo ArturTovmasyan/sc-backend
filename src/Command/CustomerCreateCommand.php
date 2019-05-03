@@ -314,7 +314,7 @@ class CustomerCreateCommand extends Command
         $this->env['APP_ENV'] = 'dev';
 
         $process = new Process(
-            [$path['php'], $path['symfony_console'], 'doctrine:database:import', $sql_file],
+            [$path['php'], $path['symfony_console'], '-vvv', 'doctrine:database:import', $sql_file],
             null, $this->env
         );
 
