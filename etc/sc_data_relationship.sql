@@ -1,58 +1,59 @@
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Accountant');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'ALWP');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Attorney');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Attorney-In-Fact');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Brother');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Brother POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Brother-in-Law');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Caregiver');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Caretaker');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Case Manager');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Conservator');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Cousin');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Daughter');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Daughter POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Daughter-in-Law');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Designated POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Doctor');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Durable POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Father');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Fiduciary');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Financial POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Foster Daughter');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Friend');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Friend POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Grand Daughter');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Grand Niece');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Grand Son');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Great Nephew');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Guardian');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Husband');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Mother');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Neighbor');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Nephew');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Nephew POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Nephew-in-Law');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Niece');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Niece-in-Law');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Payee');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Public Guardian');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Relative');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Significant Other');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Sister');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Sister POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Sister-in-Law');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Son');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Son Health POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Son POA');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Son POA Trustee');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Son-in-Law');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Spouse');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'SSC');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Step Daughter');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Step Father');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Step Son');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Trust Office');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Trustee');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Unknown');
-INSERT INTO `tbl_relationship` (`id_space`, `title`) VALUES (1, 'Wife');
+INSERT INTO `tbl_relationship` (`id_space`, `title`)
+VALUES (1, 'Accountant'),
+       (1, 'ALWP'),
+       (1, 'Attorney'),
+       (1, 'Attorney-In-Fact'),
+       (1, 'Brother'),
+       (1, 'Brother POA'),
+       (1, 'Brother-in-Law'),
+       (1, 'Caregiver'),
+       (1, 'Caretaker'),
+       (1, 'Case Manager'),
+       (1, 'Conservator'),
+       (1, 'Cousin'),
+       (1, 'Daughter'),
+       (1, 'Daughter POA'),
+       (1, 'Daughter-in-Law'),
+       (1, 'Designated POA'),
+       (1, 'Doctor'),
+       (1, 'Durable POA'),
+       (1, 'Father'),
+       (1, 'Fiduciary'),
+       (1, 'Financial POA'),
+       (1, 'Foster Daughter'),
+       (1, 'Friend'),
+       (1, 'Friend POA'),
+       (1, 'Grand Daughter'),
+       (1, 'Grand Niece'),
+       (1, 'Grand Son'),
+       (1, 'Great Nephew'),
+       (1, 'Guardian'),
+       (1, 'Husband'),
+       (1, 'Mother'),
+       (1, 'Neighbor'),
+       (1, 'Nephew'),
+       (1, 'Nephew POA'),
+       (1, 'Nephew-in-Law'),
+       (1, 'Niece'),
+       (1, 'Niece-in-Law'),
+       (1, 'Payee'),
+       (1, 'Public Guardian'),
+       (1, 'Relative'),
+       (1, 'Significant Other'),
+       (1, 'Sister'),
+       (1, 'Sister POA'),
+       (1, 'Sister-in-Law'),
+       (1, 'Son'),
+       (1, 'Son Health POA'),
+       (1, 'Son POA'),
+       (1, 'Son POA Trustee'),
+       (1, 'Son-in-Law'),
+       (1, 'Spouse'),
+       (1, 'SSC'),
+       (1, 'Step Daughter'),
+       (1, 'Step Father'),
+       (1, 'Step Son'),
+       (1, 'Trust Office'),
+       (1, 'Trustee'),
+       (1, 'Unknown'),
+       (1, 'Wife');

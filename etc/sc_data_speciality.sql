@@ -1,31 +1,32 @@
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Allergy and Immunology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Anesthesiology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Dermatology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Diagnostic Radiology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Emergency Medicine');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Family Medicine');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Internal Medicine');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Endocrinology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Gastroenterology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Geratiric Medicine');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Hematology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Interventional Cardiology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Medical Oncology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Nephrology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Rheumatology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Medical Genetics');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Neurology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Nuclear Medicine');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Obstetrics and Gynecology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Ophthalmology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Orthopaedic Surgery');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Otolaryngology - Head and Neck Surgery');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Pathology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Physical Medicine and Rehabilitation');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Plastic Surgery');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Preventive Medicine');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Psychiatry');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Radiology');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Surgery');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Thoracic Surgery');
-INSERT INTO `tbl_speciality` (`id_space`, `title`) VALUES  (1, 'Urology');
+INSERT INTO `tbl_speciality` (`id_space`, `title`)
+VALUES (1, 'Allergy and Immunology'),
+       (1, 'Anesthesiology'),
+       (1, 'Dermatology'),
+       (1, 'Diagnostic Radiology'),
+       (1, 'Emergency Medicine'),
+       (1, 'Family Medicine'),
+       (1, 'Internal Medicine'),
+       (1, 'Endocrinology'),
+       (1, 'Gastroenterology'),
+       (1, 'Geratiric Medicine'),
+       (1, 'Hematology'),
+       (1, 'Interventional Cardiology'),
+       (1, 'Medical Oncology'),
+       (1, 'Nephrology'),
+       (1, 'Rheumatology'),
+       (1, 'Medical Genetics'),
+       (1, 'Neurology'),
+       (1, 'Nuclear Medicine'),
+       (1, 'Obstetrics and Gynecology'),
+       (1, 'Ophthalmology'),
+       (1, 'Orthopaedic Surgery'),
+       (1, 'Otolaryngology - Head and Neck Surgery'),
+       (1, 'Pathology'),
+       (1, 'Physical Medicine and Rehabilitation'),
+       (1, 'Plastic Surgery'),
+       (1, 'Preventive Medicine'),
+       (1, 'Psychiatry'),
+       (1, 'Radiology'),
+       (1, 'Surgery'),
+       (1, 'Thoracic Surgery'),
+       (1, 'Urology');

@@ -1,39 +1,40 @@
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Acute bronchitis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Acute laryngopharyngitis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Acute maxillary sinusitis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Adult onset diabetes');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Allergic rhinitis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Alzheimer\'s disease');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Anxiety');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Arthritis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Asthma');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Back pain');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Cardiovascular disease');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Cataracts');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Coronary atherosclerosis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Dementia');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Depression');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Depressive disorder');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Diabetes');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Enlarged prostate');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Fibromyalgia / myositis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'General medical exam');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Glaucoma');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Hyperlipidemia');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Hypertension');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Hypothyroidism');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Join Pain');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Kidney and bladder problems');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Lung disease');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Macular degeneration');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Major depressive disorder');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Malaise and fatigue');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Nail fungus');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Obesity');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Osteoarthritis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Osteoporosis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Parkinson\'s disease');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Reflux esophagitis');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Respiratory problems');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Urinary tract infection');
-INSERT INTO `tbl_diagnosis` (`id_space`, `title`) VALUES (1, 'Visual refractive errors');
+INSERT INTO `tbl_diagnosis` (`id_space`, `title`)
+VALUES (1, 'Acute bronchitis'),
+       (1, 'Acute laryngopharyngitis'),
+       (1, 'Acute maxillary sinusitis'),
+       (1, 'Adult onset diabetes'),
+       (1, 'Allergic rhinitis'),
+       (1, 'Alzheimer\'s disease'),
+       (1, 'Anxiety'),
+       (1, 'Arthritis'),
+       (1, 'Asthma'),
+       (1, 'Back pain'),
+       (1, 'Cardiovascular disease'),
+       (1, 'Cataracts'),
+       (1, 'Coronary atherosclerosis'),
+       (1, 'Dementia'),
+       (1, 'Depression'),
+       (1, 'Depressive disorder'),
+       (1, 'Diabetes'),
+       (1, 'Enlarged prostate'),
+       (1, 'Fibromyalgia / myositis'),
+       (1, 'General medical exam'),
+       (1, 'Glaucoma'),
+       (1, 'Hyperlipidemia'),
+       (1, 'Hypertension'),
+       (1, 'Hypothyroidism'),
+       (1, 'Join Pain'),
+       (1, 'Kidney and bladder problems'),
+       (1, 'Lung disease'),
+       (1, 'Macular degeneration'),
+       (1, 'Major depressive disorder'),
+       (1, 'Malaise and fatigue'),
+       (1, 'Nail fungus'),
+       (1, 'Obesity'),
+       (1, 'Osteoarthritis'),
+       (1, 'Osteoporosis'),
+       (1, 'Parkinson\'s disease'),
+       (1, 'Reflux esophagitis'),
+       (1, 'Respiratory problems'),
+       (1, 'Urinary tract infection'),
+       (1, 'Visual refractive errors');

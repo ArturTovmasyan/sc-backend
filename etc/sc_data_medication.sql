@@ -1,6828 +1,6836 @@
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, '8-Hour Bayer');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, '8-Mop');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'A-Hydrocort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'A-Methapred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'A-N Stannous Aggregated Albumin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'A-Poxide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'A.P.L.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'A/T/S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abacavir And Lamivudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abacavir Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abacavir Sulfate And Lamivudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abacavir Sulfate, Lamivudine And Zidovudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abacavir Sulfate; Lamivudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abacavir; Lamivudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abelcet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abilify');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abilify Maintena Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abilify Mycite Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abitrexate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ablavar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abraxane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abreva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Absorica');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Abstral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acamprosate Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acanya');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acarbose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Accolate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Accretropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Accuneb');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Accupril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Accurbron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Accuretic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Accutane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acebutolol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aceon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acephen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetadote');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen And Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen And Hydrocodone Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen And Pentazocine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen, Aspirin And Caffeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen, Aspirin, And Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen, Caffeine And Dihydrocodeine Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen, Caffeine, And Dihydrocodeine Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetaminophen; Oxycodone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetasol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetasol Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetazolamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetazolamide Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetic Acid 0.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetic Acid 2% In Aqueous Aluminum Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetic Acid W/ Hydrocortisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetohexamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acetylcysteine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aches-N-Pain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Achromycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Achromycin V');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acilac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aciphex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aciphex Sprinkle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acitretin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aclovate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actahist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actemra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acth');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acthar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acthrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acticlate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acticlate Cap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acticort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actidil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actifed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actifed W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actigall');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actimmune');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actin-N');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actinex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actiq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actisite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Activase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Activella');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actonel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actonel With Calcium (Copackaged)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actoplus Met');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actoplus Met Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actos');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Actron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acular');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acular Ls');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acular Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acutect');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acuvail');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acyclovir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acyclovir In Sodium Chloride 0.9% Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acyclovir Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Acylanid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aczone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adagen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adalat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adalat Cc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adapalene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adapalene And Benzoyl Peroxide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adasuve');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adcetris');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adcirca');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall 10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall 12.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall 15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall 20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall 30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall 5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall 7.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall Xr 10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall Xr 15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall Xr 20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall Xr 25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall Xr 30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adderall Xr 5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Addyi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adefovir Dipivoxil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adempas');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adenocard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adenoscan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adenosine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adipex-P');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adlyxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Admelog');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Admelog Solostar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adphen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adrenaclick');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adrenalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adreview');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adriamycin Pfs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adrucil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advair Diskus 100/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advair Diskus 250/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advair Diskus 500/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advair Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil Allergy And Congestion Relief');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil Allergy Sinus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil Cold And Sinus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil Congestion Relief');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil Liqui-Gels');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil Migraine Liqui-Gels');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil Multi-Symptom Cold & Flu');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Advil Pm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adzenys Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Adzenys Xr-Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aerobid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aerolate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aerolate Iii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aerolate Jr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aerolate Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aerolone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aeroseb-Dex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aeroseb-Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aerospan Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aerosporin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Afaxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Afeditab Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Afinitor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Afinitor Disperz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Afirmelle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Afrezza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Afrinol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Agenerase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aggrastat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aggrenox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Agrylin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aimovig');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Airduo Respiclick');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ak-Fluor 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ak-Fluor 25%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ak-Pentolate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akbeta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akineton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akne-Mycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akovaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akpentolate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akpro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akrinol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aktipak');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aktob');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Akynzeo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ala-Cort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ala-Scalp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alamast');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alavert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alaway');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Albalon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Albamycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Albenza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Albuterol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Albuterol Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Albuterol Sulfate And Ipratropium Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alcaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alclometasone Dipropionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alcohol 10% And Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alcohol 5% In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alcohol 5% In Dextrose 5% In Water');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldactazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldactone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldara');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldoclor-150');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldoclor-250');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldomet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldoril 15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldoril 25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldoril D30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldoril D50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aldurazyme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alecensa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alendronate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alesse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aleve');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aleve Pm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aleve-D Sinus & Cold');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alfenta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alfentanil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alferon N Injection');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alfuzosin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alimta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alinia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aliqopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alkeran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alkergot');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allay');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allegra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allegra-D 12 Hour Allergy And Congestion');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allegra-D 24 Hour Allergy And Congestion');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allerfed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allernaze');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alli');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allopurinol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allopurinol Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Allzital');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Almotriptan Malate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alocril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alomide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aloprim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alora');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alosetron Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aloxi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alpha Chymar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphacaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphacaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphacaine Hydrochloride W/ Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphaderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphadrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphagan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphagan P');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alpharedisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphatrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alphazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alprazolam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alprostadil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alsuma');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Altabax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Altace');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Altafluor Benox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Altavera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Altoprev');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aluminum Hydroxide And Magnesium Trisilicate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alunbrig');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alupent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alvesco');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alyacen 1/35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Alyacen 7/7/7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amabelz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amantadine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amaryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ambenyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ambien');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ambien Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ambisome');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ambodryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amcill');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amcinonide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ameluz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amerge');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amerscan Mdp Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amicar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amidate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amifostine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amikin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amikin In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amiloride Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amiloride Hydrochloride And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminess 5.2% Essential Amino Acids W/ Histadine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amino Acids');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminoacetic Acid 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminocaproic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminocaproic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminohippurate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminophylline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminophylline Dye Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminophylline In Sodium Chloride 0.45%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosol 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 10% (Ph6)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 3.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 3.5% M');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 3.5% W/ Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 3.5% W/ Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 4.25% W/ Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 7%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 7% (Ph6)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 7% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 8.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 8.5% (Ph6)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn 8.5% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 10% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 3.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 3.5% In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 3.5% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 3.5% M');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 3.5% M In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 3.5% W/ Electrolytes In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 3.5% W/ Electrolytes In Dextrose 25% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 4.25% In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 4.25% In Dextrose 20% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 4.25% In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 4.25% M In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 4.25% W/ Elect And Adjusted Phosphate In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 4.25% W/ Electrolytes In Dextrose 20% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 4.25% W/ Electrolytes In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 4.25% W/ Electrolytes In Dextrose 25% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 5% In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 5% W/ Electrolytes In Dextrose 25% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 7%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 7% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 8.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn Ii 8.5% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn-Hbc 7%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn-Hf 8%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn-Pf 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn-Pf 7%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aminosyn-Rf 5.2%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amiodarone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amipaque');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amitid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amitiza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amitril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amitriptyline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amjevita');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlexanox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlodipine And Olmesartan Medoxomil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlodipine Besylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlodipine Besylate And Atorvastatin Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlodipine Besylate And Benazepril Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlodipine Besylate And Valsartan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlodipine Besylate, Valsartan And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlodipine Besylate; Benazepril Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amlodipine Maleate; Benazepril Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ammonia N 13');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ammonium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ammonium Chloride 0.9% In Normal Saline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ammonium Chloride 2.14%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ammonium Lactate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ammonul');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amnesteem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amnestrogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amosene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amoxapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amoxicillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amoxicillin And Clavulanate Potassium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amoxil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amphadase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amphetamine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amphotec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amphotericin B');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ampicillin And Sulbactam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ampicillin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ampicillin Trihydrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ampyra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amrinone Lactate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amrix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amturnide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amvaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Amyvid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'An-Dtpa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'An-Maa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'An-Sulfur Colloid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anadrol-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anafranil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anagrelide Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anaprox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anaprox Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anastrozole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ancef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ancef In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ancef In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ancobon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Androderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Androgel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Android 10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Android 25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Android 5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Android-F');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anectine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anestacon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anexsia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anexsia 5/325');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anexsia 7.5/325');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anexsia 7.5/650');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Angeliq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Angio-Conray');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Angiomax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Angiovist 282');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Angiovist 292');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Angiovist 370');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anhydron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anisotropine Methylbromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anoquan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anoro Ellipta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ansaid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ansolysen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anspor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Antabuse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Antagonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Antara (Micronized)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Antepar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anthelios 20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anthelios 40');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anthelios Sx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anthim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Antitussive');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Antivert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Antizol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Antrenyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anturane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anusol Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Anzemet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apadaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aphthasol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apidra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apidra Solostar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aplenzin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apokyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apraclonidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aprepitant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apresazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apresoline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apresoline-Esidrix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Apriso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aptensio Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aptiom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aptivus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aquamephyton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aquaphyllin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aquasol A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aquatag');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aquatensen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aralen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aralen Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aralen Phosphate W/ Primaquine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aramine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aranelle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aranesp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arava');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arcalyst');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arcapta Neohaler');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arduan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aredia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arestin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arestocaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arestocaine Hydrochloride W/ Levonordefrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arfonad');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arformoterol Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Argatroban');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Argatroban In 0.9% Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Argatroban In Dextrose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Argatroban In Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aricept');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aricept Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aridol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aridol Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arimidex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aripiprazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aristada');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aristocort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aristocort A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aristogel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aristospan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arixtra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Armodafinil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Armonair Respiclick');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arnuity Ellipta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aromasin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arranon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arsenic Trioxide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Artane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arthrotec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Articaine Hydrochloride And Epinephrine Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arymo Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Arzerra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asacol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asacol Hd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asbron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asclera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ascor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asellacrin 10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asellacrin 2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asenapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asendin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ashlyna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asmanex Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Asmanex Twisthaler');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aspirin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aspirin And Dipyridamole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Astagraf Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Astelin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Astepro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Astramorph Pf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atacand');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atacand Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atarax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atazanavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atazanavir Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atazanavir Sulfate; Ritonavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atazanavir Sulfate;Ritonavir;Lamivudine;Zidovudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atelvia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atenolol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atenolol And Chlorthalidone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Athentia Next');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Athrombin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Athrombin-K');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ativan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atnaa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atomoxetine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atorvastatin Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atovaquone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atovaquone And Proguanil Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atracurium Besylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atracurium Besylate Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atralin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atridox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atripla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atromid-S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atropine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atropine And Demerol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atropine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atropine Sulfate Ansyr Plastic Syringe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atropine Sulfate Lifeshield Abboject Syringe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atrovent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Atrovent Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aubagio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Augmentin \'125\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Augmentin \'200\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Augmentin \'250\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Augmentin \'400\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Augmentin \'500\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Augmentin \'875\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Augmentin Es-600');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Augmentin Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aureomycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aurovela 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aurovela 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aurovela 24 Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aurovela Fe 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aurovela Fe 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Auryxia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Austedo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Auvi-Q');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avagard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avage');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avalide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avandamet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avandaryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avandia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avapro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avastin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aveed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avelox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avelox In Sodium Chloride 0.8% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aventyl ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aventyl Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aviane-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aviane-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avinza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avita');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avodart');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avonex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Avycaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Axert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Axid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Axid Ar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Axiron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Axotal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Axumin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aygestin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ayuna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azacitidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azactam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azasite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azathioprine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azathioprine Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azdone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azelaic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azelastine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azelastine Hydrochloride And Fluticasone Propionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azelex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azilect');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azithromycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azlin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azmacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azo Gantanol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azo Gantrisin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azolid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azopt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Aztreonam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azulfidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Azulfidine En-Tabs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Baci-Rx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Baciguent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Baciim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bacitracin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bacitracin Zinc And Polymyxin B Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bacitracin Zinc-Neomycin Sulfate-Polymyxin B Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bacitracin Zinc-Polymyxin B Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bacitracin-Neomycin-Polymyxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bacitracin-Neomycin-Polymyxin W/ Hydrocortisone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Baclofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bacteriostatic Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bacteriostatic Water For Injection In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bactocill');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bactrim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bactrim Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bactroban');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Balcoltra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Balneol-Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Balsalazide Disodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Balziva-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Balziva-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bamate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Banan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bancap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bancap Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Banthine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Banzel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Baraclude');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Baros');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Barstatin 100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Basaglar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bavencio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Baxdela');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Baycol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bayer Extra Strength Aspirin For Migraine Pain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beclovent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beconase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beconase Aq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beepen-Vk');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bekyree');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Belbuca');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beldin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beleodaq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Belix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Belsomra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Belviq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Belviq Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benadryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benadryl Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benazepril Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benazepril Hydrochloride And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bendamustine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bendectin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bendeka');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bendopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benemid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benicar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benicar Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benlysta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benoquin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benoxinate Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bensulfoid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bentyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bentyl Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benylin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benzaclin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benzamycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benzedrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benznidazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benzonatate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benzoyl Peroxide And Clindamycin Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benzphetamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benzthiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benztropine Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Benzyl Benzoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bepadin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bepotastine Besilate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bepreve');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Berocca Pn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Berubigen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Besivance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Besponsa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beta-2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beta-Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beta-Val');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betaderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betadine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betagan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betalin 12');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betalin S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betamethasone Acetate And Betamethasone Sodium Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betamethasone Dipropionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betamethasone Sodium Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betamethasone Valerate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betapace');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betapace Af');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betapar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betapen-Vk');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betaprone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betaseron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betatrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betaxolol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betaxon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bethanechol Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bethkis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betimol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betoptic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betoptic Pilo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Betoptic S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bevespi Aerosphere');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bevyxxa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bexarotene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bextra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Beyaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Biaxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Biaxin Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bicalutamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bicillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bicillin C-R');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bicillin C-R 900/300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bicillin L-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bicnu');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bidil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Biktarvy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bilivist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bilopaque');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Biltricide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bimatoprost');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Binosto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bio-Tropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bioscrub');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Biphetamine 12.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Biphetamine 20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Biphetamine 7.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bisoprolol Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bisoprolol Fumarate And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bivalirudin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bivalirudin In 0.9% Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Blenoxane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bleomycin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bleph-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bleph-30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Blephamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Blephamide S.O.P.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Blincyto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Blisovi 24 Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Blisovi Fe 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Blisovi Fe 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Blocadren');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bloxiverz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Boniva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bonjesta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bontril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bontril Pdm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Borofair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bortezomib');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bosulif');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Botox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Branchamin 4%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bravelle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Breathtek Ubt For H-Pylori');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Breo Ellipta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brethaire');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bretylium Tosylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bretylium Tosylate In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bretylol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brevibloc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brevibloc Double Strength In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brevicon 21-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brevicon 28-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brevital Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bricanyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bridion');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Briellyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brilinta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brimonidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brimonidine Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brimonidine Tartrate; Timolol Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brineura');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brisdelle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bristacycline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bristagen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bristamycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Briviact');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bromanate Dm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bromanyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bromday');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bromfed-Dm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bromfenac Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bromocriptine Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bromodiphenhydramine Hydrochloride And Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brompheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brompheniramine Maleate, Pseudoephedrine Hydrochloride And Dextromethorphan Hydrobromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brompheril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bromsite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Broncho Saline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bronitin Mist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bronkaid Mist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bronkodyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bronkometer');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bronkosol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Brovana');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bryrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bss');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bss Plus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bucet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bucladin-S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Budesonide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bumetanide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bumex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bunavail');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Buphenyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bupivacaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bupivacaine Hydrochloride And Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bupivacaine Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Buprenex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Buprenorphine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Buprenorphine Hydrochloride; Naloxone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bupropion Hydrobromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bupropion Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Buspar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Buspirone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Busulfan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Busulfex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butabarb');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butabarbital');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butabarbital Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butalan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butalbital And Acetaminophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butalbital, Acetaminophen And Caffeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butalbital, Acetaminophen, Caffeine And Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butalbital, Aspirin And Caffeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butalbital, Aspirin, Caffeine And Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butapap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butazolidin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butenafine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Buticaps');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butisol Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butoconazole Nitrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butorphanol Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butorphanol Tartrate Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Butrans');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bydureon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bydureon Bcise');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bydureon Pen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Byetta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Bystolic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Byvalson');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'C-Solve-2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cabazitaxel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cabazitaxel Injection');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cabergoline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cabometyx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Caduet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cafcit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cafergot');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Caffeine Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calan Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcibind');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcijex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcimar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calciparine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcipotriene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcipotriene And Betamethasone Dipropionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcitonin-Salmon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcitriol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcium Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcium Chloride 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcium Disodium Versenate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcium Gluceptate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calcium Gluconate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calderol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Caldolor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calmurid Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calomist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Calquence');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cam-Ap-Es');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cam-Metrazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cambia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Camila');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Camoquin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Campath');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Campral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Camptosar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Canasa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cancidas');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Candesartan Cilexetil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Candesartan Cilexetil; Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Candex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cantil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cap-Profen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capastat Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capecitabine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capital And Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capital Soleil 15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capitrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capoten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capozide 25/15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capozide 25/25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capozide 50/15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capozide 50/25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Caprelsa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Capreomycin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Captopril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Captopril And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carafate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbachol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbaglu');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbamazepine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbastat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbatrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbidopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbidopa And Levodopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbidopa, Levodopa And Entacapone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbilev');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbinoxamine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbocaine W/ Neo-Cobefrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carbon Dioxide, Usp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carboplatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardene In 0.83% Sodium Chloride In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardene In 0.86% Sodium Chloride In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardene In 4.8% Dextrose In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardene In 5.0% Dextrose In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardene Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardiogen-82');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardiografin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardiolite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardioplegic In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardioquin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardiotec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardizem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardizem Cd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardizem La');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardizem Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardrase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardura');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cardura Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carisoprodol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carisoprodol And Aspirin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carisoprodol Compound');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carisoprodol, Aspirin And Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carmol Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carnexiv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carnitor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carnitor Sf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carospir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carteolol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cartia Xt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cartrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carvedilol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Carvedilol Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Casodex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Caspofungin Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Casporyn Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cataflam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Catapres');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Catapres-Tts-1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Catapres-Tts-2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Catapres-Tts-3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Catarase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cathflo Activase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Caverject');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Caverject Impulse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cayston');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceclor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceclor Cd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cedax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cedilanid-D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefaclor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefadroxil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefadyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefazolin And Dextrose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefazolin In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefazolin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefdinir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefepime And Dextrose In Duplex Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefepime Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefepime In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefixime');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefizox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefizox In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefizox In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefmax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefobid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefotan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefotaxime');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefotaxime And Dextrose 2.4% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefotaxime And Dextrose 3.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefotaxime Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefotetan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefotetan And Dextrose In Duplex Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefoxitin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefoxitin And Dextrose In Duplex Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefpiramide Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefpodoxime Proxetil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefprozil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceftazidime');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceftazidime In Dextrose Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceftazidime Sodium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceftin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceftriaxone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceftriaxone And Dextrose In Duplex Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceftriaxone Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefuroxime');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefuroxime And Dextrose In Duplex Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefuroxime Axetil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefuroxime Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cefzil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Celebrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Celecoxib');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Celestone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Celestone Soluspan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Celexa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cellcept');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Celontin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cenestin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Centany');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Centrax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cephalexin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cephalothin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cephalothin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cephalothin Sodium W/ Dextrose In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cephalothin Sodium W/ Sodium Chloride In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cephapirin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cephradine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cephulac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceptaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceradon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cerdelga');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cerebyx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceredase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ceretec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cerezyme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cerubidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cerumenex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cervidil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cesamet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetapred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetirizine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetirizine Hydrochloride Allergy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetirizine Hydrochloride And Pseudoephedrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetirizine Hydrochloride Hives');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetraxal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetrotide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cetylev');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cevimeline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chantix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chemet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chenix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chenodiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chg Scrub');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chibroxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Advil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Allegra Allergy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Allegra Hives');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Cetirizine Hydrochloride Allergy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Cetirizine Hydrochloride Hives Relief');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Claritin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Elixsure');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Fexofenadine Hydrochloride Allergy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Fexofenadine Hydrochloride Hives');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Ibuprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Motrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Motrin Cold');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Zyrtec Allergy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Children\'s Zyrtec Hives Relief');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chirhostim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chirocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlor-Trimeton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloramphenicol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloramphenicol Sodium Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloraprep One-Step');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloraprep One-Step Frepp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloraprep One-Step Sepp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloraprep Single Swabstick');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloraprep Triple Swabstick');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloraprep With Tint');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlordiazachel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlordiazepoxide And Amitriptyline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlordiazepoxide Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorhexidine Gluconate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlormerodrin Hg 197');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorofair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloromycetin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloromycetin Hydrocortisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloromyxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloroprocaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloroptic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloroptic S.O.P.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloroptic-P S.O.P.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chloroquine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorothiazide And Reserpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorothiazide Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorothiazide W/ Reserpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorotrianisene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorpheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorpromazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorpromazine Hydrochloride Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorpropamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorthalidone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chlorzoxazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholbam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholebrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Choledyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Choledyl Sa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholestyramine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholestyramine Light');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Choletec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Choline C-11');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholografin Meglumine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholografin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholovue');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Choloxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cholybar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chorionic Gonadotropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chromalbin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chromic Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chromitope Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chronulac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chymex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Chymodiactin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cialis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cibacalcin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ciclopirox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cida-Stat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cidofovir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cilostazol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ciloxan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cimduo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cimetidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cimetidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cimetidine Hydrochloride In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cimzia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cin-Quin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cinacalcet Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cinnasil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cinobac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cinoxacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cinqair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cintichem Technetium 99M Hedspa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cinvanti');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cipro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cipro Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cipro In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cipro In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cipro Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ciprodex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ciprofloxacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ciprofloxacin Extended Release');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ciprofloxacin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ciprofloxacin In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Circanol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cis-Mdp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cis-Pyro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cisatracurium Besylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cisatracurium Besylate Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cisplatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Citalopram Hydrobromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Citanest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Citanest Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Citanest Plain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Citric Acid; Magnesium Oxide; Sodium Picosulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cladribine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claforan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claforan In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claforan In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claravis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clarinex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clarinex D 24 Hour');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clarinex-D 12 Hour');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clarithromycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claritin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claritin Hives Relief');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claritin Hives Relief Reditab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claritin Reditabs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claritin-D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Claritin-D 24 Hour');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clemastine Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clenpiq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clenz-Lyte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cleocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cleocin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cleocin Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cleocin Phosphate In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cleocin T');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cleviprex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Climara');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Climara Pro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinda-Derm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindagel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindamycin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindamycin Palmitate Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindamycin Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindamycin Phosphate And Benzoyl Peroxide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindamycin Phosphate And Tretinoin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindamycin Phosphate In 0.9% Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindamycin Phosphate In 5% Dextrose In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindamycin Phosphate In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindesse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clindets');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 2.75/10 Sulfite Free In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 2.75/25 Sulfite Free In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 2.75/5 Sulfite Free In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 4.25/10 Sulfite Free In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 4.25/20 Sulfite Free In Dextrose 20% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 4.25/25 Sulfite Free In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 4.25/5 Sulfite Free In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 5/10 Sulfite Free In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 5/15 Sulfite Free In Dextrose 15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 5/20 Sulfite Free In Dextrose 20% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 5/25 Sulfite Free In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix 5/35 Sulfite Free In Dextrose 35% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 2.75/10 Sulfite Free W/ Elect In Dextrose 10% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 2.75/25 Sulfite Free W/ Elect In Dextrose 25% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 2.75/5 Sulfite Free W/ Elect In Dextrose 5% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 4.25/10 Sulfite Free W/ Elect In Dextrose 10% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 4.25/20 Sulfite Free W/ Elect In Dextrose 20% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 4.25/25 Sulfite Free W/ Elect In Dextrose 25% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 4.25/5 Sulfite Free W/ Elect In Dextrose 5% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 5/10 Sulfite Free W/ Elect In Dextrose 10% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 5/15 Sulfite Free W/ Elect In Dextrose 15% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 5/20 Sulfite Free W/ Elect In 20% Dextrose W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 5/25 Sulfite Free W/ Elect In Dextrose 25% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinimix E 5/35 Sulfite Free W/ Elect In Dextrose 35% W/ Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinisol 15% Sulfite Free In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinolipid 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clinoril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clistin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clobetasol Propionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clobetasol Propionate (Emollient)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clobex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cloderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clofarabine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clofibrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clolar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clomid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clomiphene Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clomipramine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clonazepam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clonidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clonidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clonidine Hydrochloride And Chlorthalidone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clopidogrel Bisulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clopra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clopra-""Yellow""');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clorazepate Dipotassium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clorotekal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clorpres');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clotrimazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clotrimazole And Betamethasone Dipropionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cloxacillin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cloxapen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clozapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Clozaril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Co-Gesic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Co-Lav');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Coactin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Coartem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cobavite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codeine Phosphate And Chlorpheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codeine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codeine, Aspirin, Apap Formula No. 2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codeine, Aspirin, Apap Formula No. 3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codeine, Aspirin, Apap Formula No. 4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codeprex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codimal-L.A. 12');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codoxy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Codrix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cogentin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cognex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Col-Probenecid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colazal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colbenemid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colchicine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colcrys');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cold Capsule Iv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cold Capsule V');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colesevelam Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colestid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colestipol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colistimethate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colocort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colonaid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colovage');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colprep Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Coly-Mycin M');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Coly-Mycin S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colyte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Colyte-Flavored');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Combigan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Combipatch');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Combipres');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Combivent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Combivent Respimat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Combivir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Combunox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cometriq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Compazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Complera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Compound 65');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Compro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Comtan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Concentraid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Concerta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Condylox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Conray');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Conray 30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Conray 325');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Conray 400');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Conray 43');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Constilac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Constulose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Contrave');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Conzip');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Copaxone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Copegus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cor-Oticin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cordarone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cordran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cordran N');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cordran Sp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Coreg');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Coreg Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corgard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corlanor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corlopam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cormax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corphed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corphedra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corsym');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cort-Dome');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortalone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortef Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortenema');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corticotropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortifoam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortisone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortisporin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortrophin-Zinc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cortrosyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corvert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Corzide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cosentyx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cosmegen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cosopt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cosopt Pf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cosyntropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cotazym');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cotellic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cotempla Xr-Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cotrim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cotrim D.S.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Coumadin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Covera-Hs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cozaar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Creon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Crescormon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cresemba');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Crestor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Crinone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Crixivan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Crolom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cromolyn Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cromoptic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Crotan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cryselle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Crystodigin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Crysvita');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cu-7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cubicin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cubicin Rf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cupric Chloride In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cupric Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cuprimine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Curosurf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Curretab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cutivate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cuvposa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyanocobalamin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyanokit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclacillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclafem 0.5/35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclafem 1/35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclafem 7/7/7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclapen-W');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclessa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclobenzaprine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclocort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclogyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclomydril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclopar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclopentolate Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclophosphamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cycloset');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyclosporine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cycrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyklokapron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cylert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyltezo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cymbalta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyonanz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyproheptadine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cyramza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cystadane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cystagon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cystaran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cysteine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cysto-Conray');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cysto-Conray Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cystografin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cystografin Dilute');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cysview Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cytadren');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cytarabine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cytomel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cytosar-U');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cytotec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cytovene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cytoxan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Cytoxan (Lyophilized)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'D.H.E. 45');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dabigatran Etexilate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dacarbazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dacogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dactinomycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daklinza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dalfampridine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dalgan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daliresp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dalmane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dalvance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Danazol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Danocrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dantrium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dantrolene Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dapiprazole Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dapsone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daptomycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daranide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daraprim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darbid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daricon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darifenacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darifenacin Hydrobromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darunavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darunavir Ethanolate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darunavir Hydrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvocet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvocet A500');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvocet-N 100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvocet-N 50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvon Compound');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvon Compound-65');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvon W/ Asa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvon-N');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darvon-N W/ Asa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Darzalex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dasatinib');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dasetta 1/35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dasetta 7/7/7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Datscan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daunorubicin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daunoxome');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daypro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daypro Alta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daysee');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Daytrana');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ddavp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Deapril-St');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Deca-Durabolin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Decabid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Decaderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Decadron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Decadron W/ Xylocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Decadron-La');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Decapryn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Decaspray');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Decitabine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Declomycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Deferasirox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Deferoxamine Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Definity');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Defitelio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Del-Vi-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delalutin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delatestryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delaxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delcobese');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delestrogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delfen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 1.5% Low Magnesium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 1.5% Low Magnesium Low Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 2.5% Low Magnesium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 2.5% Low Magnesium Low Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 3.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 4.25% Low Magnesium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex W/ Dextrose 4.25% Low Magnesium Low Calcium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex-Lm W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex-Lm W/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex-Lm W/ Dextrose 3.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delflex-Lm W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delsym');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delta-Cortef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delta-Dome');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Deltalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Deltasone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Delzicol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demadex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demeclocycline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demerol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demi-Regroton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demser');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demulen 1/35-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demulen 1/35-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demulen 1/50-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Demulen 1/50-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Denavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dendrid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dentipatch');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depacon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depakene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depakote');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depakote Cp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depakote Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depinar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depo-Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depo-Medrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depo-Provera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depo-Subq Provera 104');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depo-Testadiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depo-Testosterone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depocyt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Depodur');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Derma-Smoothe/Fs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dermabet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dermacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dermatop');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dermatop E Emollient');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dermotic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Descovy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desferal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desflurane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desipramine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desloratadine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desloratadine And Pseudoephedrine Sulfate 24 Hour');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desmopressin Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desmopressin Acetate Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desogestrel And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desogestrel; Ethinyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desonide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desowen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desoximetasone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desoxyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desvenlafaxine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desvenlafaxine Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Desyrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Detrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Detrol La');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexacen-4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexacidin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexamethasone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexamethasone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexamethasone Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexamethasone Sodium Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexamethasone Sodium Phosphate Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexampex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexasporin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexbrompheniramine Maleate And Pseudoephedrine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexchlorpheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexedrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexferrum');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexilant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexilant Solutab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexlansoprazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexmedetomidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexmethylphenidate Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexone 0.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexone 0.75');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexone 1.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexone 4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexrazoxane Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextroamphetamine Saccharate; Amphetamine Aspartate Monohydrate; Dextroamphetamine Sulfate; Amphetamine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextroamphetamine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextromethorphan Hydrobromide And Guaifenesin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextromethorphan Hydrobromide And Quinidine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextromethorphan Polistirex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 10% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 10% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 10% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 10% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 10% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 2.5% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 2.5% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 2.5% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 2.5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 2.5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 2.5% In Half-Strength Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 20% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 25%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 30% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 38.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 4% In Modified Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 40% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Electrolyte No. 48 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Electrolyte No. 75 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Potassium Chloride 0.075% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Potassium Chloride 0.15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Potassium Chloride 0.224% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Potassium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Sodium Chloride 0.225% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% In Acetated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% In Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% In Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% In Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5% In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 0.075%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 0.15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 0.224% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 10Meq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 15Meq (K)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 20Meq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 20Meq (K)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 30Meq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 40Meq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 5Meq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 5Meq (K)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 0.075% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 0.15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 0.22% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 0.30% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 10Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 15Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 20Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 30Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 40Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 5Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 0.075%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 0.15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 0.22% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 15Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 20Meq (K) In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 5Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 50%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 50% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 60%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 60% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 7.7% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrose 70% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dextrostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dexycu Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dhc Plus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Di-Atro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Di-Metrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diabeta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diabinese');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dialyte Concentrate W/ Dextrose 30% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dialyte Concentrate W/ Dextrose 50% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dialyte Lm/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dialyte Lm/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dialyte Lm/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dialyte W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dialyte W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diamox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal 137 W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal 137 W/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal 137 W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Low Calcium W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Low Calcium W/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Low Calcium W/ Dextrose 3.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Low Calcium W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Pd-1 W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Pd-1 W/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Pd-1 W/ Dextrose 3.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Pd-1 W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Pd-2 W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Pd-2 W/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Pd-2 W/ Dextrose 3.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dianeal Pd-2 W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diapid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diasone Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diastat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diastat Acudial');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diatrizoate Meglumine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diatrizoate-60');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diazepam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diazepam Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diazoxide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dibenil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dibenzyline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diclegis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diclofenac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diclofenac Potassium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diclofenac Sodium ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diclofenac Sodium And Misoprostol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dicloxacillin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dicopac Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dicumarol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dicurin Procaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dicyclomine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dicyclomine Hydrochloride (Preservative Free)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Didanosine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Didrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Didronel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dienestrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diethylpropion Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diethylstilbestrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Differin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dificid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diflorasone Diacetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diflucan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diflucan In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diflucan In Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diflunisal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Digoxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Digoxin Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dihydroergotamine Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilacor Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilantin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilantin-125');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilantin-30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilatrate-Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilaudid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilaudid-Hp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilor-400');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dilt-Cd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diltiazem Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diltzac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dimenhydrinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dimetane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dimetane-Dx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dimetane-Ten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dimethyl Sulfoxide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dionosil Aqueous');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dionosil Oily');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diovan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diovan Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dipentum');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diphen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diphenhydramine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diphenhydramine Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diphenoxylate Hydrochloride And Atropine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diphenylan Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dipivefrin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diprivan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diprolene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diprolene Af');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diprosone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dipyridamole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Discase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Disipal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Disobrom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Disomer');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Disophrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Disopyramide Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dispermox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Disulfiram');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ditate-Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ditropan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ditropan Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diucardin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diulo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diupres-250');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diupres-500');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diuril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Diutensen-R');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Divalproex Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Divigel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dizac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dobutamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dobutamine Hydrochloride In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dobutrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doca');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Docefrez');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Docetaxel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dodex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dofetilide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dolene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dolene Ap-65');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dolobid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dolophine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dolutegravir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dolutegravir, Lamivudine, And Tenofovir Disoproxil Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Domeboro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Donepezil Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Donepezil Hydrochloride And Memantine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dopamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dopamine Hydrochloride And Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dopar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dopram');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doptelet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doribax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doriden');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dormate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doryx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doryx Mpc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dorzolamide Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dorzolamide Hydrochloride And Timolol Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dostinex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dotarem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dovonex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dow-Isoniazid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxapram Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxazosin Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxepin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxercalciferol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxil (Liposomal)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxorubicin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxorubicin Hydrochloride (Liposomal)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxy 100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxy 200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxy-Lemmon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxy-Sleep-Aid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxychel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxychel Hyclate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxycycline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxycycline Hyclate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxylamine Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Doxylamine Succinate And Pyridoxine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dralserp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dralzine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Drax Exametazime');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Draximage Mdp-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Draximage Mdp-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dricort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Drisdol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Drixoral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Drixoral Plus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Drolban');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dronabinol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dronedarone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dronedarone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Droperidol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Drospirenone And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Drospirenone, Ethinyl Estradiol And Levomefolate Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Droxia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dtic-Dome');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dtpa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duavee');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duetact');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duexis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dulera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duloxetine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duo-Medihaler');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duodote');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duoneb');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duphalac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dupixent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Durabolin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duracillin A.S.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duraclon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duradyne Dhc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duragesic-100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duragesic-12');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duragesic-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duragesic-37');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duragesic-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duragesic-75');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duramorph Pf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duranest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duraphyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duraprep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duraquin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Durezol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duricef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Durlaza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dutasteride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dutasteride And Tamsulosin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dutoprol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dutrebis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duvoid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Duzallo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dyanavel Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dyazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dycill');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dyclone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dyloject');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dymelor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dymista');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dyna-Hex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dynabac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dynacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dynacirc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dynacirc Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dynapen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dyrenium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Dysport');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Base');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Glades');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Mycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Mycin E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Solve 2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z Prep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z Prep 220');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z Scrub');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z Scrub 201');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z Scrub 241');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z-Cat Dry');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z-Em Prep Lyte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z-Hd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E-Z-Paque');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E.E.S.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E.E.S. 200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'E.E.S. 400');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ec-Naprosyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Econazole Nitrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Econochlor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Econopred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ecoza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Edarbi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Edarbyclor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Edecrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Edex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Edluar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Edrophonium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Edrophonium Chloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Edurant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Efavirenz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Efavirenz 200Mg Scored Tablets');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Efavirenz; Emtricitabine; Tenofovir Disoproxil Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Efavirenz; Lamivudine; Tenofovir Disoproxil Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Effexor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Effexor Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Effient');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Efidac 24 Chlorpheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Efidac 24 Pseudoephedrine Hydrochloride/Brompheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Efudex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Egrifta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elaprase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elase-Chloromycetin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elavil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eldecort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eldepryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elelyso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elestat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elestrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eletriptan Hydrobromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elidel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elifemme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eligard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elimite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elinest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eliphos');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eliquis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elitek');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elixicon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elixomin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elixophyllin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elixophyllin Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ella');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ellence');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elliotts B Solution');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elmiron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elocon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eloxatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Elspar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eltrombopag');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emadine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Embeda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Embeline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Embeline E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Embolex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emcyt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emend');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emete-Con');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emflaza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emgel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emoquette');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Empliciti');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Empracet W/ Codeine Phosphate #3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Empracet W/ Codeine Phosphate #4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emsam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emtricitabine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emtricitabine; Tenofovir Disoproxil Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emtricitabine;Rilpivirine;Tenofovir Disoproxil Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emtricitabine;Tenofovir Disoproxil Fumarate;Nevirapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emtriva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Emverm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enablex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enalapril Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enalapril Maleate And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enalaprilat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enbrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Endari');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Endep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Endometrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Endosol Extra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enduron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enduronyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enduronyl Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enflurane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enjuvia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enlon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enlon-Plus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enovid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enovid-E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enovid-E 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enoxaparin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enoxaparin Sodium (Preservative Free)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enpresse-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enpresse-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enskyce');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enstilar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Entacapone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Entecavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Entereg');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Entocort Ec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Entresto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Entyvio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Enulose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Envarsus Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eovist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epaned');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epaned Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epanova');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epclusa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ephedrine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epi E Z Pen Jr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epicort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epiduo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epiduo Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epifoam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epinastine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epipen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epirubicin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epitol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epivir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epivir-Hbv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eplerenone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epogen/Procrit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epoprostenol Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eprosartan Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eptifibatide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Epzicom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Equagesic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Equanil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Equetro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Equipin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eraxis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erbitux');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erelzi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ergamisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ergocalciferol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ergoloid Mesylates');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ergomar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ergostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ergotamine Tartrate And Caffeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erivedge');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erleada');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erlotinib Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Errin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ertaczo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ertapenem Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erwinaze');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ery-Tab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eryc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eryc 125');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eryc Sprinkles');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erycette');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eryderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erygel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erymax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erypar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eryped');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythra-Derm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythro-Statin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythrocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythrocin Stearate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythromycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythromycin And Benzoyl Peroxide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythromycin Estolate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythromycin Ethylsuccinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythromycin Ethylsuccinate And Sulfisoxazole Acetyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythromycin Lactobionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Erythromycin Stearate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eryzole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esbriet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Escitalopram');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Escitalopram Oxalate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esclim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esgic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esgic-Plus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esidrix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esimil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eskalith');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eskalith Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eskata');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esmolol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esmolol Hydrochloride Double Strength In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esomeprazole Magnesium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esomeprazole Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esomeprazole Strontium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estarylla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estazolam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Esterified Estrogens');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estinyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estrace');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estraderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estradiol And Norethindrone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estradiol And Norgestimate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estradiol Cypionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estradiol Valerate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estradiol Valerate And Dienogest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estradiol Valerate; Estradiol Valerate; Dienogest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estradurin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estraguard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estrasorb');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estratab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estring');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estrogel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estrone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estropipate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estrostep 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estrostep Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Estrovis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eszopiclone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethacrynate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethacrynic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethambutol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethamolin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethchlorvynol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethinyl Estradiol And Levonorgestrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethmozine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethosuximide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethrane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethril 250');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethril 500');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethynodiol Diacetate And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ethyol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etidronate Disodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etodolac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etomidate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etopophos Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etoposide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etrafon 2-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etrafon 2-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etrafon-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Etrafon-Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eucrisa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eulexin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eurax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Euthroid-0.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Euthroid-1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Euthroid-2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Euthroid-3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eutonyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eutron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evalose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evamist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evans Blue');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evekeo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Everolimus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evista');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evoclin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evomela');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evotaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evoxac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Evzio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exalgo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Excedrin (Migraine)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exelderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exelon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exemestane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exforge');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exforge Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exjade');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exondys 51');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exosurf Neonatal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exparel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exsel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Extavia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Extended Phenytoin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Extina');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Extra-Strength Aim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Extraneal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Exubera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Eylea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ezetimibe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ezetimibe And Atorvastatin Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ezetimibe; Simvastatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fabior');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fabrazyme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Factive');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Factrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fallback Solo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Falmina');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Famciclovir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Famotidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Famotidine Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Famotidine, Calcium Carbonate, And Magnesium Hydroxide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Famvir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fanapt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fansidar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fareston');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Farxiga');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Farydak');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fasenra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Faslodex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fastin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fayosim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fazaclo Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Febuxostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Felbamate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Felbatol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Feldene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Felodipine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femara');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femcet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femcon Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femhrt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Feminone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fempatch');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femring');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femstat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femstat 3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Femtrace');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fenofibrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fenofibrate (Micronized)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fenofibric Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fenoglide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fenoldopam Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fenoprofen Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl Citrate And Droperidol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl Citrate Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl-100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl-12');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl-37');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl-62');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl-75');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentanyl-87');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fentora');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Feraheme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Feridex I.V.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ferndex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fernisolone-P');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fernisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ferriprox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ferriseltz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ferrlecit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ferrous Citrate Fe 59');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ferrous Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fertinex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fesoterodine Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fetzima');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fexofenadine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fexofenadine Hydrochloride Allergy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fexofenadine Hydrochloride Hives');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fexofenadine Hydrochloride; Pseudoephedrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fiasp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fiasp Flextouch');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fibricor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Finacea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Finasteride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fingolimod');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fioricet W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fiorinal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fiorinal W/Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Firazyr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Firmagon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Firvanq Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flagyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flagyl Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flagyl I.V.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flagyl I.V. Rtu In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flarex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flavored Colestid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flavoxate Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flaxedil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flecainide Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flector');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flexeril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flexicort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flo-Pred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flolan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flolipid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flomax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flonase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flonase Allergy Relief');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flonase Sensimist Allergy Relief');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Florinef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Florone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Florone E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Floropryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flovent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flovent Diskus 100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flovent Diskus 250');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flovent Diskus 50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flovent Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flowtuss');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Floxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Floxin In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Floxin Otic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Floxuridine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluconazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluconazole In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluconazole In Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flucytosine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fludara');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fludarabine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fludeoxyglucose F18');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fludrocortisone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluidil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flumadine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flumazenil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flunisolide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluocet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluocinolone Acetonide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluocinonide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluocinonide Emulsified Base');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluonid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluor-Op');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluorescite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluorine F-18');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluoroplex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluorouracil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluothane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluotrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluoxetine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluoxetine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluoxymesterone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluphenazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluphenazine Decanoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluphenazine Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluphenazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flurandrenolide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flurazepam Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flurbiprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flurbiprofen Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flutamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Flutex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluticasone Propionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluvastatin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluvoxamine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fluxid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fml');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fml Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fml-S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Foamcoat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Foamicon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Focalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Focalin Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Folex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Folex Pfs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Folic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Folicet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Follistim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Follistim Aq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Follutein');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Folotyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Folvite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Folvron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fomepizole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fondaparinux Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Foradil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Foradil Certihaler');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Forane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Forbaxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Forfivo Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Formoterol Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fortamet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fortaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Forteo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fortesta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fortical');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fortovase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosamax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosamax Plus D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosamprenavir Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosaprepitant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosaprepitant Dimeglumine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Foscarnet Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Foscavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosinopril Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosinopril Sodium And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosphenytoin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fosrenol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fovane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fragmin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Freamine 8.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Freamine Hbc 6.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Freamine Ii 8.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Freamine Iii 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Freamine Iii 3% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Freamine Iii 8.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Freamine Iii 8.5% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Frova');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Frovatriptan Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fudr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fulvicin P/G');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fulvicin P/G 165');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fulvicin P/G 330');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fulvicin-U/F');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Funduscein-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fungizone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Furacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Furadantin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Furalan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Furosemide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Furoxone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fusilev');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fuzeon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fyavolv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Fycompa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gabapentin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gabitril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gablofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gadavist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Galantamine Hydrobromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gallium Citrate Ga 67');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Galzin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gamene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gamophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ganciclovir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ganciclovir Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ganirelix Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ganite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gantanol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gantanol-Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gantrisin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gantrisin Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Garamycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gastrocrom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gastrografin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gastromark');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gastrovist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gatifloxacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gattex Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gaviscon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gazyva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gelnique');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gelnique 3%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gemcitabine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gemcitabine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gemfibrozil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gemifloxacin Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gemonil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gemzar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gen-Xene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Genapax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gencept 10/11-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gencept 10/11-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Generlac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Genesa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gengraf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Genoptic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Genotropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Genotropin Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gentacidin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gentafair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gentak');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gentamicin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gentamicin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gentamicin Sulfate In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Genvoya');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Geocillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Geodon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Geopen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Geref');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gerimal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Germa-Medica');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Germa-Medica ""Mg""');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Giapreza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Giazo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gildagia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gildess 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gildess 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gildess 24 Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gildess Fe 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gildess Fe 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gilenya');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gilotrif');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glatiramer Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glatopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gleevec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gleolan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gleostine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gliadel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glimepiride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glipizide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glipizide And Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glofil-125');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucagen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucagon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucophage');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucophage Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucoscan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucotrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucotrol Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glucovance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glumetza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glutethimide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glyburide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glyburide (Micronized)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glyburide And Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glycerol Phenylbutyrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glycine 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glycolax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glycoprep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glycopyrrolate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glycort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glydo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glynase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glyset');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Glyxambi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Go-Evac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gocovri');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Golytely');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gonal-F');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gonal-F Rff');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gonal-F Rff Redi-Ject');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gonitro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Goprelto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gralise');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Granisetron Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Granisetron Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Granisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Granix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Grifulvin V');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gris-Peg');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Grisactin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Grisactin Ultra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Griseofulvin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Griseofulvin, Ultramicrosize');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Guaifenesin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Guaifenesin And Dextromethorphan Hydrobromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Guaifenesin And Pseudoephedrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Guanabenz Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Guanethidine Monosulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Guanfacine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Guanidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gvs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gynazole-1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gyne-Lotrimin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gyne-Lotrimin 3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gyne-Sulf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gynix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gynodiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Gynorest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'H-Cort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'H.P. Acthar Gel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'H.R.-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Habitrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hailey Fe 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halaven');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halcion');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Haldol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Haldol Solutab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Haldrone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halfan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halflytely');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halobetasol Propionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halog');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halog-E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Haloperidol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Haloperidol Decanoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Haloperidol Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Haloperidol Lactate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halotestin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halotex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Halothane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Harmonyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Harvoni');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hc (Hydrocortisone)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hc #1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hc #4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heather');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heavy Solution Nupercaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hectorol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hedulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Helicosol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Helidac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Helium, Usp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hemabate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hemangeol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hemlibra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hemsol-Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Lock Flush');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 1,000 Units And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 1,000 Units In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 1,000 Units In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 10,000 Units And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 10,000 Units In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 10,000 Units In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 10,000 Units In Sodium Chloride 0.45%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 10,000 Units In Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 12,500 Units In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 12,500 Units In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 12,500 Units In Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 12,500 Units In Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 2,000 Units And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 2,000 Units In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 2,000 Units In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 20,000 Units And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 20,000 Units In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 25,000 Units And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 25,000 Units In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 25,000 Units In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 25,000 Units In Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 25,000 Units In Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 25,000 Units In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 5,000 Units And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 5,000 Units In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 5,000 Units In Sodium Chloride 0.45%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 5,000 Units In Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium 5,000 Units In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heparin Sodium Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hepatamine 8%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hepatasol 8%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hepatolite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hepsera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Heptalac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Her Style');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Herceptin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Herplex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hetlioz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hetrazan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hexa-Betalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hexa-Germ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hexabrix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hexadrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hexalen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hexascrub');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hi-Cor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hibiclens');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hibistat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hicon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hippuran I 131');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hipputope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hiprex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hiserpia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hispril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Histafed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Histalog');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Histamine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hivid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hiwolfia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hms');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Homapin-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Homapin-5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Homatropine Methylbromide And Hydrocodone Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Horizant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog Kwikpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog Mix 50/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog Mix 50/50 Kwikpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog Mix 50/50 Pen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog Mix 75/25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog Mix 75/25 Kwikpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog Mix 75/25 Pen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humalog Pen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humatrope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humegon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humira');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humorsol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin 50/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin 70/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin 70/30 Pen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin Br');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin L');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin N');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin R');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin R Kwikpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin R Pen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Humulin U');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hy-Pam ""25""');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hy-Phen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hycamtin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hycodan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hycofenix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydeltra-Tba');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydeltrasol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydergine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydergine Lc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydra-Zide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydralazine And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydralazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydralazine Hydrochloride And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydralazine Hydrochloride W/ Hydrochlorothiazide 100/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydralazine Hydrochloride W/ Hydrochlorothiazide 25/25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydralazine Hydrochloride W/ Hydrochlorothiazide 50/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydralazine Hydrochloride, Hydrochlorothiazide And Reserpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydralazine, Hydrochlorothiazide W/ Reserpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydramine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrap-Es');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydro-D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydro-Reserp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydro-Ride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydro-Rx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydro-Serp ""25""');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydro-Serp ""50""');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrochlorothiazide Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrochlorothiazide W/ Hydralazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrochlorothiazide W/ Reserpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrochlorothiazide W/ Reserpine And Hydralazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrochlorothiazide; Irbesartan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrochlorothiazide; Valsartan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Bitartrate And Acetaminophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Bitartrate And Chlorpheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Bitartrate And Guaifenesin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Bitartrate And Homatropine Methylbromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Bitartrate And Ibuprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Bitartrate And Pseudoephedrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Bitartrate, Chlorpheniramine Maleate And Pseudoephedrine Hydrochloride ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocodone Polistirex And Chlorpheniramine Polistirex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone Acetate 1% And Pramoxine Hydrochloride 1%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone And Acetic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone Butyrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone In Absorbase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone Sodium Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone Sodium Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortisone Valerate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrocortone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrodiuril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroflumethiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroflumethiazide And Reserpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydrogenated Ergot Alkaloids');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydromorphone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydromox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydromox R');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydropane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydropres 25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydropres 50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroserpine Plus (R-H-H)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxocobalamin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxomin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxychloroquine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxyprogesterone Caproate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxystilbamidine Isethionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxyurea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxyzine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxyzine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hydroxyzine Pamoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hygroton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hylenex Recombinant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hylorel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hypaque');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hypaque Sodium 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hypaque-76');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hypaque-Cysto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hypaque-M,75%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hypaque-M,90%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hyperstat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hyprotigen 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hyserpin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hysingla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hytone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hytrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hyzaar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Hyzyd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibandronate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibrance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibu');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibu-Tab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibu-Tab 200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprofen And Diphenhydramine Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprofen And Diphenhydramine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprofen And Phenylephrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprofen And Pseudoephedrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprofen Lysine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprofen Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprohm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibuprohm Cold And Sinus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ibutilide Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ic-Green');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iclusig');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Idamycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Idamycin Pfs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Idarubicin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Idarubicin Hydrochloride Pfs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Idhifa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Idkit:Hp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ifex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ifex/Mesnex Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ifosfamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ifosfamide/Mesna Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ilaris');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iletin I');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iletin Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ilevro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iloperidone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ilosone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ilosone Sulfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ilotycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ilotycin Gluceptate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ilumya');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iluvien');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imagent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imatinib Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imbruvica');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imdur');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imfinzi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imipenem And Cilastatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imipramine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imipramine Pamoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imiquimod');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imitrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imitrex Statdose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imodium A-D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imodium A-D Ez Chews');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imodium Multi-Symptom Relief');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Impavido');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Implanon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Impoyz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Imuran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inapsine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Incassia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Incivek');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Increlex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Incruse Ellipta ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indapamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inderal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inderal La');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inderide La 120/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inderide La 160/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inderide La 80/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inderide-40/25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inderide-80/25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indiclor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indium In 111 Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indium In 111 Oxyquinoline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indo-Lemmon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indocin Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indocyanine Green');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indomethacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Indomethacin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Infants\' Feverall');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Infasurf Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Infed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inflamase Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inflamase Mild');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inflectra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Infumorph');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Infuvite Adult');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Infuvite Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ingenol Mebutate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ingrezza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inh');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Injectafer');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Injectapap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inlyta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Innofem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Innohep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Innopran Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Innovar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inocor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inomax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inpersol-Lc/Lm W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inpersol-Lc/Lm W/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inpersol-Lc/Lm W/ Dextrose 3.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inpersol-Lc/Lm W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inpersol-Zm W/ Dextrose 1.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inpersol-Zm W/ Dextrose 2.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inpersol-Zm W/ Dextrose 4.25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inspra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Instant Microspheres');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Insulatard Nph Human');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Insulin Insulatard Nph Nordisk');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Insulin Nordisk Mixtard (Pork)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Integrilin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intelence');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intermezzo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intralipid 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intralipid 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intralipid 30%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intrarosa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intron A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Introvale');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Intuniv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inulin And Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invagesic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invagesic Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invanz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invega');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invega Sustenna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invega Trinza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Inversine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invirase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invokamet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invokamet Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Invokana');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iobenguane Sulfate I 131');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iodohippurate Sodium I 131');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iodotope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ionamin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ionosol B And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ionosol Mb And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ionosol T And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ionsys');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iontocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iopamidol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iopamidol-200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iopamidol-250');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iopamidol-300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iopamidol-370');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iopidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iosat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iplex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ipratropium Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iprivask');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iquix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Irbesartan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Irbesartan; Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iressa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Irinotecan Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iron Dextran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Irrigating Solution G In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isentress');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isentress Hd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isibloom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ismelin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ismo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ismotic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isocaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isocaine Hydrochloride W/ Levonordefrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isoclor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isoetharine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isoetharine Hydrochloride S/F');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isoetharine Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isoflurane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte E In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte E In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte H In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte M In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte P In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte R In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte S In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte S In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isolyte S Ph 7.4 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isoniazid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isopaque 280');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isopaque 440');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isoproterenol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isoptin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isopto Atropine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isopto Carpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isopto Cetamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isopto Cetapred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isordil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isosorbide Dinitrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isosorbide Mononitrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isosulfan Blue');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isotretinoin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isovue-128');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isovue-200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isovue-250');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isovue-300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isovue-370');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isovue-M 200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isovue-M 300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isradipine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Istalol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Istodax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Isuprel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Itraconazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Iv Persantine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ivadantin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ivermectin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ivy Block');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ixempra Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ixifi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Izba');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jadelle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jadenu');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jadenu Sprinkle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jaimiess');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jakafi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jalyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Janimine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jantoven');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Janumet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Janumet Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Januvia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jardiance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jeanatope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jencycla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jenloga');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jentadueto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jentadueto Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jetrea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jevtana Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jublia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Juluca');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Junel 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Junel 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Junel Fe 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Junel Fe 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Junior Strength Advil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Junior Strength Ibuprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Junior Strength Motrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Juvisync');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Juxtapid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Jynarque');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'K-Lease');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'K-Tab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'K+10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'K+8');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kabiven In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kadcyla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kadian');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kafocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kainair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kaitlib Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kalbitor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kaletra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kalexate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kalliga');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kalydeco');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kanamycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kanamycin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kantrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kanuma');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kaon Cl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kaon Cl-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kappadione');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kapvay');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Karbinal Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kariva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kayexalate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kazano');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Keflet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Keflex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Keflin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Keftab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kefurox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kefzol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kelnor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kemadrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kemstro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kenacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kenalog');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kenalog In Orabase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kenalog-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kenalog-40');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kenalog-H');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kengreal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kepivance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Keppra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Keppra Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kerledex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kerlone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kerydin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kesso-Gesic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketalar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketamine Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketek');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketoconazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketoprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketorolac Tromethamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketotifen Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ketozole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Keveyis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kevzara');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Keytruda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Khedezla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kimidess');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kineret');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kinevac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kinlytic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kionex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kisqali');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kisqali Femara Co-Pack (Copackaged)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kitabis Pak');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Klaron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Klebcil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Klonopin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Klor-Con');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Klor-Con M10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Klor-Con M15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Klor-Con M20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kloromin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Klotrix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Koglucoid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kombiglyze Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Konakion');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Korlym');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Korostatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kovanaze');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Krystexxa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kurvelo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kuvan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kwell');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kybella');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kyleena');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kynamro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kyprolis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Kytril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Labetalol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Labid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lac-Hydrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lacosamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lacrisert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lactated Ringer\'s And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lactulose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamictal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamictal Cd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamictal Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamictal Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamisil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamisil At');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine And Stavudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine And Tenofovir Disoproxil Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine And Zidovudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine, Nevirapine, And Stavudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine, Zidovudine Tabs 150Mg/300Mg Co-Packaged With Nevirapine Tabs 200Mg');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine, Zidovudine, Nevirapine Tabs 150Mg/300Mg/200Mg');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Nevirapine; Zidovudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Stavudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Stavudine; Nevirapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Tenofovir Disoproxil Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Tenofovir Disoproxil Fumarate; Nevirapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Zidovudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Zidovudine; Abacavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Zidovudine; Efavirenz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine; Zidovudine; Nevirapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine/Nevirapine/Zidovudine Tablets');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine/Tenofovir Disoproxil Fumarate Fdc Tabs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamivudine/Zidovudine 150 Mg/300 Mg Tablets Co-Packaged With Nevirapine 200 Mg Tablets');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamotrigine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lamprene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lanabiotic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Laniazid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lanophyllin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lanorinal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lanoxicaps');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lanoxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lanoxin Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lansoprazole ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lansoprazole, Amoxicillin And Clarithromycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lanthanum Carbonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lantrisul');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lantus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lantus Solostar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lapatinib');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Largon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lariam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Larin 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Larin 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Larin 24 Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Larin Fe 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Larin Fe 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Larodopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Larotid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lartruvo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Laryng-O-Jet Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Laryngotracheal Anesthesia Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lasix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lastacaft');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Latanoprost');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Latisse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Latuda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lax-Lyte With Flavor Packs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Laxilose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lazanda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ledercillin Vk');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leflunomide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lemtrada');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lentard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lente');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lente Iletin Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lente Iletin Ii (Pork)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lente Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lenvima');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leribane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leritine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lescol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lescol Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lessina-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lessina-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Letairis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Letrozole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leucovorin Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leucovorin Calcium Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leukeran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leukine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leuprolide Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Leustatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levalbuterol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levaquin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levaquin In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levatol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levemir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levemir Flexpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levemir Flextouch');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levemir Innolet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levemir Penfill');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levetiracetam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levetiracetam In Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levitra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levlite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levo-Dromoran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levo-T');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levobunolol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levocarnitine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levocetirizine Dihydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levofloxacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levofloxacin In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levofloxacin; Dextrose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levolet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levoleucovorin Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levonest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levonorgestrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levonorgestrel And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levonorgestrel And Ethinyl Estradiol And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levophed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levoprome');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levora 0.15/30-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levora 0.15/30-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levorphanol Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levothyroxine Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levoxyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Levulan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lexapro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lexiscan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lexiva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lexxel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lialda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Librax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Librelease');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Libritabs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Librium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidex-E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine And Prilocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.1% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.2% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.2% In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.2% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.4% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.4% In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.4% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.8% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 0.8% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride 5% And Dextrose 7.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride And Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride Viscous');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Hydrochloride W/ Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaine Viscous');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidocaton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidoderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidopen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lidosite Topical System Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lignospan Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lignospan Standard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liletta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Limbitrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Limbitrol Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Linagliptin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lincocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lincomycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lincomycin Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lincomycin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lindane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Linezolid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Linezolid In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Linzess');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lioresal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liothyronine Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lipidil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lipiodol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lipitor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lipo Gantrisin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lipo-Hepin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lipofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liposyn 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liposyn 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liposyn Ii 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liposyn Ii 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liposyn Iii 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liposyn Iii 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liposyn Iii 30%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liptruzet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liquaemin Lock Flush');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liquaemin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liquaemin Sodium Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liquamar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liquid E-Z-Paque');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Liquid Pred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lisdexamfetamine Dimesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lisinopril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lisinopril And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lithane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lithium Carbonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lithium Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lithobid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lithonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lithostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lithotabs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Livalo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Livostin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo Larin Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo Loestrin Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo Minastrin Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo Simpesse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo-Blisovi Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo-Trol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo-Zumandimine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo/Ovral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo/Ovral Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lo/Ovral-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Locholest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Locholest Light');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Locoid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Locoid Lipocream');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Locorten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lodine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lodine Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lodosyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loestrin 21 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loestrin 21 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loestrin 24 Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loestrin Fe 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loestrin Fe 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Logen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Logilia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lokelma');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lomaira');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lomanate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lomotil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lonhala Magnair Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loniten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lonox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lonsurf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loperamide Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loperamide Hydrochloride And Simethicone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lopid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lopinavir And Ritonavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lopressidone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lopressor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lopressor Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loprox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lopurin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lorabid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loratadine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loratadine And Pseudoephedrine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loratadine Redidose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loraz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lorazepam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lorazepam Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lorazepam Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lorcet-Hd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lorelco');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lorfan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lortab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loryna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Losartan Potassium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Losartan Potassium And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loseasonique');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotemax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotensin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotensin Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotrimin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotrimin Af');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotrimin Ultra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotrisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotronex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lotusate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lovastatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lovaza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lovenox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lovenox (Preservative Free)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Low-Ogestrel-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Low-Ogestrel-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Low-Quel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loxapine Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loxitane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loxitane C');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Loxitane Im');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lozol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lta Ii Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lucemyra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lucentis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ludiomil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lufyllin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lumason');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lumenhance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lumify');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lumigan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lumizyme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lunelle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lunesta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lungaggregate Reagent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lupaneta Pack');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lupron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lupron Depot');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lupron Depot-Ped');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lurasidone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lurasidone Hydrochrloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lusduna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lusedra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lutathera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lutrepulse Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Luveris');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Luvox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Luvox Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Luxiq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Luzu');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lybrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lygen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lymphazurin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lymphoseek Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lynoral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lynparza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lyophilized Cytoxan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lyrica');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lyrica Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lysodren');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Lysteda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M-Predrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M-Zole 3 Combination Pack');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M-Zole 7 Dual Pack');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M.V.C. 9+3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M.V.I. Adult');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M.V.I. Adult (Pharmacy Bulk Package)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M.V.I. Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M.V.I.-12 Adult');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'M.V.I.-12 Lyophilized');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Macrilen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Macrobid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Macrodantin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Macrotec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Macugen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mafenide Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Magnacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Magnesium Hydroxide And Omeprazole And Sodium Bicarbonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Magnesium Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Magnesium Sulfate Anhydrous; Potassium Sulfate; Sodium Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Magnesium Sulfate In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Magnevist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Makena');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Makena (Autoinjector)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Makena Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Malarone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Malarone Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Malathion');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mandol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Manganese Chloride In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Manganese Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mannitol 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mannitol 10% W/ Dextrose 5% In Distilled Water');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mannitol 15%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mannitol 15% W/ Dextrose 5% In Sodium Chloride 0.45%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mannitol 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mannitol 25%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mannitol 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mannitol 5% W/ Dextrose 5% In Sodium Chloride 0.12%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maolate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maprotiline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maraviroc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marcaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marcaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marcaine Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marcaine Hydrochloride W/ Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marcaine Hydrochloride W/ Epinephrine Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marezine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marinol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marlissa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marplan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Marqibo Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Matulane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mavik');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mavyret');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxalt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxalt-Mlt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxaquin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxibolin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxidex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxipime');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxitrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxolon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxzide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Maxzide-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mazanor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Md-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Md-60');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Md-76');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Md-76R');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Md-Gastroview');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mdp-Bracco');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Measurin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mecamylamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meclan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meclizine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meclodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meclofenamate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meclomen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medical Air, Usp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medigesic Plus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medihaler Ergotamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medihaler-Epi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medihaler-Iso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medipren');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medrol Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Medroxyprogesterone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mefenamic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mefloquine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mefoxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mefoxin In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mefoxin In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Megace');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Megace Es');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Megatope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Megestrol Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mekinist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Melamisa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Melfiat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Melfiat-105');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mellaril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mellaril-S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meloxicam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Melphalan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Melphalan Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Memantine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Memantine Hydrochloride And Donepezil Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Membraneblue');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Menadione');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Menest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Menopur');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Menostar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Menotropins');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Menrium 10-4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Menrium 5-2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Menrium 5-4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mentax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mentax-Tc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mepergan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meperidine And Atropine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meperidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meperidine Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mephyton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mepivacaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mepivacaine Hydrochloride W/ Levonordefrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mepriam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meprobamate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meprobamate And Aspirin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mepron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meprospan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mepsevii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mercaptopurine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meretek Ubt Kit (W/ Pranactin)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meridia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meropenem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meropenem And Sodium Chloride In Duplex Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Merrem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mersalyl-Theophylline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mesalamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mesantoin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mesna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mesnex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mestinon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metadate Cd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metadate Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metaglip');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metahydrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metandren');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metaproterenol Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metaraminol Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metastron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metatensin #2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metatensin #4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metaxalone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metformin Hydrochloride And Sitagliptin Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methadone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methadone Hydrochloride Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methadose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methampex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methamphetamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methazolamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methdilazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methenamine Hippurate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methergine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methimazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methocarbamol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methocarbamol And Aspirin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methotrexate Lpf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methotrexate Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methotrexate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methotrexate Sodium Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methoxsalen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methscopolamine Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methyclothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methyclothiazide And Deserpidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methyldopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methyldopa And Chlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methyldopa And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methyldopate Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methyldopate Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methylergonovine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methylin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methylin Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methylnaltrexone Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methylphenidate Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methylprednisolone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methylprednisolone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methylprednisolone Sodium Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Methyltestosterone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meti-Derm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meticortelone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Meticorten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metimyd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metipranolol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metoclopramide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metoclopramide Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metoclopramide Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metocurine Iodide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metolazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metopirone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metoprolol Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metoprolol Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metoprolol Tartrate And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metozolv Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metreton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metro I.V.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metro I.V. In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metrocream');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metrodin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metrogel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metrogel-Vaginal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metrolotion');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metromidol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metronidazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metronidazole Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metubine Iodide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Metvixia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mevacor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mexate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mexate-Aq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mexate-Aq Preserved');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mexiletine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mexitil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mezlin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miacalcin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mibelas 24 Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micardis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micardis Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miconazole 3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miconazole 7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miconazole Nitrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micort-Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micrainin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micro-K');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micro-K 10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micro-K Ls');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Microderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Microgestin 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Microgestin 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Microgestin Fe 1.5/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Microgestin Fe 1/20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Microlite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micronase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Micronor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Microsul');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Microzide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Midamor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Midazolam Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Midazolam Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Midodrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Midol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Midozalam Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mifeprex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Migergot');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miglitol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miglustat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Migranal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mili');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Milnacipran Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Milontin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Milophene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Milprem-200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Milprem-400');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Milrinone Lactate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Milrinone Lactate In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miltown');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minastrin 24 Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minipress');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minipress Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minirin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minitec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minitran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minivelle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minizide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minocycline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minodyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minolira');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Minoxidil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mintezol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miochol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miochol-E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miradon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miralax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Miraluma');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mirapex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mirapex Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mircera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mircette');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mirena');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mirtazapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mirvaso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Misoprostol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mithracin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mitigare');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mitomycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mitosol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mitoxantrone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mitozytrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mivacron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mivacron In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mivacurium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mixtard Human 70/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moban');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mobic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moctanin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Modafinil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moderil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Modicon 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Modicon 28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Modrastane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moduretic 5-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moexipril Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moexipril Hydrochloride And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Molindone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mometasone Furoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Monistat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mono-Linyah');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Monobasic Sodium Phosphate And Dibasic Sodium Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Monocid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Monodox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Monoket');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Monopril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Monopril-Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Montelukast Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Monurol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Morphabond Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Morphine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Motofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Motrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Motrin Ib');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Motrin Migraine Pain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Movantik');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moviprep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moxam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moxatag');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moxeza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moxifloxacin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Moxifloxacin Hydrochloride In Sodium Chloride 0.8% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mozobil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mpi Dmsa Kidney Reagent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mpi Dtpa Kit - Chelate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mpi Indium Dtpa In 111');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mpi Krypton 81M Generator');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mpi Stannous Diphosphonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ms Contin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mucinex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mucinex D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mucinex Dm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mucomyst');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mucomyst W/ Isoproterenol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mucosil-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mucosil-20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Multaq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Multifuge');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Multihance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mupirocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Muse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mustargen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mutamycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mvasi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mvc Plus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myalept');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myambutol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycelex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycelex-7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycelex-G');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mychel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mychel-S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycifradin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycitracin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myco-Triacet Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycobutin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycolog-Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycophenolate Mofetil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycophenolate Mofetil Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycophenolic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mycostatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mydayis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mydriacyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mydriafair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myfed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myfortic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myidyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mykacet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mykinac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mykrox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mylaxen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myleran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mylotarg');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mymethazine Fortis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myobloc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myorisan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myoscint');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myotonachol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myoview');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myoview 30Ml');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myozyme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myrbetriq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mysoline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mytelase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mytesi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mytrex A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Mytrex F');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Myzilra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'N.E.E. 1/35 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'N.E.E. 1/35 28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nabumetone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nadolol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nadolol And Bendroflumethiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nafazair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nafcillin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naftifine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naftin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naglazyme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nalbuphine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nalbuphine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nalfon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nalidixic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nallpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naloxone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naloxone Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naloxone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naloxone Hydrochloride And Pentazocine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naltrexone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Namenda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Namenda Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Namzaric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nandrolone Decanoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nandrolone Phenpropionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naphazoline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naphazoline Hydrochloride And Pheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naphcon Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naphcon-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naprelan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naprosyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naproxen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naproxen And Esomeprazole Magnesium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naproxen Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naproxen Sodium And Pseudoephedrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naqua');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naquival');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naratriptan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Narcan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nardil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nasacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nasacort Allergy 24 Hour');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nasacort Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nasalcrom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nasalide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nasarel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nascobal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nasonex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Natacyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Natazia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nateglinide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Natesto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Natpara');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Natrecor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Natroba');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naturetin-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naturetin-2.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Naturetin-5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Navane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Navelbine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Navstel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nebcin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nebivolol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nebupent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nedocromil Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nefazodone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neggram');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nembutal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nembutal Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo Tect Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Cort-Dome');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Cortef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Delta-Cortef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Fradin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Hydeltrasol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Medrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Medrol Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Polycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Rx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neo-Synalar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neobiotic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neodecadron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin And Polymyxin B Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin And Polymyxin B Sulfates And Bacitracin Zinc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin And Polymyxin B Sulfates And Dexamethasone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin And Polymyxin B Sulfates And Gramicidin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin And Polymyxin B Sulfates And Hydrocortisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin And Polymyxin B Sulfates, Bacitracin Zinc And Hydrocortisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin Sulfate And Dexamethasone Sodium Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin Sulfate And Polymyxin B Sulfate Gramicidin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin Sulfate-Polymyxin B Sulfate-Hydrocortisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neomycin Sulfate-Triamcinolone Acetonide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neopap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neopasalate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neopham 6.4%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neoprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neoral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neosar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neoscan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neosporin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neosporin G.U. Irrigant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neostigmine Methylsulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neothylline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neotrizine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nephramine 5.4%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nephroflow');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neptazane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nerlynx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nesacaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nesacaine-Mpf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nesina');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Netromycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Netspot');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neulasta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neupogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neupro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neuraceq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neuramate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neurolite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neurontin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Neutrexin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nevanac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nevirapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nevirapine Tablets For Oral Suspension');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nexavar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nexcede');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nexesta Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nexium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nexium 24Hr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nexium Iv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nexplanon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nexterone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Niacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Niacor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Niaspan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Niaspan Titration Starter Pack');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nicardipine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nicardipine Hydrochloride In 0.9% Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Niclocide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nicoderm Cq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nicolar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nicorette');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nicotine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nicotine Polacrilex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nicotrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nifedipine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nikita');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nikki');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nilandron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nilstat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nilutamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nimbex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nimbex Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nimodipine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nimotop');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ninlaro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nipent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nipride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nipride Rtu In Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Niravam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nisoldipine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nithiodote');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrious Oxide, Usp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitro Iv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitro-Bid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitro-Dur');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrofurantoin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrofurantoin (Monohydrate/Macrocrystals)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrofurantoin Macrocrystalline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrofurazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrogen, Nf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitroglycerin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitroglycerin In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrolingual');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitromist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitronal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitropress');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nitrous Oxide, Usp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nityr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nizatidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nizoral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nizoral A-D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Noctiva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nogenic Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Noludar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nolvadex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nor-Qd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norcept-E 1/35 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norcept-E 1/35 28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norcet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norco');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norcuron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nordette-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nordette-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norditropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norditropin Flexpro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norditropin Nordiflex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norepinephrine Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethin 1/35E-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethin 1/35E-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethin 1/50M-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethin 1/50M-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone Acetate And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone Acetate And Ethinyl Estradiol And Ferrous Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone And Ethinyl Estradiol (10/11)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone And Ethinyl Estradiol (7/14)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone And Ethinyl Estradiol And Ferrous Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norethindrone And Mestranol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norflex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norgesic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norgesic Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norgestimate And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norgestrel And Ethinyl Estradiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norinyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norinyl 1+35 21-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norinyl 1+35 28-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norinyl 1+50 21-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norinyl 1+50 28-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norinyl 1+80 21-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norinyl 1+80 28-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norisodrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norisodrine Aerotrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Noritate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norlestrin 21 1/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norlestrin 21 2.5/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norlestrin 28 1/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norlestrin Fe 1/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norlestrin Fe 2.5/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norlutate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norlutin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Normiflo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norminest Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Normocarb Hf 25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Normocarb Hf 35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Normodyne');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Normosol-M And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Normosol-R And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Normosol-R In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Normozide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Noroxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norpace');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norpace Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norplant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norpramin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norquest Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Northera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nortrel 0.5/35-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nortrel 0.5/35-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nortrel 1/35-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nortrel 1/35-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nortrel 7/7/7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nortriptyline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norvasc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Norvir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novafed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novamine 11.4%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novamine 15%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novamine 15% Sulfite Free In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novamine 8.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novantrone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novocain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolin 70/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolin L');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolin N');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolin R');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog Flexpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog Flextouch');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog Innolet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog Mix 50/50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog Mix 70/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog Mix 70/30 Flexpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog Mix 70/30 Penfill');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novolog Penfill');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novothyrox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Novrad');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Noxafil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nph Iletin I (Beef-Pork)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nph Iletin Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nph Iletin Ii (Pork)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nph Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nph Purified Pork Isophane Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nplate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nubain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nucala');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nucynta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nucynta Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nuedexta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nulojix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nulytely');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nulytely-Flavored');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Numorphan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nuplazid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nuprin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nuromax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutracort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutrestore');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutrilipid 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutrilipid 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutropin Aq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutropin Aq Nuspin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutropin Aq Pen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nutropin Depot');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nuvaring');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nuvessa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nuvigil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nydrazid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nylia 1/35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nylia 7/7/7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nymalize');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nysert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nystaform');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nystatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nystatin Triamcinolone Acetonide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nystex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Nystop');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Obestin-30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Obredon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oby-Trim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocaliva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocrevus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Octocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Octreoscan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Octreotide Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Octreotide Acetate Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocuclear');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocufen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocuflox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocumycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocupress');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocusert Pilo-20');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocusert Pilo-40');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocusulf-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ocusulf-30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Odefsey');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Odomzo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ofev');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ofirmev');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ofloxacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oforta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ogen .625');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ogen 1.25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ogen 2.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ogen 5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ogestrel 0.5/50-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ogestrel 0.5/50-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ogivri');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olanzapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olanzapine And Fluoxetine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oleptro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olmesartan Medoxomil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olmesartan Medoxomil And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olmesartan Medoxomil, Amlodipine And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olopatadine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olux');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olux E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Olysio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omacor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omega-3-Acid Ethyl Esters');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omeprazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omeprazole And Clarithromycin And Amoxicillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omeprazole And Sodium Bicarbonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omeprazole Magnesium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omidria');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnaris');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnicef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipaque 140');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipaque 180');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipaque 210');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipaque 240');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipaque 300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipaque 350');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipaque 70');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipen (Ampicillin)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipen-N');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnipred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omniscan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omnitrope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omontys');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omontys Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Omtryg');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ona-Mast');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oncaspar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oncovin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ondansetron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ondansetron Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ondansetron Hydrochloride And Dextrose In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ondansetron Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Onexton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Onfi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Onglyza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Onivyde');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Onmel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Onsolis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ontak');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Onzetra Xsail');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opana');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opana Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opcicon One-Step');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opcon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opcon-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opdivo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ophthaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ophthetic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ophthochlor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ophthocort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opill');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opsumit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Opticrom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optimark');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optimark In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optimine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optipranolol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optiray 160');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optiray 240');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optiray 300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optiray 320');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optiray 350');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optison');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optivar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Optomycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ora-Testryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orabase Hca');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orabloc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oracea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oragrafin Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oragrafin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oralone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oraltag');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oramorph Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orapred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orapred Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oraqix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orasone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oraverse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oravig');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orbactiv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orencia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orenitram');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oretic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oreticyl 25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oreticyl 50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oreticyl Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oreton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oreton Methyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orfadin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orgaran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orgatrax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orinase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orinase Diagnostic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orkambi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orlaam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orlex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orlex Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ornidyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orphenadrine Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orphenadrine Citrate, Aspirin, And Caffeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orphengesic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orphengesic Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orsythia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho Cyclen-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho Cyclen-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho Evra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho Tri-Cyclen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho Tri-Cyclen 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho Tri-Cyclen 28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho Tri-Cyclen Lo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Cept');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Est');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 1/35-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 1/35-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 1/50 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 1/50 28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 1/80 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 1/80 28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 10-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 10/11-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 10/11-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 2-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 7/14-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 7/14-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 7/7/7-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ortho-Novum 7/7/7-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orudis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orudis Kt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oruvail');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Orvaten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oseltamivir Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oseni');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osmitrol 10% In Water');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osmitrol 15% In Water');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osmitrol 20% In Water');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osmitrol 5% In Water');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osmolex Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osmoprep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osmovist 190');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osmovist 240');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osphena');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osteolite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Osteoscan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Otezla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oticair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Otiprio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Otobione');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Otobiotic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Otocort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Otovel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Otrexup');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Otrexup Pfs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovcon-35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovcon-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovidrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovral-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovulen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovulen-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ovulen-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxacillin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxaliplatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxandrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxandrolone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxaprozin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxaydo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxazepam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxcarbazepine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxiconazole Nitrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxilan-300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxilan-350');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxistat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxsoralen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxsoralen-Ultra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxtellar Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxtriphylline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxtriphylline Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxy-Kesso-Tetra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxybutynin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxybutynin Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycodone 2.5/Apap 500');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycodone 5/Apap 500');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycodone And Acetaminophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycodone And Aspirin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycodone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycodone Hydrochloride And Acetaminophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycodone Hydrochloride And Ibuprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxycontin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxygen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxygen, Usp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxylone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxymorphone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxyphenbutazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxytetracycline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxytocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxytocin 10 Usp Units In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxytocin 20 Usp Units In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxytocin 5 Usp Units In Dextrose 5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxytrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Oxytrol For Women');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ozempic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ozurdex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'P.A.S. Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pacerone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paclitaxel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pagitane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paliperidone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Palladone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Palonosetron Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pamelor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pamidronate Disodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pamine Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pancreaze');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pancuronium Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pandel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Panheprin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Panixine Disperdose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Panmycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Panretin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pantopaque');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pantoprazole Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Panwarfin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Papa-Deine #3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Papa-Deine #4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paracaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paracort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paradione');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paraflex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parafon Forte Dsc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paragard T 380A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paraplatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parasal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parasal Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parathar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parcopa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paredrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paremyd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paricalcitol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parlodel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parnate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paroex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paromomycin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paroxetine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paroxetine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paroxetine Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parsabiv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Parsidol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paser');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paskalium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pataday');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Patanase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Patanol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pathilon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pathocil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pavulon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paxil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paxil Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Paxipam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pazeo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pbz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pbz-Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pce');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pediamycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pediamycin 400');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pediapred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pediatric Advil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pediatric Lta Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pediazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pediotic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Peg 3350 And Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Peg-3350, Potassium Chloride, Sodium Bicarbonate, Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Peg-3350, Sodium Chloride, Sodium Bicarbonate, Potassium Chloride And Bisacodyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Peg-3350, Sodium Sulfate, Sodium Chloride, Potassium Chloride, Sodium Ascorbate And Ascorbic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Peg-Lyte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Peganone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pegasys');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pegintron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pemetrexed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pemetrexed Disodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pemoline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pen-Vee K');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penapar-Vk');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penbritin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penbritin-S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penecort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penetrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penicillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penicillin G Potassium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penicillin G Potassium In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penicillin G Procaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penicillin G Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penicillin V Potassium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penicillin-2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penicillin-Vk');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penlac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pennsaid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penntuss');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentacarinat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentacef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentamidine Isethionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentasa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentetate Calcium Trisodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentetate Zinc Trisodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Penthrane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentids \'200\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentids \'250\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentids \'400\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentids \'800\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentobarbital Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentolair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentostatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentothal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentoxifylline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pentoxil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pepcid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pepcid Ac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pepcid Complete');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pepcid Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pepcid Rpd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Peptavlon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Perampanel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Perchloracap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Percocet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Percodan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Percodan-Demi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Percorten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Perforomist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pergolide Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pergonal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Periactin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Peridex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Perikabiven In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Perindopril Erbumine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Periochip');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Periogard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Periostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Perjeta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Permapen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Permax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Permethrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Permitil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Perphenazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Perphenazine And Amitriptyline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Persantine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pertofrane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pertzye');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pexeva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pfizer-E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pfizerpen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pfizerpen G');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pfizerpen Vk');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pfizerpen-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pfizerpen-As');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pharmaseal Scrub Care');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenaphen W/ Codeine No. 2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenaphen W/ Codeine No. 3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenaphen W/ Codeine No. 4');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenaphen-650 W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenazine-35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phendimetrazine Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenelzine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenergan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenergan Vc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenergan Vc W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenergan W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenetron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenoxybenzamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phentermine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phentermine Resin 30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phentermine Resin Complex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phentolamine Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenurone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pheny-Pas-Tebamin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenylbutazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenylephrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenylephrine Hydrochloride And Promethazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenytek');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenytex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenytoin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phenytoin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pherazine Dm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pherazine Vc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pherazine Vc W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pherazine W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Philith');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phiso-Scrub');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phisohex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phoslo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phoslo Gelcaps');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phoslyra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phosphocol P32');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phospholine Iodide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phosphotec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phosphotope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Photofrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Photrexa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Photrexa Viscous In Dextran 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phoxillum B22K 4/0 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phoxillum Bk 4/2.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phrenilin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phrenilin Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phrenilin With Caffeine And Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phyllocontin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Physiolyte In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Physiosol In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Physiosol Ph 7.4 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Phytonadione');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Picato');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pilocarpine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pilopine Hs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pimozide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pimtrea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pindac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pindolol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pioglitazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pioglitazone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pioglitazone Hydrochloride And Glimepiride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pioglitazone Hydrochloride And Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Piperacillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Piperacillin And Tazobactam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Piperazine Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pipracil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pirmella 1/35');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pirmella 7/7/7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Piroxicam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pitavastatin Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pitocin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pitressin Tannate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Placidyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plan B');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plaquenil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plasma-Lyte 148 And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plasma-Lyte 148 In Water In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plasma-Lyte 56 And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plasma-Lyte 56 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plasma-Lyte A In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plasma-Lyte M And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plasma-Lyte R In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Platinol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Platinol-Aq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plavix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plegine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plegisol In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plegridy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plenaxis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plendil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Plenvu');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pletal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pliaglis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pmb 200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pmb 400');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Podofilox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polaramine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polocaine W/ Levonordefrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polocaine-Mpf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Poly-Pred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Poly-Rx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polycillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polycillin-N');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polycillin-Prb');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polyethylene Glycol 3350');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polyethylene Glycol 3350 And Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polyethylene Glycol 3350; Sodium Chloride; Sodium Bicarbonate; Potassium Chloride; Bisacodyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polymox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polymycin B Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polymyxin B Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polysporin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Polytrim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pomalyst');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ponstel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Porcine Secretin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Portalac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Portia-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Portia-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Portrazza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Aminosalicylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.037% In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.075% In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.11% In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.149% In Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.15% In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.22% In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.224% In Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 0.3% In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 10Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 10Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 10Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 10Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 10Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 10Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 15Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 15Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 15Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 15Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 15Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Dextrose 5% In Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 20Meq In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 30Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 30Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 30Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 30Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 30Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 30Meq In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 30Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 40Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 40Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 40Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 40Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 40Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 40Meq In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 40Meq In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 40Meq In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 5Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 5Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 5Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 5Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride 5Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Chloride In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potassium Iodide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Potiga');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Povan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Povidone Iodine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pradaxa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pralatrexate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pralidoxime Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Praluent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pramine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pramipexole Dihydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pramosone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prandimet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prandin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prantal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prasugrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pravachol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pravastatin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pravigard Pac (Copackaged)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Praxbind');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prazepam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Praziquantel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prazosin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pre-Pen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pre-Sate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Precedex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Precef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Precose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pred Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pred Mild');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pred-G');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Predair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Predair Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Predamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prednicarbate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prednicen-M');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prednisolone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prednisolone Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prednisolone Sodium Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prednisolone Tebutate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prednisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prednisone Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Predsulfair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Predsulfair Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prefest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prefrin-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pregabalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pregnyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prelay');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prelone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Preludin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Premarin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Premasol 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Premasol 6% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Premphase (Premarin;Cycrin 14/14)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Premphase 14/14');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prempro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prempro (Premarin;Cycrin)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prempro/Premphase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prepidil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prepopik');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Presamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prestalia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevacare R');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevacid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevacid 24 Hr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevacid Iv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevacid Naprapac 250 (Copackaged)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevacid Naprapac 375 (Copackaged)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevacid Naprapac 500 (Copackaged)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevalite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevantics Maxi Swabstick');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevantics Swab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevantics Swabstick');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Preven Emergency Contraceptive Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Previfem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevpac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prevymis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prexxartan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prezcobix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prezista');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prialt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Priftin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prilocaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prilocaine Hydrochloride And Epinephrine Bitartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prilosec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prilosec Otc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Primacor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Primacor In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Primaquine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Primaquine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Primatene Mist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Primaxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Primidone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Primsol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Principen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Principen \'125\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Principen \'250\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Principen \'500\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Principen W/ Probenecid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prinivil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prinzide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Priscoline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol B22Gk 2/0 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol B22Gk 2/2.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol B22Gk 4/0 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol B22Gk 4/2.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bgk 0/2.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bgk 2/0 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bgk 2/3.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bgk 4/0 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bgk 4/0/1.2 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bgk 4/2.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bgk 4/3.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bk 0/0 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bk 0/0/1.2 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bk 0/3.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prismasol Bk 4/2.5 In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pristiq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pro-Banthine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proair Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proair Respiclick');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proamatine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Probalan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Probampacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proben-C');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Probenecid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Probenecid And Colchicine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Probuphine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procainamide Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procainamide Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procaine Hydrochloride W/ Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procalamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procan Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procanbid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procapan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procardia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procardia Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prochlorperazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prochlorperazine Edisylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prochlorperazine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procomp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proctocort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proctofoam Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Procysbi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Profen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Profenal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proferdex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Progestasert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Progesterone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proglycem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prograf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prohance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prohance Multipack');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proketazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proklar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prolensa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proleukin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prolia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prolixin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prolixin Decanoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prolixin Enanthate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proloid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proloprim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promacta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promapar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prometa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prometh Fortis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prometh Hydrochloride,Phenylephrine Hydrochloride W/Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prometh Plain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prometh Vc Plain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prometh Vc W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prometh W/ Dextromethorphan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethacon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Dm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Hydrochloride And Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Hydrochloride And Dextromethorphan Hydrobromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Hydrochloride And Phenylephrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Hydrochloride Plain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Hydrochloride,Phenylephrine Hydrochloride W/Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Plain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Vc Plain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine Vc W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine W/ Dextromethorphan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethazine With Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Promethegan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prometrium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prompt Phenytoin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pronestyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pronestyl-Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propacet 100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propafenone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propantheline Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proparacaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propecia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prophene 65');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propofol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propoxyphene Compound 65');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propoxyphene Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propoxyphene Hydrochloride 65');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propoxyphene Hydrochloride And Acetaminophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propoxyphene Hydrochloride W/ Aspirin And Caffeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propoxyphene Napsylate And Acetaminophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propranolol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propranolol Hydrochloride And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propranolol Hydrochloride Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propulsid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propulsid Quicksolv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Propylthiouracil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proquin Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proscar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prosol 20% Sulfite Free In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prosom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prostaphlin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prostascint');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prostep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prostin E2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prostin F2 Alpha');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prostin Vr Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protamine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protamine Zinc & Iletin I (Beef-Pork)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protamine Zinc And Iletin Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protamine Zinc And Iletin Ii (Pork)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protamine Zinc Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protonix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protonix Iv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protopam Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protopic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protriptyline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Protropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proval #3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Provayblue');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proventil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Proventil-Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Provera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Provigil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Provocholine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prozac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Prozac Weekly');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pseudo-12');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pseudoephedrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pseudoephedrine Hydrochloride And Chlorpheniramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pseudoephedrine Hydrochloride And Triprolidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Psorcon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Psorcon E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pulmicort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pulmicort Flexhaler');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pulmicort Respules');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pulmolite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pulmozyme');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pur-Wash');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Purified Cortrophin Gel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Purinethol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Purixan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pylera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pyocidin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pyopen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pyrazinamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pyridamal 100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pyridostigmine Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pyridoxine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pyrilamine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pyrolite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pytest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Pytest Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Q-Gesic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Q-Pam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qbrelis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qnasl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qoliana');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qsymia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qtern');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quadramet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qualaquin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quartette');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quarzan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quasense');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qudexy Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quelicin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quelicin Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Questran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Questran Light');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quetiapine Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quibron-T');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quibron-T/Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quillichew Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quillivant Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinact');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinaglute');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinalan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinapril Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinapril Hydrochloride And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinaretic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinatime');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinidex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinidine Gluconate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinidine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quinora');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Quixin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qutenza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qvar 40');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qvar 80');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Qvar Redihaler');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'R-Gene 10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'R-P Mycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rabeprazole Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Radicava');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Radio-Iodinated (I 125) Serum Albumin (Human)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Radiogardase (Prussian Blue)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Radiogenix System');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Radioiodinated Serum Albumin (Human) Ihsa I 125');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Radionuclide-Labeled (125 I) Fibrinogen (Human) Sensor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Raloxifene Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Raltegravir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ramelteon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ramipril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ranexa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Raniclor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ranitidine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ranitidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ranolazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rapaflo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rapamune');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rapivab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Raplon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rasagiline Mesylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rasuvo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rau-Sed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Raudixin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rauserpin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rautensin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rauval');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rauwiloid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rauwolfia Serpentina');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ravicti');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ravocaine And Novocain W/ Levophed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ravocaine And Novocain W/ Neo-Cobefrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Raxar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Raxibacumab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rayaldee');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rayos');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Razadyne');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Razadyne Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rbc-Scan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Readi-Cat 2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Readi-Cat 2 Smoothies');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rebetol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rebif');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reclast');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rectiv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Redisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Refludan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Regitine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reglan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reglan Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Regonol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Regranex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Regroton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Regular Iletin Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Regular Iletin Ii (Pork)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Regular Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Regular Purified Pork Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rela');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Relafen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Relenza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Relistor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Relpax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Remeron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Remeron Soltab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Remicade');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Remifentanil Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Remodulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Remsed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renacidin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renagel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renamin W/O Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renese');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renese-R');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renflexis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reno-30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reno-60');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reno-Dip');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renocal-76');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renografin-60');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renografin-76');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renoquid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renormax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renotec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renova');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renovist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renovist Ii');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renovue-65');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renovue-Dip');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Renvela');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reopro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Repaglinide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Repaglinide And Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Repatha');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reprexain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Repronex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Requip');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Requip Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rescriptor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rescula');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Resectisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reserpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reserpine And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reserpine And Hydrochlorothiazide-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reserpine And Hydroflumethiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reserpine, Hydrochlorothiazide, And Hydralazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Resporal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Restasis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Restoril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Retacrit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Retavase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Retet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Retin-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Retin-A Micro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Retisert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Retrovir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Revatio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reversol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Revex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Revia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Revlimid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Revonto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rexulti');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Reyataz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rezipas');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rezira');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rezulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rhinocort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rhinocort Allergy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rhofade');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rhopressa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ribasphere');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ribavirin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rid Mousse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ridaura');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rifabutin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rifadin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rifamate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rifampin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rifampin And Isoniazid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rifater');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rilpivirine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rilutek');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Riluzole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rimactane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rimadyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rimantadine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rimifon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rimso-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ringer\'s In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Riomet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Risedronate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Risperdal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Risperdal Consta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Risperidone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ritalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ritalin La');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ritalin-Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ritodrine Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ritodrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ritodrine Hydrochloride In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ritonavir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rituxan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rituxan Hycela');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rivastigmine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rivastigmine Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rizatriptan Benzoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Robaxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Robaxin-750');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Robaxisal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Robengatope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Robimycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Robinul');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Robinul Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Robitet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rocaltrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rocephin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rocephin Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rocephin W/ Dextrose In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rocuronium Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Roflumilast');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rogaine (For Men)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rogaine (For Women)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rogaine Extra Strength (For Men)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Romazicon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rondomycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ropinirole Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ropivacaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rosiglitazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rosiglitazone Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rosiglitazone Maleate And Glimepiride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rosiglitazone Maleate And Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rosuvastatin Calcium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rosuvastatin Zinc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rowasa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Roweepra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Roxicet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Roxicet 5/500');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Roxicodone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Roxilox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Roxiprin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Roxybond');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rozerem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rubex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rubivite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rubraca');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rubramin Pc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rubratope-57');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rubratope-57 Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rubratope-60');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rubratope-60 Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ruby-Fill');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rufen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rufinamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ruvite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ryanodex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rybix Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rydapt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rytary');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rythmol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Rythmol Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ryzodeg 70/30');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ryzolt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'S.A.S.-500');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sabril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Safyral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Saizen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Salagen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Salonpas');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Salpix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Saluron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Salutensin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Salutensin-Demi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Samsca');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sanctura');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sanctura Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sancuso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sandimmune');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sandostatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sandostatin Lar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sandril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sanorex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sansac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sansert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Santyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Saphris');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sapropterin Dihydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sarafem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sarenin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sarisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sarisol No. 1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sarisol No. 2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Satric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Savaysa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Savella');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Saxagliptin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Saxagliptin;Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Saxenda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Scabene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Scandonest L');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Scandonest Plain');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Scanlux-300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Scanlux-370');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sclerosol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Scopolamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Scrubteam Surgical Spongebrush');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Seasonale');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Seasonique');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Secobarbital Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Seconal Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Secreflo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Secretin-Ferring');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sectral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sedapap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Seebri');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Seffin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Segluromet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Selegiline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Selenium Sulfide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Selenomethionine Se 75');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Selfemra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Selsun');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Selzentry');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Semilente');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Semilente Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Semprex-D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sensipar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sensorcaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Septi-Soft');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Septisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Septocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Septra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Septra Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Septra Grape');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ser-A-Gen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ser-Ap-Es');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serentil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serevent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sernivo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Seromycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serophene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Seroquel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Seroquel Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serostim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serostim Lq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serpalan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serpanray');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serpasil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serpasil-Apresoline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serpasil-Esidrix #1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serpasil-Esidrix #2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serpate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serpivite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sertraline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Servisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Serzone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sethotope');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Setlakin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sevelamer Carbonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sevoflurane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sfrowasa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Shade Uvaguard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Signifor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Signifor Lar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Siklos');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sildaflo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sildenafil Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Silenor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Siliq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Silodosin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Silphen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Silvadene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Simbrinza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Simpesse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Simponi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Simponi Aria');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Simulect');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Simvastatin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sine-Aid Ib');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sinemet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sinemet Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sinequan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Singulair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sinografin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sinuva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sirolimus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sirturo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sitagliptin Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sitagliptin Phosphate; Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sitagliptin; Metformin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sitavig');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sivextro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Skelaxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Skelid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sklice');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Skyla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Slo-Bid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Slo-Phyllin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Slow-K');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Smoflipid 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Acetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Aminosalicylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Bicarbonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Butabarbital');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 0.45% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 0.9%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 0.9% ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 0.9% And Potassium Chloride 0.075% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 0.9% And Potassium Chloride 0.15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 0.9% And Potassium Chloride 0.22% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 0.9% And Potassium Chloride 0.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 23.4% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chloride 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Chromate Cr 51');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Ferric Gluconate Complex In Sucrose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Fluoride F 18');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Heparin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Iodide I 123');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Iodide I 131');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Lactate 0.167 Molar In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Lactate In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Nitrite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Nitroprusside');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Oxybate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium P.A.S.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Pentobarbital');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Pertechnetate Tc 99M');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Phenylacetate And Sodium Benzoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Phenylbutyrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Phosphate P 32');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Phosphates In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Polyphosphate-Tin Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Polystyrene Sulfonate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Rose Bengal I 131');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Sulamyd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Sulfacetamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Sulfate, Potassium Sulfate And Magnesium Sulfate ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sodium Thiosulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sojourn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Solage');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Solaraze');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Solatene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Solifenacin Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soliqua 100/33');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soliris');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Solodyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Solosec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soltamox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Solu-Cortef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Solu-Medrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soma');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soma Compound');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soma Compound W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Somatuline Depot');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Somavert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Somophyllin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Somophyllin-Crt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Somophyllin-Df');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Somophyllin-T');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sonata');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sonazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sonorx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soolantra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sorafenib');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sorbitol 3.3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sorbitol 3% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sorbitol-Mannitol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sorbitrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soriatane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sorilux');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sorine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sosol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sotalol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sotradecol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sotret');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sotylize');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sovaldi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soxazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soy-Dome');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soyacal 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Soyacal 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sparine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spectamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spectazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spectracef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spectrobid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spinraza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spiriva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spiriva Respimat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spironolactone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spironolactone And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sporanox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sprintec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Spritam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sprix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sprx-105');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sprx-3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sprycel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sps');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ssd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ssd Af');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stadol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stadol Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stalevo 100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stalevo 125');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stalevo 150');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stalevo 200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stalevo 50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stalevo 75');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stanozide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Staphcillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Starlix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Staticin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Statobex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Statobex-G');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Statrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stavudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stavudine; Lamivudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stavudine; Lamivudine W/Nevirapine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stavudine; Lamivudine; Efavirenz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stavzor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Staxyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Steglatro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Steglujan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stelara');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stelazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stendra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sterane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Steri-Stat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sterile Urea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sterile Water');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sterile Water For Injection');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Steritalc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stie-Cort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stilbestrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stilbetin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stilphostrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stimate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stiolto Respimat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stivarga');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stoxil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Strattera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Strensiq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Streptomycin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Striant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stribild');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Strifon Forte Dsc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Striverdi Respimat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Stromectol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Strontium Chloride Sr-89');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sublimaze Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sublocade');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Suboxone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Subsys');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Subutex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Succinylcholine Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Suclear');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sucostrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sucraid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sucralfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sudafed 12 Hour');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sudafed 24 Hour');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sufenta Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sufentanil Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sular');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulf-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulf-15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfa-Triple #2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfabid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfacel-15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfacetamide Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfacetamide Sodium And Prednisolone Sodium Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfadiazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfadiazine Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfair 10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfair Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfair-15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfalar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfaloid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfamethoprim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfamethoprim-Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfamethoxazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfamethoxazole And Trimethoprim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfamethoxazole And Trimethoprim And Phenazopyridine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfamethoxazole And Trimethoprim Double Strength');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfamethoxazole And Trimethoprim Single Strength');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfamylon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfanilamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfapyridine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfasalazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfatrim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfatrim Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfatrim-Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfatrim-Ss');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfinpyrazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfisoxazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfisoxazole Diolamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfonamides Duplex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulfose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulindac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulmeprim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulmeprim Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulphrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulsoxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulster');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sulten-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sultrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sumatriptan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sumatriptan And Naproxen Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sumatriptan Succinate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sumatriptan Succinate; Naproxen Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sumavel Dosepro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sumycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sunitinib Malate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Supprelin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Supprelin La');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Suprane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Suprax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Suprenza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Suprep Bowel Prep Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Surfaxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Surital');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Surmontil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Survanta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sus-Phrine Sulfite Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sustaire');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sustiva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sustol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sutent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Syeda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sylatron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Sylvant');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symadine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symbicort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symbyax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symdeko (Copackaged)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symfi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symfi Lo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symjepi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symlin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symmetrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Symproic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synagis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synalar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synalar-Hp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synalgos-Dc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synalgos-Dc-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synarel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Syncurine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Syndros');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synercid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synjardy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synjardy Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synkayvite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synophylate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synovalyte In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synribo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synthetic Conjugated Estrogens A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Synthroid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Syntocinon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Syprine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'T-Phyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'T-Stat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tab-Profen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tacaryl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tace');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Taclonex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tacrolimus');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tadalafil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tafinlar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tagamet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tagamet Hb');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tagamet Hb 200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tagamet Hydrochloride In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tagitol V');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tagrisso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Talacen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Talc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Taltz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Talwin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Talwin 50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Talwin Compound');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Talwin Nx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tambocor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tamiflu');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tamoxifen Citrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tamsulosin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tandearil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tanzeum');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tao');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tapazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tapentadol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tapentadol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Taractan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tarceva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Targiniq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Targretin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tarka');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tasigna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tasmar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tatum-T');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tavalisse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tavist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tavist Allergy/Sinus/Headache');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tavist-1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Taxol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Taxotere');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Taytulla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tazarotene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tazicef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tazidime');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tazorac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Taztia Xt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tc 99M-Lungaggregate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tecentriq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tecfidera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technecoll');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technelite');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technescan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technescan Gluceptate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technescan Hida');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technescan Maa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technescan Mag3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technescan Pyp Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Albumin Aggregated Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Diphosphonate-Tin Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Generator');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Hsa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Maa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Mpi Mdp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Sestamibi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Sulfur Colloid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc 99M Tsc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc-99M Mebrofenin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc-99M Pentetate Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technetium Tc-99M Sestamibi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Technivie');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teczem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teebacin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teflaro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tegison');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tegopen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tegretol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tegretol-Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tekamlo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tekturna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tekturna Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teldrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Telepaque');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Telmisartan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Telmisartan And Amlodipine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Telmisartan And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Temaril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Temaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Temazepam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Temodar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Temovate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Temovate E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Temozolomide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ten-K');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tenathan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tencon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tenex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tenofovir Disoproxil Fumarate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tenoretic 100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tenoretic 50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tenormin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tensilon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tensilon Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tenuate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tenuate Dospan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tepadina');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tepanil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tepanil Ten-Tab');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terazol 3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terazol 7');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terazosin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terbinafine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terbutaline Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terconazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terfonyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terra-Cortril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terramycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terramycin W/ Polymyxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Terramycin W/ Polymyxin B Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teslac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teslascan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tessalon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testoderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testoderm Tts');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testopel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testosterone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testosterone Cypionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testosterone Cypionate-Estradiol Cypionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testosterone Enanthate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testosterone Enanthate And Estradiol Valerate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testosterone Propionate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testosterone Undecanoate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Testred');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tesuloid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tetrabenazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tetracaine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tetrachel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tetracycline Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tetracyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tetramed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tetrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teveten');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Teveten Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Texacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thalitone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thallous Chloride Tl 201');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thalomid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tham');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tham-E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theelin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theo-24');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theo-Dur');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theobid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theobid Jr.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theochron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theoclear L.A.-130');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theoclear L.A.-260');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theoclear-100');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theoclear-200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theoclear-80');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theolair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theolair-Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theolixir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophyl-225');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophyl-Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline 0.04% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline 0.08% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline 0.16% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline 0.2% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline 0.32% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline 0.4% And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline And Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theophylline-Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theovent');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thermazene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Theroxidil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thiamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thioguanine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thiola');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thioplex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thioridazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thioridazine Hydrochloride Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thiosulfil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thiotepa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thiothixene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thiothixene Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thiothixene Hydrochloride Intensol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thorazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thrive');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thypinone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrel Trh');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyro-Block');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyro-Tabs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrogen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyroglobulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrolar-0.25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrolar-0.5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrolar-1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrolar-2');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrolar-3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrolar-5');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyrosafe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thyroshield');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Thytropar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tiagabine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tiamate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tiazac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ticagrelor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ticar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ticlid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ticlopidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tigan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tigecycline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tikosyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tilade');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Timentin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Timolide 10-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Timolol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Timolol Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Timoptic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Timoptic In Ocudose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Timoptic-Xe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tindal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tindamax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tinidazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tioconazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tirofiban Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tirosint');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tirosint-Sol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tis-U-Sol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tivicay');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tivorbex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tizanidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tnkase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobi Podhaler');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobradex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobradex St');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobramycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobramycin And Dexamethasone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobramycin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobramycin Sulfate In Sodium Chloride 0.9% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobrasone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tobrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Today');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tofranil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tofranil-Pm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolak');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolazamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolbutamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolcapone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolectin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolectin 600');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolectin Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolinase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolmetin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolterodine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tolterodine Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tonocard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Topamax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Topicort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Topicort Lp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Topicycline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Topiramate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Toposar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Topotecan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Topotecan Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Toprol-Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tora');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Toradol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Torecan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Torisel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tornalate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Torsemide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Totacillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Totacillin-N');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Totect');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Toujeo Max Solostar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Toujeo Solostar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tovalt Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Toviaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tpn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tpn Electrolytes In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tracleer');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tracrium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tracrium Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tradjenta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tramadol Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tramadol Hydrochloride And Acetaminophen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trancopal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trandate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trandate Hct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trandolapril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trandolapril And Verapamil Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tranexamic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tranmep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Transderm Scop');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Transderm-Nitro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tranxene');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tranxene Sd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tranylcypromine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trasicor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trasylol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travamulsion 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travamulsion 20%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 10% W/O Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% In Dextrose 15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% In Dextrose 20% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 20% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 3.5% Sulfite Free W/ Electrolytes In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 3.5% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% In Dextrose 15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% In Dextrose 20% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 15% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 20% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 25% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 5.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 5.5% Sulfite Free W/ Electrolytes In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 5.5% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 5.5% W/O Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 8.5% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 8.5% Sulfite Free W/ Electrolytes In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 8.5% W/ Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travasol 8.5% W/O Electrolytes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travatan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travatan Z');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travert 10% In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Travoprost');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trazodone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Treanda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trecator');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trelegy Ellipta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trelstar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tremfya');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tremin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trental');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Treprostinil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tresiba');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trest');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tretinoin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trexall');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Treximet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trezix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri Lo Sprintec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Estarylla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Legest 21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Legest Fe');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Linyah');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Lo-Estarylla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Lo-Linyah');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Lo-Mili');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Luma');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Mili');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Norinyl 21-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Norinyl 28-Day');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Previfem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tri-Sprintec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triacet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triacin-C');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triacort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triad');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trialodine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triamcinolone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triamcinolone Acetonide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triamcinolone Acetonide In Absorbase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triamcinolone Diacetate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triaminic-12');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triamterene And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triaprin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triatex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triavil 2-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triavil 2-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triavil 4-10');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triavil 4-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triavil 4-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triazolam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tribenzor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trichlorex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trichlormas');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trichlormethiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trichlormethiazide W/ Reserpine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triclos');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tricor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tricor (Micronized)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triderm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tridesilon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tridil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tridione');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trientine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triesence');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triferic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triferic ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trifluoperazine Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trifluoperazine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trifluridine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triglide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trihexyphenidyl Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trilafon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trileptal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trilipix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trilitron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trilyte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimeprazine Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimeth/Sulfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimethobenzamide Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimethobenzamide Hydrochloride Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimethoprim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimethoprim Sulfate And Polymyxin B Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimipramine Maleate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimpex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trimpex 200');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trinalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trintellix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triostat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tripelennamine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triphasil-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triphasil-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triphed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triple Sulfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triple Sulfas');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triple Sulfoid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triprolidine And Pseudoephedrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triprolidine And Pseudoephedrine Hydrochlorides');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triprolidine And Pseudoephedrine Hydrochlorides W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triprolidine Hcl, Pseudoephedrine Hcl And Codeine Phosphate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triprolidine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triprolidine Hydrochloride And Pseudoephedrine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triptodur Kit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trisenox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trisoralen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tritec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Triumeq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trivagizole 3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trivaris');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trivora-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trivora-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trizivir');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trobicin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trogarzo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trokendi Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trophamine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trophamine 10%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tropicacyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tropicamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trospium Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trovan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trovan Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trovan/Zithromax Compliance Pak');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Troxyca Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trulance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trulicity');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Truphylline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trusopt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Truvada');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trymex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Trysul');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tubocurarine Chloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tudorza Pressair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Turgex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tussicaps');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tussigon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tussionex Pennkinetic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tuzistra Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Twinject 0.15');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Twinject 0.3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Twynsta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tybost');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tycolet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tydemy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tygacil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tykerb');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tylenol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tylenol ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tylenol W/ Codeine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tylox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tylox-325');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tymlos');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tymtran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tysabri');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tyvaso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tyzeka');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tyzine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Tz-3');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'U-Cort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'U-Gencin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ucephan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uceris');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ulesfia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ulo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uloric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultacan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultacan Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultiva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultra-Technekow Fm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultracef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultracet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultragris-165');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultragris-330');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultralente');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultralente Insulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultram');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultram Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultratag');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultravate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultravist 150');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultravist 240');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultravist 300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultravist 370');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ultresa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Unasyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uni-Dur');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Unipen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Unipres');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uniretic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Unisom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Unitensen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Unithroid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Unituxin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Univasc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uptravi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uracil Mustard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ureaphil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urecholine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urese');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urispas');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urobak');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urocit-K');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urologic G In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uroplus Ds');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uroplus Ss');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urovist Cysto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urovist Cysto Pediatric');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urovist Meglumine Diu/Ct');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urovist Sodium 300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uroxatral');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urso 250');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Urso Forte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ursodiol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Utibron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uticillin Vk');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uticort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Utimox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Uvadex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'V-Cillin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'V-Cillin K');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vabomere');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vagifem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vagilia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vagistat-1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valacyclovir Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valchlor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valcyte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valganciclovir Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valmid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valnac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valpin 50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valproate Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valproic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valrelease');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valsartan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valsartan And Hydrochlorothiazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valstar Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valtrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valtropin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Valturna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vancenase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vancenase Aq');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vanceril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vanceril Double Strength');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vancocin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vancoled');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vancomycin Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vancomycin Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vancor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vandazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vaniqa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vanobid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vanos');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vansil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vantas');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vantin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vantrela Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vapo-Iso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vaprisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vaprisol In 5% Dextrose In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vardenafil Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Varenicline');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Varenicline Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Varibar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Varibar Honey');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Varibar Nectar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Varibar Thin Honey');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Varithena');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Varubi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vascepa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vascor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vascoray');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vaseretic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vasocidin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vasocon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vasocon-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vasostrict');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vasotec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vasoxyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vazculep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vectibix');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vectical');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vecuronium Bromide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veetids');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veetids \'125\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veetids \'250\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veetids \'500\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veinamine 8%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velban');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velcade');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veletri');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velivet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velosef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velosef \'125\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velosef \'250\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velosef \'500\'');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velosulin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velosulin Br');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velosulin Br Human');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Velphoro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veltane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veltassa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veltin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vemlidy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Venclexta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Venlafaxine Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Venofer');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ventaire');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ventavis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ventolin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ventolin Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ventolin Rotacaps');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vepesid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Verapamil Hcl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Verapamil Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vercyte');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Verdeso');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veregen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Verelan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Verelan Pm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Veriloid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vermidol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vermox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Versacloz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Versapen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Versapen-K');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Versed');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vertavis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Verzenio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vesanoid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vesicare');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vesprin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vexol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vfend');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vi-Dom-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vi-Twel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viadur');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viagra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vibativ');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viberzi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vibisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vibra-Tabs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vibramycin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vicks Formula 44');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vicodin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vicodin Es');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vicodin Hp');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vicoprin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vicoprofen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Victoza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Victrelis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vidaza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Videx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Videx Ec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viekira Pak (Copackaged)');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viekira Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vienva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vigabatrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vigamox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viibryd');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vilazodone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vimizim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vimovo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vimpat');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vinblastine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vincasar Pfs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vincrex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vincristine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vincristine Sulfate Pfs');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vinorelbine Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viocin Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viokace');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viorele');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vioxx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vira-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Virac Rex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viracept');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viramune');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viramune Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Virazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viread');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Virilon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viroptic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Visicol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Visine L.R.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Visine-A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Visionblue');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Visipaque 270');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Visipaque 320');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Viskazide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Visken');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vistaril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vistide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vistogard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Visudyne');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitamin A');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitamin A Palmitate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitamin A Solubilized');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitamin D');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitamin K1');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitaped');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitekta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitrase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitrasert');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vitravene Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vituz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vivactil');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vivelle');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vivelle-Dot');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vivitrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vivlodex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vizamyl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vogelxo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Volmax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Volnea');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Voltaren');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Voltaren-Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vontrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Voraxaze');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Voriconazole');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vosevi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vosol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vosol Hc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vospire Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Votrient');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vpriv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vraylar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vumon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vusion');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vyfemla');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vytorin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vyvanse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vyxeos');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Vyzulta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wampocap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Warfarin Sodium');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Welchol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wellbutrin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wellbutrin Sr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wellbutrin Xl');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wellcovorin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wera');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Westadone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Westcort');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wigraine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wigrettes');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wilpo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Winstrol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wolfina');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Women\'s Rogaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wyamine Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wyamycin E');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wyamycin S');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wydase');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wygesic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wymox');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Wytensin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'X-Trozine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'X-Trozine L.A.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xadago');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xalatan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xalkori');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xanax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xanax Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xarelto');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xartemis Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xatmep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xeljanz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xeljanz Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xeloda');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xenazine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xeneisol');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xenical');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xenon Xe 127');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xenon Xe 133');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xenon Xe 133-V.S.S.');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xeomin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xepi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xerese');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xermelo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xgeva');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xhance');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xiaflex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xibrom');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xifaxan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xigduo Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xiidra');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ximino');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xofigo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xolair');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xolegel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xopenex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xopenex Hfa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xtampza Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xtandi');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xtoro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xulane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xultophy 100/3.6');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xuriden');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylo-Pfan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine 1.5% W/ Dextrose 7.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine 4% Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine 5% W/ Glucose 7.5%');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine Dental');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine Dental With Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine Viscous');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylocaine W/ Epinephrine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xylose');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xyrem');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xyrosa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xyzal');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Xyzal Allergy 24Hr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Yaela');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Yasmin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Yaz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Yervoy');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Yondelis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Yosprala');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ytterbium Yb 169 Dtpa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Yutopar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zaditor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zafirlukast');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zagam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zaleplon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zaltrap');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zanaflex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zanosar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zantac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zantac 150');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zantac 25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zantac 300');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zantac 75');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zarontin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zaroxolyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zarxio');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zavesca');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zaxopam');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zebeta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zecuity');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zefazone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zegerid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zegerid Otc');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zejula');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zelapar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zelboraf');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zelnorm');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zembrace Symtouch');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zemplar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zemuron');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zenatane');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zenavod');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zenpep');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zepatier');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zerbaxa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zerit');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zerit Xr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zerviate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zestoretic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zestril');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zetia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zetonna');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zevalin');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ziac');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ziagen');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ziana');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ziba-Rx');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zidovudine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zileuton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zilretta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zinacef');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zinbryta');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zinc Bacitracin,Neomycin Sulfate,Polymyxin B Sulfate & Hydrocortisone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zinc Chloride In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zinc Sulfate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zinecard');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zingo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zinplava');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zioptan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zipan-25');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zipan-50');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ziprasidone Hydrochloride');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zipsor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zirgan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zithromax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zmax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zocor');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zofran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zofran And Dextrose In Plastic Container');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zofran Odt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zofran Preservative Free');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zohydro Er');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zoladex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zoledronic Acid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zolinza');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zolmitriptan');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zoloft');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zolpidem Tartrate');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zolpimist');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zolyse');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zomacton');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zometa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zomig');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zomig-Zmt');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zonalon');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zonegran');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zonisamide');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zontivity');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zorbtive');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zortress');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zorvolex');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zosyn');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zovia 1/35E-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zovia 1/35E-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zovia 1/50E-21');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zovia 1/50E-28');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zovirax');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Ztlido');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zubsolv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zumandimine');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zuplenz');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zurampic');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zutripro');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyban');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyclara');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zydelig');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zydone');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyflo');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyflo Cr');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyfrel');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zykadia');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zylet');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyloprim');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zymar');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zymaxid');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zypitamag');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyprexa');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyprexa Relprevv');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyprexa Zydis');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyrtec');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zytiga');
-INSERT INTO `tbl_medication` (`id_space`, `title`) VALUES  (1, 'Zyvox');
+INSERT INTO `tbl_medication` (`id_space`, `title`)
+VALUES (1, '8-Hour Bayer'),
+       (1, '8-Mop'),
+       (1, 'A-Hydrocort'),
+       (1, 'A-Methapred'),
+       (1, 'A-N Stannous Aggregated Albumin'),
+       (1, 'A-Poxide'),
+       (1, 'A.P.L.'),
+       (1, 'A/T/S'),
+       (1, 'Abacavir And Lamivudine'),
+       (1, 'Abacavir Sulfate'),
+       (1, 'Abacavir Sulfate And Lamivudine'),
+       (1, 'Abacavir Sulfate, Lamivudine And Zidovudine'),
+       (1, 'Abacavir Sulfate; Lamivudine'),
+       (1, 'Abacavir; Lamivudine'),
+       (1, 'Abelcet'),
+       (1, 'Abilify'),
+       (1, 'Abilify Maintena Kit'),
+       (1, 'Abilify Mycite Kit'),
+       (1, 'Abitrexate'),
+       (1, 'Ablavar'),
+       (1, 'Abraxane'),
+       (1, 'Abreva'),
+       (1, 'Absorica'),
+       (1, 'Abstral'),
+       (1, 'Acamprosate Calcium'),
+       (1, 'Acanya'),
+       (1, 'Acarbose'),
+       (1, 'Accolate'),
+       (1, 'Accretropin'),
+       (1, 'Accuneb'),
+       (1, 'Accupril'),
+       (1, 'Accurbron'),
+       (1, 'Accuretic'),
+       (1, 'Accutane'),
+       (1, 'Acebutolol Hydrochloride'),
+       (1, 'Aceon'),
+       (1, 'Acephen'),
+       (1, 'Acetadote'),
+       (1, 'Acetaminophen'),
+       (1, 'Acetaminophen And Codeine Phosphate'),
+       (1, 'Acetaminophen And Hydrocodone Bitartrate'),
+       (1, 'Acetaminophen And Pentazocine Hydrochloride'),
+       (1, 'Acetaminophen, Aspirin And Caffeine'),
+       (1, 'Acetaminophen, Aspirin, And Codeine Phosphate'),
+       (1, 'Acetaminophen, Caffeine And Dihydrocodeine Bitartrate'),
+       (1, 'Acetaminophen, Caffeine, And Dihydrocodeine Bitartrate'),
+       (1, 'Acetaminophen; Oxycodone Hydrochloride'),
+       (1, 'Acetasol'),
+       (1, 'Acetasol Hc'),
+       (1, 'Acetated Ringer\'s In Plastic Container'),
+       (1, 'Acetazolamide'),
+       (1, 'Acetazolamide Sodium'),
+       (1, 'Acetic Acid'),
+       (1, 'Acetic Acid 0.25% In Plastic Container'),
+       (1, 'Acetic Acid 2% In Aqueous Aluminum Acetate'),
+       (1, 'Acetic Acid W/ Hydrocortisone'),
+       (1, 'Acetohexamide'),
+       (1, 'Acetylcysteine'),
+       (1, 'Aches-N-Pain'),
+       (1, 'Achromycin'),
+       (1, 'Achromycin V'),
+       (1, 'Acilac'),
+       (1, 'Aciphex'),
+       (1, 'Aciphex Sprinkle'),
+       (1, 'Acitretin'),
+       (1, 'Aclovate'),
+       (1, 'Actahist'),
+       (1, 'Actemra'),
+       (1, 'Acth'),
+       (1, 'Acthar'),
+       (1, 'Acthrel'),
+       (1, 'Acticlate'),
+       (1, 'Acticlate Cap'),
+       (1, 'Acticort'),
+       (1, 'Actidil'),
+       (1, 'Actifed'),
+       (1, 'Actifed W/ Codeine'),
+       (1, 'Actigall'),
+       (1, 'Actimmune'),
+       (1, 'Actin-N'),
+       (1, 'Actinex'),
+       (1, 'Actiq'),
+       (1, 'Actisite'),
+       (1, 'Activase'),
+       (1, 'Activella'),
+       (1, 'Actonel'),
+       (1, 'Actonel With Calcium (Copackaged)'),
+       (1, 'Actoplus Met'),
+       (1, 'Actoplus Met Xr'),
+       (1, 'Actos'),
+       (1, 'Actron'),
+       (1, 'Acular'),
+       (1, 'Acular Ls'),
+       (1, 'Acular Preservative Free'),
+       (1, 'Acutect'),
+       (1, 'Acuvail'),
+       (1, 'Acyclovir'),
+       (1, 'Acyclovir In Sodium Chloride 0.9% Preservative Free'),
+       (1, 'Acyclovir Sodium'),
+       (1, 'Acylanid'),
+       (1, 'Aczone'),
+       (1, 'Adagen'),
+       (1, 'Adalat'),
+       (1, 'Adalat Cc'),
+       (1, 'Adapalene'),
+       (1, 'Adapalene And Benzoyl Peroxide'),
+       (1, 'Adasuve'),
+       (1, 'Adcetris'),
+       (1, 'Adcirca'),
+       (1, 'Adderall 10'),
+       (1, 'Adderall 12.5'),
+       (1, 'Adderall 15'),
+       (1, 'Adderall 20'),
+       (1, 'Adderall 30'),
+       (1, 'Adderall 5'),
+       (1, 'Adderall 7.5'),
+       (1, 'Adderall Xr 10'),
+       (1, 'Adderall Xr 15'),
+       (1, 'Adderall Xr 20'),
+       (1, 'Adderall Xr 25'),
+       (1, 'Adderall Xr 30'),
+       (1, 'Adderall Xr 5'),
+       (1, 'Addyi'),
+       (1, 'Adefovir Dipivoxil'),
+       (1, 'Adempas'),
+       (1, 'Adenocard'),
+       (1, 'Adenoscan'),
+       (1, 'Adenosine'),
+       (1, 'Adipex-P'),
+       (1, 'Adlyxin'),
+       (1, 'Admelog'),
+       (1, 'Admelog Solostar'),
+       (1, 'Adphen'),
+       (1, 'Adrenaclick'),
+       (1, 'Adrenalin'),
+       (1, 'Adreview'),
+       (1, 'Adriamycin Pfs'),
+       (1, 'Adrucil'),
+       (1, 'Advair Diskus 100/50'),
+       (1, 'Advair Diskus 250/50'),
+       (1, 'Advair Diskus 500/50'),
+       (1, 'Advair Hfa'),
+       (1, 'Advil'),
+       (1, 'Advil Allergy And Congestion Relief'),
+       (1, 'Advil Allergy Sinus'),
+       (1, 'Advil Cold And Sinus'),
+       (1, 'Advil Congestion Relief'),
+       (1, 'Advil Liqui-Gels'),
+       (1, 'Advil Migraine Liqui-Gels'),
+       (1, 'Advil Multi-Symptom Cold & Flu'),
+       (1, 'Advil Pm'),
+       (1, 'Adzenys Er'),
+       (1, 'Adzenys Xr-Odt'),
+       (1, 'Aerobid'),
+       (1, 'Aerolate'),
+       (1, 'Aerolate Iii'),
+       (1, 'Aerolate Jr'),
+       (1, 'Aerolate Sr'),
+       (1, 'Aerolone'),
+       (1, 'Aeroseb-Dex'),
+       (1, 'Aeroseb-Hc'),
+       (1, 'Aerospan Hfa'),
+       (1, 'Aerosporin'),
+       (1, 'Afaxin'),
+       (1, 'Afeditab Cr'),
+       (1, 'Afinitor'),
+       (1, 'Afinitor Disperz'),
+       (1, 'Afirmelle'),
+       (1, 'Afrezza'),
+       (1, 'Afrinol'),
+       (1, 'Agenerase'),
+       (1, 'Aggrastat'),
+       (1, 'Aggrenox'),
+       (1, 'Agrylin'),
+       (1, 'Aimovig'),
+       (1, 'Airduo Respiclick'),
+       (1, 'Ak-Fluor 10%'),
+       (1, 'Ak-Fluor 25%'),
+       (1, 'Ak-Pentolate'),
+       (1, 'Akbeta'),
+       (1, 'Akineton'),
+       (1, 'Akne-Mycin'),
+       (1, 'Akovaz'),
+       (1, 'Akpentolate'),
+       (1, 'Akpro'),
+       (1, 'Akrinol'),
+       (1, 'Akten'),
+       (1, 'Aktipak'),
+       (1, 'Aktob'),
+       (1, 'Akynzeo'),
+       (1, 'Ala-Cort'),
+       (1, 'Ala-Scalp'),
+       (1, 'Alamast'),
+       (1, 'Alavert'),
+       (1, 'Alaway'),
+       (1, 'Albalon'),
+       (1, 'Albamycin'),
+       (1, 'Albenza'),
+       (1, 'Albuterol'),
+       (1, 'Albuterol Sulfate'),
+       (1, 'Albuterol Sulfate And Ipratropium Bromide'),
+       (1, 'Alcaine'),
+       (1, 'Alclometasone Dipropionate'),
+       (1, 'Alcohol 10% And Dextrose 5%'),
+       (1, 'Alcohol 5% In Dextrose 5%'),
+       (1, 'Alcohol 5% In Dextrose 5% In Water'),
+       (1, 'Aldactazide'),
+       (1, 'Aldactone'),
+       (1, 'Aldara'),
+       (1, 'Aldoclor-150'),
+       (1, 'Aldoclor-250'),
+       (1, 'Aldomet'),
+       (1, 'Aldoril 15'),
+       (1, 'Aldoril 25'),
+       (1, 'Aldoril D30'),
+       (1, 'Aldoril D50'),
+       (1, 'Aldurazyme'),
+       (1, 'Alecensa'),
+       (1, 'Alendronate Sodium'),
+       (1, 'Alesse'),
+       (1, 'Aleve'),
+       (1, 'Aleve Pm'),
+       (1, 'Aleve-D Sinus & Cold'),
+       (1, 'Alfenta'),
+       (1, 'Alfentanil'),
+       (1, 'Alferon N Injection'),
+       (1, 'Alfuzosin Hydrochloride'),
+       (1, 'Alimta'),
+       (1, 'Alinia'),
+       (1, 'Aliqopa'),
+       (1, 'Alkeran'),
+       (1, 'Alkergot'),
+       (1, 'Allay'),
+       (1, 'Allegra'),
+       (1, 'Allegra-D 12 Hour Allergy And Congestion'),
+       (1, 'Allegra-D 24 Hour Allergy And Congestion'),
+       (1, 'Allerfed'),
+       (1, 'Allernaze'),
+       (1, 'Alli'),
+       (1, 'Allopurinol'),
+       (1, 'Allopurinol Sodium'),
+       (1, 'Allzital'),
+       (1, 'Almotriptan Malate'),
+       (1, 'Alocril'),
+       (1, 'Alomide'),
+       (1, 'Aloprim'),
+       (1, 'Alora'),
+       (1, 'Alosetron Hydrochloride'),
+       (1, 'Aloxi'),
+       (1, 'Alpha Chymar'),
+       (1, 'Alphacaine'),
+       (1, 'Alphacaine Hydrochloride'),
+       (1, 'Alphacaine Hydrochloride W/ Epinephrine'),
+       (1, 'Alphaderm'),
+       (1, 'Alphadrol'),
+       (1, 'Alphagan'),
+       (1, 'Alphagan P'),
+       (1, 'Alphalin'),
+       (1, 'Alpharedisol'),
+       (1, 'Alphatrex'),
+       (1, 'Alphazine'),
+       (1, 'Alprazolam'),
+       (1, 'Alprostadil'),
+       (1, 'Alrex'),
+       (1, 'Alsuma'),
+       (1, 'Altabax'),
+       (1, 'Altace'),
+       (1, 'Altafluor Benox'),
+       (1, 'Altavera'),
+       (1, 'Altoprev'),
+       (1, 'Aluminum Hydroxide And Magnesium Trisilicate'),
+       (1, 'Alunbrig'),
+       (1, 'Alupent'),
+       (1, 'Alvesco'),
+       (1, 'Alyacen 1/35'),
+       (1, 'Alyacen 7/7/7'),
+       (1, 'Amabelz'),
+       (1, 'Amantadine Hydrochloride'),
+       (1, 'Amaryl'),
+       (1, 'Ambenyl'),
+       (1, 'Ambien'),
+       (1, 'Ambien Cr'),
+       (1, 'Ambisome'),
+       (1, 'Ambodryl'),
+       (1, 'Amcill'),
+       (1, 'Amcinonide'),
+       (1, 'Ameluz'),
+       (1, 'Amen'),
+       (1, 'Amerge'),
+       (1, 'Amerscan Mdp Kit'),
+       (1, 'Amicar'),
+       (1, 'Amidate'),
+       (1, 'Amifostine'),
+       (1, 'Amikin'),
+       (1, 'Amikin In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Amiloride Hydrochloride'),
+       (1, 'Amiloride Hydrochloride And Hydrochlorothiazide'),
+       (1, 'Aminess 5.2% Essential Amino Acids W/ Histadine'),
+       (1, 'Amino Acids'),
+       (1, 'Aminoacetic Acid 1.5% In Plastic Container'),
+       (1, 'Aminocaproic'),
+       (1, 'Aminocaproic Acid'),
+       (1, 'Aminohippurate Sodium'),
+       (1, 'Aminophylline'),
+       (1, 'Aminophylline Dye Free'),
+       (1, 'Aminophylline In Sodium Chloride 0.45%'),
+       (1, 'Aminosol 5%'),
+       (1, 'Aminosyn 10%'),
+       (1, 'Aminosyn 10% (Ph6)'),
+       (1, 'Aminosyn 3.5%'),
+       (1, 'Aminosyn 3.5% M'),
+       (1, 'Aminosyn 3.5% W/ Dextrose 25% In Plastic Container'),
+       (1, 'Aminosyn 3.5% W/ Dextrose 5% In Plastic Container'),
+       (1, 'Aminosyn 4.25% W/ Dextrose 25% In Plastic Container'),
+       (1, 'Aminosyn 5%'),
+       (1, 'Aminosyn 7%'),
+       (1, 'Aminosyn 7% (Ph6)'),
+       (1, 'Aminosyn 7% W/ Electrolytes'),
+       (1, 'Aminosyn 8.5%'),
+       (1, 'Aminosyn 8.5% (Ph6)'),
+       (1, 'Aminosyn 8.5% W/ Electrolytes'),
+       (1, 'Aminosyn Ii 10%'),
+       (1, 'Aminosyn Ii 10% W/ Electrolytes'),
+       (1, 'Aminosyn Ii 15% In Plastic Container'),
+       (1, 'Aminosyn Ii 3.5%'),
+       (1, 'Aminosyn Ii 3.5% In Dextrose 25% In Plastic Container'),
+       (1, 'Aminosyn Ii 3.5% In Dextrose 5% In Plastic Container'),
+       (1, 'Aminosyn Ii 3.5% M'),
+       (1, 'Aminosyn Ii 3.5% M In Dextrose 5% In Plastic Container'),
+       (1, 'Aminosyn Ii 3.5% W/ Electrolytes In Dextrose 25% In Plastic Container'),
+       (1, 'Aminosyn Ii 3.5% W/ Electrolytes In Dextrose 25% W/ Calcium In Plastic Container'),
+       (1, 'Aminosyn Ii 4.25% In Dextrose 10% In Plastic Container'),
+       (1, 'Aminosyn Ii 4.25% In Dextrose 20% In Plastic Container'),
+       (1, 'Aminosyn Ii 4.25% In Dextrose 25% In Plastic Container'),
+       (1, 'Aminosyn Ii 4.25% M In Dextrose 10% In Plastic Container'),
+       (1, 'Aminosyn Ii 4.25% W/ Elect And Adjusted Phosphate In Dextrose 10% In Plastic Container'),
+       (1, 'Aminosyn Ii 4.25% W/ Electrolytes In Dextrose 20% W/ Calcium In Plastic Container'),
+       (1, 'Aminosyn Ii 4.25% W/ Electrolytes In Dextrose 25% In Plastic Container'),
+       (1, 'Aminosyn Ii 4.25% W/ Electrolytes In Dextrose 25% W/ Calcium In Plastic Container'),
+       (1, 'Aminosyn Ii 5%'),
+       (1, 'Aminosyn Ii 5% In Dextrose 25% In Plastic Container'),
+       (1, 'Aminosyn Ii 5% W/ Electrolytes In Dextrose 25% W/ Calcium In Plastic Container'),
+       (1, 'Aminosyn Ii 7%'),
+       (1, 'Aminosyn Ii 7% W/ Electrolytes'),
+       (1, 'Aminosyn Ii 8.5%'),
+       (1, 'Aminosyn Ii 8.5% W/ Electrolytes'),
+       (1, 'Aminosyn-Hbc 7%'),
+       (1, 'Aminosyn-Hf 8%'),
+       (1, 'Aminosyn-Pf 10%'),
+       (1, 'Aminosyn-Pf 7%'),
+       (1, 'Aminosyn-Rf 5.2%'),
+       (1, 'Amiodarone Hydrochloride'),
+       (1, 'Amipaque'),
+       (1, 'Amitid'),
+       (1, 'Amitiza'),
+       (1, 'Amitril'),
+       (1, 'Amitriptyline Hydrochloride'),
+       (1, 'Amjevita'),
+       (1, 'Amlexanox'),
+       (1, 'Amlodipine And Olmesartan Medoxomil'),
+       (1, 'Amlodipine Besylate'),
+       (1, 'Amlodipine Besylate And Atorvastatin Calcium'),
+       (1, 'Amlodipine Besylate And Benazepril Hydrochloride'),
+       (1, 'Amlodipine Besylate And Valsartan'),
+       (1, 'Amlodipine Besylate, Valsartan And Hydrochlorothiazide'),
+       (1, 'Amlodipine Besylate; Benazepril Hydrochloride'),
+       (1, 'Amlodipine Maleate; Benazepril Hydrochloride'),
+       (1, 'Ammonia N 13'),
+       (1, 'Ammonium Chloride'),
+       (1, 'Ammonium Chloride 0.9% In Normal Saline'),
+       (1, 'Ammonium Chloride 2.14%'),
+       (1, 'Ammonium Lactate'),
+       (1, 'Ammonul'),
+       (1, 'Amnesteem'),
+       (1, 'Amnestrogen'),
+       (1, 'Amosene'),
+       (1, 'Amoxapine'),
+       (1, 'Amoxicillin'),
+       (1, 'Amoxicillin And Clavulanate Potassium'),
+       (1, 'Amoxil'),
+       (1, 'Amphadase'),
+       (1, 'Amphetamine Sulfate'),
+       (1, 'Amphotec'),
+       (1, 'Amphotericin B'),
+       (1, 'Ampicillin And Sulbactam'),
+       (1, 'Ampicillin Sodium'),
+       (1, 'Ampicillin Trihydrate'),
+       (1, 'Ampyra'),
+       (1, 'Amrinone Lactate'),
+       (1, 'Amrix'),
+       (1, 'Amturnide'),
+       (1, 'Amvaz'),
+       (1, 'Amyvid'),
+       (1, 'An-Dtpa'),
+       (1, 'An-Maa'),
+       (1, 'An-Sulfur Colloid'),
+       (1, 'Anadrol-50'),
+       (1, 'Anafranil'),
+       (1, 'Anagrelide Hydrochloride'),
+       (1, 'Anaprox'),
+       (1, 'Anaprox Ds'),
+       (1, 'Anastrozole'),
+       (1, 'Ancef'),
+       (1, 'Ancef In Dextrose 5% In Plastic Container'),
+       (1, 'Ancef In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Ancobon'),
+       (1, 'Androderm'),
+       (1, 'Androgel'),
+       (1, 'Android 10'),
+       (1, 'Android 25'),
+       (1, 'Android 5'),
+       (1, 'Android-F'),
+       (1, 'Anectine'),
+       (1, 'Anestacon'),
+       (1, 'Anexsia'),
+       (1, 'Anexsia 5/325'),
+       (1, 'Anexsia 7.5/325'),
+       (1, 'Anexsia 7.5/650'),
+       (1, 'Angeliq'),
+       (1, 'Angio-Conray'),
+       (1, 'Angiomax'),
+       (1, 'Angiovist 282'),
+       (1, 'Angiovist 292'),
+       (1, 'Angiovist 370'),
+       (1, 'Anhydron'),
+       (1, 'Anisotropine Methylbromide'),
+       (1, 'Anoquan'),
+       (1, 'Anoro Ellipta'),
+       (1, 'Ansaid'),
+       (1, 'Ansolysen'),
+       (1, 'Anspor'),
+       (1, 'Antabuse'),
+       (1, 'Antagonate'),
+       (1, 'Antara (Micronized)'),
+       (1, 'Antepar'),
+       (1, 'Anthelios 20'),
+       (1, 'Anthelios 40'),
+       (1, 'Anthelios Sx'),
+       (1, 'Anthim'),
+       (1, 'Antitussive'),
+       (1, 'Antivert'),
+       (1, 'Antizol'),
+       (1, 'Antrenyl'),
+       (1, 'Anturane'),
+       (1, 'Anusol Hc'),
+       (1, 'Anzemet'),
+       (1, 'Apadaz'),
+       (1, 'Aphthasol'),
+       (1, 'Apidra'),
+       (1, 'Apidra Solostar'),
+       (1, 'Aplenzin'),
+       (1, 'Apogen'),
+       (1, 'Apokyn'),
+       (1, 'Apraclonidine Hydrochloride'),
+       (1, 'Aprepitant'),
+       (1, 'Apresazide'),
+       (1, 'Apresoline'),
+       (1, 'Apresoline-Esidrix'),
+       (1, 'Apriso'),
+       (1, 'Aptensio Xr'),
+       (1, 'Aptiom'),
+       (1, 'Aptivus'),
+       (1, 'Aquamephyton'),
+       (1, 'Aquaphyllin'),
+       (1, 'Aquasol A'),
+       (1, 'Aquatag'),
+       (1, 'Aquatensen'),
+       (1, 'Aralen'),
+       (1, 'Aralen Hydrochloride'),
+       (1, 'Aralen Phosphate W/ Primaquine Phosphate'),
+       (1, 'Aramine'),
+       (1, 'Aranelle'),
+       (1, 'Aranesp'),
+       (1, 'Arava'),
+       (1, 'Arcalyst'),
+       (1, 'Arcapta Neohaler'),
+       (1, 'Arduan'),
+       (1, 'Aredia'),
+       (1, 'Arestin'),
+       (1, 'Arestocaine Hydrochloride'),
+       (1, 'Arestocaine Hydrochloride W/ Levonordefrin'),
+       (1, 'Arfonad'),
+       (1, 'Arformoterol Tartrate'),
+       (1, 'Argatroban'),
+       (1, 'Argatroban In 0.9% Sodium Chloride'),
+       (1, 'Argatroban In Dextrose'),
+       (1, 'Argatroban In Sodium Chloride'),
+       (1, 'Aricept'),
+       (1, 'Aricept Odt'),
+       (1, 'Aridol'),
+       (1, 'Aridol Kit'),
+       (1, 'Arimidex'),
+       (1, 'Aripiprazole'),
+       (1, 'Aristada'),
+       (1, 'Aristocort'),
+       (1, 'Aristocort A'),
+       (1, 'Aristogel'),
+       (1, 'Aristospan'),
+       (1, 'Arixtra'),
+       (1, 'Armodafinil'),
+       (1, 'Armonair Respiclick'),
+       (1, 'Arnuity Ellipta'),
+       (1, 'Aromasin'),
+       (1, 'Arranon'),
+       (1, 'Arsenic Trioxide'),
+       (1, 'Artane'),
+       (1, 'Arthrotec'),
+       (1, 'Articaine Hydrochloride And Epinephrine Bitartrate'),
+       (1, 'Arymo Er'),
+       (1, 'Arzerra'),
+       (1, 'Asacol'),
+       (1, 'Asacol Hd'),
+       (1, 'Asbron'),
+       (1, 'Asclera'),
+       (1, 'Ascor'),
+       (1, 'Asellacrin 10'),
+       (1, 'Asellacrin 2'),
+       (1, 'Asenapine'),
+       (1, 'Asendin'),
+       (1, 'Ashlyna'),
+       (1, 'Asmanex Hfa'),
+       (1, 'Asmanex Twisthaler'),
+       (1, 'Aspirin'),
+       (1, 'Aspirin And Dipyridamole'),
+       (1, 'Astagraf Xl'),
+       (1, 'Astelin'),
+       (1, 'Astepro'),
+       (1, 'Astramorph Pf'),
+       (1, 'Atacand'),
+       (1, 'Atacand Hct'),
+       (1, 'Atarax'),
+       (1, 'Atazanavir'),
+       (1, 'Atazanavir Sulfate'),
+       (1, 'Atazanavir Sulfate; Ritonavir'),
+       (1, 'Atazanavir Sulfate;Ritonavir;Lamivudine;Zidovudine'),
+       (1, 'Atelvia'),
+       (1, 'Atenolol'),
+       (1, 'Atenolol And Chlorthalidone'),
+       (1, 'Athentia Next'),
+       (1, 'Athrombin'),
+       (1, 'Athrombin-K'),
+       (1, 'Ativan'),
+       (1, 'Atnaa'),
+       (1, 'Atomoxetine Hydrochloride'),
+       (1, 'Atorvastatin Calcium'),
+       (1, 'Atovaquone'),
+       (1, 'Atovaquone And Proguanil Hydrochloride'),
+       (1, 'Atracurium Besylate'),
+       (1, 'Atracurium Besylate Preservative Free'),
+       (1, 'Atralin'),
+       (1, 'Atridox'),
+       (1, 'Atripla'),
+       (1, 'Atromid-S'),
+       (1, 'Atropine'),
+       (1, 'Atropine And Demerol'),
+       (1, 'Atropine Sulfate'),
+       (1, 'Atropine Sulfate Ansyr Plastic Syringe'),
+       (1, 'Atropine Sulfate Lifeshield Abboject Syringe'),
+       (1, 'Atrovent'),
+       (1, 'Atrovent Hfa'),
+       (1, 'Aubagio'),
+       (1, 'Augmentin \'125\''),
+       (1, 'Augmentin \'200\''),
+       (1, 'Augmentin \'250\''),
+       (1, 'Augmentin \'400\''),
+       (1, 'Augmentin \'500\''),
+       (1, 'Augmentin \'875\''),
+       (1, 'Augmentin Es-600'),
+       (1, 'Augmentin Xr'),
+       (1, 'Aureomycin'),
+       (1, 'Aurovela 1.5/30'),
+       (1, 'Aurovela 1/20'),
+       (1, 'Aurovela 24 Fe'),
+       (1, 'Aurovela Fe 1.5/30'),
+       (1, 'Aurovela Fe 1/20'),
+       (1, 'Auryxia'),
+       (1, 'Austedo'),
+       (1, 'Auvi-Q'),
+       (1, 'Avagard'),
+       (1, 'Avage'),
+       (1, 'Avalide'),
+       (1, 'Avandamet'),
+       (1, 'Avandaryl'),
+       (1, 'Avandia'),
+       (1, 'Avapro'),
+       (1, 'Avastin'),
+       (1, 'Avc'),
+       (1, 'Aveed'),
+       (1, 'Avelox'),
+       (1, 'Avelox In Sodium Chloride 0.8% In Plastic Container'),
+       (1, 'Aventyl '),
+       (1, 'Aventyl Hydrochloride'),
+       (1, 'Aviane-21'),
+       (1, 'Aviane-28'),
+       (1, 'Avinza'),
+       (1, 'Avita'),
+       (1, 'Avodart'),
+       (1, 'Avonex'),
+       (1, 'Avycaz'),
+       (1, 'Axert'),
+       (1, 'Axid'),
+       (1, 'Axid Ar'),
+       (1, 'Axiron'),
+       (1, 'Axotal'),
+       (1, 'Axumin'),
+       (1, 'Aygestin'),
+       (1, 'Ayuna'),
+       (1, 'Azacitidine'),
+       (1, 'Azactam'),
+       (1, 'Azasite'),
+       (1, 'Azathioprine'),
+       (1, 'Azathioprine Sodium'),
+       (1, 'Azdone'),
+       (1, 'Azelaic Acid'),
+       (1, 'Azelastine Hydrochloride'),
+       (1, 'Azelastine Hydrochloride And Fluticasone Propionate'),
+       (1, 'Azelex'),
+       (1, 'Azilect'),
+       (1, 'Azithromycin'),
+       (1, 'Azlin'),
+       (1, 'Azmacort'),
+       (1, 'Azo Gantanol'),
+       (1, 'Azo Gantrisin'),
+       (1, 'Azolid'),
+       (1, 'Azopt'),
+       (1, 'Azor'),
+       (1, 'Aztreonam'),
+       (1, 'Azulfidine'),
+       (1, 'Azulfidine En-Tabs'),
+       (1, 'Baci-Rx'),
+       (1, 'Baciguent'),
+       (1, 'Baciim'),
+       (1, 'Bacitracin'),
+       (1, 'Bacitracin Zinc And Polymyxin B Sulfate'),
+       (1, 'Bacitracin Zinc-Neomycin Sulfate-Polymyxin B Sulfate'),
+       (1, 'Bacitracin Zinc-Polymyxin B Sulfate'),
+       (1, 'Bacitracin-Neomycin-Polymyxin'),
+       (1, 'Bacitracin-Neomycin-Polymyxin W/ Hydrocortisone Acetate'),
+       (1, 'Baclofen'),
+       (1, 'Bacteriostatic Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Bacteriostatic Water For Injection In Plastic Container'),
+       (1, 'Bactocill'),
+       (1, 'Bactrim'),
+       (1, 'Bactrim Ds'),
+       (1, 'Bactroban'),
+       (1, 'Balcoltra'),
+       (1, 'Balneol-Hc'),
+       (1, 'Balsalazide Disodium'),
+       (1, 'Balziva-21'),
+       (1, 'Balziva-28'),
+       (1, 'Bamate'),
+       (1, 'Banan'),
+       (1, 'Bancap'),
+       (1, 'Bancap Hc'),
+       (1, 'Banthine'),
+       (1, 'Banzel'),
+       (1, 'Baraclude'),
+       (1, 'Baros'),
+       (1, 'Barstatin 100'),
+       (1, 'Basaglar'),
+       (1, 'Bavencio'),
+       (1, 'Baxdela'),
+       (1, 'Baycol'),
+       (1, 'Bayer Extra Strength Aspirin For Migraine Pain'),
+       (1, 'Beclovent'),
+       (1, 'Beconase'),
+       (1, 'Beconase Aq'),
+       (1, 'Beepen-Vk'),
+       (1, 'Bekyree'),
+       (1, 'Belbuca'),
+       (1, 'Beldin'),
+       (1, 'Beleodaq'),
+       (1, 'Belix'),
+       (1, 'Belsomra'),
+       (1, 'Belviq'),
+       (1, 'Belviq Xr'),
+       (1, 'Benadryl'),
+       (1, 'Benadryl Preservative Free'),
+       (1, 'Benazepril Hydrochloride'),
+       (1, 'Benazepril Hydrochloride And Hydrochlorothiazide'),
+       (1, 'Bendamustine Hydrochloride'),
+       (1, 'Bendectin'),
+       (1, 'Bendeka'),
+       (1, 'Bendopa'),
+       (1, 'Benemid'),
+       (1, 'Benicar'),
+       (1, 'Benicar Hct'),
+       (1, 'Benlysta'),
+       (1, 'Benoquin'),
+       (1, 'Benoxinate Hydrochloride'),
+       (1, 'Bensulfoid'),
+       (1, 'Bentyl'),
+       (1, 'Bentyl Preservative Free'),
+       (1, 'Benylin'),
+       (1, 'Benzaclin'),
+       (1, 'Benzamycin'),
+       (1, 'Benzedrine'),
+       (1, 'Benznidazole'),
+       (1, 'Benzonatate'),
+       (1, 'Benzoyl Peroxide And Clindamycin Phosphate'),
+       (1, 'Benzphetamine Hydrochloride'),
+       (1, 'Benzthiazide'),
+       (1, 'Benztropine Mesylate'),
+       (1, 'Benzyl Benzoate'),
+       (1, 'Bepadin'),
+       (1, 'Bepotastine Besilate'),
+       (1, 'Bepreve'),
+       (1, 'Berocca Pn'),
+       (1, 'Berubigen'),
+       (1, 'Besivance'),
+       (1, 'Besponsa'),
+       (1, 'Beta-2'),
+       (1, 'Beta-Hc'),
+       (1, 'Beta-Val'),
+       (1, 'Betaderm'),
+       (1, 'Betadine'),
+       (1, 'Betagan'),
+       (1, 'Betalin 12'),
+       (1, 'Betalin S'),
+       (1, 'Betamethasone Acetate And Betamethasone Sodium Phosphate'),
+       (1, 'Betamethasone Dipropionate'),
+       (1, 'Betamethasone Sodium Phosphate'),
+       (1, 'Betamethasone Valerate'),
+       (1, 'Betapace'),
+       (1, 'Betapace Af'),
+       (1, 'Betapar'),
+       (1, 'Betapen-Vk'),
+       (1, 'Betaprone'),
+       (1, 'Betaseron'),
+       (1, 'Betatrex'),
+       (1, 'Betaxolol Hydrochloride'),
+       (1, 'Betaxon'),
+       (1, 'Bethanechol Chloride'),
+       (1, 'Bethkis'),
+       (1, 'Betimol'),
+       (1, 'Betoptic'),
+       (1, 'Betoptic Pilo'),
+       (1, 'Betoptic S'),
+       (1, 'Bevespi Aerosphere'),
+       (1, 'Bevyxxa'),
+       (1, 'Bexarotene'),
+       (1, 'Bextra'),
+       (1, 'Beyaz'),
+       (1, 'Biaxin'),
+       (1, 'Biaxin Xl'),
+       (1, 'Bicalutamide'),
+       (1, 'Bicillin'),
+       (1, 'Bicillin C-R'),
+       (1, 'Bicillin C-R 900/300'),
+       (1, 'Bicillin L-A'),
+       (1, 'Bicnu'),
+       (1, 'Bidil'),
+       (1, 'Biktarvy'),
+       (1, 'Bilivist'),
+       (1, 'Bilopaque'),
+       (1, 'Biltricide'),
+       (1, 'Bimatoprost'),
+       (1, 'Binosto'),
+       (1, 'Bio-Tropin'),
+       (1, 'Bioscrub'),
+       (1, 'Biphetamine 12.5'),
+       (1, 'Biphetamine 20'),
+       (1, 'Biphetamine 7.5'),
+       (1, 'Bisoprolol Fumarate'),
+       (1, 'Bisoprolol Fumarate And Hydrochlorothiazide'),
+       (1, 'Bivalirudin'),
+       (1, 'Bivalirudin In 0.9% Sodium Chloride'),
+       (1, 'Blenoxane'),
+       (1, 'Bleomycin Sulfate'),
+       (1, 'Bleph-10'),
+       (1, 'Bleph-30'),
+       (1, 'Blephamide'),
+       (1, 'Blephamide S.O.P.'),
+       (1, 'Blincyto'),
+       (1, 'Blisovi 24 Fe'),
+       (1, 'Blisovi Fe 1.5/30'),
+       (1, 'Blisovi Fe 1/20'),
+       (1, 'Blocadren'),
+       (1, 'Bloxiverz'),
+       (1, 'Boniva'),
+       (1, 'Bonjesta'),
+       (1, 'Bontril'),
+       (1, 'Bontril Pdm'),
+       (1, 'Borofair'),
+       (1, 'Bortezomib'),
+       (1, 'Bosulif'),
+       (1, 'Botox'),
+       (1, 'Branchamin 4%'),
+       (1, 'Bravelle'),
+       (1, 'Breathtek Ubt For H-Pylori'),
+       (1, 'Breo Ellipta'),
+       (1, 'Brethaire'),
+       (1, 'Bretylium Tosylate'),
+       (1, 'Bretylium Tosylate In Dextrose 5%'),
+       (1, 'Bretylol'),
+       (1, 'Brevibloc'),
+       (1, 'Brevibloc Double Strength In Plastic Container'),
+       (1, 'Brevicon 21-Day'),
+       (1, 'Brevicon 28-Day'),
+       (1, 'Brevital Sodium'),
+       (1, 'Bricanyl'),
+       (1, 'Bridion'),
+       (1, 'Briellyn'),
+       (1, 'Brilinta'),
+       (1, 'Brimonidine'),
+       (1, 'Brimonidine Tartrate'),
+       (1, 'Brimonidine Tartrate; Timolol Maleate'),
+       (1, 'Brineura'),
+       (1, 'Brisdelle'),
+       (1, 'Bristacycline'),
+       (1, 'Bristagen'),
+       (1, 'Bristamycin'),
+       (1, 'Briviact'),
+       (1, 'Bromanate Dm'),
+       (1, 'Bromanyl'),
+       (1, 'Bromday'),
+       (1, 'Bromfed-Dm'),
+       (1, 'Bromfenac Sodium'),
+       (1, 'Bromocriptine Mesylate'),
+       (1, 'Bromodiphenhydramine Hydrochloride And Codeine Phosphate'),
+       (1, 'Brompheniramine Maleate'),
+       (1, 'Brompheniramine Maleate, Pseudoephedrine Hydrochloride And Dextromethorphan Hydrobromide'),
+       (1, 'Brompheril'),
+       (1, 'Bromsite'),
+       (1, 'Broncho Saline'),
+       (1, 'Bronitin Mist'),
+       (1, 'Bronkaid Mist'),
+       (1, 'Bronkodyl'),
+       (1, 'Bronkometer'),
+       (1, 'Bronkosol'),
+       (1, 'Brovana'),
+       (1, 'Bryrel'),
+       (1, 'Bss'),
+       (1, 'Bss Plus'),
+       (1, 'Bucet'),
+       (1, 'Bucladin-S'),
+       (1, 'Budesonide'),
+       (1, 'Bumetanide'),
+       (1, 'Bumex'),
+       (1, 'Bunavail'),
+       (1, 'Buphenyl'),
+       (1, 'Bupivacaine Hydrochloride'),
+       (1, 'Bupivacaine Hydrochloride And Epinephrine'),
+       (1, 'Bupivacaine Hydrochloride Preservative Free'),
+       (1, 'Buprenex'),
+       (1, 'Buprenorphine Hydrochloride'),
+       (1, 'Buprenorphine Hydrochloride; Naloxone Hydrochloride'),
+       (1, 'Bupropion Hydrobromide'),
+       (1, 'Bupropion Hydrochloride'),
+       (1, 'Buspar'),
+       (1, 'Buspirone Hydrochloride'),
+       (1, 'Busulfan'),
+       (1, 'Busulfex'),
+       (1, 'Butabarb'),
+       (1, 'Butabarbital'),
+       (1, 'Butabarbital Sodium'),
+       (1, 'Butalan'),
+       (1, 'Butalbital And Acetaminophen'),
+       (1, 'Butalbital, Acetaminophen And Caffeine'),
+       (1, 'Butalbital, Acetaminophen, Caffeine And Codeine Phosphate'),
+       (1, 'Butalbital, Aspirin And Caffeine'),
+       (1, 'Butalbital, Aspirin, Caffeine And Codeine Phosphate'),
+       (1, 'Butapap'),
+       (1, 'Butazolidin'),
+       (1, 'Butenafine Hydrochloride'),
+       (1, 'Buticaps'),
+       (1, 'Butisol Sodium'),
+       (1, 'Butoconazole Nitrate'),
+       (1, 'Butorphanol Tartrate'),
+       (1, 'Butorphanol Tartrate Preservative Free'),
+       (1, 'Butrans'),
+       (1, 'Bydureon'),
+       (1, 'Bydureon Bcise'),
+       (1, 'Bydureon Pen'),
+       (1, 'Byetta'),
+       (1, 'Bystolic'),
+       (1, 'Byvalson'),
+       (1, 'C-Solve-2'),
+       (1, 'Cabazitaxel'),
+       (1, 'Cabazitaxel Injection'),
+       (1, 'Cabergoline'),
+       (1, 'Cabometyx'),
+       (1, 'Caduet'),
+       (1, 'Cafcit'),
+       (1, 'Cafergot'),
+       (1, 'Caffeine Citrate'),
+       (1, 'Calan'),
+       (1, 'Calan Sr'),
+       (1, 'Calcibind'),
+       (1, 'Calcijex'),
+       (1, 'Calcimar'),
+       (1, 'Calciparine'),
+       (1, 'Calcipotriene'),
+       (1, 'Calcipotriene And Betamethasone Dipropionate'),
+       (1, 'Calcitonin-Salmon'),
+       (1, 'Calcitriol'),
+       (1, 'Calcium Acetate'),
+       (1, 'Calcium Chloride 10%'),
+       (1, 'Calcium Disodium Versenate'),
+       (1, 'Calcium Gluceptate'),
+       (1, 'Calcium Gluconate'),
+       (1, 'Calderol'),
+       (1, 'Caldolor'),
+       (1, 'Calmurid Hc'),
+       (1, 'Calomist'),
+       (1, 'Calquence'),
+       (1, 'Cam-Ap-Es'),
+       (1, 'Cam-Metrazine'),
+       (1, 'Cambia'),
+       (1, 'Camila'),
+       (1, 'Camoquin Hydrochloride'),
+       (1, 'Campath'),
+       (1, 'Campral'),
+       (1, 'Camptosar'),
+       (1, 'Canasa'),
+       (1, 'Cancidas'),
+       (1, 'Candesartan Cilexetil'),
+       (1, 'Candesartan Cilexetil; Hydrochlorothiazide'),
+       (1, 'Candex'),
+       (1, 'Cantil'),
+       (1, 'Cap-Profen'),
+       (1, 'Capastat Sulfate'),
+       (1, 'Capecitabine'),
+       (1, 'Capex'),
+       (1, 'Capital And Codeine'),
+       (1, 'Capital Soleil 15'),
+       (1, 'Capitrol'),
+       (1, 'Capoten'),
+       (1, 'Capozide 25/15'),
+       (1, 'Capozide 25/25'),
+       (1, 'Capozide 50/15'),
+       (1, 'Capozide 50/25'),
+       (1, 'Caprelsa'),
+       (1, 'Capreomycin Sulfate'),
+       (1, 'Captopril'),
+       (1, 'Captopril And Hydrochlorothiazide'),
+       (1, 'Carac'),
+       (1, 'Carafate'),
+       (1, 'Carbachol'),
+       (1, 'Carbaglu'),
+       (1, 'Carbamazepine'),
+       (1, 'Carbastat'),
+       (1, 'Carbatrol'),
+       (1, 'Carbidopa'),
+       (1, 'Carbidopa And Levodopa'),
+       (1, 'Carbidopa, Levodopa And Entacapone'),
+       (1, 'Carbilev'),
+       (1, 'Carbinoxamine Maleate'),
+       (1, 'Carbocaine'),
+       (1, 'Carbocaine W/ Neo-Cobefrin'),
+       (1, 'Carbon Dioxide, Usp'),
+       (1, 'Carboplatin'),
+       (1, 'Cardene'),
+       (1, 'Cardene In 0.83% Sodium Chloride In Plastic Container'),
+       (1, 'Cardene In 0.86% Sodium Chloride In Plastic Container'),
+       (1, 'Cardene In 4.8% Dextrose In Plastic Container'),
+       (1, 'Cardene In 5.0% Dextrose In Plastic Container'),
+       (1, 'Cardene Sr'),
+       (1, 'Cardiogen-82'),
+       (1, 'Cardiografin'),
+       (1, 'Cardiolite'),
+       (1, 'Cardioplegic In Plastic Container'),
+       (1, 'Cardioquin'),
+       (1, 'Cardiotec'),
+       (1, 'Cardizem'),
+       (1, 'Cardizem Cd'),
+       (1, 'Cardizem La'),
+       (1, 'Cardizem Sr'),
+       (1, 'Cardrase'),
+       (1, 'Cardura'),
+       (1, 'Cardura Xl'),
+       (1, 'Carisoprodol'),
+       (1, 'Carisoprodol And Aspirin'),
+       (1, 'Carisoprodol Compound'),
+       (1, 'Carisoprodol, Aspirin And Codeine Phosphate'),
+       (1, 'Carmol Hc'),
+       (1, 'Carnexiv'),
+       (1, 'Carnitor'),
+       (1, 'Carnitor Sf'),
+       (1, 'Carospir'),
+       (1, 'Carteolol Hydrochloride'),
+       (1, 'Cartia Xt'),
+       (1, 'Cartrol'),
+       (1, 'Carvedilol'),
+       (1, 'Carvedilol Phosphate'),
+       (1, 'Casodex'),
+       (1, 'Caspofungin Acetate'),
+       (1, 'Casporyn Hc'),
+       (1, 'Cataflam'),
+       (1, 'Catapres'),
+       (1, 'Catapres-Tts-1'),
+       (1, 'Catapres-Tts-2'),
+       (1, 'Catapres-Tts-3'),
+       (1, 'Catarase'),
+       (1, 'Cathflo Activase'),
+       (1, 'Caverject'),
+       (1, 'Caverject Impulse'),
+       (1, 'Cayston'),
+       (1, 'Ceclor'),
+       (1, 'Ceclor Cd'),
+       (1, 'Cedax'),
+       (1, 'Cedilanid-D'),
+       (1, 'Cefaclor'),
+       (1, 'Cefadroxil'),
+       (1, 'Cefadyl'),
+       (1, 'Cefazolin And Dextrose'),
+       (1, 'Cefazolin In Plastic Container'),
+       (1, 'Cefazolin Sodium'),
+       (1, 'Cefdinir'),
+       (1, 'Cefepime And Dextrose In Duplex Container'),
+       (1, 'Cefepime Hydrochloride'),
+       (1, 'Cefepime In Plastic Container'),
+       (1, 'Cefixime'),
+       (1, 'Cefizox'),
+       (1, 'Cefizox In Dextrose 5% In Plastic Container'),
+       (1, 'Cefizox In Plastic Container'),
+       (1, 'Cefmax'),
+       (1, 'Cefobid'),
+       (1, 'Cefotan'),
+       (1, 'Cefotaxime'),
+       (1, 'Cefotaxime And Dextrose 2.4% In Plastic Container'),
+       (1, 'Cefotaxime And Dextrose 3.9% In Plastic Container'),
+       (1, 'Cefotaxime Sodium'),
+       (1, 'Cefotetan'),
+       (1, 'Cefotetan And Dextrose In Duplex Container'),
+       (1, 'Cefoxitin'),
+       (1, 'Cefoxitin And Dextrose In Duplex Container'),
+       (1, 'Cefpiramide Sodium'),
+       (1, 'Cefpodoxime Proxetil'),
+       (1, 'Cefprozil'),
+       (1, 'Ceftazidime'),
+       (1, 'Ceftazidime In Dextrose Container'),
+       (1, 'Ceftazidime Sodium In Plastic Container'),
+       (1, 'Ceftin'),
+       (1, 'Ceftriaxone'),
+       (1, 'Ceftriaxone And Dextrose In Duplex Container'),
+       (1, 'Ceftriaxone Sodium'),
+       (1, 'Cefuroxime'),
+       (1, 'Cefuroxime And Dextrose In Duplex Container'),
+       (1, 'Cefuroxime Axetil'),
+       (1, 'Cefuroxime Sodium'),
+       (1, 'Cefzil'),
+       (1, 'Celebrex'),
+       (1, 'Celecoxib'),
+       (1, 'Celestone'),
+       (1, 'Celestone Soluspan'),
+       (1, 'Celexa'),
+       (1, 'Cellcept'),
+       (1, 'Celontin'),
+       (1, 'Cenestin'),
+       (1, 'Centany'),
+       (1, 'Centrax'),
+       (1, 'Cephalexin'),
+       (1, 'Cephalothin'),
+       (1, 'Cephalothin Sodium'),
+       (1, 'Cephalothin Sodium W/ Dextrose In Plastic Container'),
+       (1, 'Cephalothin Sodium W/ Sodium Chloride In Plastic Container'),
+       (1, 'Cephapirin Sodium'),
+       (1, 'Cephradine'),
+       (1, 'Cephulac'),
+       (1, 'Ceptaz'),
+       (1, 'Ceradon'),
+       (1, 'Cerdelga'),
+       (1, 'Cerebyx'),
+       (1, 'Ceredase'),
+       (1, 'Ceretec'),
+       (1, 'Cerezyme'),
+       (1, 'Cerubidine'),
+       (1, 'Cerumenex'),
+       (1, 'Cervidil'),
+       (1, 'Cesamet'),
+       (1, 'Cetacort'),
+       (1, 'Cetamide'),
+       (1, 'Cetapred'),
+       (1, 'Cetirizine Hydrochloride'),
+       (1, 'Cetirizine Hydrochloride Allergy'),
+       (1, 'Cetirizine Hydrochloride And Pseudoephedrine Hydrochloride'),
+       (1, 'Cetirizine Hydrochloride Hives'),
+       (1, 'Cetraxal'),
+       (1, 'Cetrotide'),
+       (1, 'Cetylev'),
+       (1, 'Cevimeline Hydrochloride'),
+       (1, 'Chantix'),
+       (1, 'Chemet'),
+       (1, 'Chenix'),
+       (1, 'Chenodiol'),
+       (1, 'Chg Scrub'),
+       (1, 'Chibroxin'),
+       (1, 'Children\'s Advil'),
+       (1, 'Children\'s Allegra Allergy'),
+       (1, 'Children\'s Allegra Hives'),
+       (1, 'Children\'s Cetirizine Hydrochloride Allergy'),
+       (1, 'Children\'s Cetirizine Hydrochloride Hives Relief'),
+       (1, 'Children\'s Claritin'),
+       (1, 'Children\'s Elixsure'),
+       (1, 'Children\'s Fexofenadine Hydrochloride Allergy'),
+       (1, 'Children\'s Fexofenadine Hydrochloride Hives'),
+       (1, 'Children\'s Ibuprofen'),
+       (1, 'Children\'s Motrin'),
+       (1, 'Children\'s Motrin Cold'),
+       (1, 'Children\'s Zyrtec Allergy'),
+       (1, 'Children\'s Zyrtec Hives Relief'),
+       (1, 'Chirhostim'),
+       (1, 'Chirocaine'),
+       (1, 'Chlor-Trimeton'),
+       (1, 'Chloramphenicol'),
+       (1, 'Chloramphenicol Sodium Succinate'),
+       (1, 'Chloraprep One-Step'),
+       (1, 'Chloraprep One-Step Frepp'),
+       (1, 'Chloraprep One-Step Sepp'),
+       (1, 'Chloraprep Single Swabstick'),
+       (1, 'Chloraprep Triple Swabstick'),
+       (1, 'Chloraprep With Tint'),
+       (1, 'Chlordiazachel'),
+       (1, 'Chlordiazepoxide And Amitriptyline Hydrochloride'),
+       (1, 'Chlordiazepoxide Hydrochloride'),
+       (1, 'Chlorhexidine Gluconate'),
+       (1, 'Chlormerodrin Hg 197'),
+       (1, 'Chlorofair'),
+       (1, 'Chloromycetin'),
+       (1, 'Chloromycetin Hydrocortisone'),
+       (1, 'Chloromyxin'),
+       (1, 'Chloroprocaine Hydrochloride'),
+       (1, 'Chloroptic'),
+       (1, 'Chloroptic S.O.P.'),
+       (1, 'Chloroptic-P S.O.P.'),
+       (1, 'Chloroquine Phosphate'),
+       (1, 'Chlorothiazide'),
+       (1, 'Chlorothiazide And Reserpine'),
+       (1, 'Chlorothiazide Sodium'),
+       (1, 'Chlorothiazide W/ Reserpine'),
+       (1, 'Chlorotrianisene'),
+       (1, 'Chlorpheniramine Maleate'),
+       (1, 'Chlorpromazine Hydrochloride'),
+       (1, 'Chlorpromazine Hydrochloride Intensol'),
+       (1, 'Chlorpropamide'),
+       (1, 'Chlorthalidone'),
+       (1, 'Chlorzoxazone'),
+       (1, 'Cholac'),
+       (1, 'Cholbam'),
+       (1, 'Cholebrine'),
+       (1, 'Choledyl'),
+       (1, 'Choledyl Sa'),
+       (1, 'Cholestyramine'),
+       (1, 'Cholestyramine Light'),
+       (1, 'Choletec'),
+       (1, 'Choline C-11'),
+       (1, 'Cholografin Meglumine'),
+       (1, 'Cholografin Sodium'),
+       (1, 'Cholovue'),
+       (1, 'Choloxin'),
+       (1, 'Cholybar'),
+       (1, 'Chorionic Gonadotropin'),
+       (1, 'Chromalbin'),
+       (1, 'Chromic Chloride'),
+       (1, 'Chromitope Sodium'),
+       (1, 'Chronulac'),
+       (1, 'Chymex'),
+       (1, 'Chymodiactin'),
+       (1, 'Cialis'),
+       (1, 'Cibacalcin'),
+       (1, 'Ciclopirox'),
+       (1, 'Cida-Stat'),
+       (1, 'Cidofovir'),
+       (1, 'Cilostazol'),
+       (1, 'Ciloxan'),
+       (1, 'Cimduo'),
+       (1, 'Cimetidine'),
+       (1, 'Cimetidine Hydrochloride'),
+       (1, 'Cimetidine Hydrochloride In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Cimzia'),
+       (1, 'Cin-Quin'),
+       (1, 'Cinacalcet Hydrochloride'),
+       (1, 'Cinnasil'),
+       (1, 'Cinobac'),
+       (1, 'Cinoxacin'),
+       (1, 'Cinqair'),
+       (1, 'Cintichem Technetium 99M Hedspa'),
+       (1, 'Cinvanti'),
+       (1, 'Cipro'),
+       (1, 'Cipro Hc'),
+       (1, 'Cipro In Dextrose 5% In Plastic Container'),
+       (1, 'Cipro In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Cipro Xr'),
+       (1, 'Ciprodex'),
+       (1, 'Ciprofloxacin'),
+       (1, 'Ciprofloxacin Extended Release'),
+       (1, 'Ciprofloxacin Hydrochloride'),
+       (1, 'Ciprofloxacin In Dextrose 5%'),
+       (1, 'Circanol'),
+       (1, 'Cis-Mdp'),
+       (1, 'Cis-Pyro'),
+       (1, 'Cisatracurium Besylate'),
+       (1, 'Cisatracurium Besylate Preservative Free'),
+       (1, 'Cisplatin'),
+       (1, 'Citalopram Hydrobromide'),
+       (1, 'Citanest'),
+       (1, 'Citanest Forte'),
+       (1, 'Citanest Plain'),
+       (1, 'Citric Acid; Magnesium Oxide; Sodium Picosulfate'),
+       (1, 'Cladribine'),
+       (1, 'Claforan'),
+       (1, 'Claforan In Dextrose 5% In Plastic Container'),
+       (1, 'Claforan In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Claravis'),
+       (1, 'Clarinex'),
+       (1, 'Clarinex D 24 Hour'),
+       (1, 'Clarinex-D 12 Hour'),
+       (1, 'Clarithromycin'),
+       (1, 'Claritin'),
+       (1, 'Claritin Hives Relief'),
+       (1, 'Claritin Hives Relief Reditab'),
+       (1, 'Claritin Reditabs'),
+       (1, 'Claritin-D'),
+       (1, 'Claritin-D 24 Hour'),
+       (1, 'Clemastine Fumarate'),
+       (1, 'Clenpiq'),
+       (1, 'Clenz-Lyte'),
+       (1, 'Cleocin'),
+       (1, 'Cleocin Hydrochloride'),
+       (1, 'Cleocin Phosphate'),
+       (1, 'Cleocin Phosphate In Dextrose 5% In Plastic Container'),
+       (1, 'Cleocin T'),
+       (1, 'Cleviprex'),
+       (1, 'Climara'),
+       (1, 'Climara Pro'),
+       (1, 'Clinda-Derm'),
+       (1, 'Clindagel'),
+       (1, 'Clindamycin Hydrochloride'),
+       (1, 'Clindamycin Palmitate Hydrochloride'),
+       (1, 'Clindamycin Phosphate'),
+       (1, 'Clindamycin Phosphate And Benzoyl Peroxide'),
+       (1, 'Clindamycin Phosphate And Tretinoin'),
+       (1, 'Clindamycin Phosphate In 0.9% Sodium Chloride'),
+       (1, 'Clindamycin Phosphate In 5% Dextrose In Plastic Container'),
+       (1, 'Clindamycin Phosphate In Dextrose 5%'),
+       (1, 'Clindesse'),
+       (1, 'Clindets'),
+       (1, 'Clinimix 2.75/10 Sulfite Free In Dextrose 10% In Plastic Container'),
+       (1, 'Clinimix 2.75/25 Sulfite Free In Dextrose 25% In Plastic Container'),
+       (1, 'Clinimix 2.75/5 Sulfite Free In Dextrose 5% In Plastic Container'),
+       (1, 'Clinimix 4.25/10 Sulfite Free In Dextrose 10% In Plastic Container'),
+       (1, 'Clinimix 4.25/20 Sulfite Free In Dextrose 20% In Plastic Container'),
+       (1, 'Clinimix 4.25/25 Sulfite Free In Dextrose 25% In Plastic Container'),
+       (1, 'Clinimix 4.25/5 Sulfite Free In Dextrose 5% In Plastic Container'),
+       (1, 'Clinimix 5/10 Sulfite Free In Dextrose 10% In Plastic Container'),
+       (1, 'Clinimix 5/15 Sulfite Free In Dextrose 15% In Plastic Container'),
+       (1, 'Clinimix 5/20 Sulfite Free In Dextrose 20% In Plastic Container'),
+       (1, 'Clinimix 5/25 Sulfite Free In Dextrose 25% In Plastic Container'),
+       (1, 'Clinimix 5/35 Sulfite Free In Dextrose 35% In Plastic Container'),
+       (1, 'Clinimix E 2.75/10 Sulfite Free W/ Elect In Dextrose 10% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 2.75/25 Sulfite Free W/ Elect In Dextrose 25% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 2.75/5 Sulfite Free W/ Elect In Dextrose 5% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 4.25/10 Sulfite Free W/ Elect In Dextrose 10% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 4.25/20 Sulfite Free W/ Elect In Dextrose 20% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 4.25/25 Sulfite Free W/ Elect In Dextrose 25% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 4.25/5 Sulfite Free W/ Elect In Dextrose 5% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 5/10 Sulfite Free W/ Elect In Dextrose 10% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 5/15 Sulfite Free W/ Elect In Dextrose 15% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 5/20 Sulfite Free W/ Elect In 20% Dextrose W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 5/25 Sulfite Free W/ Elect In Dextrose 25% W/ Calcium In Plastic Container'),
+       (1, 'Clinimix E 5/35 Sulfite Free W/ Elect In Dextrose 35% W/ Calcium In Plastic Container'),
+       (1, 'Clinisol 15% Sulfite Free In Plastic Container'),
+       (1, 'Clinolipid 20%'),
+       (1, 'Clinoril'),
+       (1, 'Clistin'),
+       (1, 'Clobetasol Propionate'),
+       (1, 'Clobetasol Propionate (Emollient)'),
+       (1, 'Clobex'),
+       (1, 'Cloderm'),
+       (1, 'Clofarabine'),
+       (1, 'Clofibrate'),
+       (1, 'Clolar'),
+       (1, 'Clomid'),
+       (1, 'Clomiphene Citrate'),
+       (1, 'Clomipramine Hydrochloride'),
+       (1, 'Clonazepam'),
+       (1, 'Clonidine'),
+       (1, 'Clonidine Hydrochloride'),
+       (1, 'Clonidine Hydrochloride And Chlorthalidone'),
+       (1, 'Clopidogrel Bisulfate'),
+       (1, 'Clopra'),
+       (1, 'Clopra-""Yellow""'),
+       (1, 'Clorazepate Dipotassium'),
+       (1, 'Clorotekal'),
+       (1, 'Clorpres'),
+       (1, 'Clotrimazole'),
+       (1, 'Clotrimazole And Betamethasone Dipropionate'),
+       (1, 'Cloxacillin Sodium'),
+       (1, 'Cloxapen'),
+       (1, 'Clozapine'),
+       (1, 'Clozaril'),
+       (1, 'Co-Gesic'),
+       (1, 'Co-Lav'),
+       (1, 'Coactin'),
+       (1, 'Coartem'),
+       (1, 'Cobavite'),
+       (1, 'Codamine'),
+       (1, 'Codeine Phosphate And Chlorpheniramine Maleate'),
+       (1, 'Codeine Sulfate'),
+       (1, 'Codeine, Aspirin, Apap Formula No. 2'),
+       (1, 'Codeine, Aspirin, Apap Formula No. 3'),
+       (1, 'Codeine, Aspirin, Apap Formula No. 4'),
+       (1, 'Codeprex'),
+       (1, 'Codimal-L.A. 12'),
+       (1, 'Codoxy'),
+       (1, 'Codrix'),
+       (1, 'Cogentin'),
+       (1, 'Cognex'),
+       (1, 'Col-Probenecid'),
+       (1, 'Colazal'),
+       (1, 'Colbenemid'),
+       (1, 'Colchicine'),
+       (1, 'Colcrys'),
+       (1, 'Cold Capsule Iv'),
+       (1, 'Cold Capsule V'),
+       (1, 'Colesevelam Hydrochloride'),
+       (1, 'Colestid'),
+       (1, 'Colestipol Hydrochloride'),
+       (1, 'Colistimethate Sodium'),
+       (1, 'Colocort'),
+       (1, 'Colonaid'),
+       (1, 'Colovage'),
+       (1, 'Colprep Kit'),
+       (1, 'Coly-Mycin M'),
+       (1, 'Coly-Mycin S'),
+       (1, 'Colyte'),
+       (1, 'Colyte-Flavored'),
+       (1, 'Combigan'),
+       (1, 'Combipatch'),
+       (1, 'Combipres'),
+       (1, 'Combivent'),
+       (1, 'Combivent Respimat'),
+       (1, 'Combivir'),
+       (1, 'Combunox'),
+       (1, 'Cometriq'),
+       (1, 'Compazine'),
+       (1, 'Complera'),
+       (1, 'Compound 65'),
+       (1, 'Compro'),
+       (1, 'Comtan'),
+       (1, 'Concentraid'),
+       (1, 'Concerta'),
+       (1, 'Condylox'),
+       (1, 'Conray'),
+       (1, 'Conray 30'),
+       (1, 'Conray 325'),
+       (1, 'Conray 400'),
+       (1, 'Conray 43'),
+       (1, 'Constilac'),
+       (1, 'Constulose'),
+       (1, 'Contrave'),
+       (1, 'Conzip'),
+       (1, 'Copaxone'),
+       (1, 'Copegus'),
+       (1, 'Cor-Oticin'),
+       (1, 'Cordarone'),
+       (1, 'Cordran'),
+       (1, 'Cordran N'),
+       (1, 'Cordran Sp'),
+       (1, 'Coreg'),
+       (1, 'Coreg Cr'),
+       (1, 'Corgard'),
+       (1, 'Corlanor'),
+       (1, 'Corlopam'),
+       (1, 'Cormax'),
+       (1, 'Corphed'),
+       (1, 'Corphedra'),
+       (1, 'Corsym'),
+       (1, 'Cort-Dome'),
+       (1, 'Cortalone'),
+       (1, 'Cortan'),
+       (1, 'Cortef'),
+       (1, 'Cortef Acetate'),
+       (1, 'Cortenema'),
+       (1, 'Corticotropin'),
+       (1, 'Cortifoam'),
+       (1, 'Cortisone Acetate'),
+       (1, 'Cortisporin'),
+       (1, 'Cortone'),
+       (1, 'Cortril'),
+       (1, 'Cortrophin-Zinc'),
+       (1, 'Cortrosyn'),
+       (1, 'Corvert'),
+       (1, 'Corzide'),
+       (1, 'Cosentyx'),
+       (1, 'Cosmegen'),
+       (1, 'Cosopt'),
+       (1, 'Cosopt Pf'),
+       (1, 'Cosyntropin'),
+       (1, 'Cotazym'),
+       (1, 'Cotellic'),
+       (1, 'Cotempla Xr-Odt'),
+       (1, 'Cotrim'),
+       (1, 'Cotrim D.S.'),
+       (1, 'Coumadin'),
+       (1, 'Covera-Hs'),
+       (1, 'Cozaar'),
+       (1, 'Creon'),
+       (1, 'Crescormon'),
+       (1, 'Cresemba'),
+       (1, 'Crestor'),
+       (1, 'Crinone'),
+       (1, 'Crixivan'),
+       (1, 'Crolom'),
+       (1, 'Cromolyn Sodium'),
+       (1, 'Cromoptic'),
+       (1, 'Crotan'),
+       (1, 'Cryselle'),
+       (1, 'Crystodigin'),
+       (1, 'Crysvita'),
+       (1, 'Cu-7'),
+       (1, 'Cubicin'),
+       (1, 'Cubicin Rf'),
+       (1, 'Cupric Chloride In Plastic Container'),
+       (1, 'Cupric Sulfate'),
+       (1, 'Cuprimine'),
+       (1, 'Curosurf'),
+       (1, 'Curretab'),
+       (1, 'Cutivate'),
+       (1, 'Cuvposa'),
+       (1, 'Cyanocobalamin'),
+       (1, 'Cyanokit'),
+       (1, 'Cyclacillin'),
+       (1, 'Cyclafem 0.5/35'),
+       (1, 'Cyclafem 1/35'),
+       (1, 'Cyclafem 7/7/7'),
+       (1, 'Cyclaine'),
+       (1, 'Cyclapen-W'),
+       (1, 'Cyclessa'),
+       (1, 'Cyclobenzaprine Hydrochloride'),
+       (1, 'Cyclocort'),
+       (1, 'Cyclogyl'),
+       (1, 'Cyclomydril'),
+       (1, 'Cyclopar'),
+       (1, 'Cyclopentolate Hydrochloride'),
+       (1, 'Cyclophosphamide'),
+       (1, 'Cycloset'),
+       (1, 'Cyclosporine'),
+       (1, 'Cycrin'),
+       (1, 'Cyklokapron'),
+       (1, 'Cylert'),
+       (1, 'Cyltezo'),
+       (1, 'Cymbalta'),
+       (1, 'Cyonanz'),
+       (1, 'Cyproheptadine Hydrochloride'),
+       (1, 'Cyramza'),
+       (1, 'Cystadane'),
+       (1, 'Cystagon'),
+       (1, 'Cystaran'),
+       (1, 'Cysteine Hydrochloride'),
+       (1, 'Cysto-Conray'),
+       (1, 'Cysto-Conray Ii'),
+       (1, 'Cystografin'),
+       (1, 'Cystografin Dilute'),
+       (1, 'Cysview Kit'),
+       (1, 'Cytadren'),
+       (1, 'Cytarabine'),
+       (1, 'Cytomel'),
+       (1, 'Cytosar-U'),
+       (1, 'Cytotec'),
+       (1, 'Cytovene'),
+       (1, 'Cytoxan'),
+       (1, 'Cytoxan (Lyophilized)'),
+       (1, 'D.H.E. 45'),
+       (1, 'Dabigatran Etexilate'),
+       (1, 'Dacarbazine'),
+       (1, 'Dacogen'),
+       (1, 'Dactinomycin'),
+       (1, 'Daklinza'),
+       (1, 'Dalfampridine'),
+       (1, 'Dalgan'),
+       (1, 'Daliresp'),
+       (1, 'Dalmane'),
+       (1, 'Dalvance'),
+       (1, 'Danazol'),
+       (1, 'Danocrine'),
+       (1, 'Dantrium'),
+       (1, 'Dantrolene Sodium'),
+       (1, 'Dapiprazole Hydrochloride'),
+       (1, 'Dapsone'),
+       (1, 'Daptomycin'),
+       (1, 'Daranide'),
+       (1, 'Daraprim'),
+       (1, 'Darbid'),
+       (1, 'Daricon'),
+       (1, 'Darifenacin'),
+       (1, 'Darifenacin Hydrobromide'),
+       (1, 'Darunavir'),
+       (1, 'Darunavir Ethanolate'),
+       (1, 'Darunavir Hydrate'),
+       (1, 'Darvocet'),
+       (1, 'Darvocet A500'),
+       (1, 'Darvocet-N 100'),
+       (1, 'Darvocet-N 50'),
+       (1, 'Darvon'),
+       (1, 'Darvon Compound'),
+       (1, 'Darvon Compound-65'),
+       (1, 'Darvon W/ Asa'),
+       (1, 'Darvon-N');
+INSERT INTO `tbl_medication` (`id_space`, `title`)
+VALUES (1, 'Darvon-N W/ Asa'),
+       (1, 'Darzalex'),
+       (1, 'Dasatinib'),
+       (1, 'Dasetta 1/35'),
+       (1, 'Dasetta 7/7/7'),
+       (1, 'Datscan'),
+       (1, 'Daunorubicin Hydrochloride'),
+       (1, 'Daunoxome'),
+       (1, 'Daypro'),
+       (1, 'Daypro Alta'),
+       (1, 'Daysee'),
+       (1, 'Daytrana'),
+       (1, 'Ddavp'),
+       (1, 'Deapril-St'),
+       (1, 'Deca-Durabolin'),
+       (1, 'Decabid'),
+       (1, 'Decaderm'),
+       (1, 'Decadron'),
+       (1, 'Decadron W/ Xylocaine'),
+       (1, 'Decadron-La'),
+       (1, 'Decapryn'),
+       (1, 'Decaspray'),
+       (1, 'Decitabine'),
+       (1, 'Declomycin'),
+       (1, 'Deferasirox'),
+       (1, 'Deferoxamine Mesylate'),
+       (1, 'Definity'),
+       (1, 'Defitelio'),
+       (1, 'Del-Vi-A'),
+       (1, 'Delalutin'),
+       (1, 'Delatestryl'),
+       (1, 'Delaxin'),
+       (1, 'Delcobese'),
+       (1, 'Delestrogen'),
+       (1, 'Delfen'),
+       (1, 'Delflex W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 1.5% Low Magnesium In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 1.5% Low Magnesium Low Calcium In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 2.5% Low Magnesium In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 2.5% Low Magnesium Low Calcium In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 3.5% In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 4.25% Low Magnesium In Plastic Container'),
+       (1, 'Delflex W/ Dextrose 4.25% Low Magnesium Low Calcium In Plastic Container'),
+       (1, 'Delflex-Lm W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Delflex-Lm W/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Delflex-Lm W/ Dextrose 3.5% In Plastic Container'),
+       (1, 'Delflex-Lm W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Delsym'),
+       (1, 'Delta-Cortef'),
+       (1, 'Delta-Dome'),
+       (1, 'Deltalin'),
+       (1, 'Deltasone'),
+       (1, 'Delzicol'),
+       (1, 'Demadex'),
+       (1, 'Demeclocycline Hydrochloride'),
+       (1, 'Demerol'),
+       (1, 'Demi-Regroton'),
+       (1, 'Demser'),
+       (1, 'Demulen 1/35-21'),
+       (1, 'Demulen 1/35-28'),
+       (1, 'Demulen 1/50-21'),
+       (1, 'Demulen 1/50-28'),
+       (1, 'Denavir'),
+       (1, 'Dendrid'),
+       (1, 'Dentipatch'),
+       (1, 'Depacon'),
+       (1, 'Depakene'),
+       (1, 'Depakote'),
+       (1, 'Depakote Cp'),
+       (1, 'Depakote Er'),
+       (1, 'Depen'),
+       (1, 'Depinar'),
+       (1, 'Depo-Estradiol'),
+       (1, 'Depo-Medrol'),
+       (1, 'Depo-Provera'),
+       (1, 'Depo-Subq Provera 104'),
+       (1, 'Depo-Testadiol'),
+       (1, 'Depo-Testosterone'),
+       (1, 'Depocyt'),
+       (1, 'Depodur'),
+       (1, 'Derma-Smoothe/Fs'),
+       (1, 'Dermabet'),
+       (1, 'Dermacort'),
+       (1, 'Dermatop'),
+       (1, 'Dermatop E Emollient'),
+       (1, 'Dermotic'),
+       (1, 'Descovy'),
+       (1, 'Desferal'),
+       (1, 'Desflurane'),
+       (1, 'Desipramine Hydrochloride'),
+       (1, 'Desloratadine'),
+       (1, 'Desloratadine And Pseudoephedrine Sulfate 24 Hour'),
+       (1, 'Desmopressin Acetate'),
+       (1, 'Desmopressin Acetate Preservative Free'),
+       (1, 'Desogen'),
+       (1, 'Desogestrel And Ethinyl Estradiol'),
+       (1, 'Desogestrel; Ethinyl'),
+       (1, 'Desonate'),
+       (1, 'Desonide'),
+       (1, 'Desowen'),
+       (1, 'Desoximetasone'),
+       (1, 'Desoxyn'),
+       (1, 'Desvenlafaxine'),
+       (1, 'Desvenlafaxine Succinate'),
+       (1, 'Desyrel'),
+       (1, 'Detrol'),
+       (1, 'Detrol La'),
+       (1, 'Dexacen-4'),
+       (1, 'Dexacidin'),
+       (1, 'Dexacort'),
+       (1, 'Dexair'),
+       (1, 'Dexamethasone'),
+       (1, 'Dexamethasone Acetate'),
+       (1, 'Dexamethasone Intensol'),
+       (1, 'Dexamethasone Sodium Phosphate'),
+       (1, 'Dexamethasone Sodium Phosphate Preservative Free'),
+       (1, 'Dexampex'),
+       (1, 'Dexasporin'),
+       (1, 'Dexbrompheniramine Maleate And Pseudoephedrine Sulfate'),
+       (1, 'Dexchlorpheniramine Maleate'),
+       (1, 'Dexedrine'),
+       (1, 'Dexferrum'),
+       (1, 'Dexilant'),
+       (1, 'Dexilant Solutab'),
+       (1, 'Dexlansoprazole'),
+       (1, 'Dexmedetomidine Hydrochloride'),
+       (1, 'Dexmethylphenidate Hydrochloride'),
+       (1, 'Dexone 0.5'),
+       (1, 'Dexone 0.75'),
+       (1, 'Dexone 1.5'),
+       (1, 'Dexone 4'),
+       (1, 'Dexrazoxane Hydrochloride'),
+       (1,
+        'Dextroamphetamine Saccharate; Amphetamine Aspartate Monohydrate; Dextroamphetamine Sulfate; Amphetamine Sulfate'),
+       (1, 'Dextroamphetamine Sulfate'),
+       (1, 'Dextromethorphan Hydrobromide And Guaifenesin'),
+       (1, 'Dextromethorphan Hydrobromide And Quinidine Sulfate'),
+       (1, 'Dextromethorphan Polistirex'),
+       (1, 'Dextrose 10% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Dextrose 10% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Dextrose 10% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Dextrose 10% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Dextrose 10% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Dextrose 10% In Plastic Container'),
+       (1, 'Dextrose 2.5% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Dextrose 2.5% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Dextrose 2.5% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Dextrose 2.5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Dextrose 2.5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Dextrose 2.5% In Half-Strength Lactated Ringer\'s In Plastic Container'),
+       (1, 'Dextrose 2.5% In Plastic Container'),
+       (1, 'Dextrose 20% In Plastic Container'),
+       (1, 'Dextrose 25%'),
+       (1, 'Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Dextrose 30% In Plastic Container'),
+       (1, 'Dextrose 38.5% In Plastic Container'),
+       (1, 'Dextrose 4% In Modified Lactated Ringer\'s In Plastic Container'),
+       (1, 'Dextrose 40% In Plastic Container'),
+       (1, 'Dextrose 5% And Electrolyte No. 48 In Plastic Container'),
+       (1, 'Dextrose 5% And Electrolyte No. 75 In Plastic Container'),
+       (1, 'Dextrose 5% And Lactated Ringer\'s In Plastic Container'),
+       (1, 'Dextrose 5% And Potassium Chloride 0.075% In Plastic Container'),
+       (1, 'Dextrose 5% And Potassium Chloride 0.15% In Plastic Container'),
+       (1, 'Dextrose 5% And Potassium Chloride 0.224% In Plastic Container'),
+       (1, 'Dextrose 5% And Potassium Chloride 0.3% In Plastic Container'),
+       (1, 'Dextrose 5% And Ringer\'s In Plastic Container'),
+       (1, 'Dextrose 5% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Dextrose 5% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Dextrose 5% And Sodium Chloride 0.225% In Plastic Container'),
+       (1, 'Dextrose 5% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Dextrose 5% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Dextrose 5% In Acetated Ringer\'s In Plastic Container'),
+       (1, 'Dextrose 5% In Plastic Container'),
+       (1, 'Dextrose 5% In Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Dextrose 5% In Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Dextrose 5% In Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Dextrose 5% In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 0.075%'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 0.15% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 0.224% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 0.3% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 10Meq'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 15Meq (K)'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 20Meq'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 20Meq (K)'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 30Meq'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 40Meq'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 5Meq'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.2% And Potassium Chloride 5Meq (K)'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 0.075% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 0.15% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 0.22% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 0.30% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 10Meq In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 15Meq In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 20Meq In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 30Meq In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 40Meq In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.33% And Potassium Chloride 5Meq In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 0.075%'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 0.15% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 0.22% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 0.3% In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 15Meq In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 20Meq (K) In Plastic Container'),
+       (1, 'Dextrose 5%, Sodium Chloride 0.45% And Potassium Chloride 5Meq In Plastic Container'),
+       (1, 'Dextrose 50%'),
+       (1, 'Dextrose 50% In Plastic Container'),
+       (1, 'Dextrose 60%'),
+       (1, 'Dextrose 60% In Plastic Container'),
+       (1, 'Dextrose 7.7% In Plastic Container'),
+       (1, 'Dextrose 70% In Plastic Container'),
+       (1, 'Dextrostat'),
+       (1, 'Dexycu Kit'),
+       (1, 'Dhc Plus'),
+       (1, 'Di-Atro'),
+       (1, 'Di-Metrex'),
+       (1, 'Diabeta'),
+       (1, 'Diabinese'),
+       (1, 'Dialyte Concentrate W/ Dextrose 30% In Plastic Container'),
+       (1, 'Dialyte Concentrate W/ Dextrose 50% In Plastic Container'),
+       (1, 'Dialyte Lm/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Dialyte Lm/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Dialyte Lm/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Dialyte W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Dialyte W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Diamox'),
+       (1, 'Dianeal 137 W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Dianeal 137 W/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Dianeal 137 W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Dianeal Low Calcium W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Dianeal Low Calcium W/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Dianeal Low Calcium W/ Dextrose 3.5% In Plastic Container'),
+       (1, 'Dianeal Low Calcium W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Dianeal Pd-1 W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Dianeal Pd-1 W/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Dianeal Pd-1 W/ Dextrose 3.5% In Plastic Container'),
+       (1, 'Dianeal Pd-1 W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Dianeal Pd-2 W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Dianeal Pd-2 W/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Dianeal Pd-2 W/ Dextrose 3.5% In Plastic Container'),
+       (1, 'Dianeal Pd-2 W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Diapid'),
+       (1, 'Diasone Sodium'),
+       (1, 'Diastat'),
+       (1, 'Diastat Acudial'),
+       (1, 'Diatrizoate Meglumine'),
+       (1, 'Diatrizoate-60'),
+       (1, 'Diazepam'),
+       (1, 'Diazepam Intensol'),
+       (1, 'Diazoxide'),
+       (1, 'Dibenil'),
+       (1, 'Dibenzyline'),
+       (1, 'Diclegis'),
+       (1, 'Diclofenac'),
+       (1, 'Diclofenac Potassium'),
+       (1, 'Diclofenac Sodium '),
+       (1, 'Diclofenac Sodium And Misoprostol'),
+       (1, 'Dicloxacillin Sodium'),
+       (1, 'Dicopac Kit'),
+       (1, 'Dicumarol'),
+       (1, 'Dicurin Procaine'),
+       (1, 'Dicyclomine Hydrochloride'),
+       (1, 'Dicyclomine Hydrochloride (Preservative Free)'),
+       (1, 'Didanosine'),
+       (1, 'Didrex'),
+       (1, 'Didronel'),
+       (1, 'Dienestrol'),
+       (1, 'Diethylpropion Hydrochloride'),
+       (1, 'Diethylstilbestrol'),
+       (1, 'Differin'),
+       (1, 'Dificid'),
+       (1, 'Diflorasone Diacetate'),
+       (1, 'Diflucan'),
+       (1, 'Diflucan In Dextrose 5% In Plastic Container'),
+       (1, 'Diflucan In Sodium Chloride 0.9%'),
+       (1, 'Diflunisal'),
+       (1, 'Digoxin'),
+       (1, 'Digoxin Pediatric'),
+       (1, 'Dihydroergotamine Mesylate'),
+       (1, 'Dilacor Xr'),
+       (1, 'Dilantin'),
+       (1, 'Dilantin-125'),
+       (1, 'Dilantin-30'),
+       (1, 'Dilatrate-Sr'),
+       (1, 'Dilaudid'),
+       (1, 'Dilaudid-Hp'),
+       (1, 'Dilor'),
+       (1, 'Dilor-400'),
+       (1, 'Dilt-Cd'),
+       (1, 'Diltiazem Hydrochloride'),
+       (1, 'Diltzac'),
+       (1, 'Dimenhydrinate'),
+       (1, 'Dimetane'),
+       (1, 'Dimetane-Dx'),
+       (1, 'Dimetane-Ten'),
+       (1, 'Dimethyl Sulfoxide'),
+       (1, 'Dionosil Aqueous'),
+       (1, 'Dionosil Oily'),
+       (1, 'Diovan'),
+       (1, 'Diovan Hct'),
+       (1, 'Dipentum'),
+       (1, 'Diphen'),
+       (1, 'Diphenhydramine Hydrochloride'),
+       (1, 'Diphenhydramine Hydrochloride Preservative Free'),
+       (1, 'Diphenoxylate Hydrochloride And Atropine Sulfate'),
+       (1, 'Diphenylan Sodium'),
+       (1, 'Dipivefrin Hydrochloride'),
+       (1, 'Diprivan'),
+       (1, 'Diprolene'),
+       (1, 'Diprolene Af'),
+       (1, 'Diprosone'),
+       (1, 'Dipyridamole'),
+       (1, 'Discase'),
+       (1, 'Disipal'),
+       (1, 'Disobrom'),
+       (1, 'Disomer'),
+       (1, 'Disophrol'),
+       (1, 'Disopyramide Phosphate'),
+       (1, 'Dispermox'),
+       (1, 'Disulfiram'),
+       (1, 'Ditate-Ds'),
+       (1, 'Ditropan'),
+       (1, 'Ditropan Xl'),
+       (1, 'Diucardin'),
+       (1, 'Diulo'),
+       (1, 'Diupres-250'),
+       (1, 'Diupres-500'),
+       (1, 'Diuril'),
+       (1, 'Diutensen-R'),
+       (1, 'Divalproex Sodium'),
+       (1, 'Divigel'),
+       (1, 'Dizac'),
+       (1, 'Dobutamine Hydrochloride'),
+       (1, 'Dobutamine Hydrochloride In Dextrose 5%'),
+       (1, 'Dobutrex'),
+       (1, 'Doca'),
+       (1, 'Docefrez'),
+       (1, 'Docetaxel'),
+       (1, 'Dodex'),
+       (1, 'Dofetilide'),
+       (1, 'Dolene'),
+       (1, 'Dolene Ap-65'),
+       (1, 'Dolobid'),
+       (1, 'Dolophine Hydrochloride'),
+       (1, 'Dolutegravir'),
+       (1, 'Dolutegravir, Lamivudine, And Tenofovir Disoproxil Fumarate'),
+       (1, 'Domeboro'),
+       (1, 'Donepezil Hydrochloride'),
+       (1, 'Donepezil Hydrochloride And Memantine Hydrochloride'),
+       (1, 'Dopamine Hydrochloride'),
+       (1, 'Dopamine Hydrochloride And Dextrose 5%'),
+       (1, 'Dopar'),
+       (1, 'Dopram'),
+       (1, 'Doptelet'),
+       (1, 'Doral'),
+       (1, 'Doribax'),
+       (1, 'Doriden'),
+       (1, 'Dormate'),
+       (1, 'Doryx'),
+       (1, 'Doryx Mpc'),
+       (1, 'Dorzolamide Hydrochloride'),
+       (1, 'Dorzolamide Hydrochloride And Timolol Maleate'),
+       (1, 'Dostinex'),
+       (1, 'Dotarem'),
+       (1, 'Dovonex'),
+       (1, 'Dow-Isoniazid'),
+       (1, 'Doxapram Hydrochloride'),
+       (1, 'Doxazosin Mesylate'),
+       (1, 'Doxepin Hydrochloride'),
+       (1, 'Doxercalciferol'),
+       (1, 'Doxil (Liposomal)'),
+       (1, 'Doxorubicin Hydrochloride'),
+       (1, 'Doxorubicin Hydrochloride (Liposomal)'),
+       (1, 'Doxy 100'),
+       (1, 'Doxy 200'),
+       (1, 'Doxy-Lemmon'),
+       (1, 'Doxy-Sleep-Aid'),
+       (1, 'Doxychel'),
+       (1, 'Doxychel Hyclate'),
+       (1, 'Doxycycline'),
+       (1, 'Doxycycline Hyclate'),
+       (1, 'Doxylamine Succinate'),
+       (1, 'Doxylamine Succinate And Pyridoxine Hydrochloride'),
+       (1, 'Dralserp'),
+       (1, 'Dralzine'),
+       (1, 'Drax Exametazime'),
+       (1, 'Draximage Mdp-10'),
+       (1, 'Draximage Mdp-25'),
+       (1, 'Dricort'),
+       (1, 'Drisdol'),
+       (1, 'Drixoral'),
+       (1, 'Drixoral Plus'),
+       (1, 'Drolban'),
+       (1, 'Dronabinol'),
+       (1, 'Dronedarone'),
+       (1, 'Dronedarone Hydrochloride'),
+       (1, 'Droperidol'),
+       (1, 'Drospirenone And Ethinyl Estradiol'),
+       (1, 'Drospirenone, Ethinyl Estradiol And Levomefolate Calcium'),
+       (1, 'Droxia'),
+       (1, 'Dtic-Dome'),
+       (1, 'Dtpa'),
+       (1, 'Duac'),
+       (1, 'Duavee'),
+       (1, 'Duetact'),
+       (1, 'Duexis'),
+       (1, 'Dulera'),
+       (1, 'Duloxetine Hydrochloride'),
+       (1, 'Duo-Medihaler'),
+       (1, 'Duocaine'),
+       (1, 'Duodote'),
+       (1, 'Duoneb'),
+       (1, 'Duopa'),
+       (1, 'Duphalac'),
+       (1, 'Dupixent'),
+       (1, 'Durabolin'),
+       (1, 'Duracillin A.S.'),
+       (1, 'Duraclon'),
+       (1, 'Duradyne Dhc'),
+       (1, 'Duragesic-100'),
+       (1, 'Duragesic-12'),
+       (1, 'Duragesic-25'),
+       (1, 'Duragesic-37'),
+       (1, 'Duragesic-50'),
+       (1, 'Duragesic-75'),
+       (1, 'Duramorph Pf'),
+       (1, 'Duranest'),
+       (1, 'Duraphyl'),
+       (1, 'Duraprep'),
+       (1, 'Duraquin'),
+       (1, 'Durezol'),
+       (1, 'Duricef'),
+       (1, 'Durlaza'),
+       (1, 'Dutasteride'),
+       (1, 'Dutasteride And Tamsulosin Hydrochloride'),
+       (1, 'Dutoprol'),
+       (1, 'Dutrebis'),
+       (1, 'Duvoid'),
+       (1, 'Duzallo'),
+       (1, 'Dv'),
+       (1, 'Dyanavel Xr'),
+       (1, 'Dyazide'),
+       (1, 'Dycill'),
+       (1, 'Dyclone'),
+       (1, 'Dyloject'),
+       (1, 'Dymelor'),
+       (1, 'Dymista'),
+       (1, 'Dyna-Hex'),
+       (1, 'Dynabac'),
+       (1, 'Dynacin'),
+       (1, 'Dynacirc'),
+       (1, 'Dynacirc Cr'),
+       (1, 'Dynapen'),
+       (1, 'Dyrenium'),
+       (1, 'Dysport'),
+       (1, 'E-Base'),
+       (1, 'E-Glades'),
+       (1, 'E-Mycin'),
+       (1, 'E-Mycin E'),
+       (1, 'E-Solve 2'),
+       (1, 'E-Z Prep'),
+       (1, 'E-Z Prep 220'),
+       (1, 'E-Z Scrub'),
+       (1, 'E-Z Scrub 201'),
+       (1, 'E-Z Scrub 241'),
+       (1, 'E-Z-Cat Dry'),
+       (1, 'E-Z-Em Prep Lyte'),
+       (1, 'E-Z-Hd'),
+       (1, 'E-Z-Paque'),
+       (1, 'E.E.S.'),
+       (1, 'E.E.S. 200'),
+       (1, 'E.E.S. 400'),
+       (1, 'Ec-Naprosyn'),
+       (1, 'Econazole Nitrate'),
+       (1, 'Econochlor'),
+       (1, 'Econopred'),
+       (1, 'Ecoza'),
+       (1, 'Edarbi'),
+       (1, 'Edarbyclor'),
+       (1, 'Edecrin'),
+       (1, 'Edex'),
+       (1, 'Edluar'),
+       (1, 'Edrophonium Chloride'),
+       (1, 'Edrophonium Chloride Preservative Free'),
+       (1, 'Edurant'),
+       (1, 'Efavirenz'),
+       (1, 'Efavirenz 200Mg Scored Tablets'),
+       (1, 'Efavirenz; Emtricitabine; Tenofovir Disoproxil Fumarate'),
+       (1, 'Efavirenz; Lamivudine; Tenofovir Disoproxil Fumarate'),
+       (1, 'Effexor'),
+       (1, 'Effexor Xr'),
+       (1, 'Effient'),
+       (1, 'Efidac 24 Chlorpheniramine Maleate'),
+       (1, 'Efidac 24 Pseudoephedrine Hydrochloride/Brompheniramine Maleate'),
+       (1, 'Efudex'),
+       (1, 'Egrifta'),
+       (1, 'Elaprase'),
+       (1, 'Elase-Chloromycetin'),
+       (1, 'Elavil'),
+       (1, 'Eldecort'),
+       (1, 'Eldepryl'),
+       (1, 'Elelyso'),
+       (1, 'Elestat'),
+       (1, 'Elestrin'),
+       (1, 'Eletriptan Hydrobromide'),
+       (1, 'Elidel'),
+       (1, 'Elifemme'),
+       (1, 'Eligard'),
+       (1, 'Elimite'),
+       (1, 'Elinest'),
+       (1, 'Eliphos'),
+       (1, 'Eliquis'),
+       (1, 'Elitek'),
+       (1, 'Elixicon'),
+       (1, 'Elixomin'),
+       (1, 'Elixophyllin'),
+       (1, 'Elixophyllin Sr'),
+       (1, 'Ella'),
+       (1, 'Ellence'),
+       (1, 'Elliotts B Solution'),
+       (1, 'Elmiron'),
+       (1, 'Elocon'),
+       (1, 'Eloxatin'),
+       (1, 'Elspar'),
+       (1, 'Eltrombopag'),
+       (1, 'Emadine'),
+       (1, 'Embeda'),
+       (1, 'Embeline'),
+       (1, 'Embeline E'),
+       (1, 'Embolex'),
+       (1, 'Emcyt'),
+       (1, 'Emend'),
+       (1, 'Emete-Con'),
+       (1, 'Emflaza'),
+       (1, 'Emgel'),
+       (1, 'Emla'),
+       (1, 'Emoquette'),
+       (1, 'Empliciti'),
+       (1, 'Empracet W/ Codeine Phosphate #3'),
+       (1, 'Empracet W/ Codeine Phosphate #4'),
+       (1, 'Emsam'),
+       (1, 'Emtricitabine'),
+       (1, 'Emtricitabine; Tenofovir Disoproxil Fumarate'),
+       (1, 'Emtricitabine;Rilpivirine;Tenofovir Disoproxil Fumarate'),
+       (1, 'Emtricitabine;Tenofovir Disoproxil Fumarate;Nevirapine'),
+       (1, 'Emtriva'),
+       (1, 'Emverm'),
+       (1, 'Enablex'),
+       (1, 'Enalapril Maleate'),
+       (1, 'Enalapril Maleate And Hydrochlorothiazide'),
+       (1, 'Enalaprilat'),
+       (1, 'Enbrel'),
+       (1, 'Endari'),
+       (1, 'Endep'),
+       (1, 'Endometrin'),
+       (1, 'Endosol Extra'),
+       (1, 'Enduron'),
+       (1, 'Enduronyl'),
+       (1, 'Enduronyl Forte'),
+       (1, 'Enflurane'),
+       (1, 'Enjuvia'),
+       (1, 'Enlon'),
+       (1, 'Enlon-Plus'),
+       (1, 'Enovid'),
+       (1, 'Enovid-E'),
+       (1, 'Enovid-E 21'),
+       (1, 'Enoxaparin Sodium'),
+       (1, 'Enoxaparin Sodium (Preservative Free)'),
+       (1, 'Enpresse-21'),
+       (1, 'Enpresse-28'),
+       (1, 'Enskyce'),
+       (1, 'Enstilar'),
+       (1, 'Entacapone'),
+       (1, 'Entecavir'),
+       (1, 'Entereg'),
+       (1, 'Entocort Ec'),
+       (1, 'Entresto'),
+       (1, 'Entyvio'),
+       (1, 'Enulose'),
+       (1, 'Envarsus Xr'),
+       (1, 'Eovist'),
+       (1, 'Epaned'),
+       (1, 'Epaned Kit'),
+       (1, 'Epanova'),
+       (1, 'Epclusa'),
+       (1, 'Ephedrine Sulfate'),
+       (1, 'Epi E Z Pen Jr'),
+       (1, 'Epicort'),
+       (1, 'Epiduo'),
+       (1, 'Epiduo Forte'),
+       (1, 'Epifoam'),
+       (1, 'Epinastine Hydrochloride'),
+       (1, 'Epinephrine'),
+       (1, 'Epipen'),
+       (1, 'Epirubicin Hydrochloride'),
+       (1, 'Epitol'),
+       (1, 'Epivir'),
+       (1, 'Epivir-Hbv'),
+       (1, 'Eplerenone'),
+       (1, 'Epogen/Procrit'),
+       (1, 'Epoprostenol Sodium'),
+       (1, 'Eprosartan Mesylate'),
+       (1, 'Eptifibatide'),
+       (1, 'Epzicom'),
+       (1, 'Equagesic'),
+       (1, 'Equanil'),
+       (1, 'Equetro'),
+       (1, 'Equipin'),
+       (1, 'Eraxis'),
+       (1, 'Erbitux'),
+       (1, 'Erelzi'),
+       (1, 'Ergamisol'),
+       (1, 'Ergocalciferol'),
+       (1, 'Ergoloid Mesylates'),
+       (1, 'Ergomar'),
+       (1, 'Ergostat'),
+       (1, 'Ergotamine Tartrate And Caffeine'),
+       (1, 'Erivedge'),
+       (1, 'Erleada'),
+       (1, 'Erlotinib Hydrochloride'),
+       (1, 'Errin'),
+       (1, 'Ertaczo'),
+       (1, 'Ertapenem Sodium'),
+       (1, 'Erwinaze'),
+       (1, 'Ery-Tab'),
+       (1, 'Eryc'),
+       (1, 'Eryc 125'),
+       (1, 'Eryc Sprinkles'),
+       (1, 'Erycette'),
+       (1, 'Eryderm'),
+       (1, 'Erygel'),
+       (1, 'Erymax'),
+       (1, 'Erypar'),
+       (1, 'Eryped'),
+       (1, 'Erythra-Derm'),
+       (1, 'Erythro-Statin'),
+       (1, 'Erythrocin'),
+       (1, 'Erythrocin Stearate'),
+       (1, 'Erythromycin'),
+       (1, 'Erythromycin And Benzoyl Peroxide'),
+       (1, 'Erythromycin Estolate'),
+       (1, 'Erythromycin Ethylsuccinate'),
+       (1, 'Erythromycin Ethylsuccinate And Sulfisoxazole Acetyl'),
+       (1, 'Erythromycin Lactobionate'),
+       (1, 'Erythromycin Stearate'),
+       (1, 'Eryzole'),
+       (1, 'Esbriet'),
+       (1, 'Escitalopram'),
+       (1, 'Escitalopram Oxalate'),
+       (1, 'Esclim'),
+       (1, 'Esgic'),
+       (1, 'Esgic-Plus'),
+       (1, 'Esidrix'),
+       (1, 'Esimil'),
+       (1, 'Eskalith'),
+       (1, 'Eskalith Cr'),
+       (1, 'Eskata'),
+       (1, 'Esmolol Hydrochloride'),
+       (1, 'Esmolol Hydrochloride Double Strength In Plastic Container'),
+       (1, 'Esomeprazole Magnesium'),
+       (1, 'Esomeprazole Sodium'),
+       (1, 'Esomeprazole Strontium'),
+       (1, 'Estarylla'),
+       (1, 'Estazolam'),
+       (1, 'Esterified Estrogens'),
+       (1, 'Estinyl'),
+       (1, 'Estrace'),
+       (1, 'Estraderm'),
+       (1, 'Estradiol'),
+       (1, 'Estradiol And Norethindrone Acetate'),
+       (1, 'Estradiol And Norgestimate'),
+       (1, 'Estradiol Cypionate'),
+       (1, 'Estradiol Valerate'),
+       (1, 'Estradiol Valerate And Dienogest'),
+       (1, 'Estradiol Valerate; Estradiol Valerate; Dienogest'),
+       (1, 'Estradurin'),
+       (1, 'Estraguard'),
+       (1, 'Estrasorb'),
+       (1, 'Estratab'),
+       (1, 'Estring'),
+       (1, 'Estrogel'),
+       (1, 'Estrone'),
+       (1, 'Estropipate'),
+       (1, 'Estrostep 21'),
+       (1, 'Estrostep Fe'),
+       (1, 'Estrovis'),
+       (1, 'Eszopiclone'),
+       (1, 'Ethacrynate Sodium'),
+       (1, 'Ethacrynic Acid'),
+       (1, 'Ethambutol Hydrochloride'),
+       (1, 'Ethamide'),
+       (1, 'Ethamolin'),
+       (1, 'Ethchlorvynol'),
+       (1, 'Ethinyl Estradiol And Levonorgestrel'),
+       (1, 'Ethmozine'),
+       (1, 'Ethosuximide'),
+       (1, 'Ethrane'),
+       (1, 'Ethril 250'),
+       (1, 'Ethril 500'),
+       (1, 'Ethynodiol Diacetate And Ethinyl Estradiol'),
+       (1, 'Ethyol'),
+       (1, 'Etidronate Disodium'),
+       (1, 'Etodolac'),
+       (1, 'Etomidate'),
+       (1, 'Etopophos Preservative Free'),
+       (1, 'Etoposide'),
+       (1, 'Etrafon 2-10'),
+       (1, 'Etrafon 2-25'),
+       (1, 'Etrafon-A'),
+       (1, 'Etrafon-Forte'),
+       (1, 'Eucrisa'),
+       (1, 'Eulexin'),
+       (1, 'Eurax'),
+       (1, 'Euthroid-0.5'),
+       (1, 'Euthroid-1'),
+       (1, 'Euthroid-2'),
+       (1, 'Euthroid-3'),
+       (1, 'Eutonyl'),
+       (1, 'Eutron'),
+       (1, 'Evalose'),
+       (1, 'Evamist'),
+       (1, 'Evans Blue'),
+       (1, 'Evekeo'),
+       (1, 'Everolimus'),
+       (1, 'Evex'),
+       (1, 'Evista'),
+       (1, 'Evoclin'),
+       (1, 'Evomela'),
+       (1, 'Evotaz'),
+       (1, 'Evoxac'),
+       (1, 'Evzio'),
+       (1, 'Exalgo'),
+       (1, 'Excedrin (Migraine)'),
+       (1, 'Exelderm'),
+       (1, 'Exelon'),
+       (1, 'Exemestane'),
+       (1, 'Exforge'),
+       (1, 'Exforge Hct'),
+       (1, 'Exidine'),
+       (1, 'Exjade'),
+       (1, 'Exna'),
+       (1, 'Exondys 51'),
+       (1, 'Exosurf Neonatal'),
+       (1, 'Exparel'),
+       (1, 'Exsel'),
+       (1, 'Extavia'),
+       (1, 'Extended Phenytoin Sodium'),
+       (1, 'Extina'),
+       (1, 'Extra-Strength Aim'),
+       (1, 'Extraneal'),
+       (1, 'Exubera'),
+       (1, 'Eylea'),
+       (1, 'Ezetimibe'),
+       (1, 'Ezetimibe And Atorvastatin Calcium'),
+       (1, 'Ezetimibe; Simvastatin'),
+       (1, 'Fabior'),
+       (1, 'Fabrazyme'),
+       (1, 'Factive'),
+       (1, 'Factrel'),
+       (1, 'Fallback Solo'),
+       (1, 'Falmina'),
+       (1, 'Famciclovir'),
+       (1, 'Famotidine'),
+       (1, 'Famotidine Preservative Free'),
+       (1, 'Famotidine, Calcium Carbonate, And Magnesium Hydroxide'),
+       (1, 'Famvir'),
+       (1, 'Fanapt'),
+       (1, 'Fansidar'),
+       (1, 'Fareston'),
+       (1, 'Farxiga'),
+       (1, 'Farydak'),
+       (1, 'Fasenra'),
+       (1, 'Faslodex'),
+       (1, 'Fastin'),
+       (1, 'Fayosim'),
+       (1, 'Fazaclo Odt'),
+       (1, 'Febuxostat'),
+       (1, 'Felbamate'),
+       (1, 'Felbatol'),
+       (1, 'Feldene'),
+       (1, 'Felodipine'),
+       (1, 'Femara'),
+       (1, 'Femcet'),
+       (1, 'Femcon Fe'),
+       (1, 'Femhrt'),
+       (1, 'Feminone'),
+       (1, 'Femogen'),
+       (1, 'Fempatch'),
+       (1, 'Femring'),
+       (1, 'Femstat'),
+       (1, 'Femstat 3'),
+       (1, 'Femtrace'),
+       (1, 'Fenofibrate'),
+       (1, 'Fenofibrate (Micronized)'),
+       (1, 'Fenofibric Acid'),
+       (1, 'Fenoglide'),
+       (1, 'Fenoldopam Mesylate'),
+       (1, 'Fenoprofen Calcium'),
+       (1, 'Fentanyl'),
+       (1, 'Fentanyl Citrate'),
+       (1, 'Fentanyl Citrate And Droperidol'),
+       (1, 'Fentanyl Citrate Preservative Free'),
+       (1, 'Fentanyl-100'),
+       (1, 'Fentanyl-12'),
+       (1, 'Fentanyl-25'),
+       (1, 'Fentanyl-37'),
+       (1, 'Fentanyl-50'),
+       (1, 'Fentanyl-62'),
+       (1, 'Fentanyl-75'),
+       (1, 'Fentanyl-87'),
+       (1, 'Fentora'),
+       (1, 'Feraheme'),
+       (1, 'Feridex I.V.'),
+       (1, 'Ferndex'),
+       (1, 'Fernisolone-P'),
+       (1, 'Fernisone'),
+       (1, 'Ferriprox'),
+       (1, 'Ferriseltz'),
+       (1, 'Ferrlecit'),
+       (1, 'Ferrous Citrate Fe 59'),
+       (1, 'Ferrous Fumarate'),
+       (1, 'Fertinex'),
+       (1, 'Fesoterodine Fumarate'),
+       (1, 'Fetzima'),
+       (1, 'Fexofenadine Hydrochloride'),
+       (1, 'Fexofenadine Hydrochloride Allergy'),
+       (1, 'Fexofenadine Hydrochloride Hives'),
+       (1, 'Fexofenadine Hydrochloride; Pseudoephedrine Hydrochloride'),
+       (1, 'Fiasp'),
+       (1, 'Fiasp Flextouch'),
+       (1, 'Fibricor'),
+       (1, 'Finacea'),
+       (1, 'Finasteride'),
+       (1, 'Fingolimod'),
+       (1, 'Fioricet W/ Codeine'),
+       (1, 'Fiorinal'),
+       (1, 'Fiorinal W/Codeine'),
+       (1, 'Firazyr'),
+       (1, 'Firmagon'),
+       (1, 'Firvanq Kit'),
+       (1, 'Flac'),
+       (1, 'Flagyl'),
+       (1, 'Flagyl Er'),
+       (1, 'Flagyl I.V.'),
+       (1, 'Flagyl I.V. Rtu In Plastic Container'),
+       (1, 'Flarex'),
+       (1, 'Flavored Colestid'),
+       (1, 'Flavoxate Hydrochloride'),
+       (1, 'Flaxedil'),
+       (1, 'Flecainide Acetate'),
+       (1, 'Flector'),
+       (1, 'Flexeril'),
+       (1, 'Flexicort'),
+       (1, 'Flo-Pred'),
+       (1, 'Flolan'),
+       (1, 'Flolipid'),
+       (1, 'Flomax'),
+       (1, 'Flonase'),
+       (1, 'Flonase Allergy Relief'),
+       (1, 'Flonase Sensimist Allergy Relief'),
+       (1, 'Florinef'),
+       (1, 'Florone'),
+       (1, 'Florone E'),
+       (1, 'Floropryl'),
+       (1, 'Flovent'),
+       (1, 'Flovent Diskus 100'),
+       (1, 'Flovent Diskus 250'),
+       (1, 'Flovent Diskus 50'),
+       (1, 'Flovent Hfa'),
+       (1, 'Flowtuss'),
+       (1, 'Floxin'),
+       (1, 'Floxin In Dextrose 5%'),
+       (1, 'Floxin Otic'),
+       (1, 'Floxuridine'),
+       (1, 'Fluconazole'),
+       (1, 'Fluconazole In Dextrose 5% In Plastic Container'),
+       (1, 'Fluconazole In Sodium Chloride 0.9%'),
+       (1, 'Flucytosine'),
+       (1, 'Fludara'),
+       (1, 'Fludarabine Phosphate'),
+       (1, 'Fludeoxyglucose F18'),
+       (1, 'Fludrocortisone Acetate'),
+       (1, 'Fluidil'),
+       (1, 'Flumadine'),
+       (1, 'Flumazenil'),
+       (1, 'Flunisolide'),
+       (1, 'Fluocet'),
+       (1, 'Fluocinolone Acetonide'),
+       (1, 'Fluocinonide'),
+       (1, 'Fluocinonide Emulsified Base'),
+       (1, 'Fluonid'),
+       (1, 'Fluor-Op'),
+       (1, 'Fluorescite'),
+       (1, 'Fluorine F-18'),
+       (1, 'Fluoroplex'),
+       (1, 'Fluorouracil'),
+       (1, 'Fluothane'),
+       (1, 'Fluotrex'),
+       (1, 'Fluoxetine'),
+       (1, 'Fluoxetine Hydrochloride'),
+       (1, 'Fluoxymesterone'),
+       (1, 'Fluphenazine'),
+       (1, 'Fluphenazine Decanoate'),
+       (1, 'Fluphenazine Hcl'),
+       (1, 'Fluphenazine Hydrochloride'),
+       (1, 'Flurandrenolide'),
+       (1, 'Flurazepam Hydrochloride'),
+       (1, 'Flurbiprofen'),
+       (1, 'Flurbiprofen Sodium'),
+       (1, 'Flutamide'),
+       (1, 'Flutex'),
+       (1, 'Fluticasone Propionate'),
+       (1, 'Fluvastatin Sodium'),
+       (1, 'Fluvoxamine Maleate'),
+       (1, 'Fluxid'),
+       (1, 'Fml'),
+       (1, 'Fml Forte'),
+       (1, 'Fml-S'),
+       (1, 'Foamcoat'),
+       (1, 'Foamicon'),
+       (1, 'Focalin'),
+       (1, 'Focalin Xr'),
+       (1, 'Folex'),
+       (1, 'Folex Pfs'),
+       (1, 'Folic Acid'),
+       (1, 'Folicet'),
+       (1, 'Follistim'),
+       (1, 'Follistim Aq'),
+       (1, 'Follutein'),
+       (1, 'Folotyn'),
+       (1, 'Folvite'),
+       (1, 'Folvron'),
+       (1, 'Fomepizole'),
+       (1, 'Fondaparinux Sodium'),
+       (1, 'Foradil'),
+       (1, 'Foradil Certihaler'),
+       (1, 'Forane'),
+       (1, 'Forbaxin'),
+       (1, 'Forfivo Xl'),
+       (1, 'Formoterol Fumarate'),
+       (1, 'Fortamet'),
+       (1, 'Fortaz'),
+       (1, 'Forteo'),
+       (1, 'Fortesta'),
+       (1, 'Fortical'),
+       (1, 'Fortovase'),
+       (1, 'Fosamax'),
+       (1, 'Fosamax Plus D'),
+       (1, 'Fosamprenavir Calcium'),
+       (1, 'Fosaprepitant'),
+       (1, 'Fosaprepitant Dimeglumine'),
+       (1, 'Foscarnet Sodium'),
+       (1, 'Foscavir'),
+       (1, 'Fosinopril Sodium'),
+       (1, 'Fosinopril Sodium And Hydrochlorothiazide'),
+       (1, 'Fosphenytoin Sodium'),
+       (1, 'Fosrenol'),
+       (1, 'Fovane'),
+       (1, 'Fragmin'),
+       (1, 'Freamine 8.5%'),
+       (1, 'Freamine Hbc 6.9%'),
+       (1, 'Freamine Ii 8.5%'),
+       (1, 'Freamine Iii 10%'),
+       (1, 'Freamine Iii 3% W/ Electrolytes'),
+       (1, 'Freamine Iii 8.5%'),
+       (1, 'Freamine Iii 8.5% W/ Electrolytes'),
+       (1, 'Frova'),
+       (1, 'Frovatriptan Succinate'),
+       (1, 'Fudr'),
+       (1, 'Fulvicin P/G'),
+       (1, 'Fulvicin P/G 165'),
+       (1, 'Fulvicin P/G 330'),
+       (1, 'Fulvicin-U/F'),
+       (1, 'Funduscein-25'),
+       (1, 'Fungizone'),
+       (1, 'Furacin'),
+       (1, 'Furadantin'),
+       (1, 'Furalan'),
+       (1, 'Furosemide'),
+       (1, 'Furoxone'),
+       (1, 'Fusilev'),
+       (1, 'Fuzeon'),
+       (1, 'Fyavolv'),
+       (1, 'Fycompa'),
+       (1, 'Gabapentin'),
+       (1, 'Gabitril'),
+       (1, 'Gablofen'),
+       (1, 'Gadavist'),
+       (1, 'Galantamine Hydrobromide'),
+       (1, 'Gallium Citrate Ga 67'),
+       (1, 'Galzin'),
+       (1, 'Gamene'),
+       (1, 'Gamophen'),
+       (1, 'Ganciclovir'),
+       (1, 'Ganciclovir Sodium'),
+       (1, 'Ganirelix Acetate'),
+       (1, 'Ganite'),
+       (1, 'Gantanol'),
+       (1, 'Gantanol-Ds'),
+       (1, 'Gantrisin'),
+       (1, 'Gantrisin Pediatric'),
+       (1, 'Garamycin'),
+       (1, 'Gastrocrom'),
+       (1, 'Gastrografin'),
+       (1, 'Gastromark'),
+       (1, 'Gastrovist'),
+       (1, 'Gatifloxacin'),
+       (1, 'Gattex Kit'),
+       (1, 'Gaviscon'),
+       (1, 'Gazyva'),
+       (1, 'Gelnique'),
+       (1, 'Gelnique 3%'),
+       (1, 'Gemcitabine'),
+       (1, 'Gemcitabine Hydrochloride'),
+       (1, 'Gemfibrozil'),
+       (1, 'Gemifloxacin Mesylate'),
+       (1, 'Gemonil'),
+       (1, 'Gemzar'),
+       (1, 'Gen-Xene'),
+       (1, 'Genapax'),
+       (1, 'Gencept 10/11-21'),
+       (1, 'Gencept 10/11-28'),
+       (1, 'Generlac'),
+       (1, 'Genesa'),
+       (1, 'Gengraf'),
+       (1, 'Genoptic'),
+       (1, 'Genotropin'),
+       (1, 'Genotropin Preservative Free'),
+       (1, 'Gentacidin'),
+       (1, 'Gentafair'),
+       (1, 'Gentak'),
+       (1, 'Gentamicin'),
+       (1, 'Gentamicin Sulfate'),
+       (1, 'Gentamicin Sulfate In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Genvoya'),
+       (1, 'Geocillin'),
+       (1, 'Geodon'),
+       (1, 'Geopen'),
+       (1, 'Geref'),
+       (1, 'Gerimal'),
+       (1, 'Germa-Medica'),
+       (1, 'Germa-Medica ""Mg""'),
+       (1, 'Giapreza'),
+       (1, 'Giazo'),
+       (1, 'Gildagia'),
+       (1, 'Gildess 1.5/30'),
+       (1, 'Gildess 1/20'),
+       (1, 'Gildess 24 Fe'),
+       (1, 'Gildess Fe 1.5/30'),
+       (1, 'Gildess Fe 1/20'),
+       (1, 'Gilenya'),
+       (1, 'Gilotrif'),
+       (1, 'Glatiramer Acetate'),
+       (1, 'Glatopa'),
+       (1, 'Gleevec'),
+       (1, 'Gleolan'),
+       (1, 'Gleostine'),
+       (1, 'Gliadel'),
+       (1, 'Glimepiride'),
+       (1, 'Glipizide'),
+       (1, 'Glipizide And Metformin Hydrochloride'),
+       (1, 'Glofil-125'),
+       (1, 'Glucagen'),
+       (1, 'Glucagon'),
+       (1, 'Glucamide'),
+       (1, 'Glucophage'),
+       (1, 'Glucophage Xr'),
+       (1, 'Glucoscan'),
+       (1, 'Glucotrol'),
+       (1, 'Glucotrol Xl'),
+       (1, 'Glucovance'),
+       (1, 'Glumetza'),
+       (1, 'Glutethimide'),
+       (1, 'Glyburide'),
+       (1, 'Glyburide (Micronized)'),
+       (1, 'Glyburide And Metformin Hydrochloride'),
+       (1, 'Glycerol Phenylbutyrate'),
+       (1, 'Glycine 1.5% In Plastic Container'),
+       (1, 'Glycolax'),
+       (1, 'Glycoprep'),
+       (1, 'Glycopyrrolate'),
+       (1, 'Glycort'),
+       (1, 'Glydo'),
+       (1, 'Glynase'),
+       (1, 'Glyset'),
+       (1, 'Glyxambi'),
+       (1, 'Go-Evac'),
+       (1, 'Gocovri'),
+       (1, 'Golytely'),
+       (1, 'Gonal-F'),
+       (1, 'Gonal-F Rff'),
+       (1, 'Gonal-F Rff Redi-Ject'),
+       (1, 'Gonitro'),
+       (1, 'Goprelto'),
+       (1, 'Gralise'),
+       (1, 'Granisetron Hydrochloride'),
+       (1, 'Granisetron Hydrochloride Preservative Free'),
+       (1, 'Granisol'),
+       (1, 'Granix'),
+       (1, 'Grifulvin V'),
+       (1, 'Gris-Peg'),
+       (1, 'Grisactin'),
+       (1, 'Grisactin Ultra'),
+       (1, 'Griseofulvin'),
+       (1, 'Griseofulvin, Ultramicrosize'),
+       (1, 'Guaifenesin'),
+       (1, 'Guaifenesin And Dextromethorphan Hydrobromide'),
+       (1, 'Guaifenesin And Pseudoephedrine Hydrochloride'),
+       (1, 'Guanabenz Acetate'),
+       (1, 'Guanethidine Monosulfate'),
+       (1, 'Guanfacine Hydrochloride'),
+       (1, 'Guanidine Hydrochloride'),
+       (1, 'Gvs'),
+       (1, 'Gynazole-1'),
+       (1, 'Gyne-Lotrimin'),
+       (1, 'Gyne-Lotrimin 3'),
+       (1, 'Gyne-Sulf'),
+       (1, 'Gynix'),
+       (1, 'Gynodiol'),
+       (1, 'Gynorest'),
+       (1, 'H-Cort'),
+       (1, 'H.P. Acthar Gel'),
+       (1, 'H.R.-50'),
+       (1, 'Habitrol'),
+       (1, 'Hailey Fe 1/20'),
+       (1, 'Halaven'),
+       (1, 'Halcion'),
+       (1, 'Haldol'),
+       (1, 'Haldol Solutab'),
+       (1, 'Haldrone'),
+       (1, 'Halfan'),
+       (1, 'Halflytely'),
+       (1, 'Halobetasol Propionate'),
+       (1, 'Halog'),
+       (1, 'Halog-E'),
+       (1, 'Haloperidol'),
+       (1, 'Haloperidol Decanoate'),
+       (1, 'Haloperidol Intensol'),
+       (1, 'Haloperidol Lactate'),
+       (1, 'Halotestin'),
+       (1, 'Halotex'),
+       (1, 'Halothane'),
+       (1, 'Harmonyl'),
+       (1, 'Harvoni'),
+       (1, 'Hc (Hydrocortisone)'),
+       (1, 'Hc #1'),
+       (1, 'Hc #4'),
+       (1, 'Heather'),
+       (1, 'Heavy Solution Nupercaine'),
+       (1, 'Hectorol'),
+       (1, 'Hedulin'),
+       (1, 'Helicosol'),
+       (1, 'Helidac'),
+       (1, 'Helium, Usp'),
+       (1, 'Hemabate'),
+       (1, 'Hemangeol'),
+       (1, 'Hemlibra'),
+       (1, 'Hemsol-Hc'),
+       (1, 'Heparin Lock Flush'),
+       (1, 'Heparin Sodium'),
+       (1, 'Heparin Sodium 1,000 Units And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Heparin Sodium 1,000 Units In Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 1,000 Units In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Heparin Sodium 10,000 Units And Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 10,000 Units In Dextrose 5%'),
+       (1, 'Heparin Sodium 10,000 Units In Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 10,000 Units In Sodium Chloride 0.45%'),
+       (1, 'Heparin Sodium 10,000 Units In Sodium Chloride 0.9%'),
+       (1, 'Heparin Sodium 12,500 Units In Dextrose 5%'),
+       (1, 'Heparin Sodium 12,500 Units In Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 12,500 Units In Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Heparin Sodium 12,500 Units In Sodium Chloride 0.9%'),
+       (1, 'Heparin Sodium 2,000 Units And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Heparin Sodium 2,000 Units In Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 2,000 Units In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Heparin Sodium 20,000 Units And Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 20,000 Units In Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 25,000 Units And Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 25,000 Units In Dextrose 5%'),
+       (1, 'Heparin Sodium 25,000 Units In Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 25,000 Units In Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Heparin Sodium 25,000 Units In Sodium Chloride 0.9%'),
+       (1, 'Heparin Sodium 25,000 Units In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Heparin Sodium 5,000 Units And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Heparin Sodium 5,000 Units In Dextrose 5% In Plastic Container'),
+       (1, 'Heparin Sodium 5,000 Units In Sodium Chloride 0.45%'),
+       (1, 'Heparin Sodium 5,000 Units In Sodium Chloride 0.9%'),
+       (1, 'Heparin Sodium 5,000 Units In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Heparin Sodium Preservative Free'),
+       (1, 'Hepatamine 8%'),
+       (1, 'Hepatasol 8%'),
+       (1, 'Hepatolite'),
+       (1, 'Hepsera'),
+       (1, 'Heptalac'),
+       (1, 'Her Style'),
+       (1, 'Herceptin'),
+       (1, 'Herplex'),
+       (1, 'Hetlioz'),
+       (1, 'Hetrazan'),
+       (1, 'Hexa-Betalin'),
+       (1, 'Hexa-Germ'),
+       (1, 'Hexabrix'),
+       (1, 'Hexadrol'),
+       (1, 'Hexalen'),
+       (1, 'Hexascrub'),
+       (1, 'Hi-Cor'),
+       (1, 'Hibiclens'),
+       (1, 'Hibistat'),
+       (1, 'Hicon'),
+       (1, 'Hippuran I 131'),
+       (1, 'Hipputope'),
+       (1, 'Hiprex'),
+       (1, 'Hiserpia'),
+       (1, 'Hispril'),
+       (1, 'Histafed'),
+       (1, 'Histalog'),
+       (1, 'Histamine Phosphate'),
+       (1, 'Hivid'),
+       (1, 'Hiwolfia'),
+       (1, 'Hms'),
+       (1, 'Homapin-10'),
+       (1, 'Homapin-5'),
+       (1, 'Homatropine Methylbromide And Hydrocodone Bitartrate'),
+       (1, 'Horizant'),
+       (1, 'Humalog'),
+       (1, 'Humalog Kwikpen'),
+       (1, 'Humalog Mix 50/50'),
+       (1, 'Humalog Mix 50/50 Kwikpen'),
+       (1, 'Humalog Mix 50/50 Pen'),
+       (1, 'Humalog Mix 75/25'),
+       (1, 'Humalog Mix 75/25 Kwikpen'),
+       (1, 'Humalog Mix 75/25 Pen'),
+       (1, 'Humalog Pen'),
+       (1, 'Humatin'),
+       (1, 'Humatrope'),
+       (1, 'Humegon'),
+       (1, 'Humira'),
+       (1, 'Humorsol'),
+       (1, 'Humulin 50/50'),
+       (1, 'Humulin 70/30'),
+       (1, 'Humulin 70/30 Pen'),
+       (1, 'Humulin Br'),
+       (1, 'Humulin L'),
+       (1, 'Humulin N'),
+       (1, 'Humulin R'),
+       (1, 'Humulin R Kwikpen'),
+       (1, 'Humulin R Pen'),
+       (1, 'Humulin U'),
+       (1, 'Hy-Pam ""25""'),
+       (1, 'Hy-Phen'),
+       (1, 'Hycamtin'),
+       (1, 'Hycodan'),
+       (1, 'Hycofenix'),
+       (1, 'Hydase'),
+       (1, 'Hydeltra-Tba'),
+       (1, 'Hydeltrasol'),
+       (1, 'Hydergine'),
+       (1, 'Hydergine Lc'),
+       (1, 'Hydra-Zide'),
+       (1, 'Hydralazine And Hydrochlorothiazide'),
+       (1, 'Hydralazine Hydrochloride'),
+       (1, 'Hydralazine Hydrochloride And Hydrochlorothiazide'),
+       (1, 'Hydralazine Hydrochloride W/ Hydrochlorothiazide 100/50'),
+       (1, 'Hydralazine Hydrochloride W/ Hydrochlorothiazide 25/25'),
+       (1, 'Hydralazine Hydrochloride W/ Hydrochlorothiazide 50/50'),
+       (1, 'Hydralazine Hydrochloride, Hydrochlorothiazide And Reserpine'),
+       (1, 'Hydralazine, Hydrochlorothiazide W/ Reserpine'),
+       (1, 'Hydramine'),
+       (1, 'Hydrap-Es'),
+       (1, 'Hydrea'),
+       (1, 'Hydro-D'),
+       (1, 'Hydro-Reserp'),
+       (1, 'Hydro-Ride'),
+       (1, 'Hydro-Rx'),
+       (1, 'Hydro-Serp ""25""'),
+       (1, 'Hydro-Serp ""50""'),
+       (1, 'Hydrochlorothiazide'),
+       (1, 'Hydrochlorothiazide Intensol'),
+       (1, 'Hydrochlorothiazide W/ Hydralazine'),
+       (1, 'Hydrochlorothiazide W/ Reserpine'),
+       (1, 'Hydrochlorothiazide W/ Reserpine And Hydralazine'),
+       (1, 'Hydrochlorothiazide; Irbesartan'),
+       (1, 'Hydrochlorothiazide; Valsartan'),
+       (1, 'Hydrocodone Bitartrate'),
+       (1, 'Hydrocodone Bitartrate And Acetaminophen'),
+       (1, 'Hydrocodone Bitartrate And Chlorpheniramine Maleate'),
+       (1, 'Hydrocodone Bitartrate And Guaifenesin'),
+       (1, 'Hydrocodone Bitartrate And Homatropine Methylbromide'),
+       (1, 'Hydrocodone Bitartrate And Ibuprofen'),
+       (1, 'Hydrocodone Bitartrate And Pseudoephedrine Hydrochloride'),
+       (1, 'Hydrocodone Bitartrate, Chlorpheniramine Maleate And Pseudoephedrine Hydrochloride '),
+       (1, 'Hydrocodone Polistirex And Chlorpheniramine Polistirex'),
+       (1, 'Hydrocortisone'),
+       (1, 'Hydrocortisone Acetate'),
+       (1, 'Hydrocortisone Acetate 1% And Pramoxine Hydrochloride 1%'),
+       (1, 'Hydrocortisone And Acetic Acid'),
+       (1, 'Hydrocortisone Butyrate'),
+       (1, 'Hydrocortisone In Absorbase'),
+       (1, 'Hydrocortisone Sodium Phosphate'),
+       (1, 'Hydrocortisone Sodium Succinate'),
+       (1, 'Hydrocortisone Valerate'),
+       (1, 'Hydrocortone'),
+       (1, 'Hydrodiuril'),
+       (1, 'Hydroflumethiazide'),
+       (1, 'Hydroflumethiazide And Reserpine'),
+       (1, 'Hydrogenated Ergot Alkaloids'),
+       (1, 'Hydromorphone Hydrochloride'),
+       (1, 'Hydromox'),
+       (1, 'Hydromox R'),
+       (1, 'Hydropane'),
+       (1, 'Hydropres 25'),
+       (1, 'Hydropres 50'),
+       (1, 'Hydroserpine Plus (R-H-H)'),
+       (1, 'Hydroxocobalamin'),
+       (1, 'Hydroxomin'),
+       (1, 'Hydroxychloroquine Sulfate'),
+       (1, 'Hydroxyprogesterone Caproate'),
+       (1, 'Hydroxystilbamidine Isethionate'),
+       (1, 'Hydroxyurea'),
+       (1, 'Hydroxyzine'),
+       (1, 'Hydroxyzine Hydrochloride'),
+       (1, 'Hydroxyzine Pamoate'),
+       (1, 'Hygroton'),
+       (1, 'Hylenex Recombinant'),
+       (1, 'Hylorel'),
+       (1, 'Hypaque'),
+       (1, 'Hypaque Sodium 20%'),
+       (1, 'Hypaque-76'),
+       (1, 'Hypaque-Cysto'),
+       (1, 'Hypaque-M,75%'),
+       (1, 'Hypaque-M,90%'),
+       (1, 'Hyperstat'),
+       (1, 'Hyprotigen 5%'),
+       (1, 'Hyserpin'),
+       (1, 'Hysingla'),
+       (1, 'Hytone'),
+       (1, 'Hytrin'),
+       (1, 'Hyzaar'),
+       (1, 'Hyzyd'),
+       (1, 'Ibandronate Sodium'),
+       (1, 'Ibrance'),
+       (1, 'Ibrin'),
+       (1, 'Ibu'),
+       (1, 'Ibu-Tab'),
+       (1, 'Ibu-Tab 200'),
+       (1, 'Ibuprin'),
+       (1, 'Ibuprofen'),
+       (1, 'Ibuprofen And Diphenhydramine Citrate'),
+       (1, 'Ibuprofen And Diphenhydramine Hydrochloride'),
+       (1, 'Ibuprofen And Phenylephrine Hydrochloride'),
+       (1, 'Ibuprofen And Pseudoephedrine Hydrochloride'),
+       (1, 'Ibuprofen Lysine'),
+       (1, 'Ibuprofen Sodium'),
+       (1, 'Ibuprohm'),
+       (1, 'Ibuprohm Cold And Sinus'),
+       (1, 'Ibutilide Fumarate'),
+       (1, 'Ic-Green'),
+       (1, 'Iclusig'),
+       (1, 'Idamycin'),
+       (1, 'Idamycin Pfs'),
+       (1, 'Idarubicin Hydrochloride'),
+       (1, 'Idarubicin Hydrochloride Pfs'),
+       (1, 'Idhifa'),
+       (1, 'Idkit:Hp'),
+       (1, 'Ifex'),
+       (1, 'Ifex/Mesnex Kit'),
+       (1, 'Ifosfamide'),
+       (1, 'Ifosfamide/Mesna Kit'),
+       (1, 'Ilaris'),
+       (1, 'Iletin I'),
+       (1, 'Iletin Ii'),
+       (1, 'Ilevro'),
+       (1, 'Iloperidone'),
+       (1, 'Ilosone'),
+       (1, 'Ilosone Sulfa'),
+       (1, 'Ilotycin'),
+       (1, 'Ilotycin Gluceptate'),
+       (1, 'Ilumya'),
+       (1, 'Iluvien'),
+       (1, 'Imagent'),
+       (1, 'Imatinib Mesylate'),
+       (1, 'Imbruvica'),
+       (1, 'Imdur'),
+       (1, 'Imfinzi'),
+       (1, 'Imipenem And Cilastatin'),
+       (1, 'Imipramine Hydrochloride'),
+       (1, 'Imipramine Pamoate'),
+       (1, 'Imiquimod'),
+       (1, 'Imitrex'),
+       (1, 'Imitrex Statdose'),
+       (1, 'Imodium'),
+       (1, 'Imodium A-D'),
+       (1, 'Imodium A-D Ez Chews'),
+       (1, 'Imodium Multi-Symptom Relief'),
+       (1, 'Impavido'),
+       (1, 'Implanon'),
+       (1, 'Impoyz'),
+       (1, 'Imuran'),
+       (1, 'Inapsine'),
+       (1, 'Incassia'),
+       (1, 'Incivek'),
+       (1, 'Increlex'),
+       (1, 'Incruse Ellipta '),
+       (1, 'Indapamide'),
+       (1, 'Inderal'),
+       (1, 'Inderal La'),
+       (1, 'Inderide La 120/50'),
+       (1, 'Inderide La 160/50'),
+       (1, 'Inderide La 80/50'),
+       (1, 'Inderide-40/25'),
+       (1, 'Inderide-80/25'),
+       (1, 'Indiclor'),
+       (1, 'Indium In 111 Chloride'),
+       (1, 'Indium In 111 Oxyquinoline'),
+       (1, 'Indo-Lemmon'),
+       (1, 'Indocin'),
+       (1, 'Indocin Sr'),
+       (1, 'Indocyanine Green'),
+       (1, 'Indomethacin'),
+       (1, 'Indomethacin Sodium'),
+       (1, 'Infants\' Feverall'),
+       (1, 'Infasurf Preservative Free'),
+       (1, 'Infed'),
+       (1, 'Inflamase Forte'),
+       (1, 'Inflamase Mild'),
+       (1, 'Inflectra'),
+       (1, 'Infumorph'),
+       (1, 'Infuvite Adult'),
+       (1, 'Infuvite Pediatric'),
+       (1, 'Ingenol Mebutate'),
+       (1, 'Ingrezza'),
+       (1, 'Inh'),
+       (1, 'Injectafer'),
+       (1, 'Injectapap'),
+       (1, 'Inlyta'),
+       (1, 'Innofem'),
+       (1, 'Innohep'),
+       (1, 'Innopran Xl'),
+       (1, 'Innovar'),
+       (1, 'Inocor'),
+       (1, 'Inomax'),
+       (1, 'Inpersol-Lc/Lm W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Inpersol-Lc/Lm W/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Inpersol-Lc/Lm W/ Dextrose 3.5% In Plastic Container'),
+       (1, 'Inpersol-Lc/Lm W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Inpersol-Zm W/ Dextrose 1.5% In Plastic Container'),
+       (1, 'Inpersol-Zm W/ Dextrose 2.5% In Plastic Container'),
+       (1, 'Inpersol-Zm W/ Dextrose 4.25% In Plastic Container'),
+       (1, 'Inspra'),
+       (1, 'Instant Microspheres'),
+       (1, 'Insulatard Nph Human'),
+       (1, 'Insulin'),
+       (1, 'Insulin Insulatard Nph Nordisk'),
+       (1, 'Insulin Nordisk Mixtard (Pork)'),
+       (1, 'Intal'),
+       (1, 'Integrilin'),
+       (1, 'Intelence'),
+       (1, 'Intermezzo'),
+       (1, 'Intralipid 10%'),
+       (1, 'Intralipid 20%'),
+       (1, 'Intralipid 30%'),
+       (1, 'Intrarosa'),
+       (1, 'Intron A'),
+       (1, 'Intropin'),
+       (1, 'Introvale'),
+       (1, 'Intuniv'),
+       (1, 'Inulin And Sodium Chloride'),
+       (1, 'Invagesic'),
+       (1, 'Invagesic Forte'),
+       (1, 'Invanz'),
+       (1, 'Invega'),
+       (1, 'Invega Sustenna'),
+       (1, 'Invega Trinza'),
+       (1, 'Inversine'),
+       (1, 'Invirase'),
+       (1, 'Invokamet'),
+       (1, 'Invokamet Xr'),
+       (1, 'Invokana'),
+       (1, 'Iobenguane Sulfate I 131'),
+       (1, 'Iodohippurate Sodium I 131'),
+       (1, 'Iodotope'),
+       (1, 'Ionamin'),
+       (1, 'Ionosol B And Dextrose 5% In Plastic Container'),
+       (1, 'Ionosol Mb And Dextrose 5% In Plastic Container'),
+       (1, 'Ionosol T And Dextrose 5% In Plastic Container'),
+       (1, 'Ionsys'),
+       (1, 'Iontocaine'),
+       (1, 'Iopamidol'),
+       (1, 'Iopamidol-200'),
+       (1, 'Iopamidol-250'),
+       (1, 'Iopamidol-300'),
+       (1, 'Iopamidol-370'),
+       (1, 'Iopidine'),
+       (1, 'Iosat'),
+       (1, 'Iplex'),
+       (1, 'Ipratropium Bromide');
+
+INSERT INTO `tbl_medication` (`id_space`, `title`)
+VALUES (1, 'Iprivask'),
+       (1, 'Iquix'),
+       (1, 'Irbesartan'),
+       (1, 'Irbesartan; Hydrochlorothiazide'),
+       (1, 'Iressa'),
+       (1, 'Irinotecan Hydrochloride'),
+       (1, 'Iron Dextran'),
+       (1, 'Irrigating Solution G In Plastic Container'),
+       (1, 'Isentress'),
+       (1, 'Isentress Hd'),
+       (1, 'Isibloom'),
+       (1, 'Ismelin'),
+       (1, 'Ismo'),
+       (1, 'Ismotic'),
+       (1, 'Isocaine Hydrochloride'),
+       (1, 'Isocaine Hydrochloride W/ Levonordefrin'),
+       (1, 'Isoclor'),
+       (1, 'Isoetharine Hydrochloride'),
+       (1, 'Isoetharine Hydrochloride S/F'),
+       (1, 'Isoetharine Mesylate'),
+       (1, 'Isoflurane'),
+       (1, 'Isolyte E In Dextrose 5% In Plastic Container'),
+       (1, 'Isolyte E In Plastic Container'),
+       (1, 'Isolyte H In Dextrose 5% In Plastic Container'),
+       (1, 'Isolyte M In Dextrose 5% In Plastic Container'),
+       (1, 'Isolyte P In Dextrose 5% In Plastic Container'),
+       (1, 'Isolyte R In Dextrose 5% In Plastic Container'),
+       (1, 'Isolyte S In Dextrose 5% In Plastic Container'),
+       (1, 'Isolyte S In Plastic Container'),
+       (1, 'Isolyte S Ph 7.4 In Plastic Container'),
+       (1, 'Isoniazid'),
+       (1, 'Isopaque 280'),
+       (1, 'Isopaque 440'),
+       (1, 'Isoproterenol Hydrochloride'),
+       (1, 'Isoptin'),
+       (1, 'Isopto Atropine'),
+       (1, 'Isopto Carpine'),
+       (1, 'Isopto Cetamide'),
+       (1, 'Isopto Cetapred'),
+       (1, 'Isordil'),
+       (1, 'Isosorbide Dinitrate'),
+       (1, 'Isosorbide Mononitrate'),
+       (1, 'Isosulfan Blue'),
+       (1, 'Isotretinoin'),
+       (1, 'Isovue-128'),
+       (1, 'Isovue-200'),
+       (1, 'Isovue-250'),
+       (1, 'Isovue-300'),
+       (1, 'Isovue-370'),
+       (1, 'Isovue-M 200'),
+       (1, 'Isovue-M 300'),
+       (1, 'Isradipine'),
+       (1, 'Istalol'),
+       (1, 'Istodax'),
+       (1, 'Isuprel'),
+       (1, 'Itraconazole'),
+       (1, 'Iv Persantine'),
+       (1, 'Ivadantin'),
+       (1, 'Ivermectin'),
+       (1, 'Ivy Block'),
+       (1, 'Ixempra Kit'),
+       (1, 'Ixifi'),
+       (1, 'Izba'),
+       (1, 'Jadelle'),
+       (1, 'Jadenu'),
+       (1, 'Jadenu Sprinkle'),
+       (1, 'Jaimiess'),
+       (1, 'Jakafi'),
+       (1, 'Jalyn'),
+       (1, 'Janimine'),
+       (1, 'Jantoven'),
+       (1, 'Janumet'),
+       (1, 'Janumet Xr'),
+       (1, 'Januvia'),
+       (1, 'Jardiance'),
+       (1, 'Jeanatope'),
+       (1, 'Jencycla'),
+       (1, 'Jenloga'),
+       (1, 'Jentadueto'),
+       (1, 'Jentadueto Xr'),
+       (1, 'Jetrea'),
+       (1, 'Jevtana Kit'),
+       (1, 'Jublia'),
+       (1, 'Juluca'),
+       (1, 'Junel 1.5/30'),
+       (1, 'Junel 1/20'),
+       (1, 'Junel Fe 1.5/30'),
+       (1, 'Junel Fe 1/20'),
+       (1, 'Junior Strength Advil'),
+       (1, 'Junior Strength Ibuprofen'),
+       (1, 'Junior Strength Motrin'),
+       (1, 'Juvisync'),
+       (1, 'Juxtapid'),
+       (1, 'Jynarque'),
+       (1, 'K-Lease'),
+       (1, 'K-Tab'),
+       (1, 'K+10'),
+       (1, 'K+8'),
+       (1, 'Kabiven In Plastic Container'),
+       (1, 'Kadcyla'),
+       (1, 'Kadian'),
+       (1, 'Kafocin'),
+       (1, 'Kainair'),
+       (1, 'Kaitlib Fe'),
+       (1, 'Kalbitor'),
+       (1, 'Kaletra'),
+       (1, 'Kalexate'),
+       (1, 'Kalliga'),
+       (1, 'Kalydeco'),
+       (1, 'Kanamycin'),
+       (1, 'Kanamycin Sulfate'),
+       (1, 'Kantrex'),
+       (1, 'Kanuma'),
+       (1, 'Kaon Cl'),
+       (1, 'Kaon Cl-10'),
+       (1, 'Kappadione'),
+       (1, 'Kapvay'),
+       (1, 'Karbinal Er'),
+       (1, 'Kariva'),
+       (1, 'Kayexalate'),
+       (1, 'Kazano'),
+       (1, 'Keflet'),
+       (1, 'Keflex'),
+       (1, 'Keflin'),
+       (1, 'Keftab'),
+       (1, 'Kefurox'),
+       (1, 'Kefzol'),
+       (1, 'Kelnor'),
+       (1, 'Kemadrin'),
+       (1, 'Kemstro'),
+       (1, 'Kenacort'),
+       (1, 'Kenalog'),
+       (1, 'Kenalog In Orabase'),
+       (1, 'Kenalog-10'),
+       (1, 'Kenalog-40'),
+       (1, 'Kenalog-H'),
+       (1, 'Kengreal'),
+       (1, 'Kepivance'),
+       (1, 'Keppra'),
+       (1, 'Keppra Xr'),
+       (1, 'Kerledex'),
+       (1, 'Kerlone'),
+       (1, 'Kerydin'),
+       (1, 'Kesso-Gesic'),
+       (1, 'Ketalar'),
+       (1, 'Ketamine Hcl'),
+       (1, 'Ketamine Hydrochloride'),
+       (1, 'Ketek'),
+       (1, 'Ketoconazole'),
+       (1, 'Ketoprofen'),
+       (1, 'Ketorolac Tromethamine'),
+       (1, 'Ketotifen Fumarate'),
+       (1, 'Ketozole'),
+       (1, 'Keveyis'),
+       (1, 'Kevzara'),
+       (1, 'Keytruda'),
+       (1, 'Khedezla'),
+       (1, 'Kimidess'),
+       (1, 'Kineret'),
+       (1, 'Kinevac'),
+       (1, 'Kinlytic'),
+       (1, 'Kionex'),
+       (1, 'Kisqali'),
+       (1, 'Kisqali Femara Co-Pack (Copackaged)'),
+       (1, 'Kitabis Pak'),
+       (1, 'Klaron'),
+       (1, 'Klebcil'),
+       (1, 'Klonopin'),
+       (1, 'Klor-Con'),
+       (1, 'Klor-Con M10'),
+       (1, 'Klor-Con M15'),
+       (1, 'Klor-Con M20'),
+       (1, 'Kloromin'),
+       (1, 'Klotrix'),
+       (1, 'Koglucoid'),
+       (1, 'Kombiglyze Xr'),
+       (1, 'Konakion'),
+       (1, 'Korlym'),
+       (1, 'Korostatin'),
+       (1, 'Kovanaze'),
+       (1, 'Krystexxa'),
+       (1, 'Kurvelo'),
+       (1, 'Kuvan'),
+       (1, 'Kwell'),
+       (1, 'Kybella'),
+       (1, 'Kyleena'),
+       (1, 'Kynamro'),
+       (1, 'Kyprolis'),
+       (1, 'Kytril'),
+       (1, 'Labetalol Hydrochloride'),
+       (1, 'Labid'),
+       (1, 'Lac-Hydrin'),
+       (1, 'Lacosamide'),
+       (1, 'Lacrisert'),
+       (1, 'Lactated Ringer\'s And Dextrose 5% In Plastic Container'),
+       (1, 'Lactated Ringer\'s In Plastic Container'),
+       (1, 'Lactulose'),
+       (1, 'Lamictal'),
+       (1, 'Lamictal Cd'),
+       (1, 'Lamictal Odt'),
+       (1, 'Lamictal Xr'),
+       (1, 'Lamisil'),
+       (1, 'Lamisil At'),
+       (1, 'Lamivudine'),
+       (1, 'Lamivudine And Stavudine'),
+       (1, 'Lamivudine And Tenofovir Disoproxil Fumarate'),
+       (1, 'Lamivudine And Zidovudine'),
+       (1, 'Lamivudine, Nevirapine, And Stavudine'),
+       (1, 'Lamivudine, Zidovudine Tabs 150Mg/300Mg Co-Packaged With Nevirapine Tabs 200Mg'),
+       (1, 'Lamivudine, Zidovudine, Nevirapine Tabs 150Mg/300Mg/200Mg'),
+       (1, 'Lamivudine; Nevirapine; Zidovudine'),
+       (1, 'Lamivudine; Stavudine'),
+       (1, 'Lamivudine; Stavudine; Nevirapine'),
+       (1, 'Lamivudine; Tenofovir Disoproxil Fumarate'),
+       (1, 'Lamivudine; Tenofovir Disoproxil Fumarate; Nevirapine'),
+       (1, 'Lamivudine; Zidovudine'),
+       (1, 'Lamivudine; Zidovudine; Abacavir'),
+       (1, 'Lamivudine; Zidovudine; Efavirenz'),
+       (1, 'Lamivudine; Zidovudine; Nevirapine'),
+       (1, 'Lamivudine/Nevirapine/Zidovudine Tablets'),
+       (1, 'Lamivudine/Tenofovir Disoproxil Fumarate Fdc Tabs'),
+       (1, 'Lamivudine/Zidovudine 150 Mg/300 Mg Tablets Co-Packaged With Nevirapine 200 Mg Tablets'),
+       (1, 'Lamotrigine'),
+       (1, 'Lamprene'),
+       (1, 'Lanabiotic'),
+       (1, 'Laniazid'),
+       (1, 'Lanophyllin'),
+       (1, 'Lanorinal'),
+       (1, 'Lanoxicaps'),
+       (1, 'Lanoxin'),
+       (1, 'Lanoxin Pediatric'),
+       (1, 'Lansoprazole '),
+       (1, 'Lansoprazole, Amoxicillin And Clarithromycin'),
+       (1, 'Lanthanum Carbonate'),
+       (1, 'Lantrisul'),
+       (1, 'Lantus'),
+       (1, 'Lantus Solostar'),
+       (1, 'Lapatinib'),
+       (1, 'Largon'),
+       (1, 'Lariam'),
+       (1, 'Larin 1.5/30'),
+       (1, 'Larin 1/20'),
+       (1, 'Larin 24 Fe'),
+       (1, 'Larin Fe 1.5/30'),
+       (1, 'Larin Fe 1/20'),
+       (1, 'Larodopa'),
+       (1, 'Larotid'),
+       (1, 'Lartruvo'),
+       (1, 'Laryng-O-Jet Kit'),
+       (1, 'Laryngotracheal Anesthesia Kit'),
+       (1, 'Lasix'),
+       (1, 'Lastacaft'),
+       (1, 'Latanoprost'),
+       (1, 'Latisse'),
+       (1, 'Latuda'),
+       (1, 'Lax-Lyte With Flavor Packs'),
+       (1, 'Laxilose'),
+       (1, 'Lazanda'),
+       (1, 'Ledercillin Vk'),
+       (1, 'Leflunomide'),
+       (1, 'Lemtrada'),
+       (1, 'Lentard'),
+       (1, 'Lente'),
+       (1, 'Lente Iletin Ii'),
+       (1, 'Lente Iletin Ii (Pork)'),
+       (1, 'Lente Insulin'),
+       (1, 'Lenvima'),
+       (1, 'Leribane'),
+       (1, 'Leritine'),
+       (1, 'Lescol'),
+       (1, 'Lescol Xl'),
+       (1, 'Lessina-21'),
+       (1, 'Lessina-28'),
+       (1, 'Letairis'),
+       (1, 'Letrozole'),
+       (1, 'Leucovorin Calcium'),
+       (1, 'Leucovorin Calcium Preservative Free'),
+       (1, 'Leukeran'),
+       (1, 'Leukine'),
+       (1, 'Leuprolide Acetate'),
+       (1, 'Leustatin'),
+       (1, 'Levalbuterol Hydrochloride'),
+       (1, 'Levaquin'),
+       (1, 'Levaquin In Dextrose 5% In Plastic Container'),
+       (1, 'Levatol'),
+       (1, 'Levemir'),
+       (1, 'Levemir Flexpen'),
+       (1, 'Levemir Flextouch'),
+       (1, 'Levemir Innolet'),
+       (1, 'Levemir Penfill'),
+       (1, 'Levetiracetam'),
+       (1, 'Levetiracetam In Sodium Chloride'),
+       (1, 'Levitra'),
+       (1, 'Levlite'),
+       (1, 'Levo-Dromoran'),
+       (1, 'Levo-T'),
+       (1, 'Levobunolol Hydrochloride'),
+       (1, 'Levocarnitine'),
+       (1, 'Levocetirizine Dihydrochloride'),
+       (1, 'Levofloxacin'),
+       (1, 'Levofloxacin In Dextrose 5% In Plastic Container'),
+       (1, 'Levofloxacin; Dextrose'),
+       (1, 'Levolet'),
+       (1, 'Levoleucovorin Calcium'),
+       (1, 'Levonest'),
+       (1, 'Levonorgestrel'),
+       (1, 'Levonorgestrel And Ethinyl Estradiol'),
+       (1, 'Levonorgestrel And Ethinyl Estradiol And Ethinyl Estradiol'),
+       (1, 'Levophed'),
+       (1, 'Levoprome'),
+       (1, 'Levora 0.15/30-21'),
+       (1, 'Levora 0.15/30-28'),
+       (1, 'Levorphanol Tartrate'),
+       (1, 'Levothyroxine Sodium'),
+       (1, 'Levoxyl'),
+       (1, 'Levulan'),
+       (1, 'Lexapro'),
+       (1, 'Lexiscan'),
+       (1, 'Lexiva'),
+       (1, 'Lexxel'),
+       (1, 'Lialda'),
+       (1, 'Librax'),
+       (1, 'Librelease'),
+       (1, 'Libritabs'),
+       (1, 'Librium'),
+       (1, 'Lidex'),
+       (1, 'Lidex-E'),
+       (1, 'Lidocaine'),
+       (1, 'Lidocaine And Prilocaine'),
+       (1, 'Lidocaine Hydrochloride'),
+       (1, 'Lidocaine Hydrochloride 0.1% And Dextrose 5% In Plastic Container'),
+       (1, 'Lidocaine Hydrochloride 0.2% And Dextrose 5% In Plastic Container'),
+       (1, 'Lidocaine Hydrochloride 0.2% In Dextrose 5%'),
+       (1, 'Lidocaine Hydrochloride 0.2% In Dextrose 5% In Plastic Container'),
+       (1, 'Lidocaine Hydrochloride 0.4% And Dextrose 5% In Plastic Container'),
+       (1, 'Lidocaine Hydrochloride 0.4% In Dextrose 5%'),
+       (1, 'Lidocaine Hydrochloride 0.4% In Dextrose 5% In Plastic Container'),
+       (1, 'Lidocaine Hydrochloride 0.8% And Dextrose 5% In Plastic Container'),
+       (1, 'Lidocaine Hydrochloride 0.8% In Dextrose 5% In Plastic Container'),
+       (1, 'Lidocaine Hydrochloride 5% And Dextrose 7.5%'),
+       (1, 'Lidocaine Hydrochloride And Epinephrine'),
+       (1, 'Lidocaine Hydrochloride Preservative Free'),
+       (1, 'Lidocaine Hydrochloride Viscous'),
+       (1, 'Lidocaine Hydrochloride W/ Epinephrine'),
+       (1, 'Lidocaine Viscous'),
+       (1, 'Lidocaton'),
+       (1, 'Lidoderm'),
+       (1, 'Lidopen'),
+       (1, 'Lidosite Topical System Kit'),
+       (1, 'Lignospan Forte'),
+       (1, 'Lignospan Standard'),
+       (1, 'Liletta'),
+       (1, 'Limbitrol'),
+       (1, 'Limbitrol Ds'),
+       (1, 'Linagliptin'),
+       (1, 'Lincocin'),
+       (1, 'Lincomycin'),
+       (1, 'Lincomycin Hcl'),
+       (1, 'Lincomycin Hydrochloride'),
+       (1, 'Lindane'),
+       (1, 'Linezolid'),
+       (1, 'Linezolid In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Linzess'),
+       (1, 'Lioresal'),
+       (1, 'Liothyronine Sodium'),
+       (1, 'Lipidil'),
+       (1, 'Lipiodol'),
+       (1, 'Lipitor'),
+       (1, 'Lipo Gantrisin'),
+       (1, 'Lipo-Hepin'),
+       (1, 'Lipofen'),
+       (1, 'Liposyn 10%'),
+       (1, 'Liposyn 20%'),
+       (1, 'Liposyn Ii 10%'),
+       (1, 'Liposyn Ii 20%'),
+       (1, 'Liposyn Iii 10%'),
+       (1, 'Liposyn Iii 20%'),
+       (1, 'Liposyn Iii 30%'),
+       (1, 'Liptruzet'),
+       (1, 'Liquaemin Lock Flush'),
+       (1, 'Liquaemin Sodium'),
+       (1, 'Liquaemin Sodium Preservative Free'),
+       (1, 'Liquamar'),
+       (1, 'Liquid E-Z-Paque'),
+       (1, 'Liquid Pred'),
+       (1, 'Lisdexamfetamine Dimesylate'),
+       (1, 'Lisinopril'),
+       (1, 'Lisinopril And Hydrochlorothiazide'),
+       (1, 'Lithane'),
+       (1, 'Lithium Carbonate'),
+       (1, 'Lithium Citrate'),
+       (1, 'Lithobid'),
+       (1, 'Lithonate'),
+       (1, 'Lithostat'),
+       (1, 'Lithotabs'),
+       (1, 'Livalo'),
+       (1, 'Livostin'),
+       (1, 'Lo Larin Fe'),
+       (1, 'Lo Loestrin Fe'),
+       (1, 'Lo Minastrin Fe'),
+       (1, 'Lo Simpesse'),
+       (1, 'Lo-Blisovi Fe'),
+       (1, 'Lo-Trol'),
+       (1, 'Lo-Zumandimine'),
+       (1, 'Lo/Ovral'),
+       (1, 'Lo/Ovral Fe'),
+       (1, 'Lo/Ovral-28'),
+       (1, 'Locholest'),
+       (1, 'Locholest Light'),
+       (1, 'Locoid'),
+       (1, 'Locoid Lipocream'),
+       (1, 'Locorten'),
+       (1, 'Lodine'),
+       (1, 'Lodine Xl'),
+       (1, 'Lodosyn'),
+       (1, 'Loestrin 21 1.5/30'),
+       (1, 'Loestrin 21 1/20'),
+       (1, 'Loestrin 24 Fe'),
+       (1, 'Loestrin Fe 1.5/30'),
+       (1, 'Loestrin Fe 1/20'),
+       (1, 'Logen'),
+       (1, 'Logilia'),
+       (1, 'Lokelma'),
+       (1, 'Lomaira'),
+       (1, 'Lomanate'),
+       (1, 'Lomotil'),
+       (1, 'Lonhala Magnair Kit'),
+       (1, 'Loniten'),
+       (1, 'Lonox'),
+       (1, 'Lonsurf'),
+       (1, 'Loperamide Hydrochloride'),
+       (1, 'Loperamide Hydrochloride And Simethicone'),
+       (1, 'Lopid'),
+       (1, 'Lopinavir And Ritonavir'),
+       (1, 'Lopressidone'),
+       (1, 'Lopressor'),
+       (1, 'Lopressor Hct'),
+       (1, 'Loprox'),
+       (1, 'Lopurin'),
+       (1, 'Lorabid'),
+       (1, 'Loratadine'),
+       (1, 'Loratadine And Pseudoephedrine Sulfate'),
+       (1, 'Loratadine Redidose'),
+       (1, 'Loraz'),
+       (1, 'Lorazepam'),
+       (1, 'Lorazepam Intensol'),
+       (1, 'Lorazepam Preservative Free'),
+       (1, 'Lorcet-Hd'),
+       (1, 'Lorelco'),
+       (1, 'Lorfan'),
+       (1, 'Lortab'),
+       (1, 'Loryna'),
+       (1, 'Losartan Potassium'),
+       (1, 'Losartan Potassium And Hydrochlorothiazide'),
+       (1, 'Loseasonique'),
+       (1, 'Lotemax'),
+       (1, 'Lotensin'),
+       (1, 'Lotensin Hct'),
+       (1, 'Lotrel'),
+       (1, 'Lotrimin'),
+       (1, 'Lotrimin Af'),
+       (1, 'Lotrimin Ultra'),
+       (1, 'Lotrisone'),
+       (1, 'Lotronex'),
+       (1, 'Lotusate'),
+       (1, 'Lovastatin'),
+       (1, 'Lovaza'),
+       (1, 'Lovenox'),
+       (1, 'Lovenox (Preservative Free)'),
+       (1, 'Low-Ogestrel-21'),
+       (1, 'Low-Ogestrel-28'),
+       (1, 'Low-Quel'),
+       (1, 'Loxapine Succinate'),
+       (1, 'Loxitane'),
+       (1, 'Loxitane C'),
+       (1, 'Loxitane Im'),
+       (1, 'Lozol'),
+       (1, 'Lta Ii Kit'),
+       (1, 'Lucemyra'),
+       (1, 'Lucentis'),
+       (1, 'Ludiomil'),
+       (1, 'Lufyllin'),
+       (1, 'Lumason'),
+       (1, 'Lumenhance'),
+       (1, 'Lumify'),
+       (1, 'Lumigan'),
+       (1, 'Lumizyme'),
+       (1, 'Lunelle'),
+       (1, 'Lunesta'),
+       (1, 'Lungaggregate Reagent'),
+       (1, 'Lupaneta Pack'),
+       (1, 'Lupron'),
+       (1, 'Lupron Depot'),
+       (1, 'Lupron Depot-Ped'),
+       (1, 'Lurasidone Hydrochloride'),
+       (1, 'Lurasidone Hydrochrloride'),
+       (1, 'Lusduna'),
+       (1, 'Lusedra'),
+       (1, 'Lutathera'),
+       (1, 'Lutrepulse Kit'),
+       (1, 'Luveris'),
+       (1, 'Luvox'),
+       (1, 'Luvox Cr'),
+       (1, 'Luxiq'),
+       (1, 'Luzu'),
+       (1, 'Lybrel'),
+       (1, 'Lygen'),
+       (1, 'Lymphazurin'),
+       (1, 'Lymphoseek Kit'),
+       (1, 'Lynoral'),
+       (1, 'Lynparza'),
+       (1, 'Lyophilized Cytoxan'),
+       (1, 'Lyrica'),
+       (1, 'Lyrica Cr'),
+       (1, 'Lysodren'),
+       (1, 'Lysteda'),
+       (1, 'M-Predrol'),
+       (1, 'M-Zole 3 Combination Pack'),
+       (1, 'M-Zole 7 Dual Pack'),
+       (1, 'M.V.C. 9+3'),
+       (1, 'M.V.I. Adult'),
+       (1, 'M.V.I. Adult (Pharmacy Bulk Package)'),
+       (1, 'M.V.I. Pediatric'),
+       (1, 'M.V.I.-12 Adult'),
+       (1, 'M.V.I.-12 Lyophilized'),
+       (1, 'Macrilen'),
+       (1, 'Macrobid'),
+       (1, 'Macrodantin'),
+       (1, 'Macrotec'),
+       (1, 'Macugen'),
+       (1, 'Mafenide Acetate'),
+       (1, 'Magnacort'),
+       (1, 'Magnesium Hydroxide And Omeprazole And Sodium Bicarbonate'),
+       (1, 'Magnesium Sulfate'),
+       (1, 'Magnesium Sulfate Anhydrous; Potassium Sulfate; Sodium Sulfate'),
+       (1, 'Magnesium Sulfate In Dextrose 5% In Plastic Container'),
+       (1, 'Magnevist'),
+       (1, 'Makena'),
+       (1, 'Makena (Autoinjector)'),
+       (1, 'Makena Preservative Free'),
+       (1, 'Malarone'),
+       (1, 'Malarone Pediatric'),
+       (1, 'Malathion'),
+       (1, 'Mandol'),
+       (1, 'Manganese Chloride In Plastic Container'),
+       (1, 'Manganese Sulfate'),
+       (1, 'Mannitol 10%'),
+       (1, 'Mannitol 10% W/ Dextrose 5% In Distilled Water'),
+       (1, 'Mannitol 15%'),
+       (1, 'Mannitol 15% W/ Dextrose 5% In Sodium Chloride 0.45%'),
+       (1, 'Mannitol 20%'),
+       (1, 'Mannitol 25%'),
+       (1, 'Mannitol 5%'),
+       (1, 'Mannitol 5% W/ Dextrose 5% In Sodium Chloride 0.12%'),
+       (1, 'Maolate'),
+       (1, 'Maprotiline Hydrochloride'),
+       (1, 'Maraviroc'),
+       (1, 'Marcaine'),
+       (1, 'Marcaine Hydrochloride'),
+       (1, 'Marcaine Hydrochloride Preservative Free'),
+       (1, 'Marcaine Hydrochloride W/ Epinephrine'),
+       (1, 'Marcaine Hydrochloride W/ Epinephrine Preservative Free'),
+       (1, 'Marezine'),
+       (1, 'Marinol'),
+       (1, 'Marlissa'),
+       (1, 'Marplan'),
+       (1, 'Marqibo Kit'),
+       (1, 'Matulane'),
+       (1, 'Mavik'),
+       (1, 'Mavyret'),
+       (1, 'Maxair'),
+       (1, 'Maxalt'),
+       (1, 'Maxalt-Mlt'),
+       (1, 'Maxaquin'),
+       (1, 'Maxibolin'),
+       (1, 'Maxidex'),
+       (1, 'Maxipime'),
+       (1, 'Maxitrol'),
+       (1, 'Maxolon'),
+       (1, 'Maxzide'),
+       (1, 'Maxzide-25'),
+       (1, 'Mazanor'),
+       (1, 'Md-50'),
+       (1, 'Md-60'),
+       (1, 'Md-76'),
+       (1, 'Md-76R'),
+       (1, 'Md-Gastroview'),
+       (1, 'Mdp-Bracco'),
+       (1, 'Measurin'),
+       (1, 'Mecamylamine Hydrochloride'),
+       (1, 'Meclan'),
+       (1, 'Meclizine Hydrochloride'),
+       (1, 'Meclodium'),
+       (1, 'Meclofenamate Sodium'),
+       (1, 'Meclomen'),
+       (1, 'Medical Air, Usp'),
+       (1, 'Medigesic Plus'),
+       (1, 'Medihaler Ergotamine'),
+       (1, 'Medihaler-Epi'),
+       (1, 'Medihaler-Iso'),
+       (1, 'Medipren'),
+       (1, 'Medrol'),
+       (1, 'Medrol Acetate'),
+       (1, 'Medroxyprogesterone Acetate'),
+       (1, 'Mefenamic Acid'),
+       (1, 'Mefloquine Hydrochloride'),
+       (1, 'Mefoxin'),
+       (1, 'Mefoxin In Dextrose 5% In Plastic Container'),
+       (1, 'Mefoxin In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Megace'),
+       (1, 'Megace Es'),
+       (1, 'Megatope'),
+       (1, 'Megestrol Acetate'),
+       (1, 'Mekinist'),
+       (1, 'Melamisa'),
+       (1, 'Melfiat'),
+       (1, 'Melfiat-105'),
+       (1, 'Mellaril'),
+       (1, 'Mellaril-S'),
+       (1, 'Meloxicam'),
+       (1, 'Melphalan'),
+       (1, 'Melphalan Hydrochloride'),
+       (1, 'Memantine Hydrochloride'),
+       (1, 'Memantine Hydrochloride And Donepezil Hydrochloride'),
+       (1, 'Membraneblue'),
+       (1, 'Menadione'),
+       (1, 'Menest'),
+       (1, 'Menopur'),
+       (1, 'Menostar'),
+       (1, 'Menotropins'),
+       (1, 'Menrium 10-4'),
+       (1, 'Menrium 5-2'),
+       (1, 'Menrium 5-4'),
+       (1, 'Mentax'),
+       (1, 'Mentax-Tc'),
+       (1, 'Mepergan'),
+       (1, 'Meperidine And Atropine Sulfate'),
+       (1, 'Meperidine Hydrochloride'),
+       (1, 'Meperidine Hydrochloride Preservative Free'),
+       (1, 'Mephyton'),
+       (1, 'Mepivacaine Hydrochloride'),
+       (1, 'Mepivacaine Hydrochloride W/ Levonordefrin'),
+       (1, 'Mepriam'),
+       (1, 'Meprobamate'),
+       (1, 'Meprobamate And Aspirin'),
+       (1, 'Mepron'),
+       (1, 'Meprospan'),
+       (1, 'Mepsevii'),
+       (1, 'Mercaptopurine'),
+       (1, 'Meretek Ubt Kit (W/ Pranactin)'),
+       (1, 'Meridia'),
+       (1, 'Meropenem'),
+       (1, 'Meropenem And Sodium Chloride In Duplex Container'),
+       (1, 'Merrem'),
+       (1, 'Mersalyl-Theophylline'),
+       (1, 'Mesalamine'),
+       (1, 'Mesantoin'),
+       (1, 'Mesna'),
+       (1, 'Mesnex'),
+       (1, 'Mestinon'),
+       (1, 'Metadate Cd'),
+       (1, 'Metadate Er'),
+       (1, 'Metaglip'),
+       (1, 'Metahydrin'),
+       (1, 'Metandren'),
+       (1, 'Metaproterenol Sulfate'),
+       (1, 'Metaraminol Bitartrate'),
+       (1, 'Metastron'),
+       (1, 'Metatensin #2'),
+       (1, 'Metatensin #4'),
+       (1, 'Metaxalone'),
+       (1, 'Metformin Hydrochloride'),
+       (1, 'Metformin Hydrochloride And Sitagliptin Phosphate'),
+       (1, 'Methadone Hydrochloride'),
+       (1, 'Methadone Hydrochloride Intensol'),
+       (1, 'Methadose'),
+       (1, 'Methampex'),
+       (1, 'Methamphetamine Hydrochloride'),
+       (1, 'Methazolamide'),
+       (1, 'Methdilazine Hydrochloride'),
+       (1, 'Methenamine Hippurate'),
+       (1, 'Methergine'),
+       (1, 'Methimazole'),
+       (1, 'Methocarbamol'),
+       (1, 'Methocarbamol And Aspirin'),
+       (1, 'Methotrexate Lpf'),
+       (1, 'Methotrexate Preservative Free'),
+       (1, 'Methotrexate Sodium'),
+       (1, 'Methotrexate Sodium Preservative Free'),
+       (1, 'Methoxsalen'),
+       (1, 'Methscopolamine Bromide'),
+       (1, 'Methyclothiazide'),
+       (1, 'Methyclothiazide And Deserpidine'),
+       (1, 'Methyldopa'),
+       (1, 'Methyldopa And Chlorothiazide'),
+       (1, 'Methyldopa And Hydrochlorothiazide'),
+       (1, 'Methyldopate Hcl'),
+       (1, 'Methyldopate Hydrochloride'),
+       (1, 'Methylergonovine Maleate'),
+       (1, 'Methylin'),
+       (1, 'Methylin Er'),
+       (1, 'Methylnaltrexone Bromide'),
+       (1, 'Methylphenidate Hydrochloride'),
+       (1, 'Methylprednisolone'),
+       (1, 'Methylprednisolone Acetate'),
+       (1, 'Methylprednisolone Sodium Succinate'),
+       (1, 'Methyltestosterone'),
+       (1, 'Meti-Derm'),
+       (1, 'Meticortelone'),
+       (1, 'Meticorten'),
+       (1, 'Metimyd'),
+       (1, 'Metipranolol'),
+       (1, 'Metoclopramide'),
+       (1, 'Metoclopramide Hydrochloride'),
+       (1, 'Metoclopramide Intensol'),
+       (1, 'Metocurine Iodide'),
+       (1, 'Metolazone'),
+       (1, 'Metopirone'),
+       (1, 'Metoprolol Succinate'),
+       (1, 'Metoprolol Tartrate'),
+       (1, 'Metoprolol Tartrate And Hydrochlorothiazide'),
+       (1, 'Metozolv Odt'),
+       (1, 'Metra'),
+       (1, 'Metreton'),
+       (1, 'Metro I.V.'),
+       (1, 'Metro I.V. In Plastic Container'),
+       (1, 'Metrocream'),
+       (1, 'Metrodin'),
+       (1, 'Metrogel'),
+       (1, 'Metrogel-Vaginal'),
+       (1, 'Metrolotion'),
+       (1, 'Metromidol'),
+       (1, 'Metronidazole'),
+       (1, 'Metronidazole Hydrochloride'),
+       (1, 'Metubine Iodide'),
+       (1, 'Metvixia'),
+       (1, 'Mevacor'),
+       (1, 'Mexate'),
+       (1, 'Mexate-Aq'),
+       (1, 'Mexate-Aq Preserved'),
+       (1, 'Mexiletine Hydrochloride'),
+       (1, 'Mexitil'),
+       (1, 'Mezlin'),
+       (1, 'Miacalcin'),
+       (1, 'Mibelas 24 Fe'),
+       (1, 'Micardis'),
+       (1, 'Micardis Hct'),
+       (1, 'Miconazole 3'),
+       (1, 'Miconazole 7'),
+       (1, 'Miconazole Nitrate'),
+       (1, 'Micort-Hc'),
+       (1, 'Micrainin'),
+       (1, 'Micro-K'),
+       (1, 'Micro-K 10'),
+       (1, 'Micro-K Ls'),
+       (1, 'Microderm'),
+       (1, 'Microgestin 1.5/30'),
+       (1, 'Microgestin 1/20'),
+       (1, 'Microgestin Fe 1.5/30'),
+       (1, 'Microgestin Fe 1/20'),
+       (1, 'Microlite'),
+       (1, 'Micronase'),
+       (1, 'Micronor'),
+       (1, 'Microsul'),
+       (1, 'Microzide'),
+       (1, 'Midamor'),
+       (1, 'Midazolam Hydrochloride'),
+       (1, 'Midazolam Hydrochloride Preservative Free'),
+       (1, 'Midodrine Hydrochloride'),
+       (1, 'Midol'),
+       (1, 'Midozalam Hydrochloride'),
+       (1, 'Mifeprex'),
+       (1, 'Migergot'),
+       (1, 'Miglitol'),
+       (1, 'Miglustat'),
+       (1, 'Migranal'),
+       (1, 'Mili'),
+       (1, 'Milnacipran Hydrochloride'),
+       (1, 'Milontin'),
+       (1, 'Milophene'),
+       (1, 'Milprem-200'),
+       (1, 'Milprem-400'),
+       (1, 'Milrinone Lactate'),
+       (1, 'Milrinone Lactate In Dextrose 5%'),
+       (1, 'Miltown'),
+       (1, 'Minastrin 24 Fe'),
+       (1, 'Minipress'),
+       (1, 'Minipress Xl'),
+       (1, 'Minirin'),
+       (1, 'Minitec'),
+       (1, 'Minitran'),
+       (1, 'Minivelle'),
+       (1, 'Minizide'),
+       (1, 'Minocin'),
+       (1, 'Minocycline Hydrochloride'),
+       (1, 'Minodyl'),
+       (1, 'Minolira'),
+       (1, 'Minoxidil'),
+       (1, 'Mintezol'),
+       (1, 'Miochol'),
+       (1, 'Miochol-E'),
+       (1, 'Miostat'),
+       (1, 'Miradon'),
+       (1, 'Miralax'),
+       (1, 'Miraluma'),
+       (1, 'Mirapex'),
+       (1, 'Mirapex Er'),
+       (1, 'Mircera'),
+       (1, 'Mircette'),
+       (1, 'Mirena'),
+       (1, 'Mirtazapine'),
+       (1, 'Mirvaso'),
+       (1, 'Misoprostol'),
+       (1, 'Mithracin'),
+       (1, 'Mitigare'),
+       (1, 'Mitomycin'),
+       (1, 'Mitosol'),
+       (1, 'Mitoxantrone Hydrochloride'),
+       (1, 'Mitozytrex'),
+       (1, 'Mivacron'),
+       (1, 'Mivacron In Dextrose 5% In Plastic Container'),
+       (1, 'Mivacurium Chloride'),
+       (1, 'Mixtard Human 70/30'),
+       (1, 'Moban'),
+       (1, 'Mobic'),
+       (1, 'Moctanin'),
+       (1, 'Modafinil'),
+       (1, 'Moderil'),
+       (1, 'Modicon 21'),
+       (1, 'Modicon 28'),
+       (1, 'Modrastane'),
+       (1, 'Moduretic 5-50'),
+       (1, 'Moexipril Hydrochloride'),
+       (1, 'Moexipril Hydrochloride And Hydrochlorothiazide'),
+       (1, 'Molindone Hydrochloride'),
+       (1, 'Mometasone Furoate'),
+       (1, 'Monistat'),
+       (1, 'Mono-Linyah'),
+       (1, 'Monobasic Sodium Phosphate And Dibasic Sodium Phosphate'),
+       (1, 'Monocid'),
+       (1, 'Monodox'),
+       (1, 'Monoket'),
+       (1, 'Monopril'),
+       (1, 'Monopril-Hct'),
+       (1, 'Montelukast Sodium'),
+       (1, 'Monurol'),
+       (1, 'Morphabond Er'),
+       (1, 'Morphine Sulfate'),
+       (1, 'Motofen'),
+       (1, 'Motrin'),
+       (1, 'Motrin Ib'),
+       (1, 'Motrin Migraine Pain'),
+       (1, 'Movantik'),
+       (1, 'Moviprep'),
+       (1, 'Moxam'),
+       (1, 'Moxatag'),
+       (1, 'Moxeza'),
+       (1, 'Moxifloxacin Hydrochloride'),
+       (1, 'Moxifloxacin Hydrochloride In Sodium Chloride 0.8% In Plastic Container'),
+       (1, 'Mozobil'),
+       (1, 'Mpi Dmsa Kidney Reagent'),
+       (1, 'Mpi Dtpa Kit - Chelate'),
+       (1, 'Mpi Indium Dtpa In 111'),
+       (1, 'Mpi Krypton 81M Generator'),
+       (1, 'Mpi Stannous Diphosphonate'),
+       (1, 'Ms Contin'),
+       (1, 'Mucinex'),
+       (1, 'Mucinex D'),
+       (1, 'Mucinex Dm'),
+       (1, 'Mucomyst'),
+       (1, 'Mucomyst W/ Isoproterenol'),
+       (1, 'Mucosil-10'),
+       (1, 'Mucosil-20'),
+       (1, 'Multaq'),
+       (1, 'Multifuge'),
+       (1, 'Multihance'),
+       (1, 'Mupirocin'),
+       (1, 'Muse'),
+       (1, 'Mustargen'),
+       (1, 'Mutamycin'),
+       (1, 'Mvasi'),
+       (1, 'Mvc Plus'),
+       (1, 'Myalept'),
+       (1, 'Myambutol'),
+       (1, 'Mycamine'),
+       (1, 'Mycelex'),
+       (1, 'Mycelex-7'),
+       (1, 'Mycelex-G'),
+       (1, 'Mychel'),
+       (1, 'Mychel-S'),
+       (1, 'Mycifradin'),
+       (1, 'Mycitracin'),
+       (1, 'Myco-Triacet Ii'),
+       (1, 'Mycobutin'),
+       (1, 'Mycolog-Ii'),
+       (1, 'Mycophenolate Mofetil'),
+       (1, 'Mycophenolate Mofetil Hydrochloride'),
+       (1, 'Mycophenolic Acid'),
+       (1, 'Mycostatin'),
+       (1, 'Mydayis'),
+       (1, 'Mydriacyl'),
+       (1, 'Mydriafair'),
+       (1, 'Myfed'),
+       (1, 'Myfortic'),
+       (1, 'Myidyl'),
+       (1, 'Mykacet'),
+       (1, 'Mykinac'),
+       (1, 'Mykrox'),
+       (1, 'Mylaxen'),
+       (1, 'Myleran'),
+       (1, 'Mylotarg'),
+       (1, 'Mymethazine Fortis'),
+       (1, 'Myobloc'),
+       (1, 'Myorisan'),
+       (1, 'Myoscint'),
+       (1, 'Myotonachol'),
+       (1, 'Myoview'),
+       (1, 'Myoview 30Ml'),
+       (1, 'Myozyme'),
+       (1, 'Myrbetriq'),
+       (1, 'Mysoline'),
+       (1, 'Mytelase'),
+       (1, 'Mytesi'),
+       (1, 'Mytrex A'),
+       (1, 'Mytrex F'),
+       (1, 'Myzilra'),
+       (1, 'N.E.E. 1/35 21'),
+       (1, 'N.E.E. 1/35 28'),
+       (1, 'Nabumetone'),
+       (1, 'Nadolol'),
+       (1, 'Nadolol And Bendroflumethiazide'),
+       (1, 'Nafazair'),
+       (1, 'Nafcillin Sodium'),
+       (1, 'Naftifine Hydrochloride'),
+       (1, 'Naftin'),
+       (1, 'Naglazyme'),
+       (1, 'Nalbuphine'),
+       (1, 'Nalbuphine Hydrochloride'),
+       (1, 'Nalfon'),
+       (1, 'Nalidixic Acid'),
+       (1, 'Nallpen'),
+       (1, 'Naloxone'),
+       (1, 'Naloxone Hcl'),
+       (1, 'Naloxone Hydrochloride'),
+       (1, 'Naloxone Hydrochloride And Pentazocine Hydrochloride'),
+       (1, 'Naltrexone Hydrochloride'),
+       (1, 'Namenda'),
+       (1, 'Namenda Xr'),
+       (1, 'Namzaric'),
+       (1, 'Nandrolone Decanoate'),
+       (1, 'Nandrolone Phenpropionate'),
+       (1, 'Naphazoline Hydrochloride'),
+       (1, 'Naphazoline Hydrochloride And Pheniramine Maleate'),
+       (1, 'Naphcon Forte'),
+       (1, 'Naphcon-A'),
+       (1, 'Naprelan'),
+       (1, 'Naprosyn'),
+       (1, 'Naproxen'),
+       (1, 'Naproxen And Esomeprazole Magnesium'),
+       (1, 'Naproxen Sodium'),
+       (1, 'Naproxen Sodium And Pseudoephedrine Hydrochloride'),
+       (1, 'Naqua'),
+       (1, 'Naquival'),
+       (1, 'Naratriptan'),
+       (1, 'Narcan'),
+       (1, 'Nardil'),
+       (1, 'Naropin'),
+       (1, 'Nasacort'),
+       (1, 'Nasacort Allergy 24 Hour'),
+       (1, 'Nasacort Hfa'),
+       (1, 'Nasalcrom'),
+       (1, 'Nasalide'),
+       (1, 'Nasarel'),
+       (1, 'Nascobal'),
+       (1, 'Nasonex'),
+       (1, 'Natacyn'),
+       (1, 'Natazia'),
+       (1, 'Nateglinide'),
+       (1, 'Natesto'),
+       (1, 'Natpara'),
+       (1, 'Natrecor'),
+       (1, 'Natroba'),
+       (1, 'Naturetin-10'),
+       (1, 'Naturetin-2.5'),
+       (1, 'Naturetin-5'),
+       (1, 'Navane'),
+       (1, 'Navelbine'),
+       (1, 'Navstel'),
+       (1, 'Nebcin'),
+       (1, 'Nebivolol Hydrochloride'),
+       (1, 'Nebupent'),
+       (1, 'Nedocromil Sodium'),
+       (1, 'Nefazodone Hydrochloride'),
+       (1, 'Neggram'),
+       (1, 'Nembutal'),
+       (1, 'Nembutal Sodium'),
+       (1, 'Neo Tect Kit'),
+       (1, 'Neo-Cort-Dome'),
+       (1, 'Neo-Cortef'),
+       (1, 'Neo-Delta-Cortef'),
+       (1, 'Neo-Fradin'),
+       (1, 'Neo-Hydeltrasol'),
+       (1, 'Neo-Medrol'),
+       (1, 'Neo-Medrol Acetate'),
+       (1, 'Neo-Polycin'),
+       (1, 'Neo-Rx'),
+       (1, 'Neo-Synalar'),
+       (1, 'Neobiotic'),
+       (1, 'Neodecadron'),
+       (1, 'Neomycin And Polymyxin B Sulfate'),
+       (1, 'Neomycin And Polymyxin B Sulfates And Bacitracin Zinc'),
+       (1, 'Neomycin And Polymyxin B Sulfates And Dexamethasone'),
+       (1, 'Neomycin And Polymyxin B Sulfates And Gramicidin'),
+       (1, 'Neomycin And Polymyxin B Sulfates And Hydrocortisone'),
+       (1, 'Neomycin And Polymyxin B Sulfates, Bacitracin Zinc And Hydrocortisone'),
+       (1, 'Neomycin Sulfate'),
+       (1, 'Neomycin Sulfate And Dexamethasone Sodium Phosphate'),
+       (1, 'Neomycin Sulfate And Polymyxin B Sulfate Gramicidin'),
+       (1, 'Neomycin Sulfate-Polymyxin B Sulfate-Hydrocortisone'),
+       (1, 'Neomycin Sulfate-Triamcinolone Acetonide'),
+       (1, 'Neopap'),
+       (1, 'Neopasalate'),
+       (1, 'Neopham 6.4%'),
+       (1, 'Neoprofen'),
+       (1, 'Neoral'),
+       (1, 'Neosar'),
+       (1, 'Neoscan'),
+       (1, 'Neosporin'),
+       (1, 'Neosporin G.U. Irrigant'),
+       (1, 'Neostigmine Methylsulfate'),
+       (1, 'Neothylline'),
+       (1, 'Neotrizine'),
+       (1, 'Nephramine 5.4%'),
+       (1, 'Nephroflow'),
+       (1, 'Neptazane'),
+       (1, 'Nerlynx'),
+       (1, 'Nesacaine'),
+       (1, 'Nesacaine-Mpf'),
+       (1, 'Nesina'),
+       (1, 'Netromycin'),
+       (1, 'Netspot'),
+       (1, 'Neulasta'),
+       (1, 'Neupogen'),
+       (1, 'Neupro'),
+       (1, 'Neuraceq'),
+       (1, 'Neuramate'),
+       (1, 'Neurolite'),
+       (1, 'Neurontin'),
+       (1, 'Neutrexin'),
+       (1, 'Nevanac'),
+       (1, 'Nevirapine'),
+       (1, 'Nevirapine Tablets For Oral Suspension'),
+       (1, 'Nexavar'),
+       (1, 'Nexcede'),
+       (1, 'Nexesta Fe'),
+       (1, 'Nexium'),
+       (1, 'Nexium 24Hr'),
+       (1, 'Nexium Iv'),
+       (1, 'Nexplanon'),
+       (1, 'Nexterone'),
+       (1, 'Niacin'),
+       (1, 'Niacor'),
+       (1, 'Niaspan'),
+       (1, 'Niaspan Titration Starter Pack'),
+       (1, 'Nicardipine Hydrochloride'),
+       (1, 'Nicardipine Hydrochloride In 0.9% Sodium Chloride'),
+       (1, 'Niclocide'),
+       (1, 'Nicoderm Cq'),
+       (1, 'Nicolar'),
+       (1, 'Nicorette'),
+       (1, 'Nicotine'),
+       (1, 'Nicotine Polacrilex'),
+       (1, 'Nicotrol'),
+       (1, 'Nifedipine'),
+       (1, 'Nikita'),
+       (1, 'Nikki'),
+       (1, 'Nilandron'),
+       (1, 'Nilstat'),
+       (1, 'Nilutamide'),
+       (1, 'Nimbex'),
+       (1, 'Nimbex Preservative Free'),
+       (1, 'Nimodipine'),
+       (1, 'Nimotop'),
+       (1, 'Ninlaro'),
+       (1, 'Nipent'),
+       (1, 'Nipride'),
+       (1, 'Nipride Rtu In Sodium Chloride 0.9%'),
+       (1, 'Niravam'),
+       (1, 'Nisoldipine'),
+       (1, 'Nithiodote'),
+       (1, 'Nitrious Oxide, Usp'),
+       (1, 'Nitro Iv'),
+       (1, 'Nitro-Bid'),
+       (1, 'Nitro-Dur'),
+       (1, 'Nitrofurantoin'),
+       (1, 'Nitrofurantoin (Monohydrate/Macrocrystals)'),
+       (1, 'Nitrofurantoin Macrocrystalline'),
+       (1, 'Nitrofurazone'),
+       (1, 'Nitrogen, Nf'),
+       (1, 'Nitroglycerin'),
+       (1, 'Nitroglycerin In Dextrose 5%'),
+       (1, 'Nitrol'),
+       (1, 'Nitrolingual'),
+       (1, 'Nitromist'),
+       (1, 'Nitronal'),
+       (1, 'Nitropress'),
+       (1, 'Nitrostat'),
+       (1, 'Nitrous Oxide, Usp'),
+       (1, 'Nityr'),
+       (1, 'Nix'),
+       (1, 'Nizatidine'),
+       (1, 'Nizoral'),
+       (1, 'Nizoral A-D'),
+       (1, 'Noctiva'),
+       (1, 'Nogenic Hc'),
+       (1, 'Noludar'),
+       (1, 'Nolvadex'),
+       (1, 'Nor-Qd'),
+       (1, 'Norcept-E 1/35 21'),
+       (1, 'Norcept-E 1/35 28'),
+       (1, 'Norcet'),
+       (1, 'Norco'),
+       (1, 'Norcuron'),
+       (1, 'Nordette-21'),
+       (1, 'Nordette-28'),
+       (1, 'Norditropin'),
+       (1, 'Norditropin Flexpro'),
+       (1, 'Norditropin Nordiflex'),
+       (1, 'Norepinephrine Bitartrate'),
+       (1, 'Norethin 1/35E-21'),
+       (1, 'Norethin 1/35E-28'),
+       (1, 'Norethin 1/50M-21'),
+       (1, 'Norethin 1/50M-28'),
+       (1, 'Norethindrone'),
+       (1, 'Norethindrone Acetate'),
+       (1, 'Norethindrone Acetate And Ethinyl Estradiol'),
+       (1, 'Norethindrone Acetate And Ethinyl Estradiol And Ferrous Fumarate'),
+       (1, 'Norethindrone And Ethinyl Estradiol'),
+       (1, 'Norethindrone And Ethinyl Estradiol (10/11)'),
+       (1, 'Norethindrone And Ethinyl Estradiol (7/14)'),
+       (1, 'Norethindrone And Ethinyl Estradiol And Ferrous Fumarate'),
+       (1, 'Norethindrone And Mestranol'),
+       (1, 'Norflex'),
+       (1, 'Norgesic'),
+       (1, 'Norgesic Forte'),
+       (1, 'Norgestimate And Ethinyl Estradiol'),
+       (1, 'Norgestrel And Ethinyl Estradiol'),
+       (1, 'Norinyl'),
+       (1, 'Norinyl 1+35 21-Day'),
+       (1, 'Norinyl 1+35 28-Day'),
+       (1, 'Norinyl 1+50 21-Day'),
+       (1, 'Norinyl 1+50 28-Day'),
+       (1, 'Norinyl 1+80 21-Day'),
+       (1, 'Norinyl 1+80 28-Day'),
+       (1, 'Norisodrine'),
+       (1, 'Norisodrine Aerotrol'),
+       (1, 'Noritate'),
+       (1, 'Norlestrin 21 1/50'),
+       (1, 'Norlestrin 21 2.5/50'),
+       (1, 'Norlestrin 28 1/50'),
+       (1, 'Norlestrin Fe 1/50'),
+       (1, 'Norlestrin Fe 2.5/50'),
+       (1, 'Norlutate'),
+       (1, 'Norlutin'),
+       (1, 'Normiflo'),
+       (1, 'Norminest Fe'),
+       (1, 'Normocarb Hf 25'),
+       (1, 'Normocarb Hf 35'),
+       (1, 'Normodyne'),
+       (1, 'Normosol-M And Dextrose 5% In Plastic Container'),
+       (1, 'Normosol-R And Dextrose 5% In Plastic Container'),
+       (1, 'Normosol-R In Plastic Container'),
+       (1, 'Normozide'),
+       (1, 'Noroxin'),
+       (1, 'Norpace'),
+       (1, 'Norpace Cr'),
+       (1, 'Norplant'),
+       (1, 'Norpramin'),
+       (1, 'Norquest Fe'),
+       (1, 'Northera'),
+       (1, 'Nortrel 0.5/35-21'),
+       (1, 'Nortrel 0.5/35-28'),
+       (1, 'Nortrel 1/35-21'),
+       (1, 'Nortrel 1/35-28'),
+       (1, 'Nortrel 7/7/7'),
+       (1, 'Nortriptyline Hydrochloride'),
+       (1, 'Norvasc'),
+       (1, 'Norvir'),
+       (1, 'Novafed'),
+       (1, 'Novamine 11.4%'),
+       (1, 'Novamine 15%'),
+       (1, 'Novamine 15% Sulfite Free In Plastic Container'),
+       (1, 'Novamine 8.5%'),
+       (1, 'Novantrone'),
+       (1, 'Novocain'),
+       (1, 'Novolin 70/30'),
+       (1, 'Novolin L'),
+       (1, 'Novolin N'),
+       (1, 'Novolin R'),
+       (1, 'Novolog'),
+       (1, 'Novolog Flexpen'),
+       (1, 'Novolog Flextouch'),
+       (1, 'Novolog Innolet'),
+       (1, 'Novolog Mix 50/50'),
+       (1, 'Novolog Mix 70/30'),
+       (1, 'Novolog Mix 70/30 Flexpen'),
+       (1, 'Novolog Mix 70/30 Penfill'),
+       (1, 'Novolog Penfill'),
+       (1, 'Novothyrox'),
+       (1, 'Novrad'),
+       (1, 'Noxafil'),
+       (1, 'Nph Iletin I (Beef-Pork)'),
+       (1, 'Nph Iletin Ii'),
+       (1, 'Nph Iletin Ii (Pork)'),
+       (1, 'Nph Insulin'),
+       (1, 'Nph Purified Pork Isophane Insulin'),
+       (1, 'Nplate'),
+       (1, 'Nubain'),
+       (1, 'Nucala'),
+       (1, 'Nucynta'),
+       (1, 'Nucynta Er'),
+       (1, 'Nuedexta'),
+       (1, 'Nulojix'),
+       (1, 'Nulytely'),
+       (1, 'Nulytely-Flavored'),
+       (1, 'Numorphan'),
+       (1, 'Nuplazid'),
+       (1, 'Nuprin'),
+       (1, 'Nuromax'),
+       (1, 'Nutracort'),
+       (1, 'Nutrestore'),
+       (1, 'Nutrilipid 10%'),
+       (1, 'Nutrilipid 20%'),
+       (1, 'Nutropin'),
+       (1, 'Nutropin Aq'),
+       (1, 'Nutropin Aq Nuspin'),
+       (1, 'Nutropin Aq Pen'),
+       (1, 'Nutropin Depot'),
+       (1, 'Nuvaring'),
+       (1, 'Nuvessa'),
+       (1, 'Nuvigil'),
+       (1, 'Nydrazid'),
+       (1, 'Nylia 1/35'),
+       (1, 'Nylia 7/7/7'),
+       (1, 'Nymalize'),
+       (1, 'Nysert'),
+       (1, 'Nystaform'),
+       (1, 'Nystatin'),
+       (1, 'Nystatin Triamcinolone Acetonide'),
+       (1, 'Nystex'),
+       (1, 'Nystop'),
+       (1, 'Obestin-30'),
+       (1, 'Obredon'),
+       (1, 'Oby-Trim'),
+       (1, 'Ocaliva'),
+       (1, 'Ocl'),
+       (1, 'Ocrevus'),
+       (1, 'Octocaine'),
+       (1, 'Octreoscan'),
+       (1, 'Octreotide Acetate'),
+       (1, 'Octreotide Acetate Preservative Free'),
+       (1, 'Ocuclear'),
+       (1, 'Ocufen'),
+       (1, 'Ocuflox'),
+       (1, 'Ocumycin'),
+       (1, 'Ocupress'),
+       (1, 'Ocusert Pilo-20'),
+       (1, 'Ocusert Pilo-40'),
+       (1, 'Ocusulf-10'),
+       (1, 'Ocusulf-30'),
+       (1, 'Odefsey'),
+       (1, 'Odomzo'),
+       (1, 'Ofev'),
+       (1, 'Ofirmev'),
+       (1, 'Ofloxacin'),
+       (1, 'Oforta'),
+       (1, 'Ogen'),
+       (1, 'Ogen .625'),
+       (1, 'Ogen 1.25'),
+       (1, 'Ogen 2.5'),
+       (1, 'Ogen 5'),
+       (1, 'Ogestrel 0.5/50-21'),
+       (1, 'Ogestrel 0.5/50-28'),
+       (1, 'Ogivri'),
+       (1, 'Olanzapine'),
+       (1, 'Olanzapine And Fluoxetine Hydrochloride'),
+       (1, 'Oleptro'),
+       (1, 'Olmesartan Medoxomil'),
+       (1, 'Olmesartan Medoxomil And Hydrochlorothiazide'),
+       (1, 'Olmesartan Medoxomil, Amlodipine And Hydrochlorothiazide'),
+       (1, 'Olopatadine Hydrochloride'),
+       (1, 'Olux'),
+       (1, 'Olux E'),
+       (1, 'Olysio'),
+       (1, 'Omacor'),
+       (1, 'Omega-3-Acid Ethyl Esters'),
+       (1, 'Omeprazole'),
+       (1, 'Omeprazole And Clarithromycin And Amoxicillin'),
+       (1, 'Omeprazole And Sodium Bicarbonate'),
+       (1, 'Omeprazole Magnesium'),
+       (1, 'Omidria'),
+       (1, 'Omnaris'),
+       (1, 'Omnicef'),
+       (1, 'Omnipaque 140'),
+       (1, 'Omnipaque 180'),
+       (1, 'Omnipaque 210'),
+       (1, 'Omnipaque 240'),
+       (1, 'Omnipaque 300'),
+       (1, 'Omnipaque 350'),
+       (1, 'Omnipaque 70'),
+       (1, 'Omnipen (Ampicillin)'),
+       (1, 'Omnipen-N'),
+       (1, 'Omnipred'),
+       (1, 'Omniscan'),
+       (1, 'Omnitrope'),
+       (1, 'Omontys'),
+       (1, 'Omontys Preservative Free'),
+       (1, 'Omtryg'),
+       (1, 'Ona-Mast'),
+       (1, 'Oncaspar'),
+       (1, 'Oncovin'),
+       (1, 'Ondansetron'),
+       (1, 'Ondansetron Hydrochloride'),
+       (1, 'Ondansetron Hydrochloride And Dextrose In Plastic Container'),
+       (1, 'Ondansetron Hydrochloride Preservative Free'),
+       (1, 'Onexton'),
+       (1, 'Onfi'),
+       (1, 'Onglyza'),
+       (1, 'Onivyde'),
+       (1, 'Onmel'),
+       (1, 'Onsolis'),
+       (1, 'Ontak'),
+       (1, 'Onzetra Xsail'),
+       (1, 'Opana'),
+       (1, 'Opana Er'),
+       (1, 'Opcicon One-Step'),
+       (1, 'Opcon'),
+       (1, 'Opcon-A'),
+       (1, 'Opdivo'),
+       (1, 'Ophthaine'),
+       (1, 'Ophthetic'),
+       (1, 'Ophthochlor'),
+       (1, 'Ophthocort'),
+       (1, 'Opill'),
+       (1, 'Opsumit'),
+       (1, 'Opticrom'),
+       (1, 'Optimark'),
+       (1, 'Optimark In Plastic Container'),
+       (1, 'Optimine'),
+       (1, 'Optipranolol'),
+       (1, 'Optiray 160'),
+       (1, 'Optiray 240'),
+       (1, 'Optiray 300'),
+       (1, 'Optiray 320'),
+       (1, 'Optiray 350'),
+       (1, 'Optison'),
+       (1, 'Optivar'),
+       (1, 'Optomycin'),
+       (1, 'Ora-Testryl'),
+       (1, 'Orabase Hca'),
+       (1, 'Orabloc'),
+       (1, 'Oracea'),
+       (1, 'Oragrafin Calcium'),
+       (1, 'Oragrafin Sodium'),
+       (1, 'Oralone'),
+       (1, 'Oraltag'),
+       (1, 'Oramorph Sr'),
+       (1, 'Orap'),
+       (1, 'Orapred'),
+       (1, 'Orapred Odt'),
+       (1, 'Oraqix'),
+       (1, 'Orasone'),
+       (1, 'Oraverse'),
+       (1, 'Oravig'),
+       (1, 'Orbactiv'),
+       (1, 'Orencia'),
+       (1, 'Orenitram'),
+       (1, 'Oretic'),
+       (1, 'Oreticyl 25'),
+       (1, 'Oreticyl 50'),
+       (1, 'Oreticyl Forte'),
+       (1, 'Oreton'),
+       (1, 'Oreton Methyl'),
+       (1, 'Orfadin'),
+       (1, 'Orgaran'),
+       (1, 'Orgatrax'),
+       (1, 'Orinase'),
+       (1, 'Orinase Diagnostic'),
+       (1, 'Orkambi'),
+       (1, 'Orlaam'),
+       (1, 'Orlex'),
+       (1, 'Orlex Hc'),
+       (1, 'Ornidyl'),
+       (1, 'Orphenadrine Citrate'),
+       (1, 'Orphenadrine Citrate, Aspirin, And Caffeine'),
+       (1, 'Orphengesic'),
+       (1, 'Orphengesic Forte'),
+       (1, 'Orsythia'),
+       (1, 'Ortho Cyclen-21'),
+       (1, 'Ortho Cyclen-28'),
+       (1, 'Ortho Evra'),
+       (1, 'Ortho Tri-Cyclen'),
+       (1, 'Ortho Tri-Cyclen 21'),
+       (1, 'Ortho Tri-Cyclen 28'),
+       (1, 'Ortho Tri-Cyclen Lo'),
+       (1, 'Ortho-Cept'),
+       (1, 'Ortho-Est'),
+       (1, 'Ortho-Novum 1/35-21'),
+       (1, 'Ortho-Novum 1/35-28'),
+       (1, 'Ortho-Novum 1/50 21'),
+       (1, 'Ortho-Novum 1/50 28'),
+       (1, 'Ortho-Novum 1/80 21'),
+       (1, 'Ortho-Novum 1/80 28'),
+       (1, 'Ortho-Novum 10-21'),
+       (1, 'Ortho-Novum 10/11-21'),
+       (1, 'Ortho-Novum 10/11-28'),
+       (1, 'Ortho-Novum 2-21'),
+       (1, 'Ortho-Novum 7/14-21'),
+       (1, 'Ortho-Novum 7/14-28'),
+       (1, 'Ortho-Novum 7/7/7-21'),
+       (1, 'Ortho-Novum 7/7/7-28'),
+       (1, 'Orudis'),
+       (1, 'Orudis Kt'),
+       (1, 'Oruvail'),
+       (1, 'Orvaten'),
+       (1, 'Oseltamivir Phosphate'),
+       (1, 'Oseni'),
+       (1, 'Osmitrol 10% In Water'),
+       (1, 'Osmitrol 15% In Water'),
+       (1, 'Osmitrol 20% In Water'),
+       (1, 'Osmitrol 5% In Water'),
+       (1, 'Osmolex Er'),
+       (1, 'Osmoprep'),
+       (1, 'Osmovist 190'),
+       (1, 'Osmovist 240'),
+       (1, 'Osphena'),
+       (1, 'Osteolite'),
+       (1, 'Osteoscan'),
+       (1, 'Otezla'),
+       (1, 'Oticair'),
+       (1, 'Otiprio'),
+       (1, 'Otobione'),
+       (1, 'Otobiotic'),
+       (1, 'Otocort'),
+       (1, 'Otovel'),
+       (1, 'Otrexup'),
+       (1, 'Otrexup Pfs'),
+       (1, 'Ovcon-35'),
+       (1, 'Ovcon-50'),
+       (1, 'Ovide'),
+       (1, 'Ovidrel'),
+       (1, 'Ovral'),
+       (1, 'Ovral-28'),
+       (1, 'Ovulen'),
+       (1, 'Ovulen-21'),
+       (1, 'Ovulen-28'),
+       (1, 'Oxacillin Sodium'),
+       (1, 'Oxaliplatin'),
+       (1, 'Oxandrin'),
+       (1, 'Oxandrolone'),
+       (1, 'Oxaprozin'),
+       (1, 'Oxaydo'),
+       (1, 'Oxazepam'),
+       (1, 'Oxcarbazepine'),
+       (1, 'Oxiconazole Nitrate'),
+       (1, 'Oxilan-300'),
+       (1, 'Oxilan-350'),
+       (1, 'Oxistat'),
+       (1, 'Oxsoralen'),
+       (1, 'Oxsoralen-Ultra'),
+       (1, 'Oxtellar Xr'),
+       (1, 'Oxtriphylline'),
+       (1, 'Oxtriphylline Pediatric'),
+       (1, 'Oxy-Kesso-Tetra'),
+       (1, 'Oxybutynin'),
+       (1, 'Oxybutynin Chloride'),
+       (1, 'Oxycet'),
+       (1, 'Oxycodone 2.5/Apap 500'),
+       (1, 'Oxycodone 5/Apap 500'),
+       (1, 'Oxycodone And Acetaminophen'),
+       (1, 'Oxycodone And Aspirin'),
+       (1, 'Oxycodone Hydrochloride'),
+       (1, 'Oxycodone Hydrochloride And Acetaminophen'),
+       (1, 'Oxycodone Hydrochloride And Ibuprofen'),
+       (1, 'Oxycontin'),
+       (1, 'Oxygen'),
+       (1, 'Oxygen, Usp'),
+       (1, 'Oxylone'),
+       (1, 'Oxymorphone Hydrochloride'),
+       (1, 'Oxyphenbutazone'),
+       (1, 'Oxytetracycline Hydrochloride'),
+       (1, 'Oxytocin'),
+       (1, 'Oxytocin 10 Usp Units In Dextrose 5%'),
+       (1, 'Oxytocin 20 Usp Units In Dextrose 5%'),
+       (1, 'Oxytocin 5 Usp Units In Dextrose 5%'),
+       (1, 'Oxytrol'),
+       (1, 'Oxytrol For Women'),
+       (1, 'Ozempic'),
+       (1, 'Ozurdex');
+
+INSERT INTO `tbl_medication` (`id_space`, `title`)
+VALUES (1, 'P.A.S. Sodium'),
+       (1, 'Pacerone'),
+       (1, 'Paclitaxel'),
+       (1, 'Pagitane'),
+       (1, 'Paliperidone'),
+       (1, 'Palladone'),
+       (1, 'Palonosetron Hydrochloride'),
+       (1, 'Pamelor'),
+       (1, 'Pamidronate Disodium'),
+       (1, 'Pamine'),
+       (1, 'Pamine Forte'),
+       (1, 'Pancreaze'),
+       (1, 'Pancuronium Bromide'),
+       (1, 'Pandel'),
+       (1, 'Panheprin'),
+       (1, 'Panixine Disperdose'),
+       (1, 'Panmycin'),
+       (1, 'Panretin'),
+       (1, 'Pantopaque'),
+       (1, 'Pantoprazole Sodium'),
+       (1, 'Panwarfin'),
+       (1, 'Papa-Deine #3'),
+       (1, 'Papa-Deine #4'),
+       (1, 'Paracaine'),
+       (1, 'Paracort'),
+       (1, 'Paradione'),
+       (1, 'Paraflex'),
+       (1, 'Parafon Forte Dsc'),
+       (1, 'Paragard T 380A'),
+       (1, 'Paraplatin'),
+       (1, 'Parasal'),
+       (1, 'Parasal Sodium'),
+       (1, 'Parathar'),
+       (1, 'Parcopa'),
+       (1, 'Paredrine'),
+       (1, 'Paremyd'),
+       (1, 'Paricalcitol'),
+       (1, 'Parlodel'),
+       (1, 'Parnate'),
+       (1, 'Paroex'),
+       (1, 'Paromomycin Sulfate'),
+       (1, 'Paroxetine'),
+       (1, 'Paroxetine Hydrochloride'),
+       (1, 'Paroxetine Mesylate'),
+       (1, 'Parsabiv'),
+       (1, 'Parsidol'),
+       (1, 'Paser'),
+       (1, 'Paskalium'),
+       (1, 'Pataday'),
+       (1, 'Patanase'),
+       (1, 'Patanol'),
+       (1, 'Pathilon'),
+       (1, 'Pathocil'),
+       (1, 'Pavulon'),
+       (1, 'Paxil'),
+       (1, 'Paxil Cr'),
+       (1, 'Paxipam'),
+       (1, 'Pazeo'),
+       (1, 'Pbz'),
+       (1, 'Pbz-Sr'),
+       (1, 'Pce'),
+       (1, 'Pediamycin'),
+       (1, 'Pediamycin 400'),
+       (1, 'Pediapred'),
+       (1, 'Pediatric Advil'),
+       (1, 'Pediatric Lta Kit'),
+       (1, 'Pediazole'),
+       (1, 'Pediotic'),
+       (1, 'Peg 3350 And Electrolytes'),
+       (1, 'Peg-3350, Potassium Chloride, Sodium Bicarbonate, Sodium Chloride'),
+       (1, 'Peg-3350, Sodium Chloride, Sodium Bicarbonate, Potassium Chloride And Bisacodyl'),
+       (1, 'Peg-3350, Sodium Sulfate, Sodium Chloride, Potassium Chloride, Sodium Ascorbate And Ascorbic Acid'),
+       (1, 'Peg-Lyte'),
+       (1, 'Peganone'),
+       (1, 'Pegasys'),
+       (1, 'Pegintron'),
+       (1, 'Pemetrexed'),
+       (1, 'Pemetrexed Disodium'),
+       (1, 'Pemoline'),
+       (1, 'Pen-Vee K'),
+       (1, 'Penapar-Vk'),
+       (1, 'Penbritin'),
+       (1, 'Penbritin-S'),
+       (1, 'Penecort'),
+       (1, 'Penetrex'),
+       (1, 'Penicillin'),
+       (1, 'Penicillin G Potassium'),
+       (1, 'Penicillin G Potassium In Plastic Container'),
+       (1, 'Penicillin G Procaine'),
+       (1, 'Penicillin G Sodium'),
+       (1, 'Penicillin V Potassium'),
+       (1, 'Penicillin-2'),
+       (1, 'Penicillin-Vk'),
+       (1, 'Penlac'),
+       (1, 'Pennsaid'),
+       (1, 'Penntuss'),
+       (1, 'Pentacarinat'),
+       (1, 'Pentacef'),
+       (1, 'Pentam'),
+       (1, 'Pentamidine Isethionate'),
+       (1, 'Pentasa'),
+       (1, 'Pentetate Calcium Trisodium'),
+       (1, 'Pentetate Zinc Trisodium'),
+       (1, 'Penthrane'),
+       (1, 'Pentids \'200\''),
+       (1, 'Pentids \'250\''),
+       (1, 'Pentids \'400\''),
+       (1, 'Pentids \'800\''),
+       (1, 'Pentobarbital Sodium'),
+       (1, 'Pentolair'),
+       (1, 'Pentostatin'),
+       (1, 'Pentothal'),
+       (1, 'Pentoxifylline'),
+       (1, 'Pentoxil'),
+       (1, 'Pepcid'),
+       (1, 'Pepcid Ac'),
+       (1, 'Pepcid Complete'),
+       (1, 'Pepcid Preservative Free'),
+       (1, 'Pepcid Rpd'),
+       (1, 'Peptavlon'),
+       (1, 'Perampanel'),
+       (1, 'Perchloracap'),
+       (1, 'Percocet'),
+       (1, 'Percodan'),
+       (1, 'Percodan-Demi'),
+       (1, 'Percorten'),
+       (1, 'Perforomist'),
+       (1, 'Pergolide Mesylate'),
+       (1, 'Pergonal'),
+       (1, 'Periactin'),
+       (1, 'Peridex'),
+       (1, 'Perikabiven In Plastic Container'),
+       (1, 'Perindopril Erbumine'),
+       (1, 'Periochip'),
+       (1, 'Periogard'),
+       (1, 'Periostat'),
+       (1, 'Perjeta'),
+       (1, 'Permapen'),
+       (1, 'Permax'),
+       (1, 'Permethrin'),
+       (1, 'Permitil'),
+       (1, 'Perphenazine'),
+       (1, 'Perphenazine And Amitriptyline Hydrochloride'),
+       (1, 'Persantine'),
+       (1, 'Pertofrane'),
+       (1, 'Pertzye'),
+       (1, 'Pexeva'),
+       (1, 'Pfizer-E'),
+       (1, 'Pfizerpen'),
+       (1, 'Pfizerpen G'),
+       (1, 'Pfizerpen Vk'),
+       (1, 'Pfizerpen-A'),
+       (1, 'Pfizerpen-As'),
+       (1, 'Pharmaseal Scrub Care'),
+       (1, 'Phenaphen W/ Codeine No. 2'),
+       (1, 'Phenaphen W/ Codeine No. 3'),
+       (1, 'Phenaphen W/ Codeine No. 4'),
+       (1, 'Phenaphen-650 W/ Codeine'),
+       (1, 'Phenazine'),
+       (1, 'Phenazine-35'),
+       (1, 'Phendimetrazine Tartrate'),
+       (1, 'Phenelzine Sulfate'),
+       (1, 'Phenergan'),
+       (1, 'Phenergan Vc'),
+       (1, 'Phenergan Vc W/ Codeine'),
+       (1, 'Phenergan W/ Codeine'),
+       (1, 'Phenetron'),
+       (1, 'Phenoxybenzamine Hydrochloride'),
+       (1, 'Phentermine Hydrochloride'),
+       (1, 'Phentermine Resin 30'),
+       (1, 'Phentermine Resin Complex'),
+       (1, 'Phentolamine Mesylate'),
+       (1, 'Phenurone'),
+       (1, 'Pheny-Pas-Tebamin'),
+       (1, 'Phenylbutazone'),
+       (1, 'Phenylephrine Hydrochloride'),
+       (1, 'Phenylephrine Hydrochloride And Promethazine Hydrochloride'),
+       (1, 'Phenytek'),
+       (1, 'Phenytex'),
+       (1, 'Phenytoin'),
+       (1, 'Phenytoin Sodium'),
+       (1, 'Pherazine Dm'),
+       (1, 'Pherazine Vc'),
+       (1, 'Pherazine Vc W/ Codeine'),
+       (1, 'Pherazine W/ Codeine'),
+       (1, 'Philith'),
+       (1, 'Phiso-Scrub'),
+       (1, 'Phisohex'),
+       (1, 'Phoslo'),
+       (1, 'Phoslo Gelcaps'),
+       (1, 'Phoslyra'),
+       (1, 'Phosphocol P32'),
+       (1, 'Phospholine Iodide'),
+       (1, 'Phosphotec'),
+       (1, 'Phosphotope'),
+       (1, 'Photofrin'),
+       (1, 'Photrexa'),
+       (1, 'Photrexa Viscous In Dextran 20%'),
+       (1, 'Phoxillum B22K 4/0 In Plastic Container'),
+       (1, 'Phoxillum Bk 4/2.5 In Plastic Container'),
+       (1, 'Phrenilin'),
+       (1, 'Phrenilin Forte'),
+       (1, 'Phrenilin With Caffeine And Codeine'),
+       (1, 'Phyllocontin'),
+       (1, 'Physiolyte In Plastic Container'),
+       (1, 'Physiosol In Plastic Container'),
+       (1, 'Physiosol Ph 7.4 In Plastic Container'),
+       (1, 'Phytonadione'),
+       (1, 'Picato'),
+       (1, 'Pilocarpine Hydrochloride'),
+       (1, 'Pilopine Hs'),
+       (1, 'Pimozide'),
+       (1, 'Pimtrea'),
+       (1, 'Pindac'),
+       (1, 'Pindolol'),
+       (1, 'Pioglitazone'),
+       (1, 'Pioglitazone Hydrochloride'),
+       (1, 'Pioglitazone Hydrochloride And Glimepiride'),
+       (1, 'Pioglitazone Hydrochloride And Metformin Hydrochloride'),
+       (1, 'Piperacillin'),
+       (1, 'Piperacillin And Tazobactam'),
+       (1, 'Piperazine Citrate'),
+       (1, 'Pipracil'),
+       (1, 'Pirmella 1/35'),
+       (1, 'Pirmella 7/7/7'),
+       (1, 'Piroxicam'),
+       (1, 'Pitavastatin Calcium'),
+       (1, 'Pitocin'),
+       (1, 'Pitressin Tannate'),
+       (1, 'Placidyl'),
+       (1, 'Plan B'),
+       (1, 'Plaquenil'),
+       (1, 'Plasma-Lyte 148 And Dextrose 5% In Plastic Container'),
+       (1, 'Plasma-Lyte 148 In Water In Plastic Container'),
+       (1, 'Plasma-Lyte 56 And Dextrose 5% In Plastic Container'),
+       (1, 'Plasma-Lyte 56 In Plastic Container'),
+       (1, 'Plasma-Lyte A In Plastic Container'),
+       (1, 'Plasma-Lyte M And Dextrose 5% In Plastic Container'),
+       (1, 'Plasma-Lyte R In Plastic Container'),
+       (1, 'Platinol'),
+       (1, 'Platinol-Aq'),
+       (1, 'Plavix'),
+       (1, 'Plegine'),
+       (1, 'Plegisol In Plastic Container'),
+       (1, 'Plegridy'),
+       (1, 'Plenaxis'),
+       (1, 'Plendil'),
+       (1, 'Plenvu'),
+       (1, 'Pletal'),
+       (1, 'Pliaglis'),
+       (1, 'Pmb 200'),
+       (1, 'Pmb 400'),
+       (1, 'Podofilox'),
+       (1, 'Polaramine'),
+       (1, 'Polocaine'),
+       (1, 'Polocaine W/ Levonordefrin'),
+       (1, 'Polocaine-Mpf'),
+       (1, 'Poly-Pred'),
+       (1, 'Poly-Rx'),
+       (1, 'Polycillin'),
+       (1, 'Polycillin-N'),
+       (1, 'Polycillin-Prb'),
+       (1, 'Polyethylene Glycol 3350'),
+       (1, 'Polyethylene Glycol 3350 And Electrolytes'),
+       (1, 'Polyethylene Glycol 3350; Sodium Chloride; Sodium Bicarbonate; Potassium Chloride; Bisacodyl'),
+       (1, 'Polymox'),
+       (1, 'Polymycin B Sulfate'),
+       (1, 'Polymyxin B Sulfate'),
+       (1, 'Polysporin'),
+       (1, 'Polytrim'),
+       (1, 'Pomalyst'),
+       (1, 'Ponstel'),
+       (1, 'Porcine Secretin'),
+       (1, 'Portalac'),
+       (1, 'Portia-21'),
+       (1, 'Portia-28'),
+       (1, 'Portrazza'),
+       (1, 'Potassium Acetate'),
+       (1, 'Potassium Aminosalicylate'),
+       (1, 'Potassium Chloride'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 0.037% In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 0.075% In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 0.11% In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.149% In Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.15% In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 0.22% In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.224% In Sodium Chloride 0.9%'),
+       (1, 'Potassium Chloride 0.3% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 10% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 10% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 10% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 3.3% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.11% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.2% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.33% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 0.3% In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 10Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container'),
+       (1, 'Potassium Chloride 10Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container'),
+       (1, 'Potassium Chloride 10Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 10Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 10Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 10Meq In Plastic Container'),
+       (1, 'Potassium Chloride 15Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container'),
+       (1, 'Potassium Chloride 15Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container'),
+       (1, 'Potassium Chloride 15Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 15Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 15Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Dextrose 5% In Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Plastic Container'),
+       (1, 'Potassium Chloride 20Meq In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 30Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container'),
+       (1, 'Potassium Chloride 30Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container'),
+       (1, 'Potassium Chloride 30Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 30Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 30Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 30Meq In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 30Meq In Plastic Container'),
+       (1, 'Potassium Chloride 40Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container'),
+       (1, 'Potassium Chloride 40Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container'),
+       (1, 'Potassium Chloride 40Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 40Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 40Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 40Meq In Dextrose 5% In Plastic Container'),
+       (1, 'Potassium Chloride 40Meq In Plastic Container'),
+       (1, 'Potassium Chloride 40Meq In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride 5Meq In Dextrose 5% And Lactated Ringer\'s In Plastic Container'),
+       (1, 'Potassium Chloride 5Meq In Dextrose 5% And Sodium Chloride 0.225% In Plastic Container'),
+       (1, 'Potassium Chloride 5Meq In Dextrose 5% And Sodium Chloride 0.3% In Plastic Container'),
+       (1, 'Potassium Chloride 5Meq In Dextrose 5% And Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Potassium Chloride 5Meq In Dextrose 5% And Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Potassium Chloride In Plastic Container'),
+       (1, 'Potassium Citrate'),
+       (1, 'Potassium Iodide'),
+       (1, 'Potiga'),
+       (1, 'Povan'),
+       (1, 'Povidone Iodine'),
+       (1, 'Pradaxa'),
+       (1, 'Pralatrexate'),
+       (1, 'Pralidoxime Chloride'),
+       (1, 'Praluent'),
+       (1, 'Pramine'),
+       (1, 'Pramipexole Dihydrochloride'),
+       (1, 'Pramosone'),
+       (1, 'Prandimet'),
+       (1, 'Prandin'),
+       (1, 'Prantal'),
+       (1, 'Prasugrel'),
+       (1, 'Pravachol'),
+       (1, 'Pravastatin Sodium'),
+       (1, 'Pravigard Pac (Copackaged)'),
+       (1, 'Praxbind'),
+       (1, 'Prazepam'),
+       (1, 'Praziquantel'),
+       (1, 'Prazosin Hydrochloride'),
+       (1, 'Pre-Pen'),
+       (1, 'Pre-Sate'),
+       (1, 'Precedex'),
+       (1, 'Precef'),
+       (1, 'Precose'),
+       (1, 'Pred Forte'),
+       (1, 'Pred Mild'),
+       (1, 'Pred-G'),
+       (1, 'Predair'),
+       (1, 'Predair Forte'),
+       (1, 'Predamide'),
+       (1, 'Prednicarbate'),
+       (1, 'Prednicen-M'),
+       (1, 'Prednisolone'),
+       (1, 'Prednisolone Acetate'),
+       (1, 'Prednisolone Sodium Phosphate'),
+       (1, 'Prednisolone Tebutate'),
+       (1, 'Prednisone'),
+       (1, 'Prednisone Intensol'),
+       (1, 'Predsulfair'),
+       (1, 'Predsulfair Ii'),
+       (1, 'Prefest'),
+       (1, 'Prefrin-A'),
+       (1, 'Pregabalin'),
+       (1, 'Pregnyl'),
+       (1, 'Prelay'),
+       (1, 'Prelone'),
+       (1, 'Preludin'),
+       (1, 'Premarin'),
+       (1, 'Premasol 10% In Plastic Container'),
+       (1, 'Premasol 6% In Plastic Container'),
+       (1, 'Premphase (Premarin;Cycrin 14/14)'),
+       (1, 'Premphase 14/14'),
+       (1, 'Prempro'),
+       (1, 'Prempro (Premarin;Cycrin)'),
+       (1, 'Prempro/Premphase'),
+       (1, 'Prepidil'),
+       (1, 'Prepopik'),
+       (1, 'Presamine'),
+       (1, 'Prestalia'),
+       (1, 'Prevacare R'),
+       (1, 'Prevacid'),
+       (1, 'Prevacid 24 Hr'),
+       (1, 'Prevacid Iv'),
+       (1, 'Prevacid Naprapac 250 (Copackaged)'),
+       (1, 'Prevacid Naprapac 375 (Copackaged)'),
+       (1, 'Prevacid Naprapac 500 (Copackaged)'),
+       (1, 'Prevalite'),
+       (1, 'Prevantics Maxi Swabstick'),
+       (1, 'Prevantics Swab'),
+       (1, 'Prevantics Swabstick'),
+       (1, 'Preven Emergency Contraceptive Kit'),
+       (1, 'Previfem'),
+       (1, 'Prevpac'),
+       (1, 'Prevymis'),
+       (1, 'Prexxartan'),
+       (1, 'Prezcobix'),
+       (1, 'Prezista'),
+       (1, 'Prialt'),
+       (1, 'Priftin'),
+       (1, 'Prilocaine Hydrochloride'),
+       (1, 'Prilocaine Hydrochloride And Epinephrine Bitartrate'),
+       (1, 'Prilosec'),
+       (1, 'Prilosec Otc'),
+       (1, 'Primacor'),
+       (1, 'Primacor In Dextrose 5% In Plastic Container'),
+       (1, 'Primaquine'),
+       (1, 'Primaquine Phosphate'),
+       (1, 'Primatene Mist'),
+       (1, 'Primaxin'),
+       (1, 'Primidone'),
+       (1, 'Primsol'),
+       (1, 'Principen'),
+       (1, 'Principen \'125\''),
+       (1, 'Principen \'250\''),
+       (1, 'Principen \'500\''),
+       (1, 'Principen W/ Probenecid'),
+       (1, 'Prinivil'),
+       (1, 'Prinzide'),
+       (1, 'Priscoline'),
+       (1, 'Prismasol B22Gk 2/0 In Plastic Container'),
+       (1, 'Prismasol B22Gk 2/2.5 In Plastic Container'),
+       (1, 'Prismasol B22Gk 4/0 In Plastic Container'),
+       (1, 'Prismasol B22Gk 4/2.5 In Plastic Container'),
+       (1, 'Prismasol Bgk 0/2.5 In Plastic Container'),
+       (1, 'Prismasol Bgk 2/0 In Plastic Container'),
+       (1, 'Prismasol Bgk 2/3.5 In Plastic Container'),
+       (1, 'Prismasol Bgk 4/0 In Plastic Container'),
+       (1, 'Prismasol Bgk 4/0/1.2 In Plastic Container'),
+       (1, 'Prismasol Bgk 4/2.5 In Plastic Container'),
+       (1, 'Prismasol Bgk 4/3.5 In Plastic Container'),
+       (1, 'Prismasol Bk 0/0 In Plastic Container'),
+       (1, 'Prismasol Bk 0/0/1.2 In Plastic Container'),
+       (1, 'Prismasol Bk 0/3.5 In Plastic Container'),
+       (1, 'Prismasol Bk 4/2.5 In Plastic Container'),
+       (1, 'Pristiq'),
+       (1, 'Pro-Banthine'),
+       (1, 'Proair Hfa'),
+       (1, 'Proair Respiclick'),
+       (1, 'Proamatine'),
+       (1, 'Probalan'),
+       (1, 'Probampacin'),
+       (1, 'Proben-C'),
+       (1, 'Probenecid'),
+       (1, 'Probenecid And Colchicine'),
+       (1, 'Probuphine'),
+       (1, 'Procainamide Hcl'),
+       (1, 'Procainamide Hydrochloride'),
+       (1, 'Procaine Hydrochloride'),
+       (1, 'Procaine Hydrochloride W/ Epinephrine'),
+       (1, 'Procalamine'),
+       (1, 'Procan'),
+       (1, 'Procan Sr'),
+       (1, 'Procanbid'),
+       (1, 'Procapan'),
+       (1, 'Procardia'),
+       (1, 'Procardia Xl'),
+       (1, 'Prochlorperazine'),
+       (1, 'Prochlorperazine Edisylate'),
+       (1, 'Prochlorperazine Maleate'),
+       (1, 'Procomp'),
+       (1, 'Proctocort'),
+       (1, 'Proctofoam Hc'),
+       (1, 'Procysbi'),
+       (1, 'Profen'),
+       (1, 'Profenal'),
+       (1, 'Proferdex'),
+       (1, 'Progestasert'),
+       (1, 'Progesterone'),
+       (1, 'Proglycem'),
+       (1, 'Prograf'),
+       (1, 'Prohance'),
+       (1, 'Prohance Multipack'),
+       (1, 'Proketazine'),
+       (1, 'Proklar'),
+       (1, 'Prolensa'),
+       (1, 'Proleukin'),
+       (1, 'Prolia'),
+       (1, 'Prolixin'),
+       (1, 'Prolixin Decanoate'),
+       (1, 'Prolixin Enanthate'),
+       (1, 'Proloid'),
+       (1, 'Proloprim'),
+       (1, 'Promacta'),
+       (1, 'Promapar'),
+       (1, 'Promazine Hydrochloride'),
+       (1, 'Prometa'),
+       (1, 'Prometh Fortis'),
+       (1, 'Prometh Hydrochloride,Phenylephrine Hydrochloride W/Codeine Phosphate'),
+       (1, 'Prometh Plain'),
+       (1, 'Prometh Vc Plain'),
+       (1, 'Prometh Vc W/ Codeine'),
+       (1, 'Prometh W/ Dextromethorphan'),
+       (1, 'Promethacon'),
+       (1, 'Promethazine'),
+       (1, 'Promethazine Dm'),
+       (1, 'Promethazine Hydrochloride'),
+       (1, 'Promethazine Hydrochloride And Codeine Phosphate'),
+       (1, 'Promethazine Hydrochloride And Dextromethorphan Hydrobromide'),
+       (1, 'Promethazine Hydrochloride And Phenylephrine Hydrochloride'),
+       (1, 'Promethazine Hydrochloride Plain'),
+       (1, 'Promethazine Hydrochloride,Phenylephrine Hydrochloride W/Codeine Phosphate'),
+       (1, 'Promethazine Plain'),
+       (1, 'Promethazine Vc Plain'),
+       (1, 'Promethazine Vc W/ Codeine'),
+       (1, 'Promethazine W/ Dextromethorphan'),
+       (1, 'Promethazine With Codeine'),
+       (1, 'Promethegan'),
+       (1, 'Prometrium'),
+       (1, 'Prompt Phenytoin Sodium'),
+       (1, 'Pronestyl'),
+       (1, 'Pronestyl-Sr'),
+       (1, 'Propacet 100'),
+       (1, 'Propafenone Hydrochloride'),
+       (1, 'Propantheline Bromide'),
+       (1, 'Proparacaine Hydrochloride'),
+       (1, 'Propecia'),
+       (1, 'Prophene 65'),
+       (1, 'Propine'),
+       (1, 'Propofol'),
+       (1, 'Propoxyphene Compound 65'),
+       (1, 'Propoxyphene Hydrochloride'),
+       (1, 'Propoxyphene Hydrochloride 65'),
+       (1, 'Propoxyphene Hydrochloride And Acetaminophen'),
+       (1, 'Propoxyphene Hydrochloride W/ Aspirin And Caffeine'),
+       (1, 'Propoxyphene Napsylate And Acetaminophen'),
+       (1, 'Propranolol Hydrochloride'),
+       (1, 'Propranolol Hydrochloride And Hydrochlorothiazide'),
+       (1, 'Propranolol Hydrochloride Intensol'),
+       (1, 'Propulsid'),
+       (1, 'Propulsid Quicksolv'),
+       (1, 'Propylthiouracil'),
+       (1, 'Proquin Xr'),
+       (1, 'Proscar'),
+       (1, 'Prosol 20% Sulfite Free In Plastic Container'),
+       (1, 'Prosom'),
+       (1, 'Prostaphlin'),
+       (1, 'Prostascint'),
+       (1, 'Prostep'),
+       (1, 'Prostin E2'),
+       (1, 'Prostin F2 Alpha'),
+       (1, 'Prostin Vr Pediatric'),
+       (1, 'Protamine Sulfate'),
+       (1, 'Protamine Zinc & Iletin I (Beef-Pork)'),
+       (1, 'Protamine Zinc And Iletin Ii'),
+       (1, 'Protamine Zinc And Iletin Ii (Pork)'),
+       (1, 'Protamine Zinc Insulin'),
+       (1, 'Protonix'),
+       (1, 'Protonix Iv'),
+       (1, 'Protopam Chloride'),
+       (1, 'Protopic'),
+       (1, 'Protostat'),
+       (1, 'Protriptyline Hydrochloride'),
+       (1, 'Protropin'),
+       (1, 'Proval #3'),
+       (1, 'Provayblue'),
+       (1, 'Proventil'),
+       (1, 'Proventil-Hfa'),
+       (1, 'Provera'),
+       (1, 'Provigil'),
+       (1, 'Provocholine'),
+       (1, 'Prozac'),
+       (1, 'Prozac Weekly'),
+       (1, 'Pseudo-12'),
+       (1, 'Pseudoephedrine Hydrochloride'),
+       (1, 'Pseudoephedrine Hydrochloride And Chlorpheniramine Maleate'),
+       (1, 'Pseudoephedrine Hydrochloride And Triprolidine Hydrochloride'),
+       (1, 'Psorcon'),
+       (1, 'Psorcon E'),
+       (1, 'Pulmicort'),
+       (1, 'Pulmicort Flexhaler'),
+       (1, 'Pulmicort Respules'),
+       (1, 'Pulmolite'),
+       (1, 'Pulmozyme'),
+       (1, 'Pur-Wash'),
+       (1, 'Purified Cortrophin Gel'),
+       (1, 'Purinethol'),
+       (1, 'Purixan'),
+       (1, 'Pylera'),
+       (1, 'Pyocidin'),
+       (1, 'Pyopen'),
+       (1, 'Pyrazinamide'),
+       (1, 'Pyridamal 100'),
+       (1, 'Pyridostigmine Bromide'),
+       (1, 'Pyridoxine Hydrochloride'),
+       (1, 'Pyrilamine Maleate'),
+       (1, 'Pyrolite'),
+       (1, 'Pytest'),
+       (1, 'Pytest Kit'),
+       (1, 'Q-Gesic'),
+       (1, 'Q-Pam'),
+       (1, 'Qbrelis'),
+       (1, 'Qnasl'),
+       (1, 'Qoliana'),
+       (1, 'Qsymia'),
+       (1, 'Qtern'),
+       (1, 'Quadramet'),
+       (1, 'Qualaquin'),
+       (1, 'Quartette'),
+       (1, 'Quarzan'),
+       (1, 'Quasense'),
+       (1, 'Qudexy Xr'),
+       (1, 'Quelicin'),
+       (1, 'Quelicin Preservative Free'),
+       (1, 'Questran'),
+       (1, 'Questran Light'),
+       (1, 'Quetiapine Fumarate'),
+       (1, 'Quibron-T'),
+       (1, 'Quibron-T/Sr'),
+       (1, 'Quide'),
+       (1, 'Quillichew Er'),
+       (1, 'Quillivant Xr'),
+       (1, 'Quinact'),
+       (1, 'Quinaglute'),
+       (1, 'Quinalan'),
+       (1, 'Quinapril Hydrochloride'),
+       (1, 'Quinapril Hydrochloride And Hydrochlorothiazide'),
+       (1, 'Quinaretic'),
+       (1, 'Quinatime'),
+       (1, 'Quinidex'),
+       (1, 'Quinidine Gluconate'),
+       (1, 'Quinidine Sulfate'),
+       (1, 'Quinine Sulfate'),
+       (1, 'Quinora'),
+       (1, 'Quixin'),
+       (1, 'Qutenza'),
+       (1, 'Qvar 40'),
+       (1, 'Qvar 80'),
+       (1, 'Qvar Redihaler'),
+       (1, 'R-Gene 10'),
+       (1, 'R-P Mycin'),
+       (1, 'Rabeprazole Sodium'),
+       (1, 'Radicava'),
+       (1, 'Radio-Iodinated (I 125) Serum Albumin (Human)'),
+       (1, 'Radiogardase (Prussian Blue)'),
+       (1, 'Radiogenix System'),
+       (1, 'Radioiodinated Serum Albumin (Human) Ihsa I 125'),
+       (1, 'Radionuclide-Labeled (125 I) Fibrinogen (Human) Sensor'),
+       (1, 'Raloxifene Hydrochloride'),
+       (1, 'Raltegravir'),
+       (1, 'Ramelteon'),
+       (1, 'Ramipril'),
+       (1, 'Ranexa'),
+       (1, 'Raniclor'),
+       (1, 'Ranitidine'),
+       (1, 'Ranitidine Hydrochloride'),
+       (1, 'Ranolazine'),
+       (1, 'Rapaflo'),
+       (1, 'Rapamune'),
+       (1, 'Rapivab'),
+       (1, 'Raplon'),
+       (1, 'Rasagiline Mesylate'),
+       (1, 'Rasuvo'),
+       (1, 'Rau-Sed'),
+       (1, 'Raudixin'),
+       (1, 'Rauserpin'),
+       (1, 'Rautensin'),
+       (1, 'Rauval'),
+       (1, 'Rauwiloid'),
+       (1, 'Rauwolfia Serpentina'),
+       (1, 'Ravicti'),
+       (1, 'Ravocaine And Novocain W/ Levophed'),
+       (1, 'Ravocaine And Novocain W/ Neo-Cobefrin'),
+       (1, 'Raxar'),
+       (1, 'Raxibacumab'),
+       (1, 'Rayaldee'),
+       (1, 'Rayos'),
+       (1, 'Razadyne'),
+       (1, 'Razadyne Er'),
+       (1, 'Rbc-Scan'),
+       (1, 'Readi-Cat 2'),
+       (1, 'Readi-Cat 2 Smoothies'),
+       (1, 'Rebetol'),
+       (1, 'Rebif'),
+       (1, 'Reclast'),
+       (1, 'Rectiv'),
+       (1, 'Redisol'),
+       (1, 'Refludan'),
+       (1, 'Regitine'),
+       (1, 'Reglan'),
+       (1, 'Reglan Odt'),
+       (1, 'Regonol'),
+       (1, 'Regranex'),
+       (1, 'Regroton'),
+       (1, 'Regular Iletin Ii'),
+       (1, 'Regular Iletin Ii (Pork)'),
+       (1, 'Regular Insulin'),
+       (1, 'Regular Purified Pork Insulin'),
+       (1, 'Rela'),
+       (1, 'Relafen'),
+       (1, 'Relenza'),
+       (1, 'Relistor'),
+       (1, 'Relpax'),
+       (1, 'Remeron'),
+       (1, 'Remeron Soltab'),
+       (1, 'Remicade'),
+       (1, 'Remifentanil Hydrochloride'),
+       (1, 'Remodulin'),
+       (1, 'Remsed'),
+       (1, 'Renacidin'),
+       (1, 'Renagel'),
+       (1, 'Renamin W/O Electrolytes'),
+       (1, 'Renese'),
+       (1, 'Renese-R'),
+       (1, 'Renflexis'),
+       (1, 'Reno-30'),
+       (1, 'Reno-60'),
+       (1, 'Reno-Dip'),
+       (1, 'Renocal-76'),
+       (1, 'Renografin-60'),
+       (1, 'Renografin-76'),
+       (1, 'Renoquid'),
+       (1, 'Renormax'),
+       (1, 'Renotec'),
+       (1, 'Renova'),
+       (1, 'Renovist'),
+       (1, 'Renovist Ii'),
+       (1, 'Renovue-65'),
+       (1, 'Renovue-Dip'),
+       (1, 'Renvela'),
+       (1, 'Reopro'),
+       (1, 'Repaglinide'),
+       (1, 'Repaglinide And Metformin Hydrochloride'),
+       (1, 'Repatha'),
+       (1, 'Reprexain'),
+       (1, 'Repronex'),
+       (1, 'Requip'),
+       (1, 'Requip Xl'),
+       (1, 'Rescriptor'),
+       (1, 'Rescula'),
+       (1, 'Resectisol'),
+       (1, 'Reserpine'),
+       (1, 'Reserpine And Hydrochlorothiazide'),
+       (1, 'Reserpine And Hydrochlorothiazide-50'),
+       (1, 'Reserpine And Hydroflumethiazide'),
+       (1, 'Reserpine, Hydrochlorothiazide, And Hydralazine Hydrochloride'),
+       (1, 'Resporal'),
+       (1, 'Restasis'),
+       (1, 'Restoril'),
+       (1, 'Retacrit'),
+       (1, 'Retavase'),
+       (1, 'Retet'),
+       (1, 'Retin-A'),
+       (1, 'Retin-A Micro'),
+       (1, 'Retisert'),
+       (1, 'Retrovir'),
+       (1, 'Revatio'),
+       (1, 'Reversol'),
+       (1, 'Revex'),
+       (1, 'Revia'),
+       (1, 'Revlimid'),
+       (1, 'Revonto'),
+       (1, 'Rexulti'),
+       (1, 'Reyataz'),
+       (1, 'Rezipas'),
+       (1, 'Rezira'),
+       (1, 'Rezulin'),
+       (1, 'Rhinocort'),
+       (1, 'Rhinocort Allergy'),
+       (1, 'Rhofade'),
+       (1, 'Rhopressa'),
+       (1, 'Ribasphere'),
+       (1, 'Ribavirin'),
+       (1, 'Rid Mousse'),
+       (1, 'Ridaura'),
+       (1, 'Rifabutin'),
+       (1, 'Rifadin'),
+       (1, 'Rifamate'),
+       (1, 'Rifampin'),
+       (1, 'Rifampin And Isoniazid'),
+       (1, 'Rifater'),
+       (1, 'Rilpivirine'),
+       (1, 'Rilutek'),
+       (1, 'Riluzole'),
+       (1, 'Rimactane'),
+       (1, 'Rimadyl'),
+       (1, 'Rimantadine Hydrochloride'),
+       (1, 'Rimifon'),
+       (1, 'Rimso-50'),
+       (1, 'Ringer\'s In Plastic Container'),
+       (1, 'Riomet'),
+       (1, 'Risedronate Sodium'),
+       (1, 'Risperdal'),
+       (1, 'Risperdal Consta'),
+       (1, 'Risperidone'),
+       (1, 'Ritalin'),
+       (1, 'Ritalin La'),
+       (1, 'Ritalin-Sr'),
+       (1, 'Ritodrine Hcl'),
+       (1, 'Ritodrine Hydrochloride'),
+       (1, 'Ritodrine Hydrochloride In Dextrose 5% In Plastic Container'),
+       (1, 'Ritonavir'),
+       (1, 'Rituxan'),
+       (1, 'Rituxan Hycela'),
+       (1, 'Rivastigmine'),
+       (1, 'Rivastigmine Tartrate'),
+       (1, 'Rizatriptan Benzoate'),
+       (1, 'Robaxin'),
+       (1, 'Robaxin-750'),
+       (1, 'Robaxisal'),
+       (1, 'Robengatope'),
+       (1, 'Robimycin'),
+       (1, 'Robinul'),
+       (1, 'Robinul Forte'),
+       (1, 'Robitet'),
+       (1, 'Rocaltrol'),
+       (1, 'Rocephin'),
+       (1, 'Rocephin Kit'),
+       (1, 'Rocephin W/ Dextrose In Plastic Container'),
+       (1, 'Rocuronium Bromide'),
+       (1, 'Roflumilast'),
+       (1, 'Rogaine (For Men)'),
+       (1, 'Rogaine (For Women)'),
+       (1, 'Rogaine Extra Strength (For Men)'),
+       (1, 'Romazicon'),
+       (1, 'Rondomycin'),
+       (1, 'Ropinirole Hydrochloride'),
+       (1, 'Ropivacaine Hydrochloride'),
+       (1, 'Rosiglitazone'),
+       (1, 'Rosiglitazone Maleate'),
+       (1, 'Rosiglitazone Maleate And Glimepiride'),
+       (1, 'Rosiglitazone Maleate And Metformin Hydrochloride'),
+       (1, 'Rosuvastatin Calcium'),
+       (1, 'Rosuvastatin Zinc'),
+       (1, 'Rowasa'),
+       (1, 'Roweepra'),
+       (1, 'Roxicet'),
+       (1, 'Roxicet 5/500'),
+       (1, 'Roxicodone'),
+       (1, 'Roxilox'),
+       (1, 'Roxiprin'),
+       (1, 'Roxybond'),
+       (1, 'Rozerem'),
+       (1, 'Rubex'),
+       (1, 'Rubivite'),
+       (1, 'Rubraca'),
+       (1, 'Rubramin Pc'),
+       (1, 'Rubratope-57'),
+       (1, 'Rubratope-57 Kit'),
+       (1, 'Rubratope-60'),
+       (1, 'Rubratope-60 Kit'),
+       (1, 'Ruby-Fill'),
+       (1, 'Rufen'),
+       (1, 'Rufinamide'),
+       (1, 'Ruvite'),
+       (1, 'Ryanodex'),
+       (1, 'Rybix Odt'),
+       (1, 'Rydapt'),
+       (1, 'Rytary'),
+       (1, 'Rythmol'),
+       (1, 'Rythmol Sr'),
+       (1, 'Ryzodeg 70/30'),
+       (1, 'Ryzolt'),
+       (1, 'S.A.S.-500'),
+       (1, 'Sabril'),
+       (1, 'Safyral'),
+       (1, 'Saizen'),
+       (1, 'Salagen'),
+       (1, 'Salonpas'),
+       (1, 'Salpix'),
+       (1, 'Saluron'),
+       (1, 'Salutensin'),
+       (1, 'Salutensin-Demi'),
+       (1, 'Samsca'),
+       (1, 'Sanctura'),
+       (1, 'Sanctura Xr'),
+       (1, 'Sancuso'),
+       (1, 'Sandimmune'),
+       (1, 'Sandostatin'),
+       (1, 'Sandostatin Lar'),
+       (1, 'Sandril'),
+       (1, 'Sanorex'),
+       (1, 'Sansac'),
+       (1, 'Sansert'),
+       (1, 'Santyl'),
+       (1, 'Saphris'),
+       (1, 'Sapropterin Dihydrochloride'),
+       (1, 'Sarafem'),
+       (1, 'Sarenin'),
+       (1, 'Sarisol'),
+       (1, 'Sarisol No. 1'),
+       (1, 'Sarisol No. 2'),
+       (1, 'Satric'),
+       (1, 'Savaysa'),
+       (1, 'Savella'),
+       (1, 'Saxagliptin'),
+       (1, 'Saxagliptin;Metformin Hydrochloride'),
+       (1, 'Saxenda'),
+       (1, 'Scabene'),
+       (1, 'Scandonest L'),
+       (1, 'Scandonest Plain'),
+       (1, 'Scanlux-300'),
+       (1, 'Scanlux-370'),
+       (1, 'Sclerosol'),
+       (1, 'Scopolamine'),
+       (1, 'Scrubteam Surgical Spongebrush'),
+       (1, 'Seasonale'),
+       (1, 'Seasonique'),
+       (1, 'Secobarbital Sodium'),
+       (1, 'Seconal Sodium'),
+       (1, 'Secreflo'),
+       (1, 'Secretin-Ferring'),
+       (1, 'Sectral'),
+       (1, 'Sedapap'),
+       (1, 'Seebri'),
+       (1, 'Seffin'),
+       (1, 'Segluromet'),
+       (1, 'Selegiline Hydrochloride'),
+       (1, 'Selenium Sulfide'),
+       (1, 'Selenomethionine Se 75'),
+       (1, 'Selfemra'),
+       (1, 'Selsun'),
+       (1, 'Selzentry'),
+       (1, 'Semilente'),
+       (1, 'Semilente Insulin'),
+       (1, 'Semprex-D'),
+       (1, 'Sensipar'),
+       (1, 'Sensorcaine'),
+       (1, 'Septi-Soft'),
+       (1, 'Septisol'),
+       (1, 'Septocaine'),
+       (1, 'Septra'),
+       (1, 'Septra Ds'),
+       (1, 'Septra Grape'),
+       (1, 'Ser-A-Gen'),
+       (1, 'Ser-Ap-Es'),
+       (1, 'Serax'),
+       (1, 'Serentil'),
+       (1, 'Serevent'),
+       (1, 'Sernivo'),
+       (1, 'Seromycin'),
+       (1, 'Serophene'),
+       (1, 'Seroquel'),
+       (1, 'Seroquel Xr'),
+       (1, 'Serostim'),
+       (1, 'Serostim Lq'),
+       (1, 'Serpalan'),
+       (1, 'Serpanray'),
+       (1, 'Serpasil'),
+       (1, 'Serpasil-Apresoline'),
+       (1, 'Serpasil-Esidrix #1'),
+       (1, 'Serpasil-Esidrix #2'),
+       (1, 'Serpate'),
+       (1, 'Serpivite'),
+       (1, 'Sertraline Hydrochloride'),
+       (1, 'Servisone'),
+       (1, 'Serzone'),
+       (1, 'Sethotope'),
+       (1, 'Setlakin'),
+       (1, 'Sevelamer Carbonate'),
+       (1, 'Sevoflurane'),
+       (1, 'Sfrowasa'),
+       (1, 'Shade Uvaguard'),
+       (1, 'Signifor'),
+       (1, 'Signifor Lar'),
+       (1, 'Siklos'),
+       (1, 'Sildaflo'),
+       (1, 'Sildenafil Citrate'),
+       (1, 'Silenor'),
+       (1, 'Siliq'),
+       (1, 'Silodosin'),
+       (1, 'Silphen'),
+       (1, 'Silvadene'),
+       (1, 'Simbrinza'),
+       (1, 'Simpesse'),
+       (1, 'Simponi'),
+       (1, 'Simponi Aria'),
+       (1, 'Simulect'),
+       (1, 'Simvastatin'),
+       (1, 'Sine-Aid Ib'),
+       (1, 'Sinemet'),
+       (1, 'Sinemet Cr'),
+       (1, 'Sinequan'),
+       (1, 'Singulair'),
+       (1, 'Sinografin'),
+       (1, 'Sinuva'),
+       (1, 'Sirolimus'),
+       (1, 'Sirturo'),
+       (1, 'Sitagliptin Phosphate'),
+       (1, 'Sitagliptin Phosphate; Metformin Hydrochloride'),
+       (1, 'Sitagliptin; Metformin Hydrochloride'),
+       (1, 'Sitavig'),
+       (1, 'Sivextro'),
+       (1, 'Skelaxin'),
+       (1, 'Skelid'),
+       (1, 'Sklice'),
+       (1, 'Skyla'),
+       (1, 'Slo-Bid'),
+       (1, 'Slo-Phyllin'),
+       (1, 'Slow-K'),
+       (1, 'Smoflipid 20%'),
+       (1, 'Sodium Acetate'),
+       (1, 'Sodium Aminosalicylate'),
+       (1, 'Sodium Bicarbonate'),
+       (1, 'Sodium Butabarbital'),
+       (1, 'Sodium Chloride'),
+       (1, 'Sodium Chloride 0.45% In Plastic Container'),
+       (1, 'Sodium Chloride 0.9%'),
+       (1, 'Sodium Chloride 0.9% '),
+       (1, 'Sodium Chloride 0.9% And Potassium Chloride 0.075% In Plastic Container'),
+       (1, 'Sodium Chloride 0.9% And Potassium Chloride 0.15% In Plastic Container'),
+       (1, 'Sodium Chloride 0.9% And Potassium Chloride 0.22% In Plastic Container'),
+       (1, 'Sodium Chloride 0.9% And Potassium Chloride 0.3% In Plastic Container'),
+       (1, 'Sodium Chloride 23.4% In Plastic Container'),
+       (1, 'Sodium Chloride 3% In Plastic Container'),
+       (1, 'Sodium Chloride 5% In Plastic Container'),
+       (1, 'Sodium Chromate Cr 51'),
+       (1, 'Sodium Ferric Gluconate Complex In Sucrose'),
+       (1, 'Sodium Fluoride F 18'),
+       (1, 'Sodium Heparin'),
+       (1, 'Sodium Iodide I 123'),
+       (1, 'Sodium Iodide I 131'),
+       (1, 'Sodium Lactate 0.167 Molar In Plastic Container'),
+       (1, 'Sodium Lactate In Plastic Container'),
+       (1, 'Sodium Nitrite'),
+       (1, 'Sodium Nitroprusside'),
+       (1, 'Sodium Oxybate'),
+       (1, 'Sodium P.A.S.'),
+       (1, 'Sodium Pentobarbital'),
+       (1, 'Sodium Pertechnetate Tc 99M'),
+       (1, 'Sodium Phenylacetate And Sodium Benzoate'),
+       (1, 'Sodium Phenylbutyrate'),
+       (1, 'Sodium Phosphate P 32'),
+       (1, 'Sodium Phosphates In Plastic Container'),
+       (1, 'Sodium Polyphosphate-Tin Kit'),
+       (1, 'Sodium Polystyrene Sulfonate'),
+       (1, 'Sodium Rose Bengal I 131'),
+       (1, 'Sodium Succinate'),
+       (1, 'Sodium Sulamyd'),
+       (1, 'Sodium Sulfacetamide'),
+       (1, 'Sodium Sulfate, Potassium Sulfate And Magnesium Sulfate '),
+       (1, 'Sodium Thiosulfate'),
+       (1, 'Sojourn'),
+       (1, 'Solage'),
+       (1, 'Solaraze'),
+       (1, 'Solatene'),
+       (1, 'Solifenacin Succinate'),
+       (1, 'Soliqua 100/33'),
+       (1, 'Soliris'),
+       (1, 'Solodyn'),
+       (1, 'Solosec'),
+       (1, 'Soltamox'),
+       (1, 'Solu-Cortef'),
+       (1, 'Solu-Medrol'),
+       (1, 'Soma'),
+       (1, 'Soma Compound'),
+       (1, 'Soma Compound W/ Codeine'),
+       (1, 'Somatuline Depot'),
+       (1, 'Somavert'),
+       (1, 'Somophyllin'),
+       (1, 'Somophyllin-Crt'),
+       (1, 'Somophyllin-Df'),
+       (1, 'Somophyllin-T'),
+       (1, 'Sonata'),
+       (1, 'Sonazine'),
+       (1, 'Sonorx'),
+       (1, 'Soolantra'),
+       (1, 'Sorafenib'),
+       (1, 'Sorbitol 3.3% In Plastic Container'),
+       (1, 'Sorbitol 3% In Plastic Container'),
+       (1, 'Sorbitol-Mannitol'),
+       (1, 'Sorbitrate'),
+       (1, 'Soriatane'),
+       (1, 'Sorilux'),
+       (1, 'Sorine'),
+       (1, 'Sosol'),
+       (1, 'Sotalol Hydrochloride'),
+       (1, 'Sotradecol'),
+       (1, 'Sotret'),
+       (1, 'Sotylize'),
+       (1, 'Sovaldi'),
+       (1, 'Soxazole'),
+       (1, 'Soy-Dome'),
+       (1, 'Soyacal 10%'),
+       (1, 'Soyacal 20%'),
+       (1, 'Sparine'),
+       (1, 'Spectamine'),
+       (1, 'Spectazole'),
+       (1, 'Spectracef'),
+       (1, 'Spectrobid'),
+       (1, 'Spinraza'),
+       (1, 'Spiriva'),
+       (1, 'Spiriva Respimat'),
+       (1, 'Spironolactone'),
+       (1, 'Spironolactone And Hydrochlorothiazide'),
+       (1, 'Sporanox'),
+       (1, 'Sprintec'),
+       (1, 'Spritam'),
+       (1, 'Sprix'),
+       (1, 'Sprx-105'),
+       (1, 'Sprx-3'),
+       (1, 'Sprycel'),
+       (1, 'Sps'),
+       (1, 'Ssd'),
+       (1, 'Ssd Af'),
+       (1, 'Stadol'),
+       (1, 'Stadol Preservative Free'),
+       (1, 'Stalevo 100'),
+       (1, 'Stalevo 125'),
+       (1, 'Stalevo 150'),
+       (1, 'Stalevo 200'),
+       (1, 'Stalevo 50'),
+       (1, 'Stalevo 75'),
+       (1, 'Stanozide'),
+       (1, 'Staphcillin'),
+       (1, 'Starlix'),
+       (1, 'Staticin'),
+       (1, 'Statobex'),
+       (1, 'Statobex-G'),
+       (1, 'Statrol'),
+       (1, 'Stavudine'),
+       (1, 'Stavudine; Lamivudine'),
+       (1, 'Stavudine; Lamivudine W/Nevirapine'),
+       (1, 'Stavudine; Lamivudine; Efavirenz'),
+       (1, 'Stavzor'),
+       (1, 'Staxyn'),
+       (1, 'Steglatro'),
+       (1, 'Steglujan'),
+       (1, 'Stelara'),
+       (1, 'Stelazine'),
+       (1, 'Stendra'),
+       (1, 'Sterane'),
+       (1, 'Steri-Stat'),
+       (1, 'Sterile Urea'),
+       (1, 'Sterile Water'),
+       (1, 'Sterile Water For Injection'),
+       (1, 'Steritalc'),
+       (1, 'Stie-Cort'),
+       (1, 'Stilbestrol'),
+       (1, 'Stilbetin'),
+       (1, 'Stilphostrol'),
+       (1, 'Stimate'),
+       (1, 'Stiolto Respimat'),
+       (1, 'Stivarga'),
+       (1, 'Stoxil'),
+       (1, 'Strattera'),
+       (1, 'Strensiq'),
+       (1, 'Streptomycin Sulfate'),
+       (1, 'Striant'),
+       (1, 'Stribild'),
+       (1, 'Strifon Forte Dsc'),
+       (1, 'Striverdi Respimat'),
+       (1, 'Stromectol'),
+       (1, 'Strontium Chloride Sr-89'),
+       (1, 'Sublimaze Preservative Free'),
+       (1, 'Sublocade'),
+       (1, 'Suboxone'),
+       (1, 'Subsys'),
+       (1, 'Subutex'),
+       (1, 'Succinylcholine Chloride'),
+       (1, 'Suclear'),
+       (1, 'Sucostrin'),
+       (1, 'Sucraid'),
+       (1, 'Sucralfate'),
+       (1, 'Sudafed 12 Hour'),
+       (1, 'Sudafed 24 Hour'),
+       (1, 'Sufenta Preservative Free'),
+       (1, 'Sufentanil Citrate'),
+       (1, 'Sular'),
+       (1, 'Sulf-10'),
+       (1, 'Sulf-15'),
+       (1, 'Sulfa-Triple #2'),
+       (1, 'Sulfabid'),
+       (1, 'Sulfacel-15'),
+       (1, 'Sulfacetamide Sodium'),
+       (1, 'Sulfacetamide Sodium And Prednisolone Sodium Phosphate'),
+       (1, 'Sulfadiazine'),
+       (1, 'Sulfadiazine Sodium'),
+       (1, 'Sulfair 10'),
+       (1, 'Sulfair Forte'),
+       (1, 'Sulfair-15'),
+       (1, 'Sulfalar'),
+       (1, 'Sulfaloid'),
+       (1, 'Sulfamethoprim'),
+       (1, 'Sulfamethoprim-Ds'),
+       (1, 'Sulfamethoxazole'),
+       (1, 'Sulfamethoxazole And Trimethoprim'),
+       (1, 'Sulfamethoxazole And Trimethoprim And Phenazopyridine Hydrochloride'),
+       (1, 'Sulfamethoxazole And Trimethoprim Double Strength'),
+       (1, 'Sulfamethoxazole And Trimethoprim Single Strength'),
+       (1, 'Sulfamylon'),
+       (1, 'Sulfanilamide'),
+       (1, 'Sulfapyridine'),
+       (1, 'Sulfasalazine'),
+       (1, 'Sulfatrim'),
+       (1, 'Sulfatrim Pediatric'),
+       (1, 'Sulfatrim-Ds'),
+       (1, 'Sulfatrim-Ss'),
+       (1, 'Sulfinpyrazone'),
+       (1, 'Sulfisoxazole'),
+       (1, 'Sulfisoxazole Diolamine'),
+       (1, 'Sulfonamides Duplex'),
+       (1, 'Sulfose'),
+       (1, 'Sulindac'),
+       (1, 'Sulla'),
+       (1, 'Sulmeprim'),
+       (1, 'Sulmeprim Pediatric'),
+       (1, 'Sulphrin'),
+       (1, 'Sulsoxin'),
+       (1, 'Sulster'),
+       (1, 'Sulten-10'),
+       (1, 'Sultrin'),
+       (1, 'Sumatriptan'),
+       (1, 'Sumatriptan And Naproxen Sodium'),
+       (1, 'Sumatriptan Succinate'),
+       (1, 'Sumatriptan Succinate; Naproxen Sodium'),
+       (1, 'Sumavel Dosepro'),
+       (1, 'Sumycin'),
+       (1, 'Sunitinib Malate'),
+       (1, 'Supprelin'),
+       (1, 'Supprelin La'),
+       (1, 'Suprane'),
+       (1, 'Suprax'),
+       (1, 'Suprenza'),
+       (1, 'Suprep Bowel Prep Kit'),
+       (1, 'Surfaxin'),
+       (1, 'Surital'),
+       (1, 'Surmontil'),
+       (1, 'Survanta'),
+       (1, 'Sus-Phrine Sulfite Free'),
+       (1, 'Sustaire'),
+       (1, 'Sustiva'),
+       (1, 'Sustol'),
+       (1, 'Sutent'),
+       (1, 'Syeda'),
+       (1, 'Sylatron'),
+       (1, 'Sylvant'),
+       (1, 'Symadine'),
+       (1, 'Symbicort'),
+       (1, 'Symbyax'),
+       (1, 'Symdeko (Copackaged)'),
+       (1, 'Symfi'),
+       (1, 'Symfi Lo'),
+       (1, 'Symjepi'),
+       (1, 'Symlin'),
+       (1, 'Symmetrel'),
+       (1, 'Symproic'),
+       (1, 'Synacort'),
+       (1, 'Synagis'),
+       (1, 'Synalar'),
+       (1, 'Synalar-Hp'),
+       (1, 'Synalgos-Dc'),
+       (1, 'Synalgos-Dc-A'),
+       (1, 'Synarel'),
+       (1, 'Syncurine'),
+       (1, 'Syndros'),
+       (1, 'Synera'),
+       (1, 'Synercid'),
+       (1, 'Synjardy'),
+       (1, 'Synjardy Xr'),
+       (1, 'Synkayvite'),
+       (1, 'Synophylate'),
+       (1, 'Synovalyte In Plastic Container'),
+       (1, 'Synribo'),
+       (1, 'Synthetic Conjugated Estrogens A'),
+       (1, 'Synthroid'),
+       (1, 'Syntocinon'),
+       (1, 'Syprine'),
+       (1, 'T-Phyl'),
+       (1, 'T-Stat'),
+       (1, 'Tab-Profen'),
+       (1, 'Tacaryl'),
+       (1, 'Tace'),
+       (1, 'Taclonex'),
+       (1, 'Tacrolimus'),
+       (1, 'Tadalafil'),
+       (1, 'Tafinlar'),
+       (1, 'Tagamet'),
+       (1, 'Tagamet Hb'),
+       (1, 'Tagamet Hb 200'),
+       (1, 'Tagamet Hydrochloride In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Tagitol V'),
+       (1, 'Tagrisso'),
+       (1, 'Talacen'),
+       (1, 'Talc'),
+       (1, 'Taltz'),
+       (1, 'Talwin'),
+       (1, 'Talwin 50'),
+       (1, 'Talwin Compound'),
+       (1, 'Talwin Nx'),
+       (1, 'Tambocor'),
+       (1, 'Tamiflu'),
+       (1, 'Tamoxifen Citrate'),
+       (1, 'Tamsulosin Hydrochloride'),
+       (1, 'Tandearil'),
+       (1, 'Tanzeum'),
+       (1, 'Tao'),
+       (1, 'Tapazole'),
+       (1, 'Tapentadol'),
+       (1, 'Tapentadol Hydrochloride'),
+       (1, 'Taractan'),
+       (1, 'Tarceva'),
+       (1, 'Targiniq'),
+       (1, 'Targretin'),
+       (1, 'Tarka'),
+       (1, 'Tasigna'),
+       (1, 'Tasmar'),
+       (1, 'Tatum-T'),
+       (1, 'Tavalisse'),
+       (1, 'Tavist'),
+       (1, 'Tavist Allergy/Sinus/Headache'),
+       (1, 'Tavist-1'),
+       (1, 'Taxol'),
+       (1, 'Taxotere'),
+       (1, 'Taytulla'),
+       (1, 'Tazarotene'),
+       (1, 'Tazicef'),
+       (1, 'Tazidime'),
+       (1, 'Tazorac'),
+       (1, 'Taztia Xt'),
+       (1, 'Tc 99M-Lungaggregate'),
+       (1, 'Tecentriq'),
+       (1, 'Tecfidera'),
+       (1, 'Technecoll'),
+       (1, 'Technelite'),
+       (1, 'Technescan'),
+       (1, 'Technescan Gluceptate'),
+       (1, 'Technescan Hida'),
+       (1, 'Technescan Maa'),
+       (1, 'Technescan Mag3'),
+       (1, 'Technescan Pyp Kit'),
+       (1, 'Technetium Tc 99M Albumin Aggregated Kit'),
+       (1, 'Technetium Tc 99M Diphosphonate-Tin Kit'),
+       (1, 'Technetium Tc 99M Generator'),
+       (1, 'Technetium Tc 99M Hsa'),
+       (1, 'Technetium Tc 99M Maa'),
+       (1, 'Technetium Tc 99M Mpi Mdp'),
+       (1, 'Technetium Tc 99M Sestamibi'),
+       (1, 'Technetium Tc 99M Sulfur Colloid'),
+       (1, 'Technetium Tc 99M Tsc'),
+       (1, 'Technetium Tc-99M Mebrofenin'),
+       (1, 'Technetium Tc-99M Pentetate Kit'),
+       (1, 'Technetium Tc-99M Sestamibi'),
+       (1, 'Technivie'),
+       (1, 'Teczem'),
+       (1, 'Teebacin'),
+       (1, 'Teflaro'),
+       (1, 'Tegison'),
+       (1, 'Tegopen'),
+       (1, 'Tegretol'),
+       (1, 'Tegretol-Xr'),
+       (1, 'Tekamlo'),
+       (1, 'Tekturna'),
+       (1, 'Tekturna Hct'),
+       (1, 'Teldrin'),
+       (1, 'Telepaque'),
+       (1, 'Telmisartan'),
+       (1, 'Telmisartan And Amlodipine'),
+       (1, 'Telmisartan And Hydrochlorothiazide'),
+       (1, 'Temaril'),
+       (1, 'Temaz'),
+       (1, 'Temazepam'),
+       (1, 'Temodar'),
+       (1, 'Temovate'),
+       (1, 'Temovate E'),
+       (1, 'Temozolomide'),
+       (1, 'Ten-K'),
+       (1, 'Tenathan'),
+       (1, 'Tencon'),
+       (1, 'Tenex'),
+       (1, 'Tenofovir Disoproxil Fumarate'),
+       (1, 'Tenoretic 100'),
+       (1, 'Tenoretic 50'),
+       (1, 'Tenormin'),
+       (1, 'Tensilon'),
+       (1, 'Tensilon Preservative Free'),
+       (1, 'Tenuate'),
+       (1, 'Tenuate Dospan'),
+       (1, 'Tepadina'),
+       (1, 'Tepanil'),
+       (1, 'Tepanil Ten-Tab'),
+       (1, 'Terazol 3'),
+       (1, 'Terazol 7'),
+       (1, 'Terazosin Hydrochloride'),
+       (1, 'Terbinafine Hydrochloride'),
+       (1, 'Terbutaline Sulfate'),
+       (1, 'Terconazole'),
+       (1, 'Terfonyl'),
+       (1, 'Teril'),
+       (1, 'Terra-Cortril'),
+       (1, 'Terramycin'),
+       (1, 'Terramycin W/ Polymyxin'),
+       (1, 'Terramycin W/ Polymyxin B Sulfate'),
+       (1, 'Teslac'),
+       (1, 'Teslascan'),
+       (1, 'Tessalon'),
+       (1, 'Testim'),
+       (1, 'Testoderm'),
+       (1, 'Testoderm Tts'),
+       (1, 'Testopel'),
+       (1, 'Testosterone'),
+       (1, 'Testosterone Cypionate'),
+       (1, 'Testosterone Cypionate-Estradiol Cypionate'),
+       (1, 'Testosterone Enanthate'),
+       (1, 'Testosterone Enanthate And Estradiol Valerate'),
+       (1, 'Testosterone Propionate'),
+       (1, 'Testosterone Undecanoate'),
+       (1, 'Testred'),
+       (1, 'Tesuloid'),
+       (1, 'Tetrabenazine'),
+       (1, 'Tetracaine Hydrochloride'),
+       (1, 'Tetrachel'),
+       (1, 'Tetracycline Hydrochloride'),
+       (1, 'Tetracyn'),
+       (1, 'Tetramed'),
+       (1, 'Tetrex'),
+       (1, 'Teveten'),
+       (1, 'Teveten Hct'),
+       (1, 'Texacort'),
+       (1, 'Thalitone'),
+       (1, 'Thallous Chloride Tl 201'),
+       (1, 'Thalomid'),
+       (1, 'Tham'),
+       (1, 'Tham-E'),
+       (1, 'Theelin'),
+       (1, 'Theo-24'),
+       (1, 'Theo-Dur'),
+       (1, 'Theobid'),
+       (1, 'Theobid Jr.'),
+       (1, 'Theochron'),
+       (1, 'Theoclear L.A.-130'),
+       (1, 'Theoclear L.A.-260'),
+       (1, 'Theoclear-100'),
+       (1, 'Theoclear-200'),
+       (1, 'Theoclear-80'),
+       (1, 'Theolair');
+INSERT INTO `tbl_medication` (`id_space`, `title`)
+VALUES (1, 'Theolair-Sr'),
+       (1, 'Theolixir'),
+       (1, 'Theophyl'),
+       (1, 'Theophyl-225'),
+       (1, 'Theophyl-Sr'),
+       (1, 'Theophylline'),
+       (1, 'Theophylline 0.04% And Dextrose 5% In Plastic Container'),
+       (1, 'Theophylline 0.08% And Dextrose 5% In Plastic Container'),
+       (1, 'Theophylline 0.16% And Dextrose 5% In Plastic Container'),
+       (1, 'Theophylline 0.2% And Dextrose 5% In Plastic Container'),
+       (1, 'Theophylline 0.32% And Dextrose 5% In Plastic Container'),
+       (1, 'Theophylline 0.4% And Dextrose 5% In Plastic Container'),
+       (1, 'Theophylline And Dextrose 5% In Plastic Container'),
+       (1, 'Theophylline-Sr'),
+       (1, 'Theovent'),
+       (1, 'Thermazene'),
+       (1, 'Theroxidil'),
+       (1, 'Thiamine Hydrochloride'),
+       (1, 'Thioguanine'),
+       (1, 'Thiola'),
+       (1, 'Thioplex'),
+       (1, 'Thioridazine Hydrochloride'),
+       (1, 'Thioridazine Hydrochloride Intensol'),
+       (1, 'Thiosulfil'),
+       (1, 'Thiotepa'),
+       (1, 'Thiothixene'),
+       (1, 'Thiothixene Hydrochloride'),
+       (1, 'Thiothixene Hydrochloride Intensol'),
+       (1, 'Thorazine'),
+       (1, 'Thrive'),
+       (1, 'Thypinone'),
+       (1, 'Thyrel Trh'),
+       (1, 'Thyro-Block'),
+       (1, 'Thyro-Tabs'),
+       (1, 'Thyrogen'),
+       (1, 'Thyroglobulin'),
+       (1, 'Thyrolar-0.25'),
+       (1, 'Thyrolar-0.5'),
+       (1, 'Thyrolar-1'),
+       (1, 'Thyrolar-2'),
+       (1, 'Thyrolar-3'),
+       (1, 'Thyrolar-5'),
+       (1, 'Thyrosafe'),
+       (1, 'Thyroshield'),
+       (1, 'Thytropar'),
+       (1, 'Tiagabine Hydrochloride'),
+       (1, 'Tiamate'),
+       (1, 'Tiazac'),
+       (1, 'Ticagrelor'),
+       (1, 'Ticar'),
+       (1, 'Ticlid'),
+       (1, 'Ticlopidine Hydrochloride'),
+       (1, 'Tigan'),
+       (1, 'Tigecycline'),
+       (1, 'Tikosyn'),
+       (1, 'Tilade'),
+       (1, 'Timentin'),
+       (1, 'Timolide 10-25'),
+       (1, 'Timolol'),
+       (1, 'Timolol Maleate'),
+       (1, 'Timoptic'),
+       (1, 'Timoptic In Ocudose'),
+       (1, 'Timoptic-Xe'),
+       (1, 'Tindal'),
+       (1, 'Tindamax'),
+       (1, 'Tinidazole'),
+       (1, 'Tioconazole'),
+       (1, 'Tirofiban Hydrochloride'),
+       (1, 'Tirosint'),
+       (1, 'Tirosint-Sol'),
+       (1, 'Tis-U-Sol'),
+       (1, 'Tivicay'),
+       (1, 'Tivorbex'),
+       (1, 'Tizanidine Hydrochloride'),
+       (1, 'Tnkase'),
+       (1, 'Tobi'),
+       (1, 'Tobi Podhaler'),
+       (1, 'Tobradex'),
+       (1, 'Tobradex St'),
+       (1, 'Tobramycin'),
+       (1, 'Tobramycin And Dexamethasone'),
+       (1, 'Tobramycin Sulfate'),
+       (1, 'Tobramycin Sulfate In Sodium Chloride 0.9% In Plastic Container'),
+       (1, 'Tobrasone'),
+       (1, 'Tobrex'),
+       (1, 'Today'),
+       (1, 'Tofranil'),
+       (1, 'Tofranil-Pm'),
+       (1, 'Tolak'),
+       (1, 'Tolazamide'),
+       (1, 'Tolbutamide'),
+       (1, 'Tolcapone'),
+       (1, 'Tolectin'),
+       (1, 'Tolectin 600'),
+       (1, 'Tolectin Ds'),
+       (1, 'Tolinase'),
+       (1, 'Tolmetin Sodium'),
+       (1, 'Tolterodine'),
+       (1, 'Tolterodine Tartrate'),
+       (1, 'Tonocard'),
+       (1, 'Topamax'),
+       (1, 'Topicort'),
+       (1, 'Topicort Lp'),
+       (1, 'Topicycline'),
+       (1, 'Topiramate'),
+       (1, 'Toposar'),
+       (1, 'Topotecan'),
+       (1, 'Topotecan Hydrochloride'),
+       (1, 'Toprol-Xl'),
+       (1, 'Tora'),
+       (1, 'Toradol'),
+       (1, 'Torecan'),
+       (1, 'Torisel'),
+       (1, 'Tornalate'),
+       (1, 'Torsemide'),
+       (1, 'Totacillin'),
+       (1, 'Totacillin-N'),
+       (1, 'Totect'),
+       (1, 'Toujeo Max Solostar'),
+       (1, 'Toujeo Solostar'),
+       (1, 'Tovalt Odt'),
+       (1, 'Toviaz'),
+       (1, 'Tpn'),
+       (1, 'Tpn Electrolytes In Plastic Container'),
+       (1, 'Tracleer'),
+       (1, 'Tracrium'),
+       (1, 'Tracrium Preservative Free'),
+       (1, 'Tradjenta'),
+       (1, 'Tral'),
+       (1, 'Tramadol Hydrochloride'),
+       (1, 'Tramadol Hydrochloride And Acetaminophen'),
+       (1, 'Trancopal'),
+       (1, 'Trandate'),
+       (1, 'Trandate Hct'),
+       (1, 'Trandolapril'),
+       (1, 'Trandolapril And Verapamil Hydrochloride'),
+       (1, 'Tranexamic Acid'),
+       (1, 'Tranmep'),
+       (1, 'Transderm Scop'),
+       (1, 'Transderm-Nitro'),
+       (1, 'Tranxene'),
+       (1, 'Tranxene Sd'),
+       (1, 'Tranylcypromine Sulfate'),
+       (1, 'Trasicor'),
+       (1, 'Trasylol'),
+       (1, 'Travamulsion 10%'),
+       (1, 'Travamulsion 20%'),
+       (1, 'Travase'),
+       (1, 'Travasol 10% In Plastic Container'),
+       (1, 'Travasol 10% W/O Electrolytes'),
+       (1, 'Travasol 2.75% In Dextrose 10% In Plastic Container'),
+       (1, 'Travasol 2.75% In Dextrose 15% In Plastic Container'),
+       (1, 'Travasol 2.75% In Dextrose 20% In Plastic Container'),
+       (1, 'Travasol 2.75% In Dextrose 25% In Plastic Container'),
+       (1, 'Travasol 2.75% In Dextrose 5% In Plastic Container'),
+       (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 10% In Plastic Container'),
+       (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 15% In Plastic Container'),
+       (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 20% In Plastic Container'),
+       (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 25% In Plastic Container'),
+       (1, 'Travasol 2.75% Sulfite Free W/ Electrolytes In Dextrose 5% In Plastic Container'),
+       (1, 'Travasol 3.5% Sulfite Free W/ Electrolytes In Plastic Container'),
+       (1, 'Travasol 3.5% W/ Electrolytes'),
+       (1, 'Travasol 4.25% In Dextrose 10% In Plastic Container'),
+       (1, 'Travasol 4.25% In Dextrose 15% In Plastic Container'),
+       (1, 'Travasol 4.25% In Dextrose 20% In Plastic Container'),
+       (1, 'Travasol 4.25% In Dextrose 25% In Plastic Container'),
+       (1, 'Travasol 4.25% In Dextrose 5% In Plastic Container'),
+       (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 10% In Plastic Container'),
+       (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 15% In Plastic Container'),
+       (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 20% In Plastic Container'),
+       (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 25% In Plastic Container'),
+       (1, 'Travasol 4.25% Sulfite Free W/ Electrolytes In Dextrose 5% In Plastic Container'),
+       (1, 'Travasol 5.5% In Plastic Container'),
+       (1, 'Travasol 5.5% Sulfite Free W/ Electrolytes In Plastic Container'),
+       (1, 'Travasol 5.5% W/ Electrolytes'),
+       (1, 'Travasol 5.5% W/O Electrolytes'),
+       (1, 'Travasol 8.5% In Plastic Container'),
+       (1, 'Travasol 8.5% Sulfite Free W/ Electrolytes In Plastic Container'),
+       (1, 'Travasol 8.5% W/ Electrolytes'),
+       (1, 'Travasol 8.5% W/O Electrolytes'),
+       (1, 'Travatan'),
+       (1, 'Travatan Z'),
+       (1, 'Travert 10% In Plastic Container'),
+       (1, 'Travoprost'),
+       (1, 'Trazodone Hydrochloride'),
+       (1, 'Treanda'),
+       (1, 'Trecator'),
+       (1, 'Trelegy Ellipta'),
+       (1, 'Trelstar'),
+       (1, 'Tremfya'),
+       (1, 'Tremin'),
+       (1, 'Trental'),
+       (1, 'Treprostinil'),
+       (1, 'Tresiba'),
+       (1, 'Trest'),
+       (1, 'Tretinoin'),
+       (1, 'Trexall'),
+       (1, 'Treximet'),
+       (1, 'Trezix'),
+       (1, 'Tri Lo Sprintec'),
+       (1, 'Tri-Estarylla'),
+       (1, 'Tri-Legest 21'),
+       (1, 'Tri-Legest Fe'),
+       (1, 'Tri-Linyah'),
+       (1, 'Tri-Lo-Estarylla'),
+       (1, 'Tri-Lo-Linyah'),
+       (1, 'Tri-Lo-Mili'),
+       (1, 'Tri-Luma'),
+       (1, 'Tri-Mili'),
+       (1, 'Tri-Norinyl 21-Day'),
+       (1, 'Tri-Norinyl 28-Day'),
+       (1, 'Tri-Previfem'),
+       (1, 'Tri-Sprintec'),
+       (1, 'Triacet'),
+       (1, 'Triacin-C'),
+       (1, 'Triacort'),
+       (1, 'Triad'),
+       (1, 'Trialodine'),
+       (1, 'Triamcinolone'),
+       (1, 'Triamcinolone Acetonide'),
+       (1, 'Triamcinolone Acetonide In Absorbase'),
+       (1, 'Triamcinolone Diacetate'),
+       (1, 'Triaminic-12'),
+       (1, 'Triamterene And Hydrochlorothiazide'),
+       (1, 'Triaprin'),
+       (1, 'Triatex'),
+       (1, 'Triavil 2-10'),
+       (1, 'Triavil 2-25'),
+       (1, 'Triavil 4-10'),
+       (1, 'Triavil 4-25'),
+       (1, 'Triavil 4-50'),
+       (1, 'Triazolam'),
+       (1, 'Tribenzor'),
+       (1, 'Trichlorex'),
+       (1, 'Trichlormas'),
+       (1, 'Trichlormethiazide'),
+       (1, 'Trichlormethiazide W/ Reserpine'),
+       (1, 'Triclos'),
+       (1, 'Tricor'),
+       (1, 'Tricor (Micronized)'),
+       (1, 'Triderm'),
+       (1, 'Tridesilon'),
+       (1, 'Tridil'),
+       (1, 'Tridione'),
+       (1, 'Trientine Hydrochloride'),
+       (1, 'Triesence'),
+       (1, 'Triferic'),
+       (1, 'Triferic '),
+       (1, 'Trifluoperazine Hcl'),
+       (1, 'Trifluoperazine Hydrochloride'),
+       (1, 'Trifluridine'),
+       (1, 'Triglide'),
+       (1, 'Trihexyphenidyl Hydrochloride'),
+       (1, 'Trilafon'),
+       (1, 'Trileptal'),
+       (1, 'Trilipix'),
+       (1, 'Trilitron'),
+       (1, 'Trilyte'),
+       (1, 'Trimeprazine Tartrate'),
+       (1, 'Trimeth/Sulfa'),
+       (1, 'Trimethobenzamide Hydrochloride'),
+       (1, 'Trimethobenzamide Hydrochloride Preservative Free'),
+       (1, 'Trimethoprim'),
+       (1, 'Trimethoprim Sulfate And Polymyxin B Sulfate'),
+       (1, 'Trimipramine Maleate'),
+       (1, 'Trimox'),
+       (1, 'Trimpex'),
+       (1, 'Trimpex 200'),
+       (1, 'Trinalin'),
+       (1, 'Trintellix'),
+       (1, 'Triostat'),
+       (1, 'Tripelennamine Hydrochloride'),
+       (1, 'Triphasil-21'),
+       (1, 'Triphasil-28'),
+       (1, 'Triphed'),
+       (1, 'Triple Sulfa'),
+       (1, 'Triple Sulfas'),
+       (1, 'Triple Sulfoid'),
+       (1, 'Triprolidine And Pseudoephedrine'),
+       (1, 'Triprolidine And Pseudoephedrine Hydrochlorides'),
+       (1, 'Triprolidine And Pseudoephedrine Hydrochlorides W/ Codeine'),
+       (1, 'Triprolidine Hcl, Pseudoephedrine Hcl And Codeine Phosphate'),
+       (1, 'Triprolidine Hydrochloride'),
+       (1, 'Triprolidine Hydrochloride And Pseudoephedrine Hydrochloride'),
+       (1, 'Triptodur Kit'),
+       (1, 'Trisenox'),
+       (1, 'Trisoralen'),
+       (1, 'Tritec'),
+       (1, 'Triumeq'),
+       (1, 'Trivagizole 3'),
+       (1, 'Trivaris'),
+       (1, 'Trivora-21'),
+       (1, 'Trivora-28'),
+       (1, 'Trizivir'),
+       (1, 'Trobicin'),
+       (1, 'Trogarzo'),
+       (1, 'Trokendi Xr'),
+       (1, 'Trophamine'),
+       (1, 'Trophamine 10%'),
+       (1, 'Tropicacyl'),
+       (1, 'Tropicamide'),
+       (1, 'Trospium Chloride'),
+       (1, 'Trovan'),
+       (1, 'Trovan Preservative Free'),
+       (1, 'Trovan/Zithromax Compliance Pak'),
+       (1, 'Troxyca Er'),
+       (1, 'Trulance'),
+       (1, 'Trulicity'),
+       (1, 'Truphylline'),
+       (1, 'Trusopt'),
+       (1, 'Truvada'),
+       (1, 'Trymex'),
+       (1, 'Trysul'),
+       (1, 'Tubocurarine Chloride'),
+       (1, 'Tudorza Pressair'),
+       (1, 'Turgex'),
+       (1, 'Tussicaps'),
+       (1, 'Tussigon'),
+       (1, 'Tussionex Pennkinetic'),
+       (1, 'Tuzistra Xr'),
+       (1, 'Twinject 0.15'),
+       (1, 'Twinject 0.3'),
+       (1, 'Twynsta'),
+       (1, 'Tybost'),
+       (1, 'Tycolet'),
+       (1, 'Tydemy'),
+       (1, 'Tygacil'),
+       (1, 'Tykerb'),
+       (1, 'Tylenol'),
+       (1, 'Tylenol '),
+       (1, 'Tylenol W/ Codeine'),
+       (1, 'Tylox'),
+       (1, 'Tylox-325'),
+       (1, 'Tymlos'),
+       (1, 'Tymtran'),
+       (1, 'Tysabri'),
+       (1, 'Tyvaso'),
+       (1, 'Tyzeka'),
+       (1, 'Tyzine'),
+       (1, 'Tz-3'),
+       (1, 'U-Cort'),
+       (1, 'U-Gencin'),
+       (1, 'Ucephan'),
+       (1, 'Uceris'),
+       (1, 'Ulesfia'),
+       (1, 'Ulo'),
+       (1, 'Uloric'),
+       (1, 'Ultacan'),
+       (1, 'Ultacan Forte'),
+       (1, 'Ultane'),
+       (1, 'Ultiva'),
+       (1, 'Ultra-Technekow Fm'),
+       (1, 'Ultracef'),
+       (1, 'Ultracet'),
+       (1, 'Ultragris-165'),
+       (1, 'Ultragris-330'),
+       (1, 'Ultralente'),
+       (1, 'Ultralente Insulin'),
+       (1, 'Ultram'),
+       (1, 'Ultram Er'),
+       (1, 'Ultratag'),
+       (1, 'Ultravate'),
+       (1, 'Ultravist 150'),
+       (1, 'Ultravist 240'),
+       (1, 'Ultravist 300'),
+       (1, 'Ultravist 370'),
+       (1, 'Ultresa'),
+       (1, 'Unasyn'),
+       (1, 'Uni-Dur'),
+       (1, 'Unipen'),
+       (1, 'Unipres'),
+       (1, 'Uniretic'),
+       (1, 'Unisom'),
+       (1, 'Unitensen'),
+       (1, 'Unithroid'),
+       (1, 'Unituxin'),
+       (1, 'Univasc'),
+       (1, 'Uptravi'),
+       (1, 'Uracil Mustard'),
+       (1, 'Ureaphil'),
+       (1, 'Urecholine'),
+       (1, 'Urese'),
+       (1, 'Urex'),
+       (1, 'Urispas'),
+       (1, 'Urobak'),
+       (1, 'Urocit-K'),
+       (1, 'Urologic G In Plastic Container'),
+       (1, 'Uroplus Ds'),
+       (1, 'Uroplus Ss'),
+       (1, 'Urovist Cysto'),
+       (1, 'Urovist Cysto Pediatric'),
+       (1, 'Urovist Meglumine Diu/Ct'),
+       (1, 'Urovist Sodium 300'),
+       (1, 'Uroxatral'),
+       (1, 'Urso 250'),
+       (1, 'Urso Forte'),
+       (1, 'Ursodiol'),
+       (1, 'Utibron'),
+       (1, 'Uticillin Vk'),
+       (1, 'Uticort'),
+       (1, 'Utimox'),
+       (1, 'Uvadex'),
+       (1, 'V-Cillin'),
+       (1, 'V-Cillin K'),
+       (1, 'Vabomere'),
+       (1, 'Vagifem'),
+       (1, 'Vagilia'),
+       (1, 'Vagistat-1'),
+       (1, 'Valacyclovir Hydrochloride'),
+       (1, 'Valchlor'),
+       (1, 'Valcyte'),
+       (1, 'Valganciclovir Hydrochloride'),
+       (1, 'Valisone'),
+       (1, 'Valium'),
+       (1, 'Valmid'),
+       (1, 'Valnac'),
+       (1, 'Valpin 50'),
+       (1, 'Valproate Sodium'),
+       (1, 'Valproic Acid'),
+       (1, 'Valrelease'),
+       (1, 'Valsartan'),
+       (1, 'Valsartan And Hydrochlorothiazide'),
+       (1, 'Valstar Preservative Free'),
+       (1, 'Valtrex'),
+       (1, 'Valtropin'),
+       (1, 'Valturna'),
+       (1, 'Vancenase'),
+       (1, 'Vancenase Aq'),
+       (1, 'Vanceril'),
+       (1, 'Vanceril Double Strength'),
+       (1, 'Vancocin Hydrochloride'),
+       (1, 'Vancoled'),
+       (1, 'Vancomycin Hcl'),
+       (1, 'Vancomycin Hydrochloride'),
+       (1, 'Vancor'),
+       (1, 'Vandazole'),
+       (1, 'Vaniqa'),
+       (1, 'Vanobid'),
+       (1, 'Vanos'),
+       (1, 'Vansil'),
+       (1, 'Vantas'),
+       (1, 'Vantin'),
+       (1, 'Vantrela Er'),
+       (1, 'Vapo-Iso'),
+       (1, 'Vaprisol'),
+       (1, 'Vaprisol In 5% Dextrose In Plastic Container'),
+       (1, 'Vardenafil Hydrochloride'),
+       (1, 'Varenicline'),
+       (1, 'Varenicline Tartrate'),
+       (1, 'Varibar'),
+       (1, 'Varibar Honey'),
+       (1, 'Varibar Nectar'),
+       (1, 'Varibar Thin Honey'),
+       (1, 'Varithena'),
+       (1, 'Varubi'),
+       (1, 'Vascepa'),
+       (1, 'Vascor'),
+       (1, 'Vascoray'),
+       (1, 'Vaseretic'),
+       (1, 'Vasocidin'),
+       (1, 'Vasocon'),
+       (1, 'Vasocon-A'),
+       (1, 'Vasostrict'),
+       (1, 'Vasotec'),
+       (1, 'Vasoxyl'),
+       (1, 'Vazculep'),
+       (1, 'Vectibix'),
+       (1, 'Vectical'),
+       (1, 'Vecuronium Bromide'),
+       (1, 'Veetids'),
+       (1, 'Veetids \'125\''),
+       (1, 'Veetids \'250\''),
+       (1, 'Veetids \'500\''),
+       (1, 'Veinamine 8%'),
+       (1, 'Velban'),
+       (1, 'Velcade'),
+       (1, 'Veletri'),
+       (1, 'Velivet'),
+       (1, 'Velosef'),
+       (1, 'Velosef \'125\''),
+       (1, 'Velosef \'250\''),
+       (1, 'Velosef \'500\''),
+       (1, 'Velosulin'),
+       (1, 'Velosulin Br'),
+       (1, 'Velosulin Br Human'),
+       (1, 'Velphoro'),
+       (1, 'Veltane'),
+       (1, 'Veltassa'),
+       (1, 'Veltin'),
+       (1, 'Vemlidy'),
+       (1, 'Venclexta'),
+       (1, 'Venlafaxine Hydrochloride'),
+       (1, 'Venofer'),
+       (1, 'Ventaire'),
+       (1, 'Ventavis'),
+       (1, 'Ventolin'),
+       (1, 'Ventolin Hfa'),
+       (1, 'Ventolin Rotacaps'),
+       (1, 'Vepesid'),
+       (1, 'Verapamil Hcl'),
+       (1, 'Verapamil Hydrochloride'),
+       (1, 'Vercyte'),
+       (1, 'Verdeso'),
+       (1, 'Veregen'),
+       (1, 'Verelan'),
+       (1, 'Verelan Pm'),
+       (1, 'Veriloid'),
+       (1, 'Vermidol'),
+       (1, 'Vermox'),
+       (1, 'Versacloz'),
+       (1, 'Versapen'),
+       (1, 'Versapen-K'),
+       (1, 'Versed'),
+       (1, 'Vertavis'),
+       (1, 'Verzenio'),
+       (1, 'Vesanoid'),
+       (1, 'Vesicare'),
+       (1, 'Vesprin'),
+       (1, 'Vexol'),
+       (1, 'Vfend'),
+       (1, 'Vi-Dom-A'),
+       (1, 'Vi-Twel'),
+       (1, 'Viadur'),
+       (1, 'Viagra'),
+       (1, 'Vibativ'),
+       (1, 'Viberzi'),
+       (1, 'Vibisone'),
+       (1, 'Vibra-Tabs'),
+       (1, 'Vibramycin'),
+       (1, 'Vicks Formula 44'),
+       (1, 'Vicodin'),
+       (1, 'Vicodin Es'),
+       (1, 'Vicodin Hp'),
+       (1, 'Vicoprin'),
+       (1, 'Vicoprofen'),
+       (1, 'Victoza'),
+       (1, 'Victrelis'),
+       (1, 'Vidaza'),
+       (1, 'Videx'),
+       (1, 'Videx Ec'),
+       (1, 'Viekira Pak (Copackaged)'),
+       (1, 'Viekira Xr'),
+       (1, 'Vienva'),
+       (1, 'Vigabatrin'),
+       (1, 'Vigamox'),
+       (1, 'Viibryd'),
+       (1, 'Vilazodone Hydrochloride'),
+       (1, 'Vimizim'),
+       (1, 'Vimovo'),
+       (1, 'Vimpat'),
+       (1, 'Vinblastine Sulfate'),
+       (1, 'Vincasar Pfs'),
+       (1, 'Vincrex'),
+       (1, 'Vincristine Sulfate'),
+       (1, 'Vincristine Sulfate Pfs'),
+       (1, 'Vinorelbine Tartrate'),
+       (1, 'Viocin Sulfate'),
+       (1, 'Viokace'),
+       (1, 'Viorele'),
+       (1, 'Vioxx'),
+       (1, 'Vira-A'),
+       (1, 'Virac Rex'),
+       (1, 'Viracept'),
+       (1, 'Viramune'),
+       (1, 'Viramune Xr'),
+       (1, 'Virazole'),
+       (1, 'Viread'),
+       (1, 'Virilon'),
+       (1, 'Viroptic'),
+       (1, 'Visicol'),
+       (1, 'Visine L.R.'),
+       (1, 'Visine-A'),
+       (1, 'Visionblue'),
+       (1, 'Visipaque 270'),
+       (1, 'Visipaque 320'),
+       (1, 'Viskazide'),
+       (1, 'Visken'),
+       (1, 'Vistaril'),
+       (1, 'Vistide'),
+       (1, 'Vistogard'),
+       (1, 'Visudyne'),
+       (1, 'Vitamin A'),
+       (1, 'Vitamin A Palmitate'),
+       (1, 'Vitamin A Solubilized'),
+       (1, 'Vitamin D'),
+       (1, 'Vitamin K1'),
+       (1, 'Vitaped'),
+       (1, 'Vitekta'),
+       (1, 'Vitrase'),
+       (1, 'Vitrasert'),
+       (1, 'Vitravene Preservative Free'),
+       (1, 'Vituz'),
+       (1, 'Vivactil'),
+       (1, 'Vivelle'),
+       (1, 'Vivelle-Dot'),
+       (1, 'Vivitrol'),
+       (1, 'Vivlodex'),
+       (1, 'Vizamyl'),
+       (1, 'Vogelxo'),
+       (1, 'Volmax'),
+       (1, 'Volnea'),
+       (1, 'Voltaren'),
+       (1, 'Voltaren-Xr'),
+       (1, 'Vontrol'),
+       (1, 'Voraxaze'),
+       (1, 'Voriconazole'),
+       (1, 'Vosevi'),
+       (1, 'Vosol'),
+       (1, 'Vosol Hc'),
+       (1, 'Vospire Er'),
+       (1, 'Votrient'),
+       (1, 'Vpriv'),
+       (1, 'Vraylar'),
+       (1, 'Vumon'),
+       (1, 'Vusion'),
+       (1, 'Vyfemla'),
+       (1, 'Vytorin'),
+       (1, 'Vyvanse'),
+       (1, 'Vyxeos'),
+       (1, 'Vyzulta'),
+       (1, 'Wampocap'),
+       (1, 'Warfarin Sodium'),
+       (1, 'Welchol'),
+       (1, 'Wellbutrin'),
+       (1, 'Wellbutrin Sr'),
+       (1, 'Wellbutrin Xl'),
+       (1, 'Wellcovorin'),
+       (1, 'Wera'),
+       (1, 'Westadone'),
+       (1, 'Westcort'),
+       (1, 'Wigraine'),
+       (1, 'Wigrettes'),
+       (1, 'Wilpo'),
+       (1, 'Winstrol'),
+       (1, 'Wolfina'),
+       (1, 'Women\'s Rogaine'),
+       (1, 'Wyamine Sulfate'),
+       (1, 'Wyamycin E'),
+       (1, 'Wyamycin S'),
+       (1, 'Wydase'),
+       (1, 'Wygesic'),
+       (1, 'Wymox'),
+       (1, 'Wytensin'),
+       (1, 'X-Trozine'),
+       (1, 'X-Trozine L.A.'),
+       (1, 'Xadago'),
+       (1, 'Xalatan'),
+       (1, 'Xalkori'),
+       (1, 'Xanax'),
+       (1, 'Xanax Xr'),
+       (1, 'Xarelto'),
+       (1, 'Xartemis Xr'),
+       (1, 'Xatmep'),
+       (1, 'Xeljanz'),
+       (1, 'Xeljanz Xr'),
+       (1, 'Xeloda'),
+       (1, 'Xenazine'),
+       (1, 'Xeneisol'),
+       (1, 'Xenical'),
+       (1, 'Xenon Xe 127'),
+       (1, 'Xenon Xe 133'),
+       (1, 'Xenon Xe 133-V.S.S.'),
+       (1, 'Xeomin'),
+       (1, 'Xepi'),
+       (1, 'Xerese'),
+       (1, 'Xermelo'),
+       (1, 'Xgeva'),
+       (1, 'Xhance'),
+       (1, 'Xiaflex'),
+       (1, 'Xibrom'),
+       (1, 'Xifaxan'),
+       (1, 'Xigduo Xr'),
+       (1, 'Xiidra'),
+       (1, 'Ximino'),
+       (1, 'Xofigo'),
+       (1, 'Xolair'),
+       (1, 'Xolegel'),
+       (1, 'Xopenex'),
+       (1, 'Xopenex Hfa'),
+       (1, 'Xtampza Er'),
+       (1, 'Xtandi'),
+       (1, 'Xtoro'),
+       (1, 'Xulane'),
+       (1, 'Xultophy 100/3.6'),
+       (1, 'Xuriden'),
+       (1, 'Xylo-Pfan'),
+       (1, 'Xylocaine'),
+       (1, 'Xylocaine 1.5% W/ Dextrose 7.5%'),
+       (1, 'Xylocaine 4% Preservative Free'),
+       (1, 'Xylocaine 5% W/ Glucose 7.5%'),
+       (1, 'Xylocaine Dental'),
+       (1, 'Xylocaine Dental With Epinephrine'),
+       (1, 'Xylocaine Preservative Free'),
+       (1, 'Xylocaine Viscous'),
+       (1, 'Xylocaine W/ Epinephrine'),
+       (1, 'Xylose'),
+       (1, 'Xyrem'),
+       (1, 'Xyrosa'),
+       (1, 'Xyzal'),
+       (1, 'Xyzal Allergy 24Hr'),
+       (1, 'Yaela'),
+       (1, 'Yasmin'),
+       (1, 'Yaz'),
+       (1, 'Yervoy'),
+       (1, 'Yondelis'),
+       (1, 'Yosprala'),
+       (1, 'Ytterbium Yb 169 Dtpa'),
+       (1, 'Yutopar'),
+       (1, 'Zaditor'),
+       (1, 'Zafirlukast'),
+       (1, 'Zagam'),
+       (1, 'Zaleplon'),
+       (1, 'Zaltrap'),
+       (1, 'Zanaflex'),
+       (1, 'Zanosar'),
+       (1, 'Zantac'),
+       (1, 'Zantac 150'),
+       (1, 'Zantac 25'),
+       (1, 'Zantac 300'),
+       (1, 'Zantac 75'),
+       (1, 'Zarontin'),
+       (1, 'Zaroxolyn'),
+       (1, 'Zarxio'),
+       (1, 'Zavesca'),
+       (1, 'Zaxopam'),
+       (1, 'Zebeta'),
+       (1, 'Zecuity'),
+       (1, 'Zefazone'),
+       (1, 'Zegerid'),
+       (1, 'Zegerid Otc'),
+       (1, 'Zejula'),
+       (1, 'Zelapar'),
+       (1, 'Zelboraf'),
+       (1, 'Zelnorm'),
+       (1, 'Zembrace Symtouch'),
+       (1, 'Zemplar'),
+       (1, 'Zemuron'),
+       (1, 'Zenatane'),
+       (1, 'Zenavod'),
+       (1, 'Zenpep'),
+       (1, 'Zepatier'),
+       (1, 'Zerbaxa'),
+       (1, 'Zerit'),
+       (1, 'Zerit Xr'),
+       (1, 'Zerviate'),
+       (1, 'Zestoretic'),
+       (1, 'Zestril'),
+       (1, 'Zetia'),
+       (1, 'Zetonna'),
+       (1, 'Zevalin'),
+       (1, 'Ziac'),
+       (1, 'Ziagen'),
+       (1, 'Ziana'),
+       (1, 'Ziba-Rx'),
+       (1, 'Zide'),
+       (1, 'Zidovudine'),
+       (1, 'Zileuton'),
+       (1, 'Zilretta'),
+       (1, 'Zinacef'),
+       (1, 'Zinbryta'),
+       (1, 'Zinc Bacitracin,Neomycin Sulfate,Polymyxin B Sulfate & Hydrocortisone'),
+       (1, 'Zinc Chloride In Plastic Container'),
+       (1, 'Zinc Sulfate'),
+       (1, 'Zinecard'),
+       (1, 'Zingo'),
+       (1, 'Zinplava'),
+       (1, 'Zioptan'),
+       (1, 'Zipan-25'),
+       (1, 'Zipan-50'),
+       (1, 'Ziprasidone Hydrochloride'),
+       (1, 'Zipsor'),
+       (1, 'Zirgan'),
+       (1, 'Zithromax'),
+       (1, 'Zmax'),
+       (1, 'Zocor'),
+       (1, 'Zofran'),
+       (1, 'Zofran And Dextrose In Plastic Container'),
+       (1, 'Zofran Odt'),
+       (1, 'Zofran Preservative Free'),
+       (1, 'Zohydro Er'),
+       (1, 'Zoladex'),
+       (1, 'Zoledronic Acid'),
+       (1, 'Zolinza'),
+       (1, 'Zolmitriptan'),
+       (1, 'Zoloft'),
+       (1, 'Zolpidem Tartrate'),
+       (1, 'Zolpimist'),
+       (1, 'Zolyse'),
+       (1, 'Zomacton'),
+       (1, 'Zometa'),
+       (1, 'Zomig'),
+       (1, 'Zomig-Zmt'),
+       (1, 'Zonalon'),
+       (1, 'Zonegran'),
+       (1, 'Zonisamide'),
+       (1, 'Zontivity'),
+       (1, 'Zorbtive'),
+       (1, 'Zortress'),
+       (1, 'Zorvolex'),
+       (1, 'Zosyn'),
+       (1, 'Zovia 1/35E-21'),
+       (1, 'Zovia 1/35E-28'),
+       (1, 'Zovia 1/50E-21'),
+       (1, 'Zovia 1/50E-28'),
+       (1, 'Zovirax'),
+       (1, 'Ztlido'),
+       (1, 'Zubsolv'),
+       (1, 'Zumandimine'),
+       (1, 'Zuplenz'),
+       (1, 'Zurampic'),
+       (1, 'Zutripro'),
+       (1, 'Zyban'),
+       (1, 'Zyclara'),
+       (1, 'Zydelig'),
+       (1, 'Zydone'),
+       (1, 'Zyflo'),
+       (1, 'Zyflo Cr'),
+       (1, 'Zyfrel'),
+       (1, 'Zykadia'),
+       (1, 'Zylet'),
+       (1, 'Zyloprim'),
+       (1, 'Zymar'),
+       (1, 'Zymaxid'),
+       (1, 'Zypitamag'),
+       (1, 'Zyprexa'),
+       (1, 'Zyprexa Relprevv'),
+       (1, 'Zyprexa Zydis'),
+       (1, 'Zyrtec'),
+       (1, 'Zytiga'),
+       (1, 'Zyvox');

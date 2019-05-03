@@ -201,8 +201,7 @@ class CustomerCreateCommand extends Command
         $this->createDatabase($dir_name['root']);
         $this->createSchema($dir_name['root']);
 
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/udf_natural_sort.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/udf_payment_source_decorator.sql');
+        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_udfs.sql');
         $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_roles.sql');
 
         $this->createAdminUser($dir_name['root'], $customer);

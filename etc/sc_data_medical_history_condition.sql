@@ -1,79 +1,80 @@
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Acetylsalicylic Acid');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Alcohol Abuse');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Alcohol Dependence');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Aneurysm');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Ataxia');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Atrial Fibrilation');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cancer, Bladder');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cancer, Breast');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cancer, Skin');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cancer, Thyroid');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Catheter');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'CCB d/t 3AV Block');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Celebrovascular');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cellulitis');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cerebrovascular Disease');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cancer, Cervical');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cholecystitis');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Chrons Disease');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cognitive disorder NOS');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cancer, Colon');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cronic Kidney Disease');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'CVD');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Dementia, Early');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Dementia, Severe');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Dementia, Vascular ');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Dementia');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Depression');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Diabetic Neuropathy');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Emphysema');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Esophageal Ulcer');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Femur Hintertrochanteric fracture');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Focal Status Epilepticus');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Fracture, Femoral Neck');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Fracture, Femur');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Fracture, Hip');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Fracture, Left Humor');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Fracture, Lumbar');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Fracture, Patillar');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Fracture, Ribs');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Fractures, Compression');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Hearing Loss');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Hemiparesis');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Hemiplegia');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Hip Surgery');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'HX Brain Tumor');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'HX Lung Cancer');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'HX of Suicide Attempts');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'HX of Transient Ischemic Attacks');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Hyponatemia');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Hypothyroid');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Hypoxemia');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'IBS');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Insomnia');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Large area brain bleed');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Leg Weakness');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Lumbar Stenosis');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Migraines');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Nail Fungus');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Neuropathy');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Osteoporosis');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Pneumonia');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Cancer, Prostate');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Psoriasis');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Reflux Disease');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Respitory failure');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'S/P Arrest');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'S/P Back Surgery');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'S/P Bilateral Humerus Fracture');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'S/P Hip Fracture');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'S/P Hysterectomy');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'S/P PEA Arrest');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Seizures');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Stroke');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Subdural Hematoma');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Tinea Pedis');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Unspecified Hypothyroidism');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Urinary Tract Incontinence');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Urinary Tract Infection');
-INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`) VALUES (1, 'Vision Loss');
+INSERT INTO `tbl_medical_history_condition` (`id_space`, `title`)
+VALUES (1, 'Acetylsalicylic Acid'),
+       (1, 'Alcohol Abuse'),
+       (1, 'Alcohol Dependence'),
+       (1, 'Aneurysm'),
+       (1, 'Ataxia'),
+       (1, 'Atrial Fibrilation'),
+       (1, 'Cancer, Bladder'),
+       (1, 'Cancer, Breast'),
+       (1, 'Cancer, Skin'),
+       (1, 'Cancer, Thyroid'),
+       (1, 'Catheter'),
+       (1, 'CCB d/t 3AV Block'),
+       (1, 'Celebrovascular'),
+       (1, 'Cellulitis'),
+       (1, 'Cerebrovascular Disease'),
+       (1, 'Cancer, Cervical'),
+       (1, 'Cholecystitis'),
+       (1, 'Chrons Disease'),
+       (1, 'Cognitive disorder NOS'),
+       (1, 'Cancer, Colon'),
+       (1, 'Cronic Kidney Disease'),
+       (1, 'CVD'),
+       (1, 'Dementia, Early'),
+       (1, 'Dementia, Severe'),
+       (1, 'Dementia, Vascular '),
+       (1, 'Dementia'),
+       (1, 'Depression'),
+       (1, 'Diabetic Neuropathy'),
+       (1, 'Emphysema'),
+       (1, 'Esophageal Ulcer'),
+       (1, 'Femur Hintertrochanteric fracture'),
+       (1, 'Focal Status Epilepticus'),
+       (1, 'Fracture, Femoral Neck'),
+       (1, 'Fracture, Femur'),
+       (1, 'Fracture, Hip'),
+       (1, 'Fracture, Left Humor'),
+       (1, 'Fracture, Lumbar'),
+       (1, 'Fracture, Patillar'),
+       (1, 'Fracture, Ribs'),
+       (1, 'Fractures, Compression'),
+       (1, 'Hearing Loss'),
+       (1, 'Hemiparesis'),
+       (1, 'Hemiplegia'),
+       (1, 'Hip Surgery'),
+       (1, 'HX Brain Tumor'),
+       (1, 'HX Lung Cancer'),
+       (1, 'HX of Suicide Attempts'),
+       (1, 'HX of Transient Ischemic Attacks'),
+       (1, 'Hyponatemia'),
+       (1, 'Hypothyroid'),
+       (1, 'Hypoxemia'),
+       (1, 'IBS'),
+       (1, 'Insomnia'),
+       (1, 'Large area brain bleed'),
+       (1, 'Leg Weakness'),
+       (1, 'Lumbar Stenosis'),
+       (1, 'Migraines'),
+       (1, 'Nail Fungus'),
+       (1, 'Neuropathy'),
+       (1, 'Osteoporosis'),
+       (1, 'Pneumonia'),
+       (1, 'Cancer, Prostate'),
+       (1, 'Psoriasis'),
+       (1, 'Reflux Disease'),
+       (1, 'Respitory failure'),
+       (1, 'S/P Arrest'),
+       (1, 'S/P Back Surgery'),
+       (1, 'S/P Bilateral Humerus Fracture'),
+       (1, 'S/P Hip Fracture'),
+       (1, 'S/P Hysterectomy'),
+       (1, 'S/P PEA Arrest'),
+       (1, 'Seizures'),
+       (1, 'Stroke'),
+       (1, 'Subdural Hematoma'),
+       (1, 'Tinea Pedis'),
+       (1, 'Unspecified Hypothyroidism'),
+       (1, 'Urinary Tract Incontinence'),
+       (1, 'Urinary Tract Infection'),
+       (1, 'Vision Loss');

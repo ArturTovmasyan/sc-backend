@@ -1,11 +1,12 @@
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Mechanical Soft', '#f3f3cb');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Puree', '#b1c8f6');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Diabetic', '#f8baf8');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'No Dairy', '#ecf3ec');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Special Request', '#f4ef92');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'No Salt Diet', '#ececf4');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Regular Diet', '#eee3e3');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Chopped Diet', '#f6c9c9');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Low sodium (salt)', '#f4d3d3');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Lactose Intolerant', '#f7f4f4');
-INSERT INTO `tbl_diet` (`id_space`, `title`, `color`) VALUES (1, 'Thick Liquid', '#bdbaba');
+INSERT INTO `tbl_diet` (`id_space`, `title`, `color`)
+VALUES (1, 'Mechanical Soft', '#f3f3cb'),
+       (1, 'Puree', '#b1c8f6'),
+       (1, 'Diabetic', '#f8baf8'),
+       (1, 'No Dairy', '#ecf3ec'),
+       (1, 'Special Request', '#f4ef92'),
+       (1, 'No Salt Diet', '#ececf4'),
+       (1, 'Regular Diet', '#eee3e3'),
+       (1, 'Chopped Diet', '#f6c9c9'),
+       (1, 'Low sodium (salt)', '#f4d3d3'),
+       (1, 'Lactose Intolerant', '#f7f4f4'),
+       (1, 'Thick Liquid', '#bdbaba');

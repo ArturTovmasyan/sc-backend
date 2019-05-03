@@ -1,13 +1,14 @@
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Soy Sauce', 'All Types');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Walnuts', 'Raw, or cooked');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Chocolate', 'Any variety');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Shellfish', 'All types');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Lactose', 'Dairy');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Milk', 'Dairy');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Steak', 'Meat');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Latex', 'any variety');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Gluten', 'Gluten Intolerence');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Seasonal', 'Hay Fever');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Lemons', 'Anything with Lemon');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Vinegar', 'All types');
-INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`) VALUES (1, 'Pork', 'All pork products');
+INSERT INTO `tbl_allergen` (`id_space`, `title`, `description`)
+VALUES (1, 'Soy Sauce', 'All Types'),
+       (1, 'Walnuts', 'Raw, or cooked'),
+       (1, 'Chocolate', 'Any variety'),
+       (1, 'Shellfish', 'All types'),
+       (1, 'Lactose', 'Dairy'),
+       (1, 'Milk', 'Dairy'),
+       (1, 'Steak', 'Meat'),
+       (1, 'Latex', 'any variety'),
+       (1, 'Gluten', 'Gluten Intolerence'),
+       (1, 'Seasonal', 'Hay Fever'),
+       (1, 'Lemons', 'Anything with Lemon'),
+       (1, 'Vinegar', 'All types'),
+       (1, 'Pork', 'All pork products');

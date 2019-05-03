@@ -1,9 +1,4 @@
-INSERT INTO `tbl_city_state_zip` (`id_space`,
-                                  `state_full`,
-                                  `state_abbr`,
-                                  `zip_main`,
-                                  `zip_sub`,
-                                  `city`)
+INSERT INTO `tbl_city_state_zip` (`id_space`, `state_full`, `state_abbr`, `zip_main`, `zip_sub`, `city`)
 VALUES (1, 'California', 'CA', '89439', '', 'Verdi'),
        (1, 'California', 'CA', '90001', '', 'Los Angeles'),
        (1, 'California', 'CA', '90002', '', 'Los Angeles'),
