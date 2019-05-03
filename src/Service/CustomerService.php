@@ -67,6 +67,7 @@ class CustomerService extends BaseService implements IGridService
             $entity->setLastName($params['last_name']);
             $entity->setPhone($params['phone']);
             $entity->setAddress($params['address']);
+            $entity->setCsz($params['csz']);
             $entity->setEmail($params['email']);
             $entity->setOrganization($params['organization']);
 
@@ -112,6 +113,7 @@ class CustomerService extends BaseService implements IGridService
             $entity->setLastName($params['last_name']);
             $entity->setPhone($params['phone']);
             $entity->setAddress($params['address']);
+            $entity->setCsz($params['csz']);
             $entity->setEmail($params['email']);
             $entity->setOrganization($params['organization']);
 

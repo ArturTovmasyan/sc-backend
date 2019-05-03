@@ -104,6 +104,7 @@ class CustomerController extends BaseController
                 'last_name' => $request->get('last_name'),
                 'phone' => $request->get('phone'),
                 'address' => $request->get('address'),
+                'csz' => $request->get('csz'),
                 'email' => $request->get('email'),
                 'organization' => $request->get('organization'),
             ]
@@ -136,6 +137,7 @@ class CustomerController extends BaseController
                 'last_name' => $request->get('last_name'),
                 'phone' => $request->get('phone'),
                 'address' => $request->get('address'),
+                'csz' => $request->get('csz'),
                 'email' => $request->get('email'),
                 'organization' => $request->get('organization')
             ]

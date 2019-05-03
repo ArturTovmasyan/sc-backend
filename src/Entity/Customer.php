@@ -65,6 +65,11 @@ use App\Annotation\Grid;
  *              "id"         = "address",
  *              "type"       = "string",
  *              "field"      = "c.address"
+ *          },
+ *          {
+ *              "id"         = "csz",
+ *              "type"       = "string",
+ *              "field"      = "c.csz"
  *          }
  *     }
  * )
@@ -195,6 +200,27 @@ class Customer
      * })
      */
     private $address;
+
+    /**
+     * @var string
+     * @Assert\NotBlank(groups={
+     *     "api_customer_add",
+     *     "api_customer_edit"
+     * })
+     * @Assert\Length(
+     *      max = 100,
+     *      maxMessage = "Address cannot be longer than {{ limit }} characters",
+     *      groups={
+     *          "api_customer_add",
+     *          "api_customer_edit"
+     * })
+     * @ORM\Column(name="csz", type="string", length=100)
+     * @Groups({
+     *     "api_customer_list",
+     *     "api_customer_get"
+     * })
+     */
+    private $csz;
 
     /**
      * @var string
@@ -337,6 +363,22 @@ class Customer
     public function setAddress($address)
     {
         $this->address = $address;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCsz(): string
+    {
+        return $this->csz;
+    }
+
+    /**
+     * @param string $csz
+     */
+    public function setCsz(string $csz): void
+    {
+        $this->csz = $csz;
     }
 
     /**
