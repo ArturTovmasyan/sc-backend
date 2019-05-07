@@ -7,6 +7,6 @@ VALUES (1, 'Mechanical Soft', '#f3f3cb'),
        (1, 'No Salt Diet', '#ececf4'),
        (1, 'Regular Diet', '#eee3e3'),
        (1, 'Chopped Diet', '#f6c9c9'),
-       (1, 'Low sodium (salt)', '#f4d3d3'),
-       (1, 'Lactose Intolerant', '#f7f4f4'),
+       (1, 'Low Sodium', '#f4d3d3'),
+       (1, 'Lactose Int', '#f7f4f4'),
        (1, 'Thick Liquid', '#bdbaba');
