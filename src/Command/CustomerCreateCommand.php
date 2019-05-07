@@ -102,9 +102,9 @@ class CustomerCreateCommand extends Command
 
         $db = [];
         $db['host'] = '127.0.0.1';
-        $db['name'] = sprintf('sc_%s_db', $domain_sc);
-        $db['user'] = sprintf('sc_%s_user', $domain_sc);
-        $db['pass'] = sprintf('sc_%s_db', $domain_sc);
+        $db['name'] = sprintf('sc_%04d_db', $customer->getId());
+        $db['user'] = sprintf('sc_%04d_user', $customer->getId());
+        $db['pass'] = sprintf('sc_%04d_db', $customer->getId());
 
         $gold_dir_name = [];
         $gold_dir_name['root'] = sprintf("/srv/_vcs/");
