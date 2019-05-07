@@ -112,16 +112,33 @@ class CustomerCreateCommand extends Command
         $gold_dir_name['bin'] = sprintf("%sbackend/bin", $gold_dir_name['root']);
         $gold_dir_name['config'] = sprintf("%sbackend/config", $gold_dir_name['root']);
         $gold_dir_name['public'] = sprintf("%sbackend/public", $gold_dir_name['root']);
-        $gold_dir_name['src'] = sprintf("%sbackend/src", $gold_dir_name['root']);
+
+        $gold_dir_name['src/Annotation'] = sprintf("%sbackend/src/Annotation", $gold_dir_name['root']);
+        $gold_dir_name['src/Command'] = sprintf("%sbackend/src/Command", $gold_dir_name['root']);
+        $gold_dir_name['src/Controller'] = sprintf("%sbackend/src/Controller", $gold_dir_name['root']);
+        $gold_dir_name['src/Entity'] = sprintf("%sbackend/src/Entity", $gold_dir_name['root']);
+        $gold_dir_name['src/EventListener'] = sprintf("%sbackend/src/EventListener", $gold_dir_name['root']);
+        $gold_dir_name['src/Exception'] = sprintf("%sbackend/src/Exception", $gold_dir_name['root']);
+        $gold_dir_name['src/Migrations'] = sprintf("%sbackend/src/Migrations", $gold_dir_name['root']);
+        $gold_dir_name['src/Model'] = sprintf("%sbackend/src/Model", $gold_dir_name['root']);
+        $gold_dir_name['src/Repository'] = sprintf("%sbackend/src/Repository", $gold_dir_name['root']);
+        $gold_dir_name['src/Service'] = sprintf("%sbackend/src/Service", $gold_dir_name['root']);
+        $gold_dir_name['src/Util'] = sprintf("%sbackend/src/Util", $gold_dir_name['root']);
+
         $gold_dir_name['templates'] = sprintf("%sbackend/templates", $gold_dir_name['root']);
         $gold_dir_name['tests'] = sprintf("%sbackend/tests", $gold_dir_name['root']);
         $gold_dir_name['vendor'] = sprintf("%sbackend/vendor", $gold_dir_name['root']);
 
+        $gold_file_name['src/Kernel'] = sprintf("%sbackend/src/Kernel.php", $gold_dir_name['root']);
+
         $dir_name = [];
         $dir_name['root'] = sprintf("/srv/%s", $domain);
         $dir_name['cdn'] = sprintf("%s/cdn", $dir_name['root']);
+        $dir_name['src'] = sprintf("%s/src", $dir_name['root']);
         $dir_name['var'] = sprintf("%s/var", $dir_name['root']);
         $dir_name['env'] = sprintf("%s/.env", $dir_name['root']);
+
+        $file_name['src/Kernel'] = sprintf("%s/src/Kernel.php", $dir_name['root']);
 
         $vhost = new Vhost();
         $vhost->setCustomer($customer);
@@ -144,6 +161,7 @@ class CustomerCreateCommand extends Command
 
         $output->writeln(sprintf("Creating WWW directory structure for '%s'...", $domain));
         $this->filesystem->mkdir($dir_name['root']);
+        $this->filesystem->mkdir($dir_name['src']);
         $this->filesystem->mkdir($dir_name['cdn']);
         $this->filesystem->mkdir(sprintf('%s/resident-photo', $dir_name['cdn']));
         $this->filesystem->mkdir(sprintf('%s/user-avatar', $dir_name['cdn']));
@@ -168,6 +186,11 @@ class CustomerCreateCommand extends Command
             }
 
             $this->filesystem->symlink($gold_path, sprintf("%s/%s", $dir_name['root'], $name));
+        }
+
+        $output->writeln(sprintf("Creating hardlinks '%s'...", $domain));
+        foreach ($gold_file_name as $name => $gold_path) {
+            $this->filesystem->hardlink($gold_path, $file_name[$name]);
         }
 
         $this->createEnv($db, $mailer, $dir_name, $domain);
