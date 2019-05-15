@@ -70,6 +70,12 @@ use App\Annotation\Grid;
  *              "id"         = "csz",
  *              "type"       = "string",
  *              "field"      = "c.csz"
+ *          },
+ *          {
+ *              "id"         = "info",
+ *              "sortable"   = false,
+ *              "type"       = "json",
+ *              "field"      = "c.info"
  *          }
  *     }
  * )
@@ -264,6 +270,16 @@ class Customer
     private $organization;
 
     /**
+     * @var array $grants
+     * @ORM\Column(name="info", type="json", nullable=false)
+     * @Groups({
+     *     "api_customer_list",
+     *     "api_customer_get"
+     * })
+     */
+    private $info = [];
+
+    /**
      * @var ArrayCollection
      * @ORM\OneToMany(targetEntity="App\Entity\Job", mappedBy="customer", cascade={"remove", "persist"})
      */
@@ -411,6 +427,22 @@ class Customer
     public function setOrganization($organization)
     {
         $this->organization = $organization;
+    }
+
+    /**
+     * @return array
+     */
+    public function getInfo()
+    {
+        return $this->info;
+    }
+
+    /**
+     * @param array $info
+     */
+    public function setInfo($info)
+    {
+        $this->info = $info;
     }
 
     /**
