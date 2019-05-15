@@ -36,8 +36,8 @@ class AccountMonitorCommand extends Command
 
         'USER_COUNT' => 'SELECT COUNT(*) AS `count` FROM %1$s.`tbl_user`',
         'LAST_LOGIN_COUNT' => 'SELECT
-                               CONCAT(%1$s.`tbl_user`.`first_name`, \' \', %1$s.`tbl_user`.`last_name`,
-                                 \' (\', %1$s.`tbl_user`.`email` ,\')\n\',
+                               CONCAT(%1$s.`tbl_user`.`first_name`, \' \', %1$s.`tbl_user`.`last_name`, \'\n\', 
+                                 \'\', %1$s.`tbl_user`.`email`, \'\n\',
                                  %1$s.`tbl_user`.`last_activity_at`
                                  ) AS `user`
                                FROM %1$s.`tbl_user` ORDER BY %1$s.`tbl_user`.`last_activity_at` DESC LIMIT 1',
