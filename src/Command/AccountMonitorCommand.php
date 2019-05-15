@@ -119,7 +119,6 @@ class AccountMonitorCommand extends Command
                 $info = [];
                 foreach (self::$QUERY as $key => $value) {
                     if ($value !== "") {
-                        var_dump($value);
                         $stmt = $this->em->getConnection()->prepare(sprintf($value, $db_name));
                         $stmt->execute();
 
@@ -132,7 +131,9 @@ class AccountMonitorCommand extends Command
                         } else {
                             $result = $stmt->fetch();
                         }
-                        $info[self::$TITLE[$key]] = count($result) === 1 ? reset($result) : implode('', $result);
+                        $info[self::$TITLE[$key]] =
+                            count($result) === 1 ? reset($result) :
+                                (count($result) === 0 ? "N/A" : implode('', $result));
                     }
                 }
 
