@@ -42,7 +42,7 @@ class DatabaseUpdateCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $vhosts = $this->em->getRepository(Vhost::class)->findBy(['enabled' => true]);
+        $vhosts = $this->em->getRepository(Vhost::class)->findAll();
 
         try {
             /** @var Vhost $vhost */
