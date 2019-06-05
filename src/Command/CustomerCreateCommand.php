@@ -133,7 +133,6 @@ class CustomerCreateCommand extends Command
 
         $dir_name = [];
         $dir_name['root'] = sprintf("/srv/%s", $domain);
-        $dir_name['cdn'] = sprintf("%s/cdn", $dir_name['root']);
         $dir_name['src'] = sprintf("%s/src", $dir_name['root']);
         $dir_name['var'] = sprintf("%s/var", $dir_name['root']);
         $dir_name['env'] = sprintf("%s/.env", $dir_name['root']);
@@ -162,9 +161,6 @@ class CustomerCreateCommand extends Command
         $output->writeln(sprintf("Creating WWW directory structure for '%s'...", $domain));
         $this->filesystem->mkdir($dir_name['root']);
         $this->filesystem->mkdir($dir_name['src']);
-        $this->filesystem->mkdir($dir_name['cdn']);
-        $this->filesystem->mkdir(sprintf('%s/resident-photo', $dir_name['cdn']));
-        $this->filesystem->mkdir(sprintf('%s/user-avatar', $dir_name['cdn']));
         $this->filesystem->mkdir($dir_name['var']);
 
         $output->writeln(sprintf("Setting filesystem permissions for '%s'...", $domain));
@@ -174,10 +170,6 @@ class CustomerCreateCommand extends Command
         $this->filesystem->chmod($dir_name['var'], 0755, 0000, true);
         $this->filesystem->chown($dir_name['var'], 'www-data', true);
         $this->filesystem->chgrp($dir_name['var'], 'www-data', true);
-
-        $this->filesystem->chmod($dir_name['cdn'], 0755, 0000, true);
-        $this->filesystem->chown($dir_name['cdn'], 'www-data', true);
-        $this->filesystem->chgrp($dir_name['cdn'], 'www-data', true);
 
         $output->writeln(sprintf("Creating symlinks '%s'...", $domain));
         foreach ($gold_dir_name as $name => $gold_path) {
@@ -401,7 +393,6 @@ class CustomerCreateCommand extends Command
             'APP_SECRET' => '441e2c01edab863446135746a45396bd',
             'DATABASE_URL' => sprintf('mysql://%s:%s@127.0.0.1:3306/%s', $db['user'], $db['pass'], $db['name']),
             'MAILER_URL' => sprintf('%s://%s:%s@%s', $mailer['proto'], $mailer['user'], $mailer['pass'], $mailer['host']),
-            'CDN_PATH' => sprintf('%s', $dir_name['cdn']),
             'CORS_ALLOW_ORIGIN' => sprintf('^https?://%s(:[0-9]+)?$', $domain),
             'WKHTMLTOPDF_PATH' => '/usr/local/bin/wkhtmltopdf',
             'WKHTMLTOIMAGE_PATH' => '/usr/local/bin/wkhtmltoimage',

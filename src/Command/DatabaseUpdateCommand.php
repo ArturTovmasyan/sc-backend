@@ -65,7 +65,6 @@ class DatabaseUpdateCommand extends Command
                 $dir_name = [
                     'root' => $vhost->getWwwRoot(),
                     'var' => sprintf("%s/var", $vhost->getWwwRoot()),
-                    'cdn' => sprintf("%s/cdn", $vhost->getWwwRoot()),
                 ];
 
                 $output->writeln(sprintf("Updating database structure for '%s'...", $domain));
@@ -114,7 +113,6 @@ class DatabaseUpdateCommand extends Command
             'APP_SECRET' => '441e2c01edab863446135746a45396bd',
             'DATABASE_URL' => sprintf('mysql://%s:%s@127.0.0.1:3306/%s', $db['user'], $db['pass'], $db['name']),
             'MAILER_URL' => sprintf('%s://%s:%s@%s', $mailer['proto'], $mailer['user'], $mailer['pass'], $mailer['host']),
-            'CDN_PATH' => sprintf('%s', $dir_name['cdn']),
             'CORS_ALLOW_ORIGIN' => sprintf('^https?://%s(:[0-9]+)?$', $domain),
             'WKHTMLTOPDF_PATH' => '/usr/local/bin/wkhtmltopdf',
             'WKHTMLTOIMAGE_PATH' => '/usr/local/bin/wkhtmltoimage',
