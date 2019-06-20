@@ -55,7 +55,6 @@ class MigratePhotoCommand extends Command
                 if($domain !== $input->getOption('domain')) {
                     continue;
                 }
-                die();
 
                 $db = [
                     'host' => $vhost->getDbHost(),
@@ -81,7 +80,7 @@ class MigratePhotoCommand extends Command
                 $this->filesystem->remove(sprintf("%s/cache/dev/*", $dir_name['var']));
 
                 $this->createEnv($db, $mailer, $dir_name, $domain);
-                $this->updateDatabase($dir_name['root'], $domain, $input->getOption('json'));
+                $this->updateDatabase($dir_name['root'], $input->getOption('json'));
 
                 $this->filesystem->remove(sprintf("%s/cache/prod/*", $dir_name['var']));
                 $this->filesystem->remove(sprintf("%s/cache/dev/*", $dir_name['var']));
@@ -94,14 +93,14 @@ class MigratePhotoCommand extends Command
         }
     }
 
-    private function updateDatabase($root_dir, $domain, $json_path)
+    private function updateDatabase($root_dir, $json_path)
     {
         $path = [];
         $path['php'] = '/usr/bin/php';
         $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
 
         $process = new Process(
-            [$path['php'], $path['symfony_console'], 'app:migrate:photos', '--domain', $domain, '--json', $json_path],
+            [$path['php'], $path['symfony_console'], 'app:migrate:photos', '--json', $json_path],
             null, $this->env
         );
 
