@@ -97,7 +97,7 @@ class DatabaseBackupCommand extends Command
                     [
                         new Destination(
                             's3',
-                            sprintf('%s_%s.sql', $datetime_string, $vhost->getDbName())
+                            sprintf('%s_%s.sql', $datetime_string, $value['database'])
                         )
                     ],
                     'gzip'
