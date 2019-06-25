@@ -45,13 +45,22 @@ class DatabaseBackupCommand extends Command
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         try {
-            $vhosts = $this->em->getRepository(Vhost::class)->findAll();
-
             $date_string = (new \DateTime())->format('Ymd');
             $datetime_string = (new \DateTime())->format('Ymd_his');
 
             $databases = [];
 
+            $databases['scpp.seniorcaresw.com'] = [
+                'type' => 'mysql',
+                'host' => '127.0.0.1',
+                'port' => '3306',
+                'user' => 'root',
+                'pass' => 'guHlxo!=prIwocI5HOX2',
+                'database' => 'db_seniorcare_scpp',
+                'singleTransaction' => false
+            ];
+
+            $vhosts = $this->em->getRepository(Vhost::class)->findAll();
             /** @var Vhost $vhost */
             foreach ($vhosts as $vhost) {
                 $domain = $vhost->getCustomer()->getDomain();
@@ -70,10 +79,7 @@ class DatabaseBackupCommand extends Command
 
             $this->manager = $this->createManager($date_string, $databases);
 
-            /** @var Vhost $vhost */
-            foreach ($vhosts as $vhost) {
-                $domain = $vhost->getCustomer()->getDomain();
-
+            foreach ($databases as $domain => $value) {
                 $output->writeln(sprintf("Backup database of '%s'...", $domain));
 
                 $this->manager->makeBackup()->run(
