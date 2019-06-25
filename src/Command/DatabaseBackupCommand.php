@@ -90,7 +90,7 @@ class DatabaseBackupCommand extends Command
         }
     }
 
-    private function createManager($databaseConfig)
+    private function createManager($databases)
     {
         $filesystems = new FilesystemProvider(new Config(['s3' => [
             'type' => 'AwsS3',
@@ -104,7 +104,7 @@ class DatabaseBackupCommand extends Command
 
         $filesystems->add(new Awss3Filesystem());
 
-        $databases = new DatabaseProvider($databaseConfig);
+        $databases = new DatabaseProvider(new Config($databases));
         $databases->add(new MysqlDatabase());
 
         $compressors = new CompressorProvider();
