@@ -47,7 +47,8 @@ class DatabaseBackupCommand extends Command
         try {
             $vhosts = $this->em->getRepository(Vhost::class)->findAll();
 
-            $date_string = (new \DateTime())->format('Ymd_his');
+            $date_string = (new \DateTime())->format('Ymd');
+            $datetime_string = (new \DateTime())->format('Ymd_his');
 
             $databases = [];
 
@@ -67,22 +68,26 @@ class DatabaseBackupCommand extends Command
 
             }
 
-            $this->manager = $this->createManager($databases);
+            $this->manager = $this->createManager($date_string, $databases);
 
             /** @var Vhost $vhost */
             foreach ($vhosts as $vhost) {
                 $domain = $vhost->getCustomer()->getDomain();
+
+                $output->writeln(sprintf("Backup database of '%s'...", $domain));
 
                 $this->manager->makeBackup()->run(
                     $domain,
                     [
                         new Destination(
                             's3',
-                            sprintf('backup_%s_%s.sql', $vhost->getDbName(), $date_string)
+                            sprintf('%s_%s.sql', $datetime_string, $vhost->getDbName())
                         )
                     ],
                     'gzip'
                 );
+
+                $output->writeln(sprintf("Backup finished database of '%s'.", $domain));
             }
 
         } catch (\Throwable $e) {
@@ -91,7 +96,7 @@ class DatabaseBackupCommand extends Command
         }
     }
 
-    private function createManager($databases)
+    private function createManager($date_string, $databases)
     {
         $filesystems = new FilesystemProvider(new Config([
             'local' => [
@@ -105,7 +110,7 @@ class DatabaseBackupCommand extends Command
                 'key' => $_ENV['AWS_ACCESS_KEY_ID'],
                 'secret' => $_ENV['AWS_SECRET_ACCESS_KEY'],
                 'bucket' => $_ENV['AWS_BUCKET'],
-                'root' => '',
+                'root' => $date_string,
             ]]));
 
         $filesystems->add(new LocalFilesystem());

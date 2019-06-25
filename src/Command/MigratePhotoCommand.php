@@ -74,7 +74,7 @@ class MigratePhotoCommand extends Command
                     'var' => sprintf("%s/var", $vhost->getWwwRoot()),
                 ];
 
-                $output->writeln(sprintf("Updating database structure for '%s'...", $domain));
+                $output->writeln(sprintf("Migrating photos for '%s'...", $domain));
 
                 $this->filesystem->remove(sprintf("%s/cache/prod/*", $dir_name['var']));
                 $this->filesystem->remove(sprintf("%s/cache/dev/*", $dir_name['var']));
@@ -85,7 +85,7 @@ class MigratePhotoCommand extends Command
                 $this->filesystem->remove(sprintf("%s/cache/prod/*", $dir_name['var']));
                 $this->filesystem->remove(sprintf("%s/cache/dev/*", $dir_name['var']));
 
-                $output->writeln(sprintf("Completed database structure update for '%s'.", $domain));
+                $output->writeln(sprintf("Completed migrating photos for '%s'.", $domain));
             }
         } catch (\Throwable $e) {
             dump($e->getMessage());
