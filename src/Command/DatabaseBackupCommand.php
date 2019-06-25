@@ -11,6 +11,7 @@ use BackupManager\Databases\MysqlDatabase;
 use BackupManager\Filesystems\Awss3Filesystem;
 use BackupManager\Filesystems\Destination;
 use BackupManager\Filesystems\FilesystemProvider;
+use BackupManager\Filesystems\LocalFilesystem;
 use BackupManager\Manager;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Console\Command\Command;
@@ -92,16 +93,22 @@ class DatabaseBackupCommand extends Command
 
     private function createManager($databases)
     {
-        $filesystems = new FilesystemProvider(new Config(['s3' => [
-            'type' => 'AwsS3',
-            'region' => $_ENV['AWS_REGION'],
-            'version' => $_ENV['AWS_VERSION'],
-            'key' => $_ENV['AWS_ACCESS_KEY_ID'],
-            'secret' => $_ENV['AWS_SECRET_ACCESS_KEY'],
-            'bucket' => $_ENV['AWS_BUCKET'],
-            'root' => '',
-        ]]));
+        $filesystems = new FilesystemProvider(new Config([
+            'local' => [
+                'type' => 'Local',
+                'root' => '/backup',
+            ],
+            's3' => [
+                'type' => 'AwsS3',
+                'region' => $_ENV['AWS_REGION'],
+                'version' => $_ENV['AWS_VERSION'],
+                'key' => $_ENV['AWS_ACCESS_KEY_ID'],
+                'secret' => $_ENV['AWS_SECRET_ACCESS_KEY'],
+                'bucket' => $_ENV['AWS_BUCKET'],
+                'root' => '',
+            ]]));
 
+        $filesystems->add(new LocalFilesystem());
         $filesystems->add(new Awss3Filesystem());
 
         $databases = new DatabaseProvider(new Config($databases));
