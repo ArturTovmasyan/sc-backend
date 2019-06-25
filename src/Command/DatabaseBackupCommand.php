@@ -50,6 +50,16 @@ class DatabaseBackupCommand extends Command
 
             $databases = [];
 
+            $databases['console.seniorcaresw.com'] = [
+                'type' => 'mysql',
+                'host' => '127.0.0.1',
+                'port' => '3306',
+                'user' => 'root',
+                'pass' => 'guHlxo!=prIwocI5HOX2',
+                'database' => 'db_seniorcare_mc',
+                'singleTransaction' => false
+            ];
+
             $databases['scpp.seniorcaresw.com'] = [
                 'type' => 'mysql',
                 'host' => '127.0.0.1',
