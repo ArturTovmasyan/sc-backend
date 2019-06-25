@@ -33,9 +33,6 @@ class DatabaseBackupCommand extends Command
         $this->em = $container->get('doctrine')->getManager();
 
         parent::__construct($name);
-
-        var_dump();
-        die();
     }
 
     protected function configure()
