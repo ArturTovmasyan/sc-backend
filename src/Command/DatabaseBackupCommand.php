@@ -46,7 +46,7 @@ class DatabaseBackupCommand extends Command
     {
         try {
             $date_string = (new \DateTime())->format('Ymd');
-            $datetime_string = (new \DateTime())->format('Ymd_his');
+            $datetime_string = (new \DateTime())->format('Ymd_His');
 
             $databases = [];
 
