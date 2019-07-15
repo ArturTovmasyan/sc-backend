@@ -22,6 +22,9 @@ class ResponseCode
     const CUSTOMER_NOT_FOUND_EXCEPTION           = 612;
     const JOB_NOT_FOUND_EXCEPTION                = 613;
     const VHOST_NOT_FOUND_EXCEPTION              = 614;
+    const ROLE_NOT_FOUND_EXCEPTION               = 615;
+    const INVALID_GRANT_CONFIG                   = 617;
+    const ROLE_SYNC_ERROR                        = 618;
 
     /**
      * @var array
@@ -39,5 +42,8 @@ class ResponseCode
         self::CUSTOMER_NOT_FOUND_EXCEPTION                => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Customer not found.'],
         self::JOB_NOT_FOUND_EXCEPTION                     => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Job not found.'],
         self::VHOST_NOT_FOUND_EXCEPTION                   => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Vhost not found.'],
+        self::ROLE_NOT_FOUND_EXCEPTION                    => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Role not found.'],
+        self::INVALID_GRANT_CONFIG                        => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Invalid grant configuration.'],
+        self::ROLE_SYNC_ERROR                             => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Error occurred during synchronization of customer roles.'],
     ];
 }

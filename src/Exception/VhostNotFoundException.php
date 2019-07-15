@@ -11,6 +11,6 @@ class VhostNotFoundException extends \RuntimeException
      */
     public function __construct()
     {
-        parent::__construct('', ResponseCode::VHOST_NOT_FOUND_EXCEPTION);
+        parent::__construct(ResponseCode::$titles[ResponseCode::VHOST_NOT_FOUND_EXCEPTION]['message'], ResponseCode::VHOST_NOT_FOUND_EXCEPTION);
     }
 }

@@ -11,6 +11,6 @@ class JobNotFoundException extends \RuntimeException
      */
     public function __construct()
     {
-        parent::__construct('', ResponseCode::JOB_NOT_FOUND_EXCEPTION);
+        parent::__construct(ResponseCode::$titles[ResponseCode::JOB_NOT_FOUND_EXCEPTION]['message'], ResponseCode::JOB_NOT_FOUND_EXCEPTION);
     }
 }

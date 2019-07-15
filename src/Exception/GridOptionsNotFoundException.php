@@ -11,6 +11,6 @@ class GridOptionsNotFoundException extends \RuntimeException
      */
     public function __construct()
     {
-        parent::__construct('', ResponseCode::GRID_OPTIONS_NOT_FOUND_EXCEPTION);
+        parent::__construct(ResponseCode::$titles[ResponseCode::GRID_OPTIONS_NOT_FOUND_EXCEPTION]['message'], ResponseCode::GRID_OPTIONS_NOT_FOUND_EXCEPTION);
     }
 }

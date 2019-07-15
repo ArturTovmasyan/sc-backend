@@ -11,6 +11,6 @@ class CustomerNotFoundException extends \RuntimeException
      */
     public function __construct()
     {
-        parent::__construct('', ResponseCode::CUSTOMER_NOT_FOUND_EXCEPTION);
+        parent::__construct(ResponseCode::$titles[ResponseCode::CUSTOMER_NOT_FOUND_EXCEPTION]['message'], ResponseCode::CUSTOMER_NOT_FOUND_EXCEPTION);
     }
 }
