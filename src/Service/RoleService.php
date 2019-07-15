@@ -75,7 +75,6 @@ class RoleService extends BaseService implements IGridService
 
             $this->em->persist($role);
             $this->em->flush();
-            $this->em->getConnection()->setAutoCommit(false);
             $this->em->getConnection()->commit();
 
             $this->syncRoles();
@@ -114,7 +113,6 @@ class RoleService extends BaseService implements IGridService
 
             $this->em->persist($role);
             $this->em->flush();
-            $this->em->getConnection()->setAutoCommit(false);
             $this->em->getConnection()->commit();
 
             $this->syncRoles();
@@ -145,7 +143,6 @@ class RoleService extends BaseService implements IGridService
 
             $this->em->remove($role);
             $this->em->flush();
-            $this->em->getConnection()->setAutoCommit(false);
             $this->em->getConnection()->commit();
 
             $this->syncRoles();
@@ -172,14 +169,20 @@ class RoleService extends BaseService implements IGridService
             /** @var RoleRepository $repo */
             $repo = $this->em->getRepository(Role::class);
 
-            $roles = $repo->findByIds($ids);
+            $entities = $repo->findByIds($ids);
 
-            if (empty($roles)) {
+            if (empty($entities)) {
                 throw new RoleNotFoundException();
             }
 
+            /**
+             * @var Role $entity
+             */
+            foreach ($entities as $entity) {
+                $this->em->remove($entity);
+            }
+
             $this->em->flush();
-            $this->em->getConnection()->setAutoCommit(false);
             $this->em->getConnection()->commit();
 
             $this->syncRoles();
@@ -263,11 +266,8 @@ class RoleService extends BaseService implements IGridService
                             );
                             break;
                     }
-
-
                     $stmt = $this->em->getConnection()->prepare($query);
                     $stmt->execute();
-
                 }
             }
         } catch (\Throwable $e) {
