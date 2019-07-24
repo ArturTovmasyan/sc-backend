@@ -98,7 +98,7 @@ class CustomerCreateCommand extends Command
         $mailer['host'] = sprintf('localhost');
         $mailer['proto'] = sprintf('gmail');
         $mailer['user'] = sprintf('support@seniorcaresw.com');
-        $mailer['pass'] = sprintf('SCPeavey!13');
+        $mailer['pass'] = sprintf('6!I9uF*Ks3sG!qG');
 
         $db = [];
         $db['host'] = '127.0.0.1';
