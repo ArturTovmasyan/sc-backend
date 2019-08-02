@@ -268,7 +268,7 @@ class HelpCategoryService extends BaseService implements IGridService
                     'key' => $object->getId(),
                     'type' => $object->getType(),
                     'title' => $object->getTitle(),
-                    'description' => $object->getTitle(),
+                    'description' => $object->getDescription(),
                     'url' => (string)$request->getUri(),
                     'isLeaf' => true
                 ];
