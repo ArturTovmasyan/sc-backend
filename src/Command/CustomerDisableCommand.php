@@ -27,9 +27,6 @@ class CustomerDisableCommand extends Command
     /** @var Filesystem */
     private $filesystem;
 
-    /** @var array */
-    private $env;
-
     public function __construct(ContainerInterface $container, $name = null)
     {
         $this->em = $container->get('doctrine')->getManager();
@@ -86,7 +83,6 @@ class CustomerDisableCommand extends Command
     private function apacheDisable($domain, OutputInterface $output)
     {
         $vhost_file_name = sprintf("001-%s.conf", $domain);
-        $vhost_file_path = sprintf("/etc/apache2/sites-available/%s", $vhost_file_name);
         $vhost_file_link = sprintf("/etc/apache2/sites-enabled/%s", $vhost_file_name);
 
         $output->writeln(sprintf("Disabling Apache virtual host file..."));

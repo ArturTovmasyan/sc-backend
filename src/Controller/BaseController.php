@@ -10,10 +10,9 @@ use App\Util\ArrayUtil;
 use Doctrine\ORM\QueryBuilder;
 use Doctrine\ORM\Tools\Pagination\Paginator;
 use JMS\Serializer\SerializationContext;
-use JMS\Serializer\Serializer;
 use JMS\Serializer\SerializerInterface;
-use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Doctrine\Common\Annotations\Reader;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\HttpFoundation\Request;
@@ -22,7 +21,7 @@ use Symfony\Component\Security\Core\Encoder\UserPasswordEncoderInterface;
 use Symfony\Component\Security\Core\Security;
 use Symfony\Component\Validator\Validator\ValidatorInterface;
 
-class BaseController extends Controller
+class BaseController extends AbstractController
 {
     /** @var SerializerInterface */
     protected $serializer;
@@ -73,8 +72,8 @@ class BaseController extends Controller
      * @param string $entityName
      * @param string $groupName
      * @param IGridService $service
+     * @param array $params
      * @return JsonResponse
-     * @throws \Exception
      */
     protected function respondList(Request $request, string $entityName, string $groupName, IGridService $service, ...$params)
     {
@@ -91,14 +90,13 @@ class BaseController extends Controller
      * @param string $entityName
      * @param string $groupName
      * @param IGridService $service
+     * @param array $params
      * @return JsonResponse
      * @throws \ReflectionException
+     * @throws \Throwable
      */
     protected function respondGrid(Request $request, string $entityName, string $groupName, IGridService $service, ...$params)
     {
-        /** @var Serializer $serializer */
-        $serializer = $this->get('jms_serializer');
-
         $queryBuilder = $this->getQueryBuilder($request, $entityName, $groupName);
         $service->gridSelect($queryBuilder, $params);
 
@@ -121,11 +119,14 @@ class BaseController extends Controller
             'data' => $paginator->getQuery()->getArrayResult()
         ];
 
-        if (empty($groupName)) {
-            $responseData = $serializer->serialize($data, 'json', SerializationContext::create()->setSerializeNull(true));
-        } else {
-            $responseData = $serializer->serialize($data, 'json', SerializationContext::create()->setSerializeNull(true)->setGroups([$groupName]));
+        $serializationContext = SerializationContext::create()->setSerializeNull(true);
+
+        if (!empty($groupName)) {
+            $serializationContext->setGroups([$groupName]);
         }
+
+        $responseData = $this->serializer->serialize($data, 'json', $serializationContext);
+
 
         return new JsonResponse($responseData, Response::HTTP_OK, [], true);
     }
@@ -140,9 +141,6 @@ class BaseController extends Controller
      */
     protected function respondSuccess($httpStatus = Response::HTTP_OK, $message = '', $data = [], $groups = [], $headers = [])
     {
-        /** @var Serializer $serializer */
-        $serializer = $this->get('jms_serializer');
-
         $responseData = [];
 
         if (!empty($message)) {
@@ -153,15 +151,13 @@ class BaseController extends Controller
             $httpStatus = ResponseCode::$titles[$httpStatus]['httpCode'];
         }
 
-        if (!empty($data)) {
-            $responseData = $data;
+        $serializationContext = SerializationContext::create()->setSerializeNull(true);
+
+        if (!empty($groups)) {
+            $serializationContext->setGroups($groups);
         }
 
-        if (empty($groups)) {
-            $responseData = $serializer->serialize($responseData, 'json', SerializationContext::create()->setSerializeNull(true));
-        } else {
-            $responseData = $serializer->serialize($responseData, 'json', SerializationContext::create()->setSerializeNull(true)->setGroups($groups));
-        }
+        $responseData = $this->serializer->serialize($data, 'json', $serializationContext);
 
         return new JsonResponse($responseData, $httpStatus, $headers, true);
     }
@@ -199,6 +195,7 @@ class BaseController extends Controller
      * @param string $groupName
      * @return QueryBuilder
      * @throws \ReflectionException
+     * @throws \Throwable
      */
     protected function getQueryBuilder(Request $request, string $entityName, string $groupName)
     {

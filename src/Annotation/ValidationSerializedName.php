@@ -42,6 +42,7 @@ class ValidationSerializedName
     }
 
     /**
+     * @param $groupName
      * @return array|string
      */
     public function getName($groupName)
@@ -50,9 +51,10 @@ class ValidationSerializedName
     }
 
     /**
+     * @param Reader $reader
      * @param $entityClass
      * @param $group
-     * @param $original_property_path
+     * @param $originalPropertyPath
      * @return string
      */
     public static function convert(Reader $reader, $entityClass, $group, $originalPropertyPath)

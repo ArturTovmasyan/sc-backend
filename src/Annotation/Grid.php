@@ -90,7 +90,7 @@ class Grid
     public function __construct($options = null)
     {
         if (empty($options)) {
-            return false;
+            return;
         }
 
         foreach ($options as $groupName => $groupOptions) {
@@ -197,6 +197,7 @@ class Grid
      * @param array $params
      * @param $groupName
      * @return $this|bool
+     * @throws \Throwable
      */
     public function renderByGroup(array $params, $groupName)
     {

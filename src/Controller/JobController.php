@@ -22,6 +22,7 @@ class JobController extends BaseController
      * @param JobService $jobService
      * @return JsonResponse
      * @throws \ReflectionException
+     * @throws \Throwable
      */
     public function gridAction(Request $request, JobService $jobService)
     {
@@ -56,7 +57,7 @@ class JobController extends BaseController
      * @param Request $request
      * @param JobService $jobService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function listAction(Request $request, JobService $jobService)
     {
@@ -72,9 +73,11 @@ class JobController extends BaseController
      * @IsGranted("ROLE_ADMIN")
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_job_get", methods={"GET"})
      *
-     * @param JobService $jobService
+     * @param Request $request
      * @param $id
+     * @param JobService $jobService
      * @return JsonResponse
+     * @throws \Doctrine\ORM\NonUniqueResultException
      */
     public function getAction(Request $request, $id, JobService $jobService)
     {
@@ -93,7 +96,7 @@ class JobController extends BaseController
      * @param Request $request
      * @param JobService $jobService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function addAction(Request $request, JobService $jobService)
     {
@@ -120,7 +123,7 @@ class JobController extends BaseController
      * @param $id
      * @param JobService $jobService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function editAction(Request $request, $id, JobService $jobService)
     {
@@ -142,6 +145,7 @@ class JobController extends BaseController
      * @IsGranted("ROLE_ADMIN")
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_job_delete", methods={"DELETE"})
      *
+     * @param Request $request
      * @param $id
      * @param JobService $jobService
      * @return JsonResponse

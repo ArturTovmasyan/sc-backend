@@ -20,12 +20,11 @@ class Grant
     public static function str2identity(?string $identity) : int
     {
         switch ($identity) {
-            case "ALL":
-                return self::$IDENTITY_ALL;
             case "SEVERAL":
                 return self::$IDENTITY_SEVERAL;
             case "OWN":
                 return self::$IDENTITY_OWN;
+            case "ALL":
             default:
                 return self::$IDENTITY_ALL;
         }
@@ -34,8 +33,6 @@ class Grant
     public static function str2level(?string $level) : int
     {
         switch ($level) {
-            case "NONE":
-                return self::$LEVEL_NONE;
             case "VIEW":
                 return self::$LEVEL_VIEW;
             case "EDIT":
@@ -46,6 +43,7 @@ class Grant
                 return self::$LEVEL_DELETE;
             case "UNDELETE":
                 return self::$LEVEL_UNDELETE;
+            case "NONE":
             default:
                 return self::$LEVEL_NONE;
         }

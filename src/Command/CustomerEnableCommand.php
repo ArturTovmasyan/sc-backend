@@ -27,9 +27,6 @@ class CustomerEnableCommand extends Command
     /** @var Filesystem */
     private $filesystem;
 
-    /** @var array */
-    private $env;
-
     public function __construct(ContainerInterface $container, $name = null)
     {
         $this->em = $container->get('doctrine')->getManager();

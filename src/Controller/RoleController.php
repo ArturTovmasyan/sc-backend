@@ -71,10 +71,10 @@ class RoleController extends BaseController
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_role_get", methods={"GET"})
      *
      * @param Request $request
-     * @param RoleService $roleService
      * @param $id
+     * @param RoleService $roleService
+     * @param GrantService $grantService
      * @return JsonResponse
-     * @throws \Throwable
      */
     public function getAction(Request $request, $id, RoleService $roleService, GrantService $grantService)
     {

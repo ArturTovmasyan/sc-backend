@@ -20,12 +20,12 @@ class TestCommand extends Command
     /** @var \Twig\Environment */
     private $twig;
 
-    public function __construct($name = null, ContainerInterface $container)
+    public function __construct(ContainerInterface $container)
     {
         $this->em = $container->get('doctrine')->getManager();
         $this->twig = $container->get('twig');
 
-        parent::__construct($name);
+        parent::__construct(self::$defaultName);
     }
 
     protected function configure()

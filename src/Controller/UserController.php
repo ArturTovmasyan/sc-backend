@@ -22,6 +22,7 @@ class UserController extends BaseController
      * @param UserService $userService
      * @return JsonResponse
      * @throws \ReflectionException
+     * @throws \Throwable
      */
     public function gridAction(Request $request, UserService $userService)
     {
@@ -56,7 +57,7 @@ class UserController extends BaseController
      * @param Request $request
      * @param UserService $userService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function listAction(Request $request, UserService $userService)
     {
@@ -72,9 +73,11 @@ class UserController extends BaseController
      * @IsGranted("ROLE_ADMIN")
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_user_get", methods={"GET"})
      *
-     * @param UserService $userService
+     * @param Request $request
      * @param $id
+     * @param UserService $userService
      * @return JsonResponse
+     * @throws \Doctrine\ORM\NonUniqueResultException
      */
     public function getAction(Request $request, $id, UserService $userService)
     {
@@ -93,7 +96,7 @@ class UserController extends BaseController
      * @param Request $request
      * @param UserService $userService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function addAction(Request $request, UserService $userService)
     {
@@ -122,7 +125,7 @@ class UserController extends BaseController
      * @param $id
      * @param UserService $userService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function editAction(Request $request, $id, UserService $userService)
     {
@@ -146,6 +149,7 @@ class UserController extends BaseController
      * @IsGranted("ROLE_ADMIN")
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_user_delete", methods={"DELETE"})
      *
+     * @param Request $request
      * @param $id
      * @param UserService $userService
      * @return JsonResponse
@@ -181,6 +185,7 @@ class UserController extends BaseController
     /**
      * @Route("/me", name="api_user_me", methods={"GET"})
      *
+     * @param Request $request
      * @param UserService $userService
      * @return JsonResponse
      */

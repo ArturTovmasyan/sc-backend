@@ -3,10 +3,8 @@
 namespace App\Service;
 
 use App\Entity\User;
-use App\Repository\UserRepository;
 use App\Exception\UserNotFoundException;
-use App\Service\BaseService;
-use App\Service\IGridService;
+use App\Repository\UserRepository;
 use Doctrine\ORM\QueryBuilder;
 
 /**
@@ -41,6 +39,7 @@ class UserService extends BaseService implements IGridService
     /**
      * @param $id
      * @return User|null|object
+     * @throws \Doctrine\ORM\NonUniqueResultException
      */
     public function getById($id)
     {
@@ -53,7 +52,7 @@ class UserService extends BaseService implements IGridService
     /**
      * @param array $params
      * @return int|null
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function add(array $params): ?int
     {
@@ -91,7 +90,7 @@ class UserService extends BaseService implements IGridService
     /**
      * @param $id
      * @param array $params
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function edit($id, array $params): void
     {
@@ -114,13 +113,13 @@ class UserService extends BaseService implements IGridService
             $entity->setEnabled($params['enabled']);
             $entity->setRoles([$params['role']]);
 
-            if(!empty($params['password'])) {
+            if (!empty($params['password'])) {
                 $entity->setPassword($params['password']);
             }
 
             $this->validate($entity, null, ['api_user_edit']);
 
-            if(!empty($params['password'])) {
+            if (!empty($params['password'])) {
                 $encoded = $this->encoder->encodePassword($entity, $params['password']);
                 $entity->setPassword($encoded);
             }

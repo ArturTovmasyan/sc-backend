@@ -5,12 +5,10 @@ namespace App\Service;
 use App\Entity\Customer;
 use App\Entity\Job;
 use App\Exception\CustomerNotFoundException;
+use App\Exception\JobNotFoundException;
 use App\Model\JobStatus;
 use App\Repository\CustomerRepository;
 use App\Repository\JobRepository;
-use App\Exception\JobNotFoundException;
-use App\Service\BaseService;
-use App\Service\IGridService;
 use Doctrine\ORM\QueryBuilder;
 
 /**
@@ -45,6 +43,7 @@ class JobService extends BaseService implements IGridService
     /**
      * @param $id
      * @return Job|null|object
+     * @throws \Doctrine\ORM\NonUniqueResultException
      */
     public function getById($id)
     {

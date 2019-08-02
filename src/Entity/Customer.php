@@ -286,6 +286,18 @@ class Customer
     private $jobs;
 
     /**
+     * @var ArrayCollection
+     * @ORM\OneToMany(targetEntity="App\Entity\Vhost", mappedBy="customer", cascade={"remove", "persist"})
+     */
+    private $vhosts;
+
+    public function __construct()
+    {
+        $this->jobs = new ArrayCollection();
+        $this->vhosts = new ArrayCollection();
+    }
+
+    /**
      * @return int
      */
     public function getId()

@@ -22,6 +22,7 @@ class CustomerController extends BaseController
      * @param CustomerService $customerService
      * @return JsonResponse
      * @throws \ReflectionException
+     * @throws \Throwable
      */
     public function gridAction(Request $request, CustomerService $customerService)
     {
@@ -56,7 +57,7 @@ class CustomerController extends BaseController
      * @param Request $request
      * @param CustomerService $customerService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function listAction(Request $request, CustomerService $customerService)
     {
@@ -72,9 +73,11 @@ class CustomerController extends BaseController
      * @IsGranted("ROLE_ADMIN")
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_customer_get", methods={"GET"})
      *
-     * @param CustomerService $customerService
+     * @param Request $request
      * @param $id
+     * @param CustomerService $customerService
      * @return JsonResponse
+     * @throws \Doctrine\ORM\NonUniqueResultException
      */
     public function getAction(Request $request, $id, CustomerService $customerService)
     {
@@ -93,7 +96,7 @@ class CustomerController extends BaseController
      * @param Request $request
      * @param CustomerService $customerService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function addAction(Request $request, CustomerService $customerService)
     {
@@ -125,7 +128,7 @@ class CustomerController extends BaseController
      * @param $id
      * @param CustomerService $customerService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function editAction(Request $request, $id, CustomerService $customerService)
     {
@@ -152,6 +155,7 @@ class CustomerController extends BaseController
      * @IsGranted("ROLE_ADMIN")
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_customer_delete", methods={"DELETE"})
      *
+     * @param Request $request
      * @param $id
      * @param CustomerService $customerService
      * @return JsonResponse

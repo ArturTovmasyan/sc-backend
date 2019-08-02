@@ -88,7 +88,6 @@ class CustomerCreateCommand extends Command
     private function createCustomer($customer, OutputInterface $output)
     {
         $domain = $customer->getDomain();
-        $domain_sc = preg_replace("/[^A-Za-z0-9]+/", "_", $domain);
 
         $vhost_file_name = sprintf("001-%s.conf", $domain);
         $vhost_file_path = sprintf("/etc/apache2/sites-available/%s", $vhost_file_name);

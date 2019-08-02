@@ -3,10 +3,8 @@
 namespace App\Service;
 
 use App\Entity\Customer;
-use App\Repository\CustomerRepository;
 use App\Exception\CustomerNotFoundException;
-use App\Service\BaseService;
-use App\Service\IGridService;
+use App\Repository\CustomerRepository;
 use Doctrine\ORM\QueryBuilder;
 
 /**
@@ -41,6 +39,7 @@ class CustomerService extends BaseService implements IGridService
     /**
      * @param $id
      * @return Customer|null|object
+     * @throws \Doctrine\ORM\NonUniqueResultException
      */
     public function getById($id)
     {

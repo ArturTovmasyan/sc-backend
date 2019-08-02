@@ -14,6 +14,9 @@ interface IGridService
      */
     public function gridSelect(QueryBuilder $queryBuilder, $params);
 
-    /** @return array */
+    /**
+     * @param $params
+     * @return array
+     */
     public function list($params);
 }

@@ -3,10 +3,8 @@
 namespace App\Service;
 
 use App\Entity\Vhost;
-use App\Repository\VhostRepository;
 use App\Exception\VhostNotFoundException;
-use App\Service\BaseService;
-use App\Service\IGridService;
+use App\Repository\VhostRepository;
 use Doctrine\ORM\QueryBuilder;
 
 /**
@@ -41,6 +39,7 @@ class VhostService extends BaseService implements IGridService
     /**
      * @param $id
      * @return Vhost|null|object
+     * @throws \Doctrine\ORM\NonUniqueResultException
      */
     public function getById($id)
     {

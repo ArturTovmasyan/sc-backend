@@ -22,6 +22,7 @@ class VhostController extends BaseController
      * @param VhostService $vhostService
      * @return JsonResponse
      * @throws \ReflectionException
+     * @throws \Throwable
      */
     public function gridAction(Request $request, VhostService $vhostService)
     {
@@ -56,7 +57,7 @@ class VhostController extends BaseController
      * @param Request $request
      * @param VhostService $vhostService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function listAction(Request $request, VhostService $vhostService)
     {
@@ -72,9 +73,11 @@ class VhostController extends BaseController
      * @IsGranted("ROLE_ADMIN")
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_vhost_get", methods={"GET"})
      *
-     * @param VhostService $vhostService
+     * @param Request $request
      * @param $id
+     * @param VhostService $vhostService
      * @return JsonResponse
+     * @throws \Doctrine\ORM\NonUniqueResultException
      */
     public function getAction(Request $request, $id, VhostService $vhostService)
     {
@@ -93,7 +96,7 @@ class VhostController extends BaseController
      * @param Request $request
      * @param VhostService $vhostService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function addAction(Request $request, VhostService $vhostService)
     {
@@ -127,7 +130,7 @@ class VhostController extends BaseController
      * @param $id
      * @param VhostService $vhostService
      * @return JsonResponse
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function editAction(Request $request, $id, VhostService $vhostService)
     {
@@ -156,6 +159,7 @@ class VhostController extends BaseController
      * @IsGranted("ROLE_ADMIN")
      * @Route("/{id}", requirements={"id"="\d+"}, name="api_vhost_delete", methods={"DELETE"})
      *
+     * @param Request $request
      * @param $id
      * @param VhostService $vhostService
      * @return JsonResponse

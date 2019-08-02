@@ -8,10 +8,10 @@ class ResponseCode
     /**
      * Success codes
      */
-    const RECOVERY_LINK_SENT_TO_EMAIL   = 230;
-    const INVITATION_LINK_SENT_TO_EMAIL = 231;
-    const RECOVERY_LINK_INVALID         = 232;
-    const ACTIVATION_LINK_INVALID       = 233;
+    const RECOVERY_LINK_SENT_TO_EMAIL            = 230;
+    const INVITATION_LINK_SENT_TO_EMAIL          = 231;
+    const RECOVERY_LINK_INVALID                  = 232;
+    const ACTIVATION_LINK_INVALID                = 233;
 
     /**
      * Error codes
@@ -25,6 +25,8 @@ class ResponseCode
     const ROLE_NOT_FOUND_EXCEPTION               = 615;
     const INVALID_GRANT_CONFIG                   = 617;
     const ROLE_SYNC_ERROR                        = 618;
+    const HELP_OBJECT_NOT_FOUND_EXCEPTION        = 619;
+    const HELP_CATEGORY_NOT_FOUND_EXCEPTION      = 620;
 
     /**
      * @var array
@@ -43,6 +45,8 @@ class ResponseCode
         self::JOB_NOT_FOUND_EXCEPTION                     => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Job not found.'],
         self::VHOST_NOT_FOUND_EXCEPTION                   => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Vhost not found.'],
         self::ROLE_NOT_FOUND_EXCEPTION                    => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Role not found.'],
+        self::HELP_OBJECT_NOT_FOUND_EXCEPTION             => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Help Object not found.'],
+        self::HELP_CATEGORY_NOT_FOUND_EXCEPTION           => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Help Category not found.'],
         self::INVALID_GRANT_CONFIG                        => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Invalid grant configuration.'],
         self::ROLE_SYNC_ERROR                             => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Error occurred during synchronization of customer roles.'],
     ];

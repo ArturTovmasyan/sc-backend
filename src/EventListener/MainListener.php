@@ -114,8 +114,7 @@ class MainListener
 
     /**
      * @param FilterControllerEvent $event
-     * @throws \ReflectionException
-     * @throws \Exception
+     * @throws \Throwable
      */
     public function onCoreController(FilterControllerEvent $event)
     {
