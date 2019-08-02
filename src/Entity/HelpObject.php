@@ -140,6 +140,17 @@ class HelpObject
     private $grantInherit;
 
     /**
+     * @var string
+     * @ORM\Column(name="hash", type="string", length=64)
+     * @Groups({
+     *     "api_help_object_list",
+     *     "api_help_object_get",
+     *     "api_help_category_all"
+     * })
+     */
+    private $hash;
+
+    /**
      * @var HelpCategory
      * @ORM\ManyToOne(targetEntity="HelpCategory", inversedBy="objects")
      * @ORM\JoinColumn(name="id_help_category", referencedColumnName="id")
@@ -251,6 +262,22 @@ class HelpObject
     public function setgrantInherit(?bool $grantInherit): void
     {
         $this->grantInherit = $grantInherit;
+    }
+
+    /**
+     * @return string
+     */
+    public function getHash(): ?string
+    {
+        return $this->hash;
+    }
+
+    /**
+     * @param string $hash
+     */
+    public function setHash(?string $hash): void
+    {
+        $this->hash = $hash;
     }
 
     /**

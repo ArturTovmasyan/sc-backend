@@ -4,6 +4,7 @@ namespace App\Service;
 
 use App\Annotation\ValidationSerializedName;
 use App\Exception\ValidationException;
+use Aws\S3\S3Client;
 use Doctrine\Common\Annotations\Reader;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Security\Core\Encoder\UserPasswordEncoderInterface;
@@ -39,6 +40,11 @@ class BaseService
     protected $reader;
 
     /**
+     * @var S3Client
+     */
+    protected $s3client;
+
+    /**
      * BaseService constructor.
      * @param EntityManagerInterface $em
      * @param UserPasswordEncoderInterface $encoder
@@ -59,6 +65,15 @@ class BaseService
         $this->validator = $validator;
         $this->security = $security;
         $this->reader = $reader;
+
+        $this->s3client = new S3Client([
+            'region' => getenv('AWS_REGION'),
+            'version' => getenv('AWS_VERSION'),
+            'credentials' => [
+                'key' => getenv('AWS_ACCESS_KEY_ID'),
+                'secret' => getenv('AWS_SECRET_ACCESS_KEY'),
+            ],
+        ]);
     }
 
     /**

@@ -8,6 +8,9 @@ use App\Exception\HelpCategoryNotFoundException;
 use App\Exception\HelpObjectNotFoundException;
 use App\Repository\HelpCategoryRepository;
 use App\Repository\HelpObjectRepository;
+use DataURI\Exception\InvalidArgumentException;
+use DataURI\Exception\InvalidDataException;
+use DataURI\Parser;
 use Doctrine\ORM\NonUniqueResultException;
 use Doctrine\ORM\QueryBuilder;
 
@@ -78,10 +81,18 @@ class HelpObjectService extends BaseService implements IGridService
             $entity->setType($params['type']);
             $entity->setDescription($params['description']);
             $entity->setGrantInherit($params['grant_inherit']);
-            if(!$entity->isGrantInherit()) {
+            if (!$entity->isGrantInherit()) {
                 $entity->setGrants($params['grants']);
             }
             $entity->setCategory($category);
+
+            if (!empty($params['file'])) {
+                $hash = md5($entity->getId() . '_' . (new \DateTime())->format('Ymd_His'));
+                $this->saveToS3($hash, $params['file']);
+                $entity->setHash($hash);
+            } else {
+                $entity->setHash('');
+            }
 
             $this->validate($entity, null, ['api_help_object_add']);
 
@@ -130,10 +141,24 @@ class HelpObjectService extends BaseService implements IGridService
             $entity->setType($params['type']);
             $entity->setDescription($params['description']);
             $entity->setGrantInherit($params['grant_inherit']);
-            if(!$entity->isGrantInherit()) {
+            if (!$entity->isGrantInherit()) {
                 $entity->setGrants($params['grants']);
             }
             $entity->setCategory($category);
+
+            if (!empty($params['file'])) {
+                if (!empty($entity->getHash())) {
+                    $this->deleteFromS3($entity->getHash());
+                }
+                $hash = md5($entity->getId() . '_' . (new \DateTime())->format('Ymd_His'));
+                $entity->setHash($hash);
+                $this->saveToS3($hash, $params['file']);
+            } else {
+                if (!empty($entity->getHash())) {
+                    $this->deleteFromS3($entity->getHash());
+                }
+                $entity->setHash('');
+            }
 
             $this->validate($entity, null, ['api_help_object_edit']);
 
@@ -164,6 +189,10 @@ class HelpObjectService extends BaseService implements IGridService
 
             if ($entity === null) {
                 throw new HelpObjectNotFoundException();
+            }
+
+            if (!empty($entity->getHash())) {
+                $this->deleteFromS3($entity->getHash());
             }
 
             $this->em->remove($entity);
@@ -202,6 +231,10 @@ class HelpObjectService extends BaseService implements IGridService
              * @var HelpObject $entity
              */
             foreach ($entities as $entity) {
+                if (!empty($entity->getHash())) {
+                    $this->deleteFromS3($entity->getHash());
+                }
+
                 $this->em->remove($entity);
             }
 
@@ -212,5 +245,29 @@ class HelpObjectService extends BaseService implements IGridService
 
             throw $e;
         }
+    }
+
+    /**
+     * @throws InvalidDataException
+     * @throws InvalidArgumentException
+     */
+    private function saveToS3($hash, $base64)
+    {
+        $parseFile = Parser::parse($base64);
+
+        $this->s3client->putObject([
+            'Bucket' => getenv('AWS_BUCKET_HELP'),
+            'Key' => $hash,
+            'Body' => $parseFile->getData(),
+            'ContentType' => $parseFile->getMimeType()
+        ]);
+    }
+
+    private function deleteFromS3($hash)
+    {
+        $this->s3client->deleteObject([
+            'Bucket' => getenv('AWS_BUCKET_HELP'),
+            'Key' => $hash
+        ]);
     }
 }

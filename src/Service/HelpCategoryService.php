@@ -258,12 +258,18 @@ class HelpCategoryService extends BaseService implements IGridService
                     continue;
                 }
 
+                $cmd = $this->s3client->getCommand('GetObject', [
+                    'Bucket' => getenv('AWS_BUCKET_HELP'),
+                    'Key'    => $object->getHash(),
+                ]);
+                $request = $this->s3client->createPresignedRequest($cmd, '+20 minutes');
+
                 $children[] = [
                     'key' => $object->getId(),
                     'type' => $object->getType(),
                     'title' => $object->getTitle(),
                     'description' => $object->getTitle(),
-                    's3url' => '<url>',
+                    'url' => (string)$request->getUri(),
                     'isLeaf' => true
                 ];
             }

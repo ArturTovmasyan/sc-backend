@@ -108,7 +108,8 @@ class HelpObjectController extends BaseController
                 'type' => $request->get('type'),
                 'grants' => $request->get('grants'),
                 'grant_inherit' => $request->get('grant_inherit'),
-                'category_id' => $request->get('category_id')
+                'category_id' => $request->get('category_id'),
+                'file' => $request->get('file')
             ]
         );
 
@@ -139,7 +140,8 @@ class HelpObjectController extends BaseController
                 'type' => $request->get('type'),
                 'grants' => $request->get('grants'),
                 'grant_inherit' => $request->get('grant_inherit'),
-                'category_id' => $request->get('category_id')
+                'category_id' => $request->get('category_id'),
+                'file' => $request->get('file')
             ]
         );
 
