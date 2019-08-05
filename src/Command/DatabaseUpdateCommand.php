@@ -93,7 +93,7 @@ class DatabaseUpdateCommand extends Command
         $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
 
         $process = new Process(
-            [$path['php'], $path['symfony_console'], 'doctrine:schema:update', '--dump-sql', '--force'],
+            [$path['php'], $path['symfony_console'], 'doctrine:schema:update', '--dump-sql', '--force', '--complete'],
             null, $this->env
         );
 
