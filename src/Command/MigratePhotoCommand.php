@@ -101,7 +101,7 @@ class MigratePhotoCommand extends Command
 
         $process = new Process(
             [$path['php'], $path['symfony_console'], 'app:migrate:photos', '--json', $json_path],
-            null, $this->env
+            null, $this->env, null, 3600
         );
 
         $process->run();
