@@ -15,12 +15,15 @@ use BackupManager\Filesystems\LocalFilesystem;
 use BackupManager\Manager;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Command\LockableTrait;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
 class DatabaseBackupCommand extends Command
 {
+    use LockableTrait;
+
     protected static $defaultName = 'app:database:backup';
 
     /** @var EntityManagerInterface */
@@ -44,6 +47,12 @@ class DatabaseBackupCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
+        if (!$this->lock()) {
+            $output->writeln('The command is already running in another process.');
+
+            return 0;
+        }
+
         try {
             $date_string = (new \DateTime())->format('Ymd');
             $datetime_string = (new \DateTime())->format('Ymd_His');
@@ -110,6 +119,10 @@ class DatabaseBackupCommand extends Command
             dump($e->getMessage());
             dump($e->getTraceAsString());
         }
+
+        $this->release();
+
+        return 0;
     }
 
     private function createManager($date_string, $databases)

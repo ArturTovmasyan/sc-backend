@@ -5,6 +5,7 @@ namespace App\Command;
 use App\Entity\Vhost;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Command\LockableTrait;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;
@@ -12,9 +13,11 @@ use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 use Symfony\Component\Process\Process;
 
-class DatabaseUpdateCommand extends Command
+class CustomerNotifyCommand extends Command
 {
-    protected static $defaultName = 'app:database:update';
+    use LockableTrait;
+
+    protected static $defaultName = 'app:customer:notify';
 
     /** @var EntityManagerInterface */
     private $em;
@@ -37,11 +40,17 @@ class DatabaseUpdateCommand extends Command
     protected function configure()
     {
         $this
-            ->setHelp('Database schema update for all customers command.');
+            ->setHelp('Notify for all customers command.');
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
+        if (!$this->lock()) {
+            $output->writeln('The command is already running in another process.');
+
+            return 0;
+        }
+
         $vhosts = $this->em->getRepository(Vhost::class)->findAll();
 
         try {
@@ -58,8 +67,8 @@ class DatabaseUpdateCommand extends Command
                 $mailer = [
                     'host' => $vhost->getMailerHost(),
                     'proto' => $vhost->getMailerProto(),
-                    'user' =>  $vhost->getMailerUser(),
-                    'pass' =>  $vhost->getMailerPassword(),
+                    'user' => $vhost->getMailerUser(),
+                    'pass' => $vhost->getMailerPassword(),
                 ];
 
                 $dir_name = [
@@ -67,34 +76,32 @@ class DatabaseUpdateCommand extends Command
                     'var' => sprintf("%s/var", $vhost->getWwwRoot()),
                 ];
 
-                $output->writeln(sprintf("Updating database structure for '%s'...", $domain));
-
-                $this->filesystem->remove(sprintf("%s/cache/prod/*", $dir_name['var']));
-                $this->filesystem->remove(sprintf("%s/cache/dev/*", $dir_name['var']));
+                $output->writeln(sprintf("Notify for '%s'...", $domain));
 
                 $this->createEnv($db, $mailer, $dir_name, $domain);
-                $this->updateDatabase($dir_name['root']);
+                $this->customerNotify($dir_name['root']);
 
-                $this->filesystem->remove(sprintf("%s/cache/prod/*", $dir_name['var']));
-                $this->filesystem->remove(sprintf("%s/cache/dev/*", $dir_name['var']));
-
-                $output->writeln(sprintf("Completed database structure update for '%s'.", $domain));
+                $output->writeln(sprintf("Completed notify for '%s'.", $domain));
             }
         } catch (\Throwable $e) {
             dump($e->getMessage());
             dump($e->getTraceAsString());
         }
+
+        $this->release();
+
+        return 0;
     }
 
-    private function updateDatabase($root_dir)
+    private function customerNotify($root_dir)
     {
         $path = [];
         $path['php'] = '/usr/bin/php';
         $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
 
         $process = new Process(
-            [$path['php'], $path['symfony_console'], 'doctrine:schema:update', '--dump-sql', '--force', '--complete'],
-            null, $this->env
+            [$path['php'], $path['symfony_console'], 'app:notify'],
+            null, $this->env, null, 3600
         );
 
         $process->run();
