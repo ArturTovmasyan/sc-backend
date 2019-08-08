@@ -177,7 +177,7 @@ WHERE `%1$s`.`tbl_resident_admission`.`id_resident`=%2$s AND `%1$s`.`tbl_residen
         }, $results);
 
         foreach($results as $result) {
-            $new_bed = \array_key_first($result);
+            $new_bed = $this->array_key_first($result);
 
             foreach($result as $key => $bed_value) {
                 if($key !== $new_bed) {
@@ -266,5 +266,12 @@ WHERE `%1$s`.`tbl_resident_admission`.`id_resident`=%2$s AND `%1$s`.`tbl_residen
             $stmt = $this->em->getConnection()->prepare($query);
             $stmt->execute();
         }
+    }
+
+    private function array_key_first(array $arr) {
+        foreach($arr as $key => $unused) {
+            return $key;
+        }
+        return NULL;
     }
 }
