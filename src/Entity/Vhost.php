@@ -297,7 +297,7 @@ class Vhost
      *      "api_vhost_get",
      * })
      */
-    private $mailerPassword;
+    private $mailerUser;
 
     /**
      * @var string
@@ -318,7 +318,7 @@ class Vhost
      *      "api_vhost_get",
      * })
      */
-    private $mailerUser;
+    private $mailerPassword;
 
     /**
      * @return int
