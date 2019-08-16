@@ -7,6 +7,7 @@ use App\Exception\ValidationException;
 use Aws\S3\S3Client;
 use Doctrine\Common\Annotations\Reader;
 use Doctrine\ORM\EntityManagerInterface;
+use Psr\Container\ContainerInterface;
 use Symfony\Component\Security\Core\Encoder\UserPasswordEncoderInterface;
 use Symfony\Component\Security\Core\Security;
 use Symfony\Component\Validator\Validator\ValidatorInterface;
@@ -45,6 +46,11 @@ class BaseService
     protected $s3client;
 
     /**
+     * @var S3Client
+     */
+    protected $container;
+
+    /**
      * BaseService constructor.
      * @param EntityManagerInterface $em
      * @param UserPasswordEncoderInterface $encoder
@@ -53,6 +59,7 @@ class BaseService
      * @param Reader $reader
      */
     public function __construct(
+        ContainerInterface $container,
         EntityManagerInterface $em,
         UserPasswordEncoderInterface $encoder,
         ValidatorInterface $validator,
@@ -60,6 +67,7 @@ class BaseService
         Reader $reader
     )
     {
+        $this->container = $container;
         $this->em = $em;
         $this->encoder = $encoder;
         $this->validator = $validator;
