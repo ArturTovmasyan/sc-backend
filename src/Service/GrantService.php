@@ -18,8 +18,8 @@ use Symfony\Component\Yaml\Yaml;
  */
 class GrantService
 {
-//    private static $GRANT_CONFIG_PATH = '/srv/_vcs/backend/src/Api/V1/Common/Resources/config/grants.yaml';
-    private static $GRANT_CONFIG_PATH = 'D:/SVN/senior-care.backend/src/Api/V1/Common/Resources/config/grants.yaml';
+    private static $GRANT_CONFIG_PATH = '/srv/_vcs/backend/src/Api/V1/Common/Resources/config/grants.yaml';
+//    private static $GRANT_CONFIG_PATH = 'D:/SVN/senior-care.backend/src/Api/V1/Common/Resources/config/grants.yaml';
 
     /** @var ContainerInterface */
     private $container;

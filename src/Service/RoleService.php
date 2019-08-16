@@ -482,7 +482,7 @@ class RoleService extends BaseService implements IGridService
 
             $spreadsheet->removeSheetByIndex(0);
 
-            $files[$domain] = sprintf('D:/_mc_%s', md5((new \DateTime())->format('Ymd_His')));
+            $files[$domain] = sprintf('/tmp/_mc_%s', md5((new \DateTime())->format('Ymd_His')));
 
             $writer = new Xlsx($spreadsheet);
             $writer->save($files[$domain]);
