@@ -493,7 +493,7 @@ class RoleService extends BaseService implements IGridService
 
         $zip = new \ZipArchive();
 
-        $zipName = 'seniorcaresw_roles.zip';
+        $zipName = sprintf('%s/var/tmp/seniorcaresw_roles.zip', $this->container->get('kernel')->getProjectDir());
         $zip->open($zipName,  \ZipArchive::CREATE);
 
         foreach ($files as $domain => $file) {
