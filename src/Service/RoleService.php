@@ -498,7 +498,6 @@ class RoleService extends BaseService implements IGridService
 
         foreach ($files as $domain => $file) {
             $zip->addFromString(sprintf('%s.xlsx', $domain),  file_get_contents($file));
-            @unlink($file);
         }
         $zip->close();
 
@@ -507,7 +506,10 @@ class RoleService extends BaseService implements IGridService
         $response->headers->set('Content-Disposition', 'attachment;filename=' . $zipName . '');
         $response->headers->set('Content-length', filesize($zipName));
 
-        @unlink($zipName);
+        $files['zip'] = $zipName;
+        foreach ($files as $domain => $file) {
+            @unlink($file);
+        }
 
         return $response;
     }
