@@ -7,6 +7,7 @@ use App\Service\GrantService;
 use App\Service\RoleService;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\IsGranted;
 
@@ -56,13 +57,13 @@ class RoleController extends BaseController
      * @return JsonResponse
      * @throws \Throwable
      */
-    public function listAction(Request $request, RoleService $roleService)
+    public function listAction(Request $request, RoleService $roleService, GrantService $grantService)
     {
-        return $this->respondList(
-            $request,
-            Role::class,
-            'api_role_list',
-            $roleService
+        return $this->respondSuccess(
+            JsonResponse::HTTP_OK,
+            '',
+            $roleService->getRoles($grantService),
+            ['api_role_list']
         );
     }
 
@@ -99,6 +100,7 @@ class RoleController extends BaseController
     {
         $id = $roleService->add(
             [
+                'domain' => $request->get('domain'),
                 'name' => $request->get('name'),
                 'grants' => $request->get('grants')
             ]
@@ -126,6 +128,7 @@ class RoleController extends BaseController
         $roleService->edit(
             $id,
             [
+                'domain' => $request->get('domain'),
                 'name' => $request->get('name'),
                 'grants' => $request->get('grants')
             ]
@@ -164,7 +167,45 @@ class RoleController extends BaseController
      */
     public function deleteBulkAction(Request $request, RoleService $roleService)
     {
-        $roleService->removeBulk($request->get('ids'));
+        $roleService->removeBulk($request->get('domain'), $request->get('ids'));
+
+        return $this->respondSuccess(JsonResponse::HTTP_NO_CONTENT);
+    }
+
+    /**
+     * @IsGranted("ROLE_ADMIN")
+     * @Route("/excel", name="api_role_get_excel", methods={"GET"})
+     *
+     * @param Request $request
+     * @param RoleService $roleService
+     * @param GrantService $grantService
+     * @return Response
+     * @throws \Doctrine\DBAL\DBALException
+     * @throws \PhpOffice\PhpSpreadsheet\Exception
+     */
+    public function excelAction(Request $request, RoleService $roleService, GrantService $grantService)
+    {
+        return $roleService->exportExcel($grantService);
+    }
+
+    /**
+     * @IsGranted("ROLE_ADMIN")
+     * @Route("/sync", name="api_role_sync", methods={"POST"})
+     *
+     * @param Request $request
+     * @param RoleService $roleService
+     * @param GrantService $grantService
+     * @return Response
+     * @throws \Throwable
+     */
+    public function syncAction(Request $request, RoleService $roleService)
+    {
+        $roleService->sync([
+            'id' => $request->get('id'),
+            'name' => $request->get('name'),
+            'domain' => $request->get('domain'),
+            'domains' => $request->get('domains'),
+        ]);
 
         return $this->respondSuccess(JsonResponse::HTTP_NO_CONTENT);
     }

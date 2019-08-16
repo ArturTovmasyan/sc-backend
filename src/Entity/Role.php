@@ -59,6 +59,7 @@ class Role
      *     "api_role_get"
      * })
      * @Assert\NotBlank(groups={
+     *     "api_role_customer",
      *     "api_role_add",
      *     "api_role_edit"
      * })
@@ -119,6 +120,10 @@ class Role
      */
     public function getGrants(): ?array
     {
+        if(is_string($this->grants)) {
+            $this->grants = json_decode($this->grants, true);
+        }
+
         return $this->grants;
     }
 

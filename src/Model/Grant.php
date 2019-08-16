@@ -17,6 +17,19 @@ class Grant
     public static $LEVEL_UNDELETE = 5;
 
 
+    public static function identity2str(?int $identity) : string
+    {
+        switch ($identity) {
+            case self::$IDENTITY_SEVERAL:
+                return "SEVERAL";
+            case self::$IDENTITY_OWN:
+                return "OWN";
+            case self::$IDENTITY_ALL:
+            default:
+                return "ALL";
+        }
+    }
+
     public static function str2identity(?string $identity) : int
     {
         switch ($identity) {
@@ -27,6 +40,25 @@ class Grant
             case "ALL":
             default:
                 return self::$IDENTITY_ALL;
+        }
+    }
+
+    public static function level2str(?int $level) : string
+    {
+        switch ($level) {
+            case self::$LEVEL_VIEW:
+                return "VIEW";
+            case self::$LEVEL_EDIT:
+                return "EDIT";
+            case self::$LEVEL_CREATE:
+                return "CREATE";
+            case self::$LEVEL_DELETE:
+                return "DELETE";
+            case self::$LEVEL_UNDELETE:
+                return"UNDELETE";
+            case self::$LEVEL_NONE:
+            default:
+                return "NONE";
         }
     }
 

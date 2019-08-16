@@ -286,15 +286,14 @@ class Customer
     private $jobs;
 
     /**
-     * @var ArrayCollection
-     * @ORM\OneToMany(targetEntity="App\Entity\Vhost", mappedBy="customer", cascade={"remove", "persist"})
+     * @var Vhost
+     * @ORM\OneToOne(targetEntity="App\Entity\Vhost", mappedBy="customer", cascade={"remove", "persist"})
      */
-    private $vhosts;
+    private $vhost;
 
     public function __construct()
     {
         $this->jobs = new ArrayCollection();
-        $this->vhosts = new ArrayCollection();
     }
 
     /**
@@ -472,4 +471,21 @@ class Customer
     {
         $this->jobs = $jobs;
     }
+
+    /**
+     * @return Vhost
+     */
+    public function getVhost(): ?Vhost
+    {
+        return $this->vhost;
+    }
+
+    /**
+     * @param Vhost $vhost
+     */
+    public function setVhost(?Vhost $vhost): void
+    {
+        $this->vhost = $vhost;
+    }
+
 }

@@ -27,6 +27,7 @@ class ResponseCode
     const ROLE_SYNC_ERROR                        = 618;
     const HELP_OBJECT_NOT_FOUND_EXCEPTION        = 619;
     const HELP_CATEGORY_NOT_FOUND_EXCEPTION      = 620;
+    const DOMAIN_NOT_FOUND_EXCEPTION             = 621;
 
     /**
      * @var array
@@ -49,5 +50,6 @@ class ResponseCode
         self::HELP_CATEGORY_NOT_FOUND_EXCEPTION           => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Help Category not found.'],
         self::INVALID_GRANT_CONFIG                        => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Invalid grant configuration.'],
         self::ROLE_SYNC_ERROR                             => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Error occurred during synchronization of customer roles.'],
+        self::DOMAIN_NOT_FOUND_EXCEPTION                  => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Domain not found.'],
     ];
 }

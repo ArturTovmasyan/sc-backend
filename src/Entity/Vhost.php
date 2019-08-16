@@ -95,7 +95,7 @@ class Vhost
 
     /**
      * @var Customer
-     * @ORM\ManyToOne(targetEntity="Customer", inversedBy="vhosts", cascade={"persist"})
+     * @ORM\OneToOne(targetEntity="Customer", inversedBy="vhost", cascade={"persist"})
      * @ORM\JoinColumns({
      *   @ORM\JoinColumn(name="id_customer", referencedColumnName="id", onDelete="CASCADE")
      * })

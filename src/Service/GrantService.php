@@ -18,8 +18,8 @@ use Symfony\Component\Yaml\Yaml;
  */
 class GrantService
 {
-    private static $GRANT_CONFIG_PATH = '/srv/_vcs/backend/src/Api/V1/Common/Resources/config/grants.yaml';
-//    private static $GRANT_CONFIG_PATH = 'D:/SVN/senior-care.backend/src/Api/V1/Common/Resources/config/grants.yaml';
+//    private static $GRANT_CONFIG_PATH = '/srv/_vcs/backend/src/Api/V1/Common/Resources/config/grants.yaml';
+    private static $GRANT_CONFIG_PATH = 'D:/SVN/senior-care.backend/src/Api/V1/Common/Resources/config/grants.yaml';
 
     /** @var ContainerInterface */
     private $container;
@@ -182,7 +182,7 @@ class GrantService
         }
     }
 
-    private static function flatten($array, &$flat = [], $keySeparator = '-', $parent_key = '')
+    private static function flatten($array, &$flat = [], $keySeparator = '-', $parent_key = '', $parent_title = null)
     {
         if (array_key_exists('children', $array)) {
             foreach ($array['children'] as $name => $value) {
@@ -192,5 +192,13 @@ class GrantService
         } else {
             $flat[$parent_key] = $array;
         }
+    }
+
+    public static function grantFlatten($grant) {
+        $flat = [];
+
+        self::flatten(['children' => $grant], $flat);
+
+        return $flat;
     }
 }
