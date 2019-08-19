@@ -209,4 +209,25 @@ class RoleController extends BaseController
 
         return $this->respondSuccess(JsonResponse::HTTP_NO_CONTENT);
     }
+
+    /**
+     * @IsGranted("ROLE_ADMIN")
+     * @Route("/email", name="api_role_sync", methods={"POST"})
+     *
+     * @param Request $request
+     * @param RoleService $roleService
+     * @return Response
+     * @throws \Throwable
+     */
+    public function emailAction(Request $request, RoleService $roleService)
+    {
+        $roleService->email([
+            'domain' => $request->get('domain'),
+            'roles' => $request->get('roles'),
+            'subject' => $request->get('subject'),
+            'message' => $request->get('message'),
+        ]);
+
+        return $this->respondSuccess(JsonResponse::HTTP_NO_CONTENT);
+    }
 }

@@ -52,7 +52,12 @@ class RoleService extends BaseService implements IGridService
 
         'SELECT_NAME' => "SELECT * FROM `%1\$s`.`tbl_role` WHERE `%1\$s`.`tbl_role`.`name`='%2\$s'",
         'SELECT_ID' => "SELECT * FROM `%1\$s`.`tbl_role` WHERE `%1\$s`.`tbl_role`.`id`='%2\$d'",
-        'SELECT_IDS' => "SELECT * FROM `%1\$s`.`tbl_role` WHERE `%1\$s`.`tbl_role`.`id` IN(%2\$s)"
+        'SELECT_IDS' => "SELECT * FROM `%1\$s`.`tbl_role` WHERE `%1\$s`.`tbl_role`.`id` IN(%2\$s)",
+
+        'USER_ROLE' => "SELECT `%1\$s`.`tbl_user`.`first_name`, `%1\$s`.`tbl_user`.`last_name`, `%1\$s`.`tbl_user`.`email` FROM `%1\$s`.`tbl_role`"
+            ."INNER JOIN `%1\$s`.`tbl_user_role` ON `%1\$s`.`tbl_user_role`.`id_role`=`%1\$s`.`tbl_role`.`id`"
+            ."INNER JOIN `%1\$s`.`tbl_user` ON `%1\$s`.`tbl_user_role`.`id_user`=`%1\$s`.`tbl_user`.`id`"
+            ."WHERE `%1\$s`.`tbl_role`.`id` IN(%2\$s)"
     ];
 
     /**
@@ -599,5 +604,60 @@ class RoleService extends BaseService implements IGridService
         }
 
         return $db_name;
+    }
+
+    /**
+     * @param array $params
+     * @throws \Throwable
+     */
+    public function email(array $params)
+    {
+        try {
+            $this->em->getConnection()->beginTransaction();
+
+            $domain = $params['domain'];
+            $roles = $params['roles'];
+            $subject = $params['subject'];
+            $message = $params['message'];
+
+            $domain_db_name = $this->getDomainDatabase($domain);
+
+            if ($domain === null || $domain_db_name === null) {
+                throw new DomainNotFoundException();
+            }
+
+            if(empty($subject)) {
+                throw new ValidationException(['subject' => 'This value should not be blank.']);
+            }
+
+            if(empty($message)) {
+                throw new ValidationException(['message' => 'This value should not be blank.']);
+            }
+
+            $query = sprintf(self::$QUERY['USER_ROLE'], $domain_db_name, implode(',', $roles));
+            $stmt = $this->em->getConnection()->prepare($query);
+            $stmt->execute();
+
+            $users = $stmt->fetchAll(FetchMode::ASSOCIATIVE);
+
+            $emails = [];
+
+            foreach ($users as $user) {
+                $emails[] = $user['email'];
+            }
+
+            $message = (new \Swift_Message($subject))
+                ->setFrom('support@seniorcaresw.com')
+                ->setBcc($emails)
+                ->setBody($message)
+            ;
+
+            $this->container->get('mailer')->send($message);
+
+            $this->em->getConnection()->commit();
+        } catch (\Throwable $e) {
+            $this->em->getConnection()->rollBack();
+            throw new RoleSyncException($e->getMessage());
+        }
     }
 }
