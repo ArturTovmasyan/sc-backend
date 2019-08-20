@@ -15,7 +15,7 @@ use Symfony\Component\Routing\Annotation\Route;
 class AnonymousController extends BaseController
 {
     /**
-     * @Route("", name="api_help_category_all", methods={"POST"})
+     * @Route("/help", name="api_help_category_all", methods={"POST"})
      *
      * @param Request $request
      * @param HelpCategoryService $helpCategoryService
@@ -33,7 +33,7 @@ class AnonymousController extends BaseController
     }
 
     /**
-     * @Route("config", name="api_global_config", methods={"GET"})
+     * @Route("/config", name="api_global_config", methods={"GET"})
      *
      * @param Request $request
      * @param HelpCategoryService $helpCategoryService
@@ -45,7 +45,7 @@ class AnonymousController extends BaseController
         return $this->respondSuccess(
             JsonResponse::HTTP_OK,
             '',
-            $configService->list([]),
+            $configService->assoc(),
             ['api_global_config']
         );
     }

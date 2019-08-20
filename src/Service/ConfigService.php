@@ -182,4 +182,17 @@ class ConfigService extends BaseService implements IGridService
             throw $e;
         }
     }
+
+    public function assoc()
+    {
+        $configs = $this->list([]);
+        $response = [];
+
+        /** @var Config $config */
+        foreach ($configs as $config) {
+            $response[$config->getName()] = $config->getValue();
+        }
+
+        return $response;
+    }
 }
