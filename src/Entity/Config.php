@@ -64,7 +64,8 @@ class Config
      * @ORM\Column(name="name", type="string", length=25, nullable=false)
      * @Groups({
      *     "api_config_list",
-     *     "api_config_get"
+     *     "api_config_get",
+     *     "api_global_config"
      * })
      */
     private $name;
@@ -74,7 +75,8 @@ class Config
      * @ORM\Column(name="value", type="string", length=255, nullable=false)
      * @Groups({
      *     "api_config_list",
-     *     "api_config_get"
+     *     "api_config_get",
+     *     "api_global_config"
      * })
      */
     private $value;
