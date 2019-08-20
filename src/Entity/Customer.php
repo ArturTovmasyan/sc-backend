@@ -2,7 +2,6 @@
 
 namespace App\Entity;
 
-use App\Model\Persistence\Entity\TimeAwareTrait;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
@@ -82,8 +81,6 @@ use App\Annotation\Grid;
  */
 class Customer
 {
-    use TimeAwareTrait;
-
     /**
      * @var int
      * @ORM\Column(type="integer")
