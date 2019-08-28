@@ -3,6 +3,7 @@
 namespace App\Service;
 
 use App\Entity\Customer;
+use App\Entity\EmailLog;
 use App\Entity\Role;
 use App\Entity\Vhost;
 use App\Exception\DomainNotFoundException;
@@ -616,7 +617,7 @@ class RoleService extends BaseService implements IGridService
             $this->em->getConnection()->beginTransaction();
 
             $domain = $params['domain'];
-            $roles = $params['roles'];
+            $roleIds = $params['roles'];
             $subject = $params['subject'];
             $message = $params['message'];
 
@@ -634,7 +635,20 @@ class RoleService extends BaseService implements IGridService
                 throw new ValidationException(['message' => 'This value should not be blank.']);
             }
 
-            $query = sprintf(self::$QUERY['USER_ROLE'], $domain_db_name, implode(',', $roles));
+            $query = sprintf(self::$QUERY['SELECT_IDS'], $domain_db_name, implode(',', $roleIds));
+            $stmt = $this->em->getConnection()->prepare($query);
+            $stmt->execute();
+
+            $roles = $stmt->fetchAll();
+
+            $role_names = [];
+
+            foreach ($roles as $role) {
+                $role_names[] = $role['name'];
+            }
+
+
+            $query = sprintf(self::$QUERY['USER_ROLE'], $domain_db_name, implode(',', $roleIds));
             $stmt = $this->em->getConnection()->prepare($query);
             $stmt->execute();
 
@@ -646,13 +660,23 @@ class RoleService extends BaseService implements IGridService
                 $emails[] = $user['email'];
             }
 
-            $message = (new \Swift_Message($subject))
+            $emailMessage = (new \Swift_Message($subject))
                 ->setFrom('support@seniorcaresw.com')
                 ->setBcc($emails)
                 ->setBody($message)
             ;
 
-            $this->container->get('mailer')->send($message);
+            $emailLog = new EmailLog();
+            $emailLog->setDomain($domain);
+            $emailLog->setSubject($subject);
+            $emailLog->setMessage($message);
+            $emailLog->setEmails(implode(', ', $emails));
+            $emailLog->setRoles(implode(', ', $role_names));
+            $emailLog->setDate(new \DateTime());
+            $emailLog->setStatus($this->container->get('mailer')->send($emailMessage));
+
+            $this->em->persist($emailLog);
+            $this->em->flush();
 
             $this->em->getConnection()->commit();
         } catch (\Throwable $e) {
