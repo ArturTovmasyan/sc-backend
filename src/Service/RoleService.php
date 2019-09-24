@@ -20,6 +20,7 @@ use PhpOffice\PhpSpreadsheet\Style\Color;
 use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\Validator\Constraints as Assert;
 
 /**
  * Class RoleService
@@ -620,6 +621,7 @@ class RoleService extends BaseService implements IGridService
             $roleIds = $params['roles'];
             $subject = $params['subject'];
             $message = $params['message'];
+            $cc = $params['cc'];
 
             $domain_db_name = $this->getDomainDatabase($domain);
 
@@ -660,6 +662,21 @@ class RoleService extends BaseService implements IGridService
                 $emails[] = $user['email'];
             }
 
+            if(!empty($cc)) {
+                $constraint = new Assert\All([
+                   new Assert\Email()
+                ]);
+                $violations = $this->validator->validate($cc, $constraint);
+
+                if(count($violations) > 0) {
+                    throw new ValidationException(['cc' => 'This field contains invalid email address(es).']);
+                }
+
+                $emails = array_merge($emails, $cc);
+            }
+
+            dd($emails);
+
             $emailMessage = (new \Swift_Message($subject))
                 ->setFrom('support@seniorcaresw.com')
                 ->setBcc($emails)
@@ -681,7 +698,11 @@ class RoleService extends BaseService implements IGridService
             $this->em->getConnection()->commit();
         } catch (\Throwable $e) {
             $this->em->getConnection()->rollBack();
-            throw new RoleSyncException($e->getMessage());
+            if($e instanceof ValidationException) {
+                throw $e;
+            } else {
+                throw new RoleSyncException($e->getMessage());
+            }
         }
     }
 }

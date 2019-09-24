@@ -226,6 +226,7 @@ class RoleController extends BaseController
             'roles' => $request->get('roles'),
             'subject' => $request->get('subject'),
             'message' => $request->get('message'),
+            'cc' => $request->get('cc'),
         ]);
 
         return $this->respondSuccess(JsonResponse::HTTP_NO_CONTENT);
