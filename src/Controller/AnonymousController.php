@@ -3,9 +3,11 @@
 namespace App\Controller;
 
 use App\Service\ConfigService;
+use App\Service\FeedbackService;
 use App\Service\HelpCategoryService;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\JsonResponse;
+use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 
 /**
@@ -36,7 +38,7 @@ class AnonymousController extends BaseController
      * @Route("/config", name="api_global_config", methods={"GET"})
      *
      * @param Request $request
-     * @param HelpCategoryService $helpCategoryService
+     * @param ConfigService $configService
      * @return JsonResponse
      * @throws \Throwable
      */
@@ -47,6 +49,35 @@ class AnonymousController extends BaseController
             '',
             $configService->assoc(),
             ['api_global_config']
+        );
+    }
+
+    /**
+     * @Route("/feedback", name="api_feedback", methods={"POST"})
+     *
+     * @param Request $request
+     * @param FeedbackService $feedbackService
+     * @return JsonResponse
+     * @throws \Throwable
+     */
+    public function feedbackAction(Request $request, FeedbackService $feedbackService)
+    {
+        $id = $feedbackService->add(
+            [
+                'domain' => $request->get('domain'),
+                'username' => $request->get('username'),
+                'email' => $request->get('email'),
+                'full_name' => $request->get('full_name'),
+                'subject' => $request->get('subject'),
+                'message' => $request->get('message'),
+                'date' => $request->get('date'),
+            ]
+        );
+
+        return $this->respondSuccess(
+            Response::HTTP_CREATED,
+            '',
+            [$id]
         );
     }
 }
