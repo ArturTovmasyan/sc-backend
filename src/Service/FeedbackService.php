@@ -66,7 +66,7 @@ class FeedbackService extends BaseService implements IGridService
             $entity->setFullName($params['full_name']);
             $entity->setSubject($params['subject']);
             $entity->setMessage($params['message']);
-            $entity->setDate($params['date']);
+            $entity->setDate(new \DateTime($params['date']));
 
             $this->validate($entity, null, ['api_feedback_add']);
 
