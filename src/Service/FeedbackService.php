@@ -83,4 +83,40 @@ class FeedbackService extends BaseService implements IGridService
 
         return $insert_id;
     }
+
+    /**
+     * @param $id
+     * @param array $params
+     * @throws \Throwable
+     */
+    public function edit($id, array $params)
+    {
+        try {
+
+            $this->em->getConnection()->beginTransaction();
+
+            /** @var FeedbackRepository $repo */
+            $repo = $this->em->getRepository(Feedback::class);
+
+            /** @var Feedback $entity */
+            $entity = $repo->getOne($id);
+
+            if ($entity === null) {
+                throw new FeedbackNotFoundException();
+            }
+
+            $entity->setStatus($params['status']);
+            $entity->setComments($params['comments']);
+
+            $this->validate($entity, null, ['api_feedback_edit']);
+
+            $this->em->persist($entity);
+            $this->em->flush();
+            $this->em->getConnection()->commit();
+        } catch (\Throwable $e) {
+            $this->em->getConnection()->rollBack();
+
+            throw $e;
+        }
+    }
 }

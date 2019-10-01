@@ -29,6 +29,7 @@ class ResponseCode
     const HELP_CATEGORY_NOT_FOUND_EXCEPTION      = 620;
     const DOMAIN_NOT_FOUND_EXCEPTION             = 621;
     const CONFIG_NOT_FOUND_EXCEPTION             = 622;
+    const FEEDBACK_NOT_FOUND_EXCEPTION           = 623;
 
     /**
      * @var array
@@ -53,5 +54,6 @@ class ResponseCode
         self::ROLE_SYNC_ERROR                             => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Error occurred during synchronization of customer roles.'],
         self::DOMAIN_NOT_FOUND_EXCEPTION                  => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Domain not found.'],
         self::CONFIG_NOT_FOUND_EXCEPTION                  => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Config not found.'],
+        self::FEEDBACK_NOT_FOUND_EXCEPTION                => ['httpCode' => Response::HTTP_BAD_REQUEST, 'message' => 'Feedback not found.'],
     ];
 }

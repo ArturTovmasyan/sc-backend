@@ -89,4 +89,29 @@ class FeedbackController extends BaseController
         );
     }
 
+    /**
+     * @IsGranted("ROLE_ADMIN")
+     * @Route("/{id}", requirements={"id"="\d+"}, name="api_feedback_edit", methods={"PUT"})
+     *
+     * @param Request $request
+     * @param $id
+     * @param FeedbackService $feedbackService
+     * @return JsonResponse
+     * @throws \Throwable
+     */
+    public function editAction(Request $request, $id, FeedbackService $feedbackService)
+    {
+        $feedbackService->edit(
+            $id,
+            [
+                'status' => $request->get('status'),
+                'comments' => $request->get('comments')
+            ]
+        );
+
+        return $this->respondSuccess(
+            JsonResponse::HTTP_CREATED
+        );
+    }
+
 }
