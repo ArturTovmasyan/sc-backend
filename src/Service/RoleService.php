@@ -279,10 +279,10 @@ class RoleService extends BaseService implements IGridService
 
         $roles['_mc'] = $this->em->getRepository(Role::class)->findAll();
 
-//        $query = sprintf(self::$QUERY['SELECT'], 'db_seniorcare_scpp');
-//        $stmt = $this->em->getConnection()->query($query);
-//        $roles['scpp.seniorcaresw.com']
-//            = $stmt->fetchAll(FetchMode::CUSTOM_OBJECT, Role::class);
+        $query = sprintf(self::$QUERY['SELECT'], 'db_seniorcare_scpp');
+        $stmt = $this->em->getConnection()->query($query);
+        $roles['scpp.seniorcaresw.com']
+            = $stmt->fetchAll(FetchMode::CUSTOM_OBJECT, Role::class);
 
         $vhosts = $this->em->getRepository(Vhost::class)->findAll();
         /** @var Vhost $vhost */
