@@ -552,7 +552,7 @@ class RoleService extends BaseService implements IGridService
             $stmt = $this->em->getConnection()->prepare($query);
             $stmt->execute();
 
-            /** @var Role[] $role */
+            /** @var Role[] $roles */
             $roles = $stmt->fetchAll(FetchMode::CUSTOM_OBJECT, Role::class);
 
             if (empty($roles)) {
@@ -578,6 +578,53 @@ class RoleService extends BaseService implements IGridService
                     $this->syncCustomerRole($cdomain, 'INSERT', null, $role->getName(), $role->getGrants());
                 }
             }
+
+            $this->em->getConnection()->commit();
+        } catch (\Throwable $e) {
+            $this->em->getConnection()->rollBack();
+            throw new RoleSyncException($e->getMessage());
+        }
+    }
+
+    /**
+     * @param array $params
+     * @throws \Throwable
+     */
+    public function duplicate(array $params)
+    {
+        try {
+            $this->em->getConnection()->beginTransaction();
+
+            $domain = $params['domain'];
+            $id = $params['id'];
+            $name= $params['name'];
+
+            $domain_db_name = $this->getDomainDatabase($domain);
+
+            if ($domain === null || $domain_db_name === null) {
+                throw new DomainNotFoundException();
+            }
+
+            if ($id === null) {
+                throw new RoleNotFoundException();
+            }
+
+            $query = sprintf(self::$QUERY['SELECT_ID'], $domain_db_name, $id);
+            $stmt = $this->em->getConnection()->prepare($query);
+            $stmt->execute();
+
+            /** @var Role[] $roles */
+            $roles = $stmt->fetchAll(FetchMode::CUSTOM_OBJECT, Role::class);
+
+            if (empty($roles)) {
+                throw new RoleNotFoundException();
+            }
+
+            $role = $roles[0];
+
+            $query = sprintf(self::$QUERY['INSERT'], $domain_db_name, $id, $name, json_encode($role->getGrants()));
+            $stmt = $this->em->getConnection()->prepare($query);
+            $stmt->execute();
 
             $this->em->getConnection()->commit();
         } catch (\Throwable $e) {

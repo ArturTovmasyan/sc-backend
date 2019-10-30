@@ -212,7 +212,28 @@ class RoleController extends BaseController
 
     /**
      * @IsGranted("ROLE_ADMIN")
-     * @Route("/email", name="api_role_sync", methods={"POST"})
+     * @Route("/duplicate", name="api_role_duplicate", methods={"POST"})
+     *
+     * @param Request $request
+     * @param RoleService $roleService
+     * @param GrantService $grantService
+     * @return Response
+     * @throws \Throwable
+     */
+    public function duplicateAction(Request $request, RoleService $roleService)
+    {
+        $roleService->duplicate([
+            'id' => $request->get('id'),
+            'name' => $request->get('name'),
+            'domain' => $request->get('domain')
+        ]);
+
+        return $this->respondSuccess(JsonResponse::HTTP_NO_CONTENT);
+    }
+
+    /**
+     * @IsGranted("ROLE_ADMIN")
+     * @Route("/email", name="api_role_email", methods={"POST"})
      *
      * @param Request $request
      * @param RoleService $roleService
