@@ -109,7 +109,9 @@ class HelpObjectController extends BaseController
                 'grants' => $request->get('grants'),
                 'grant_inherit' => $request->get('grant_inherit'),
                 'category_id' => $request->get('category_id'),
-                'file' => $request->get('file')
+                'file' => $request->get('file'),
+                'vimeo_url' => $request->get('vimeo_url'),
+                'youtube_url' => $request->get('youtube_url')
             ]
         );
 
@@ -141,7 +143,9 @@ class HelpObjectController extends BaseController
                 'grants' => $request->get('grants'),
                 'grant_inherit' => $request->get('grant_inherit'),
                 'category_id' => $request->get('category_id'),
-                'file' => $request->get('file')
+                'file' => $request->get('file'),
+                'vimeo_url' => $request->get('vimeo_url'),
+                'youtube_url' => $request->get('youtube_url')
             ]
         );
 

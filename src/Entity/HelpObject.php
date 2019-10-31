@@ -120,6 +120,28 @@ class HelpObject
     private $description;
 
     /**
+     * @var string $vimeoUrl
+     * @ORM\Column(name="vimeoUrl", type="text", nullable=true)
+     * @Groups({
+     *     "api_help_object_list",
+     *     "api_help_object_get",
+     *     "api_help_category_all"
+     * })
+     */
+    private $vimeoUrl;
+
+    /**
+     * @var string $youtubeUrl
+     * @ORM\Column(name="youtubeUrl", type="text", nullable=true)
+     * @Groups({
+     *     "api_help_object_list",
+     *     "api_help_object_get",
+     *     "api_help_category_all"
+     * })
+     */
+    private $youtubeUrl;
+
+    /**
      * @var array
      * @ORM\Column(name="grants", type="json_array", nullable=false)
      * @Groups({
@@ -294,6 +316,38 @@ class HelpObject
     public function setCategory(?HelpCategory $category): void
     {
         $this->category = $category;
+    }
+
+    /**
+     * @return string
+     */
+    public function getVimeoUrl(): ?string
+    {
+        return $this->vimeoUrl;
+    }
+
+    /**
+     * @param string $vimeoUrl
+     */
+    public function setVimeoUrl(?string $vimeoUrl): void
+    {
+        $this->vimeoUrl = $vimeoUrl;
+    }
+
+    /**
+     * @return string
+     */
+    public function getYoutubeUrl(): ?string
+    {
+        return $this->youtubeUrl;
+    }
+
+    /**
+     * @param string $youtubeUrl
+     */
+    public function setYoutubeUrl(?string $youtubeUrl): void
+    {
+        $this->youtubeUrl = $youtubeUrl;
     }
 
 }

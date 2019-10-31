@@ -80,6 +80,10 @@ class HelpObjectService extends BaseService implements IGridService
             $entity->setTitle($params['title']);
             $entity->setType($params['type']);
             $entity->setDescription($params['description']);
+
+            $entity->setVimeoUrl($params['vimeo_url']);
+            $entity->setYoutubeUrl($params['youtube_url']);
+
             $entity->setGrantInherit($params['grant_inherit']);
             if (!$entity->isGrantInherit()) {
                 $entity->setGrants($params['grants']);
@@ -140,6 +144,10 @@ class HelpObjectService extends BaseService implements IGridService
             $entity->setTitle($params['title']);
             $entity->setType($params['type']);
             $entity->setDescription($params['description']);
+
+            $entity->setVimeoUrl($params['vimeo_url']);
+            $entity->setYoutubeUrl($params['youtube_url']);
+
             $entity->setGrantInherit($params['grant_inherit']);
             if (!$entity->isGrantInherit()) {
                 $entity->setGrants($params['grants']);
