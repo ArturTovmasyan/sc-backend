@@ -270,6 +270,8 @@ class HelpCategoryService extends BaseService implements IGridService
                     'title' => $object->getTitle(),
                     'description' => $object->getDescription(),
                     'url' => (string)$request->getUri(),
+                    'vimeo_url' => $object->getVimeoUrl(),
+                    'youtube_url' => $object->getYoutubeUrl(),
                     'isLeaf' => true
                 ];
             }

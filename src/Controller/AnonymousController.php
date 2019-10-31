@@ -24,7 +24,7 @@ class AnonymousController extends BaseController
      * @return JsonResponse
      * @throws \Throwable
      */
-    public function allAction(Request $request, HelpCategoryService $helpCategoryService)
+    public function helpAction(Request $request, HelpCategoryService $helpCategoryService)
     {
         return $this->respondSuccess(
             JsonResponse::HTTP_OK,
