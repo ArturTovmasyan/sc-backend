@@ -5,6 +5,7 @@ namespace App\Service;
 use App\Entity\HelpCategory;
 use App\Entity\HelpObject;
 use App\Exception\HelpCategoryNotFoundException;
+use App\Model\HelpObjectType;
 use App\Repository\HelpCategoryRepository;
 use Doctrine\ORM\NonUniqueResultException;
 use Doctrine\ORM\QueryBuilder;
@@ -65,11 +66,11 @@ class HelpCategoryService extends BaseService implements IGridService
             $entity = new HelpCategory();
             $entity->setTitle($params['title']);
             $entity->setGrantInherit($params['grant_inherit']);
-            if(!$entity->isGrantInherit()) {
+            if (!$entity->isGrantInherit()) {
                 $entity->setGrants($params['grants']);
             }
 
-            if($params['parent_id']) {
+            if ($params['parent_id']) {
                 /** @var HelpCategoryRepository $repo */
                 $repo = $this->em->getRepository(HelpCategory::class);
                 /** @var HelpCategory $category */
@@ -118,11 +119,11 @@ class HelpCategoryService extends BaseService implements IGridService
 
             $entity->setTitle($params['title']);
             $entity->setGrantInherit($params['grant_inherit']);
-            if(!$entity->isGrantInherit()) {
+            if (!$entity->isGrantInherit()) {
                 $entity->setGrants($params['grants']);
             }
 
-            if($params['parent_id']) {
+            if ($params['parent_id']) {
                 /** @var HelpCategory $category */
                 $category = $repo->getOne($params['parent_id']);
                 if ($category === null) {
@@ -229,54 +230,61 @@ class HelpCategoryService extends BaseService implements IGridService
      * @param array $grants
      * @return array
      */
-    private function build_help_tree(array $arr, array $grants) {
+    private function build_help_tree(array $arr, array $grants)
+    {
         $help_tree = [];
 
         foreach ($arr as $category) {
-            if($category->isGrantInherit() === false && count(array_diff($category->getGrants(), $grants)) !== 0) {
-               continue;
+            if ($category->isGrantInherit() === false && count(array_diff($category->getGrants(), $grants)) !== 0) {
+                continue;
             }
 
             $help_item = [];
             $help_item['key'] = $category->getId();
             $help_item['title'] = $category->getTitle();
 
-            if($category->getChildren()->count() > 0) {
+            if ($category->getChildren()->count() > 0) {
                 $help_item['selectable'] = false;
             }
 
             $children = [];
             $children_tree = $this->build_help_tree($category->getChildren()->toArray(), $grants);
 
-            if(count($children_tree) > 0) {
+            if (count($children_tree) > 0) {
                 array_push($children, ...$children_tree);
             }
 
             /** @var HelpObject $object */
             foreach ($category->getObjects() as $object) {
-                if($object->isGrantInherit() === false && count(array_diff($object->getGrants(), $grants)) !== 0) {
+                if ($object->isGrantInherit() === false && count(array_diff($object->getGrants(), $grants)) !== 0) {
                     continue;
                 }
 
-                $cmd = $this->s3client->getCommand('GetObject', [
-                    'Bucket' => getenv('AWS_BUCKET_HELP'),
-                    'Key'    => $object->getHash(),
-                ]);
-                $request = $this->s3client->createPresignedRequest($cmd, '+20 minutes');
 
-                $children[] = [
+                $child = [
                     'key' => $object->getId(),
                     'type' => $object->getType(),
                     'title' => $object->getTitle(),
                     'description' => $object->getDescription(),
-                    'url' => (string)$request->getUri(),
+                    'url' => '',
                     'vimeo_url' => $object->getVimeoUrl(),
                     'youtube_url' => $object->getYoutubeUrl(),
                     'isLeaf' => true
                 ];
+
+                if ($object->getType() == HelpObjectType::TYPE_PDF || $object->getType() == HelpObjectType::TYPE_VIDEO) {
+                    $cmd = $this->s3client->getCommand('GetObject', [
+                        'Bucket' => getenv('AWS_BUCKET_HELP'),
+                        'Key' => $object->getHash(),
+                    ]);
+                    $request = $this->s3client->createPresignedRequest($cmd, '+20 minutes');
+                    $child['url'] = (string)$request->getUri();
+                }
+
+                $children[] = $child;
             }
 
-            if(count($children) > 0) {
+            if (count($children) > 0) {
                 $help_item['children'] = $children;
                 $help_tree[] = $help_item;
             }
