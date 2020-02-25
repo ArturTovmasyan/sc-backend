@@ -17,7 +17,7 @@ class MigrateResidentAndUserImagesToS3Command extends Command
 {
     use LockableTrait;
 
-    protected static $defaultName = 'app:customer:dashboard';
+    protected static $defaultName = 'app:migrate-images';
 
     /** @var EntityManagerInterface */
     private $em;
