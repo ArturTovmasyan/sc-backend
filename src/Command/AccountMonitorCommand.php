@@ -105,7 +105,7 @@ class AccountMonitorCommand extends Command
         if (!$this->lock()) {
             $output->writeln('The command is already running in another process.');
 
-            return 0;
+            return -1;
         }
 
         $vhosts = $this->em->getRepository(Vhost::class)->findAll();//By(['enabled' => true]);

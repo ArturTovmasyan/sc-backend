@@ -13,11 +13,11 @@ use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 use Symfony\Component\Process\Process;
 
-class MigrateResidentAndUserImagesToS3Command extends Command
+class CustomerRentIncreaseCommand extends Command
 {
     use LockableTrait;
 
-    protected static $defaultName = 'app:migrate-images';
+    protected static $defaultName = 'app:customer:rent-increase';
 
     /** @var EntityManagerInterface */
     private $em;
@@ -40,7 +40,7 @@ class MigrateResidentAndUserImagesToS3Command extends Command
     protected function configure()
     {
         $this
-            ->setHelp('Migrate photos for all customers command.');
+            ->setHelp('Resident rent increase for all customers command.');
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
@@ -76,12 +76,12 @@ class MigrateResidentAndUserImagesToS3Command extends Command
                     'var' => sprintf("%s/var", $vhost->getWwwRoot()),
                 ];
 
-                $output->writeln(sprintf("Migrate for '%s'...", $domain));
+                $output->writeln(sprintf("Resident rent increase for '%s'...", $domain));
 
                 $this->createEnv($db, $mailer, $dir_name, $domain);
-                $this->customerMigrate($dir_name['root']);
+                $this->customerRentIncrease($dir_name['root']);
 
-                $output->writeln(sprintf("Completed migrate for '%s'.", $domain));
+                $output->writeln(sprintf("Completed resident rent increase for '%s'.", $domain));
             }
         } catch (\Throwable $e) {
             dump($e->getMessage());
@@ -93,15 +93,15 @@ class MigrateResidentAndUserImagesToS3Command extends Command
         return 0;
     }
 
-    private function customerMigrate($root_dir)
+    private function customerRentIncrease($root_dir)
     {
         $path = [];
         $path['php'] = '/usr/bin/php';
         $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
 
         $process = new Process(
-            [$path['php'], $path['symfony_console'], 'app:migrate-images'],
-            null, $this->env, null, 24*3600
+            [$path['php'], $path['symfony_console'], 'app:resident-rent-increase'],
+            null, $this->env, null, 3600
         );
 
         $process->run();

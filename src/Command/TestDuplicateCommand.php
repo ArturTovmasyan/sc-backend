@@ -69,7 +69,7 @@ WHERE `%1$s`.`tbl_resident_admission`.`id_resident`=%2$s AND `%1$s`.`tbl_residen
         if (!$this->lock()) {
             $output->writeln('The command is already running in another process.');
 
-            return 0;
+            return -1;
         }
 
         try {
