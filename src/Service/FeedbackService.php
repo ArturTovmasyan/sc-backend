@@ -3,6 +3,7 @@
 namespace App\Service;
 
 use App\Entity\Feedback;
+use App\Model\FeedbackStatus;
 use App\Repository\FeedbackRepository;
 use Doctrine\ORM\QueryBuilder;
 
@@ -67,6 +68,8 @@ class FeedbackService extends BaseService implements IGridService
             $entity->setSubject($params['subject']);
             $entity->setMessage($params['message']);
             $entity->setDate(new \DateTime($params['date']));
+
+            $entity->setStatus(FeedbackStatus::NEW);
 
             $this->validate($entity, null, ['api_feedback_add']);
 
