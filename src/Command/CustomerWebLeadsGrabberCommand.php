@@ -83,7 +83,7 @@ class CustomerWebLeadsGrabberCommand extends Command
                 $output->writeln(sprintf("WebLeadsGrabber for '%s'...", $domain));
 
                 $this->createEnv($db, $mailer, $dir_name, $domain);
-                $this->customerDashboard($dir_name['root']);
+                $this->customerDashboard($dir_name['root'], $domain);
 
                 $output->writeln(sprintf("Completed WebLeadsGrabber for '%s'.", $domain));
             }
@@ -97,14 +97,14 @@ class CustomerWebLeadsGrabberCommand extends Command
         return 0;
     }
 
-    private function customerDashboard($root_dir)
+    private function customerDashboard($root_dir, $domain)
     {
         $path = [];
         $path['php'] = '/usr/bin/php';
         $path['symfony_console'] = sprintf('%s/bin/console', $root_dir);
 
         $process = new Process(
-            [$path['php'], $path['symfony_console'], 'app:webleadgrabber'],
+            [$path['php'], $path['symfony_console'], 'app:webleadgrabber', $domain],
             null, $this->env, null, 3600
         );
 
