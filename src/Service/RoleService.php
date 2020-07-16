@@ -706,7 +706,9 @@ class RoleService extends BaseService implements IGridService
             $emails = [];
 
             foreach ($users as $user) {
-                $emails[] = $user['email'];
+                if ($user['enabled']) {
+                    $emails[] = $user['email'];
+                }
             }
 
             if(!empty($cc)) {

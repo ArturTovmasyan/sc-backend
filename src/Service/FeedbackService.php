@@ -3,6 +3,7 @@
 namespace App\Service;
 
 use App\Entity\Feedback;
+use App\Exception\FeedbackNotFoundException;
 use App\Model\FeedbackStatus;
 use App\Repository\FeedbackRepository;
 use Doctrine\ORM\QueryBuilder;
