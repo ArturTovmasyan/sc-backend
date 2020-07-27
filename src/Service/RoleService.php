@@ -56,7 +56,7 @@ class RoleService extends BaseService implements IGridService
         'SELECT_ID' => "SELECT * FROM `%1\$s`.`tbl_role` WHERE `%1\$s`.`tbl_role`.`id`='%2\$d'",
         'SELECT_IDS' => "SELECT * FROM `%1\$s`.`tbl_role` WHERE `%1\$s`.`tbl_role`.`id` IN(%2\$s)",
 
-        'USER_ROLE' => "SELECT `%1\$s`.`tbl_user`.`first_name`, `%1\$s`.`tbl_user`.`last_name`, `%1\$s`.`tbl_user`.`email`, `%1$s`.`tbl_user`.`enabled` FROM `%1\$s`.`tbl_role`"
+        'USER_ROLE' => "SELECT `%1\$s`.`tbl_user`.`first_name`, `%1\$s`.`tbl_user`.`last_name`, `%1\$s`.`tbl_user`.`email`, `%1\$s`.`tbl_user`.`enabled` FROM `%1\$s`.`tbl_role`"
             ."INNER JOIN `%1\$s`.`tbl_user_role` ON `%1\$s`.`tbl_user_role`.`id_role`=`%1\$s`.`tbl_role`.`id`"
             ."INNER JOIN `%1\$s`.`tbl_user` ON `%1\$s`.`tbl_user_role`.`id_user`=`%1\$s`.`tbl_user`.`id`"
             ."WHERE `%1\$s`.`tbl_role`.`id` IN(%2\$s)"
@@ -706,7 +706,6 @@ class RoleService extends BaseService implements IGridService
             $emails = [];
 
             foreach ($users as $user) {
-
                 if ($user['enabled']) {
                     $emails[] = $user['email'];
                 }
