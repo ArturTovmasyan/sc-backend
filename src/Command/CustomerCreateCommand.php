@@ -220,20 +220,20 @@ class CustomerCreateCommand extends Command
 
         $this->createAdminUser($dir_name['root'], $customer);
 
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_allergen.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_care_level.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_csz.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_diagnosis.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_diet.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_event_definition.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_medical_history_condition.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_medication.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_medication_form_factor.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_payment_source.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_relationship.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_responsible_person_role.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_salutation.sql');
-        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_speciality.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_allergen.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_care_level.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_csz.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_diagnosis.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_diet.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_event_definition.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_medical_history_condition.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_medication.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_medication_form_factor.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_payment_source.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_relationship.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_responsible_person_role.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_salutation.sql');
+//        $this->importSQL($dir_name['root'], '/srv/_mc/backend/etc/sc_data_speciality.sql');
 
         $this->apacheReload();
 
