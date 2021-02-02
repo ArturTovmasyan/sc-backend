@@ -110,6 +110,7 @@ class CustomerController extends BaseController
                 'csz' => $request->get('csz'),
                 'email' => $request->get('email'),
                 'organization' => $request->get('organization'),
+                'enable_ledger_commands' => $request->get('enable_ledger_commands'),
             ]
         );
 
@@ -142,7 +143,8 @@ class CustomerController extends BaseController
                 'address' => $request->get('address'),
                 'csz' => $request->get('csz'),
                 'email' => $request->get('email'),
-                'organization' => $request->get('organization')
+                'organization' => $request->get('organization'),
+                'enable_ledger_commands' => $request->get('enable_ledger_commands'),
             ]
         );
 

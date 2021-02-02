@@ -56,32 +56,34 @@ class CustomerCreateLedgerCommand extends Command
         try {
             /** @var Vhost $vhost */
             foreach ($vhosts as $vhost) {
-                $domain = $vhost->getCustomer()->getDomain();
+                if ($vhost->getCustomer()->isEnableLedgerCommands()) {
+                    $domain = $vhost->getCustomer()->getDomain();
 
-                $db = [
-                    'host' => $vhost->getDbHost(),
-                    'name' => $vhost->getDbName(),
-                    'user' => $vhost->getDbUser(),
-                    'pass' => $vhost->getDbPassword(),
-                ];
-                $mailer = [
-                    'host' => $vhost->getMailerHost(),
-                    'proto' => $vhost->getMailerProto(),
-                    'user' => $vhost->getMailerUser(),
-                    'pass' => $vhost->getMailerPassword(),
-                ];
+                    $db = [
+                        'host' => $vhost->getDbHost(),
+                        'name' => $vhost->getDbName(),
+                        'user' => $vhost->getDbUser(),
+                        'pass' => $vhost->getDbPassword(),
+                    ];
+                    $mailer = [
+                        'host' => $vhost->getMailerHost(),
+                        'proto' => $vhost->getMailerProto(),
+                        'user' => $vhost->getMailerUser(),
+                        'pass' => $vhost->getMailerPassword(),
+                    ];
 
-                $dir_name = [
-                    'root' => $vhost->getWwwRoot(),
-                    'var' => sprintf("%s/var", $vhost->getWwwRoot()),
-                ];
+                    $dir_name = [
+                        'root' => $vhost->getWwwRoot(),
+                        'var' => sprintf("%s/var", $vhost->getWwwRoot()),
+                    ];
 
-                $output->writeln(sprintf("Create resident ledger for '%s'...", $domain));
+                    $output->writeln(sprintf("Create resident ledger for '%s'...", $domain));
 
-                $this->createEnv($db, $mailer, $dir_name, $domain);
-                $this->customerRentIncrease($dir_name['root']);
+                    $this->createEnv($db, $mailer, $dir_name, $domain);
+                    $this->customerRentIncrease($dir_name['root']);
 
-                $output->writeln(sprintf("Completed resident ledger creation for '%s'.", $domain));
+                    $output->writeln(sprintf("Completed resident ledger creation for '%s'.", $domain));
+                }
             }
         } catch (\Throwable $e) {
             dump($e->getMessage());

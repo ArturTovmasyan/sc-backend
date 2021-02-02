@@ -277,6 +277,16 @@ class Customer
     private $info = [];
 
     /**
+     * @var bool
+     * @ORM\Column(name="enable_ledger_commands", type="boolean")
+     * @Groups({
+     *     "api_customer_list",
+     *     "api_customer_get"
+     * })
+     */
+    private $enableLedgerCommands = true;
+
+    /**
      * @var ArrayCollection
      * @ORM\OneToMany(targetEntity="App\Entity\Job", mappedBy="customer", cascade={"remove", "persist"})
      */
@@ -451,6 +461,22 @@ class Customer
     public function setInfo($info)
     {
         $this->info = $info;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isEnableLedgerCommands(): bool
+    {
+        return $this->enableLedgerCommands;
+    }
+
+    /**
+     * @param bool $enableLedgerCommands
+     */
+    public function setEnableLedgerCommands(bool $enableLedgerCommands): void
+    {
+        $this->enableLedgerCommands = $enableLedgerCommands;
     }
 
     /**

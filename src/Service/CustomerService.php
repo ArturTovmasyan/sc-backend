@@ -69,6 +69,7 @@ class CustomerService extends BaseService implements IGridService
             $entity->setCsz($params['csz']);
             $entity->setEmail($params['email']);
             $entity->setOrganization($params['organization']);
+            $entity->setEnableLedgerCommands((bool)$params['enable_ledger_commands']);
 
             $this->validate($entity, null, ['api_customer_add']);
 
@@ -115,6 +116,7 @@ class CustomerService extends BaseService implements IGridService
             $entity->setCsz($params['csz']);
             $entity->setEmail($params['email']);
             $entity->setOrganization($params['organization']);
+            $entity->setEnableLedgerCommands((bool)$params['enable_ledger_commands']);
 
             $this->validate($entity, null, ['api_customer_edit']);
 
