@@ -129,8 +129,8 @@ class CustomerWebEmailsGrabberCommand extends Command
             'WKHTMLTOIMAGE_PATH' => '/usr/local/bin/wkhtmltoimage',
             'AWS_REGION' => 'us-west-1',
             'AWS_VERSION' => 'latest',
-            'AWS_KEY' => 'AKIA53G2U6QMX3WT52AG',
-            'AWS_SECRET' => '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',
+            'AWS_KEY' => 'ccc',
+            'AWS_SECRET' => 'zxczxczx+VMtlv+',
             'AWS_BUCKET' => $domain
         ];
     }

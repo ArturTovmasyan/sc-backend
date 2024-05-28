@@ -126,7 +126,7 @@ class CustomerDashboardCommand extends Command
             'AWS_REGION' => 'us-west-1',
             'AWS_VERSION' => 'latest',
             'AWS_KEY' => 'AKIA53G2U6QMX3WT52AG',
-            'AWS_SECRET' => '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',
+            'AWS_SECRET' => 'zxc+VMtlv+',
             'AWS_BUCKET' => $domain
         ];
     }
